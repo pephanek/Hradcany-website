@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Statistiken — Hradschin 15h</title>
+<link rel="icon" type="image/svg+xml" href="../../15h/assets/favicon.svg">
+<meta property="og:title" content="Statistiken — Hradschin 15h">
+<meta property="og:description" content="Hradschin 15h — Spezialseite: Druckplatten, Positionsgalerie, Typen, Statistiken.">
+<meta property="og:image" content="assets/og-image.jpg">
+<meta property="og:type" content="website">
+<meta name="description" content="Hradschin 15h (POFIS 7) — Spezialseite: Druckplatten, Farbtöne, Typen, Zähnungen, Statistiken.">
+<link rel="stylesheet" href="../../15h/css/style.css">
+
+<script src="../../15h/assets/js/chart.umd.min.js"></script>
+<link rel="alternate" hreflang="cs" href="../../15h/statistiky.html">
+<link rel="alternate" hreflang="en" href="../../en/15h/statistiky.html">
+<link rel="alternate" hreflang="fr" href="../../fr/15h/statistiky.html">
+<link rel="alternate" hreflang="de" href="../../de/15h/statistiky.html">
+<link rel="alternate" hreflang="es" href="../../es/15h/statistiky.html">
+<link rel="alternate" hreflang="x-default" href="../../15h/statistiky.html">
+</head>
+<body class="lang-de">
+<header class="site-header">
+  <div class="header-inner">
+    <a class="brand" href="index.html">
+      <span class="badge15">15h</span>
+      <span>
+        <span class="title">Hradschin 15h</span>
+        <span class="subtitle">ziegelrot · POFIS 7 · 1919</span>
+      </span>
+    </a>
+    <div class="lang-switch"><a href="../../15h/statistiky.html" hreflang="cs">CZ</a><a href="../../en/15h/statistiky.html" hreflang="en">EN</a><a href="../../fr/15h/statistiky.html" hreflang="fr">FR</a><span class="active">DE</span><a href="../../es/15h/statistiky.html" hreflang="es">ES</a></div>
+    <button class="nav-toggle">&#9776;</button>
+  </div>
+  <nav class="site-nav"><div class="nav-inner"><a class="nav-up" href="../index.html">&#8592; Ausgabe Hradschin</a><a href="index.html">Überblick</a><a href="knihtisk.html">Buchdruck</a><a href="zkusebni-tisky.html">Probedrucke</a><a href="barvy.html">Farben und Farbtöne</a><a href="tiskove-desky.html">Druckplatten</a><a href="galerie.html">Positionsgalerie</a><a href="komparator.html">Feldvergleich</a><a href="typy.html">Typen</a><a href="zoubkovani.html">Zähnungen</a><a href="vyrobni-vady.html">Herstellungsfehler</a><a href="statistiky.html" class="current">Statistiken</a><a href="clanky.html">Artikel</a><a href="posta.html">Postalische Verwendung</a><a href="mapa.html">Stempelkarte</a><a href="shanim.html">Gesucht</a></div></nav>
+</header>
+<main>
+
+<div class="section">
+  <h1>Statistiken zur 15h</h1>
+  <p>Die ausführliche statistische Auswertung des Wertes 15h beruht auf der eigenen Erfassung: <strong>21 328 bestimmte Marken</strong>, davon <strong>6 473 mit lesbar datiertem Stempel</strong> (Stand 25. 8. 2026). Quelle sind die Blätter „Stats 15h“ und „Usage Stats 15h“ der Erfassungsmappe.</p>
+  <div class="grid cols-4" style="margin-top:1rem">
+    <div class="card kpi"><span class="num">21&nbsp;316</span><span class="lbl">bestimmte Marken</span></div>
+    <div class="card kpi"><span class="num">6&nbsp;307</span><span class="lbl">datierte Stempel</span></div>
+    <div class="card kpi"><span class="num">20</span><span class="lbl">erfasste Gruppen</span></div>
+    <div class="card kpi"><span class="num">23</span><span class="lbl">Monate Verwendung (VI 1919 – IV 1921)</span></div>
+  </div>
+</div>
+
+<div class="section">
+  <h2>Verteilung der Zähnungen</h2>
+  <div class="chart-box small"><canvas id="cPerf"></canvas></div>
+</div>
+
+<div class="section">
+  <h2>Matrix Zähnung × Druckplatte</h2>
+  <p>Die Kombination aus Zähnung und Platte ist die Grundlage der Spezialisierung auf die 15h. Tabelle und Grafik zeigen alle 20 belegten Gruppen.</p>
+  <div class="table-wrap"><table><tr><th>Zähnungen</th><th class='num'>Platten 1–2</th><th class='num'>Platte 3</th><th class='num'>Platte 4</th><th class='num'>Platten 5–6</th><th class='num'>Platte 7</th><th class='num'>Gesamt</th><th class='num'>%</th></tr><tr><td><strong>geschnitten</strong></td><td class='num'>4&nbsp;475</td><td class='num'>–</td><td class='num'>–</td><td class='num'>14</td><td class='num'>34</td><td class='num'><strong>4&nbsp;523</strong></td><td class='num'>21,2&nbsp;%</td></tr><tr><td><strong>A — 13¾:13½ Kamm</strong></td><td class='num'>2&nbsp;178</td><td class='num'>410</td><td class='num'>322</td><td class='num'>501</td><td class='num'>17</td><td class='num'><strong>3&nbsp;428</strong></td><td class='num'>16,1&nbsp;%</td></tr><tr><td><strong>B — 11¾ Kamm</strong></td><td class='num'>141</td><td class='num'>257</td><td class='num'>478</td><td class='num'>4&nbsp;597</td><td class='num'>–</td><td class='num'><strong>5&nbsp;473</strong></td><td class='num'>25,7&nbsp;%</td></tr><tr><td><strong>C — 13¾ Linie</strong></td><td class='num'>26</td><td class='num'>–</td><td class='num'>–</td><td class='num'>4&nbsp;709</td><td class='num'>–</td><td class='num'><strong>4&nbsp;735</strong></td><td class='num'>22,2&nbsp;%</td></tr><tr><td><strong>D — 11½ Linie</strong></td><td class='num'>750</td><td class='num'>–</td><td class='num'>–</td><td class='num'>–</td><td class='num'>–</td><td class='num'><strong>750</strong></td><td class='num'>3,5&nbsp;%</td></tr><tr><td><strong>E — 11½:10¾ Linie</strong></td><td class='num'>203</td><td class='num'>–</td><td class='num'>–</td><td class='num'>–</td><td class='num'>–</td><td class='num'><strong>203</strong></td><td class='num'>1,0&nbsp;%</td></tr><tr><td><strong>F — 13¾:11½ Linie</strong></td><td class='num'>2&nbsp;201</td><td class='num'>–</td><td class='num'>–</td><td class='num'>–</td><td class='num'>–</td><td class='num'><strong>2&nbsp;201</strong></td><td class='num'>10,3&nbsp;%</td></tr><tr><td><strong>G — 11½:13¾ Linie</strong></td><td class='num'>7</td><td class='num'>–</td><td class='num'>–</td><td class='num'>–</td><td class='num'>–</td><td class='num'><strong>7</strong></td><td class='num'>0,0&nbsp;%</td></tr><tr><td><strong>H — 13¾:10¾ Linie</strong></td><td class='num'>5</td><td class='num'>–</td><td class='num'>–</td><td class='num'>–</td><td class='num'>–</td><td class='num'><strong>5</strong></td><td class='num'>0,0&nbsp;%</td></tr><tr><td><strong>Summe der Gruppen</strong></td><td class='num'><strong>9&nbsp;986</strong></td><td class='num'><strong>667</strong></td><td class='num'><strong>800</strong></td><td class='num'><strong>9&nbsp;821</strong></td><td class='num'><strong>51</strong></td><td class='num'><strong>21&nbsp;325</strong></td><td class='num'>100&nbsp;%</td></tr></table></div>
+  <p style="font-size:.85rem;color:#7a6a5d">Hinweis: Die Erfassung nennt für die Platten 1–2 insgesamt 10 941 Stück; die Differenz von ≈960 Stück gegenüber der Summe der Gruppen bilden Marken der Platten 1–2, die noch keiner Zähnungsgruppe zugeordnet sind.</p>
+  <div class="chart-box"><canvas id="cMatrix"></canvas></div>
+  <p>Aus der Matrix ist die Seltenheit der Zähnung A auf den Platten V–VI gut ersichtlich (501 Stück, also ≈5 % des Materials dieser Platten — gegenüber je ≈47 % bei B und C), ebenso die Seltenheit von C auf den Platten I–II (26 Stück) und die Ausschließlichkeit der Linienzähnungen D, E, F für die frühen Platten I–II.</p>
+</div>
+
+<div class="section">
+  <h2>Datierte Stempel im Zeitverlauf (VI 1919 – IV 1921)</h2>
+  <div class="chart-box"><canvas id="cUsage"></canvas></div>
+  <p>Der Höhepunkt der Verwendung fällt in das Frühjahr 1920 (April–Mai), als die Platten 5–6 in den Zähnungen B und C dominierten.</p>
+</div>
+
+<div class="section">
+  <h2>Entwicklung nach Gruppen</h2>
+  <p>Jede Gruppe einzeln — mit einem Klick auf einen Legendeneintrag lässt sie sich aus- oder einblenden.</p>
+  <div class="chart-box" style="max-width:1000px"><canvas id="cGroups"></canvas></div>
+  <div class="table-wrap"><table><tr><th>Gruppe (Zähnung · Platten)</th><th class='num'>Datierte Stücke</th><th>Früheste Verwendung</th><th>Höhepunkt der Verwendung</th></tr><tr><td>A 3</td><td class='num'>280</td><td>4.&nbsp;5.&nbsp;1920</td><td>APR 1921</td></tr><tr><td>A 4</td><td class='num'>190</td><td>8.&nbsp;6.&nbsp;1920</td><td>APR 1921</td></tr><tr><td>A 5–6</td><td class='num'>227</td><td>25.&nbsp;3.&nbsp;1920</td><td>MAI 1920</td></tr><tr><td>A 7</td><td class='num'>7</td><td>26.&nbsp;3.&nbsp;1920</td><td>MÄR 1920</td></tr><tr><td>B 1–2</td><td class='num'>218</td><td>30.&nbsp;12.&nbsp;1919</td><td>MÄR 1920</td></tr><tr><td>B 3</td><td class='num'>143</td><td>19.&nbsp;4.&nbsp;1920</td><td>MAI 1920</td></tr><tr><td>B 4</td><td class='num'>286</td><td>23.&nbsp;3.&nbsp;1920</td><td>MAI 1920</td></tr><tr><td>B 5–6</td><td class='num'>1079</td><td>8.&nbsp;2.&nbsp;1920</td><td>MAI 1920</td></tr><tr><td>C 1–2</td><td class='num'>16</td><td>9.&nbsp;11.&nbsp;1919</td><td>MÄR 1920</td></tr><tr><td>C 5–6</td><td class='num'>2196</td><td>22.&nbsp;2.&nbsp;1920</td><td>MAI 1920</td></tr><tr><td>D 1–2</td><td class='num'>658</td><td>30.&nbsp;6.&nbsp;1919</td><td>OKT 1919</td></tr><tr><td>E 1–2</td><td class='num'>313</td><td>8.&nbsp;8.&nbsp;1919</td><td>MÄR 1920</td></tr><tr><td>F 1–2</td><td class='num'>416</td><td>12.&nbsp;9.&nbsp;1919</td><td>APR 1920</td></tr><tr><td>G 1–2</td><td class='num'>4</td><td>18.&nbsp;2.&nbsp;1920</td><td>FEB + APR 1920</td></tr><tr><td>H 1–2</td><td class='num'>3</td><td>15.&nbsp;3.&nbsp;1920</td><td>MÄR 1920</td></tr><tr><td>geschn. 1–2</td><td class='num'>341</td><td>24.&nbsp;6.&nbsp;1919</td><td>DEZ 1919</td></tr><tr><td>geschn. 5</td><td class='num'>8</td><td>6.&nbsp;6.&nbsp;1920</td><td>JUN 1920</td></tr><tr><td>geschn. 6</td><td class='num'>9</td><td>28.&nbsp;3.&nbsp;1920</td><td>JUL 1920</td></tr><tr><td>geschn. 7</td><td class='num'>22</td><td>17.&nbsp;7.&nbsp;1919</td><td>NOV 1919</td></tr><tr><td><strong>Gesamt</strong></td><td class='num'><strong>6416</strong></td><td>24.&nbsp;6.&nbsp;1919</td><td>MAI 1920</td></tr></table></div>
+  <p>Die Abfolge der frühesten Daten belegt schön die Fertigungschronologie: geschnittene Bogen und die Linienzähnungen D → E → F auf den Platten 1–2 (Sommer–Herbst 1919), danach C und B, ab Frühjahr 1920 die Platten 3–6 und die Kammzähnung A.</p>
+</div>
+
+<div class="section">
+  <h2>Zähnung B: Anteil der Platten I und II</h2>
+  <p>Eine gesonderte Zuordnung von 413 Stücken der Zähnung B aus den Platten I–II: <strong>Platte I 105 Stück (25,4 %)</strong>, <strong>Platte II 308 Stück (74,6 %)</strong> — die Platte II überwiegt in der Zähnung B also deutlich.</p>
+  <div class="chart-box" style="max-width:420px"><canvas id="cBsplit"></canvas></div>
+</div>
+
+<div class="section">
+  <h2>Vergleich der Zähnungsanteile in Sammlungen</h2>
+  <div class="chart-box"><canvas id="cComp"></canvas></div>
+  <p>Die Abweichungen gegenüber der Monographie (z. B. bei der Zähnung B) deuten darauf hin, dass die historischen Angaben zur Seltenheit mancher Zähnungen einer Revision bedürfen.</p>
+</div>
+
+</main>
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div>© 2026 Josef Matoušek — Philatelist und Hradschin-Spezialist</div>
+    <div>Quellen: Monographie der tschechoslowakischen Briefmarken Nr. 1 · eigene Rekonstruktionen und Statistiken</div>
+  <div><a href="o-sbirce.html">Sammlung und Methode</a> · <a href="mapa-stranek.html">Sitemap</a></div>
+  </div>
+</footer>
+<script src="../../15h/js/main.js"></script>
+
+<script>
+const U={"months": ["JUN 1919", "JUL 1919", "AUG 1919", "SEP 1919", "OCT 1919", "NOV 1919", "DEC 1919", "JAN 1920", "FEB 1920", "MAR 1920", "APR 1920", "MAY 1920", "JUN 1920", "JUL 1920", "AUG 1920", "SEP 1920", "OCT 1920", "NOV 1920", "DEC 1920", "JAN 1921", "FEB 1921", "MAR 1921", "APR 1921"], "groups": {"A 1-2": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], "A 3": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 27, 41, 28, 28, 25, 14, 18, 8, 8, 28, 52], "A 4": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 25, 28, 27, 20, 15, 5, 10, 6, 4, 13, 41], "A 5-6": [0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 47, 48, 40, 33, 13, 3, 5, 3, 3, 4, 1, 1, 20], "A 7": [0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], "B 1-2": [0, 0, 0, 0, 0, 0, 2, 12, 26, 92, 56, 9, 9, 1, 6, 1, 2, 0, 0, 1, 1, 0, 0], "B 3": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 34, 17, 27, 18, 9, 2, 5, 8, 5, 3, 10, 12], "B 4": [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 35, 51, 22, 61, 14, 7, 2, 15, 26, 35, 16, 11, 21], "B 5-6": [0, 0, 0, 0, 0, 0, 0, 0, 3, 26, 213, 333, 148, 125, 36, 30, 38, 25, 12, 8, 15, 35, 32], "C 1-2": [0, 0, 1, 0, 0, 1, 3, 0, 2, 6, 0, 2, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0], "C 5-6": [0, 0, 0, 0, 0, 0, 0, 0, 9, 88, 587, 675, 304, 197, 92, 60, 32, 15, 14, 12, 17, 28, 66], "D 1-2": [1, 68, 101, 114, 115, 114, 59, 27, 16, 24, 4, 4, 2, 1, 0, 3, 3, 1, 0, 0, 1, 0, 0], "E 1-2": [0, 1, 26, 35, 21, 8, 15, 17, 44, 68, 38, 22, 4, 4, 1, 6, 1, 1, 0, 0, 0, 1, 0], "F 1-2": [0, 0, 0, 7, 17, 24, 52, 46, 53, 59, 110, 31, 8, 6, 2, 0, 0, 1, 0, 0, 0, 0, 0], "G 1-2": [0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], "H 1-2": [0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1], "IMPERF 1-2": [2, 25, 27, 27, 36, 31, 42, 14, 24, 31, 26, 31, 7, 1, 1, 4, 9, 2, 0, 0, 0, 0, 1], "IMPERF 5": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 5, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], "IMPERF 6": [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 4, 0, 0, 1, 0, 1, 0, 0, 0, 0], "IMPERF 7": [0, 3, 4, 3, 2, 7, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}, "total_series": [3, 97, 159, 186, 191, 185, 174, 116, 180, 410, 1123, 1257, 620, 529, 239, 172, 135, 87, 92, 79, 66, 127, 246]};
+const MATRIX={"IMPERF": [4475, 0, 0, 14, 34], "A": [2178, 410, 322, 501, 17], "B": [141, 257, 478, 4597, 0], "C": [26, 0, 0, 4709, 0], "D": [750, 0, 0, 0, 0], "E": [203, 0, 0, 0, 0], "F": [2201, 0, 0, 0, 0], "G": [7, 0, 0, 0, 0], "H": [5, 0, 0, 0, 0]};
+const PAL=["#a63a24", "#c65a42", "#7e2b1a", "#e0906f", "#8a3a5a", "#2471a3", "#5499c7", "#1a5276", "#85c1e9", "#1e8449", "#52be80", "#8a6d1a", "#d4ac0d", "#6c3483", "#d63384", "#8d6e63", "#a569bd", "#616a6b", "#2e4053", "#b03a2e"];
+const GN=["A 1-2", "A 3", "A 4", "A 5-6", "A 7", "B 1-2", "B 3", "B 4", "B 5-6", "C 1-2", "C 5-6", "D 1-2", "E 1-2", "F 1-2", "G 1-2", "H 1-2", "IMPERF 1-2", "IMPERF 5", "IMPERF 6", "IMPERF 7"];
+let _charts=[];
+function renderCharts(){
+  // Popisky grafu ve vsech peti jazycich; jazyk urcuje <html lang>.
+  const lang=(document.documentElement.lang||'cs').slice(0,2);
+  const TT={
+    cs:{imperf:'Nezoubkovaná',pcs:'ks',total:'Celkem',plates:['TD 1–2','TD 3','TD 4','TD 5–6','TD 7'],
+      mon:{JAN:'LED',FEB:'ÚNO',MAR:'BŘE',APR:'DUB',MAY:'KVĚ',JUN:'ČVN',JUL:'ČVC',AUG:'SRP',SEP:'ZÁŘ',OCT:'ŘÍJ',NOV:'LIS',DEC:'PRO'},
+      perfs:['Nezoubk.','A 13¾:13½','B 11¾','C 13¾','D 11½','E 11½:10¾','F 13¾:11½','G 11½:13¾','H 13¾:10¾'],
+      bsplit:['TD I — 105 (25,4 %)','TD II — 308 (74,6 %)'],
+      comp:{a:'Průměr',j:'Josef (21 328 ks)',h:'Johan',m:'Monografie'},
+      gl:function(g){return g.replace('IMPERF','nezoubk.');}},
+    en:{imperf:'Imperforate',pcs:'pcs',total:'Total',plates:['Plates 1–2','Plate 3','Plate 4','Plates 5–6','Plate 7'],
+      mon:{JAN:'JAN',FEB:'FEB',MAR:'MAR',APR:'APR',MAY:'MAY',JUN:'JUN',JUL:'JUL',AUG:'AUG',SEP:'SEP',OCT:'OCT',NOV:'NOV',DEC:'DEC'},
+      perfs:['Imperf','A 13¾:13½','B 11¾','C 13¾','D 11½','E 11½:10¾','F 13¾:11½','G 11½:13¾','H 13¾:10¾'],
+      bsplit:['Plate I — 105 (25.4 %)','Plate II — 308 (74.6 %)'],
+      comp:{a:'Average',j:'Josef (21,328 pcs)',h:'Johan',m:'Monograph'},
+      gl:function(g){return g.replace('IMPERF','imperf').replace('1-2','pl. 1–2').replace('5-6','pl. 5–6')
+        .replace(/^([A-F]) (\d)$/,'$1 pl. $2').replace(/^imperf (\d)$/,'imperf pl. $1');}},
+    fr:{imperf:'Non dentelés',pcs:'ex.',total:'Total',plates:['Planches 1–2','Planche 3','Planche 4','Planches 5–6','Planche 7'],
+      mon:{JAN:'JANV',FEB:'FÉVR',MAR:'MARS',APR:'AVR',MAY:'MAI',JUN:'JUIN',JUL:'JUIL',AUG:'AOÛT',SEP:'SEPT',OCT:'OCT',NOV:'NOV',DEC:'DÉC'},
+      perfs:['Non dent.','A 13¾:13½','B 11¾','C 13¾','D 11½','E 11½:10¾','F 13¾:11½','G 11½:13¾','H 13¾:10¾'],
+      bsplit:['Planche I — 105 (25,4 %)','Planche II — 308 (74,6 %)'],
+      comp:{a:'Moyenne',j:'Josef (21 328 ex.)',h:'Johan',m:'Monographie'},
+      gl:function(g){return g.replace('IMPERF','non dent.').replace('1-2','pl. 1–2').replace('5-6','pl. 5–6')
+        .replace(/^([A-F]) (\d)$/,'$1 pl. $2').replace(/^non dent\. (\d)$/,'non dent. pl. $1');}},
+    de:{imperf:'Geschnitten',pcs:'St.',total:'Gesamt',plates:['Platten 1–2','Platte 3','Platte 4','Platten 5–6','Platte 7'],
+      mon:{JAN:'JAN',FEB:'FEB',MAR:'MÄR',APR:'APR',MAY:'MAI',JUN:'JUN',JUL:'JUL',AUG:'AUG',SEP:'SEP',OCT:'OKT',NOV:'NOV',DEC:'DEZ'},
+      perfs:['Geschnitten','A 13¾:13½','B 11¾','C 13¾','D 11½','E 11½:10¾','F 13¾:11½','G 11½:13¾','H 13¾:10¾'],
+      bsplit:['Platte I — 105 (25,4 %)','Platte II — 308 (74,6 %)'],
+      comp:{a:'Durchschnitt',j:'Josef (21 328 St.)',h:'Johan',m:'Monographie'},
+      gl:function(g){return g.replace('IMPERF','geschn.');}},
+    es:{imperf:'Sin dentar',pcs:'ej.',total:'Total',plates:['Planchas 1–2','Plancha 3','Plancha 4','Planchas 5–6','Plancha 7'],
+      mon:{JAN:'ENE',FEB:'FEB',MAR:'MAR',APR:'ABR',MAY:'MAY',JUN:'JUN',JUL:'JUL',AUG:'AGO',SEP:'SEP',OCT:'OCT',NOV:'NOV',DEC:'DIC'},
+      perfs:['Sin dentar','A 13¾:13½','B 11¾','C 13¾','D 11½','E 11½:10¾','F 13¾:11½','G 11½:13¾','H 13¾:10¾'],
+      bsplit:['Plancha I — 105 (25,4 %)','Plancha II — 308 (74,6 %)'],
+      comp:{a:'Media',j:'Josef (21 328 ej.)',h:'Johan',m:'Monografía'},
+      gl:function(g){return g.replace('IMPERF','sin dentar').replace('1-2','pl. 1–2').replace('5-6','pl. 5–6')
+        .replace(/^([A-F]) (\d)$/,'$1 pl. $2').replace(/^sin dentar (\d)$/,'sin dentar pl. $1');}}
+  };
+  const T=TT[lang]||TT.cs;
+  // cisla na osach v mistnim formatu
+  try{Chart.defaults.locale=lang;}catch(e){}
+  // popisky mesicu podle jazyka (zdrojova data jsou anglicky)
+  const ML=function(x){return x.replace(/^[A-Z]{3}/,function(a){return T.mon[a]||a;});};
+  _charts.forEach(c=>c.destroy()); _charts=[];
+  const mk=(id,cfg)=>{const el=document.getElementById(id); if(el)_charts.push(new Chart(el,cfg));};
+
+  mk('cPerf',{type:'doughnut',data:{labels:T.perfs,
+    datasets:[{data:[4523,3407,5430,4735,750,203,2201],
+    backgroundColor:["#d9c6b8","#a63a24","#c65a42","#7e2b1a","#3d6b53","#8a6d1a","#4a6fa5"]}]},
+    options:{plugins:{legend:{position:'right'}}}});
+
+  const perfKeys=Object.keys(MATRIX);
+  mk('cMatrix',{type:'bar',data:{labels:T.perfs,
+    datasets:T.plates.map(function(p,i){return {label:p,
+      data:perfKeys.map(k=>MATRIX[k][i]),
+      backgroundColor:["#a63a24","#c65a42","#e0906f","#7e2b1a","#8a6d1a"][i]};})},
+    options:{scales:{x:{stacked:true},y:{stacked:true}}}});
+
+  mk('cUsage',{type:'line',data:{labels:U.months.map(ML),
+    datasets:[{label:T.total,data:U.total_series,borderColor:'#a63a24',
+      backgroundColor:'rgba(166,58,36,.15)',fill:true,tension:.25,pointRadius:2}]},
+    options:{plugins:{legend:{display:false}},scales:{y:{beginAtZero:true}}}});
+
+  mk('cGroups',{type:'line',data:{labels:U.months.map(ML),
+    datasets:GN.map(function(g,i){return {label:T.gl(g),data:U.groups[g],
+      borderColor:PAL[i%PAL.length],backgroundColor:PAL[i%PAL.length],tension:.25,pointRadius:1.5,borderWidth:1.6};})},
+    options:{plugins:{legend:{position:'bottom',labels:{boxWidth:14,font:{size:10}}}},
+      scales:{y:{beginAtZero:true}}}});
+
+  mk('cBsplit',{type:'doughnut',data:{labels:T.bsplit,
+    datasets:[{data:[105,308],backgroundColor:['#c65a42','#7e2b1a']}]},
+    options:{plugins:{legend:{position:'bottom'}}}});
+
+  mk('cComp',{type:'bar',data:{labels:["Imperf", "A", "B", "C", "D", "E", "F"],
+    datasets:[
+      {label:T.comp.a,data:[32.8, 20.0, 13.9, 24.4, 2.2, 0.3, 6.5],backgroundColor:'#8a6d1a'},
+      {label:T.comp.j,data:[21.3, 16.0, 25.6, 22.3, 3.5, 0.9, 10.4],backgroundColor:'#a63a24'},
+      {label:T.comp.h,data:[31, 19, 15, 26, 2, 0, 7],backgroundColor:'#c65a42'},
+      {label:T.comp.m,data:[46, 25, 1, 25, 1, 0, 2],backgroundColor:'#d9c6b8'}]},
+    options:{scales:{y:{title:{display:true,text:'%'}}}}});
+}
+document.addEventListener('DOMContentLoaded',function(){
+  renderCharts();
+  document.querySelectorAll('.lang-switch button').forEach(function(b){
+    b.addEventListener('click',function(){ setTimeout(renderCharts,0); });
+  });
+});
+</script>
+
+</body>
+</html>

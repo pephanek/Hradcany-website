@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Feldvergleich — Hradschin 15h</title>
+<link rel="icon" type="image/svg+xml" href="../../15h/assets/favicon.svg">
+<meta property="og:title" content="Feldvergleich — Hradschin 15h">
+<meta property="og:description" content="Hradschin 15h — Spezialseite: Druckplatten, Positionsgalerie, Typen, Statistiken.">
+<meta property="og:image" content="assets/og-image.jpg">
+<meta property="og:type" content="website">
+<meta name="description" content="Hradschin 15h (POFIS 7) — Spezialseite: Druckplatten, Farbtöne, Typen, Zähnungen, Statistiken.">
+<link rel="stylesheet" href="../../15h/css/style.css">
+
+<link rel="alternate" hreflang="cs" href="../../15h/komparator.html">
+<link rel="alternate" hreflang="en" href="../../en/15h/komparator.html">
+<link rel="alternate" hreflang="fr" href="../../fr/15h/komparator.html">
+<link rel="alternate" hreflang="de" href="../../de/15h/komparator.html">
+<link rel="alternate" hreflang="es" href="../../es/15h/komparator.html">
+<link rel="alternate" hreflang="x-default" href="../../15h/komparator.html">
+</head>
+<body class="lang-de">
+<header class="site-header">
+  <div class="header-inner">
+    <a class="brand" href="index.html">
+      <span class="badge15">15h</span>
+      <span>
+        <span class="title">Hradschin 15h</span>
+        <span class="subtitle">ziegelrot · POFIS 7 · 1919</span>
+      </span>
+    </a>
+    <div class="lang-switch"><a href="../../15h/komparator.html" hreflang="cs">CZ</a><a href="../../en/15h/komparator.html" hreflang="en">EN</a><a href="../../fr/15h/komparator.html" hreflang="fr">FR</a><span class="active">DE</span><a href="../../es/15h/komparator.html" hreflang="es">ES</a></div>
+    <button class="nav-toggle">&#9776;</button>
+  </div>
+  <nav class="site-nav"><div class="nav-inner"><a class="nav-up" href="../index.html">&#8592; Ausgabe Hradschin</a><a href="index.html">Überblick</a><a href="knihtisk.html">Buchdruck</a><a href="zkusebni-tisky.html">Probedrucke</a><a href="barvy.html">Farben und Farbtöne</a><a href="tiskove-desky.html">Druckplatten</a><a href="galerie.html">Positionsgalerie</a><a href="komparator.html" class="current">Feldvergleich</a><a href="typy.html">Typen</a><a href="zoubkovani.html">Zähnungen</a><a href="vyrobni-vady.html">Herstellungsfehler</a><a href="statistiky.html">Statistiken</a><a href="clanky.html">Artikel</a><a href="posta.html">Postalische Verwendung</a><a href="mapa.html">Stempelkarte</a><a href="shanim.html">Gesucht</a></div></nav>
+</header>
+<main>
+
+<div class="section">
+  <h1>Vergleich der Markenfelder</h1>
+  <p>Wählen Sie ein Markenfeld (1–100) und vergleichen Sie seine Gestalt auf allen sieben Druckplatten nebeneinander — genau so, wie die Platte bei einer konkreten Marke bestimmt wird. Die Abbildungen sind auf den roten Rahmen der Zeichnung registriert, sodass die Details bei allen Platten an derselben Stelle liegen. Beim Überfahren mit der Maus wird die Zeichnung vergrößert (2,6×) und die Lupe folgt dem Cursor; der Schalter „XL-Vorschauen“ vergrößert das ganze Raster, und mit einem Klick öffnen Sie die volle Auflösung.</p>
+  <div class="plate-toolbar">
+    <button class="cmp-btn" id="cmpPrev">&larr;</button>
+    <label for="cmpPos" style="font-weight:600">Markenfeld:</label>
+    <input id="cmpPos" type="number" min="1" max="100" value="1" style="width:5.5rem">
+    <button class="cmp-btn" id="cmpNext">&rarr;</button>
+    <label style="margin-left:.8rem;font-weight:600;cursor:pointer"><input type="checkbox" id="cmpXL" style="vertical-align:-2px"> XL-Vorschauen</label>
+    <span id="cmpBadges" style="margin-left:.5rem"></span>
+  </div>
+  <div class="cmp-grid" id="cmpGrid"></div>
+</div>
+<script>
+var ROM={1:'I',2:'II',3:'III',4:'IV',5:'V',6:'VI',7:'VII'};
+var NOTE={"1": {"Is": [2, 21, 22, 23, 49, 83, 91, 92, 94], "IIp": [2, 4, 5, 15, 17, 91], "IIap": [1, 12, 16, 23]}, "2": {"Is": [15], "IIp": [75, 78], "IIap": [8], "crack": [11], "spot": [5, 13, 16, 19, 50, 55, 61, 82, 88, 95]}, "6": {"frame": [60]}, "7": {"Is": [49, 96], "IIp": [13], "IIap": [93]}};
+var LBL={Is:"Is — offene Spirale",IIp:"IIp — langer Quersteg",IIap:"IIap — Untertyp des Querstegs",crack:"Plattensprung",spot:"Fleck / Schleier",frame:"beschädigter Rahmen"};
+var CLS={Is:'type',IIp:'type',IIap:'type',crack:'rare',spot:'flaw',frame:'rare'};
+function pad(n){return ('00'+n).slice(-3);}
+function render(pos){
+  pos=Math.max(1,Math.min(100,pos|0));
+  document.getElementById('cmpPos').value=pos;
+  try{location.hash='zp'+pos;}catch(e){}
+  var g=document.getElementById('cmpGrid');g.innerHTML='';
+  for(var td=1;td<=7;td++){
+    var tags=[];
+    var nt=NOTE[td]||{};
+    for(var k in nt){ if(nt[k].indexOf(pos)>=0) tags.push(k); }
+    var bad=tags.map(function(k){return '<span class="badge '+CLS[k]+'">'+LBL[k]+'</span>';}).join('');
+    var card=document.createElement('div');card.className='cmp-card';
+    card.innerHTML='<a class="zoomwrap" href="../../15h/assets/library/TD'+td+'/full/pos'+pad(pos)+'.jpg" target="_blank" rel="noopener">'+
+      '<img src="../../15h/assets/library/TD'+td+'/full/pos'+pad(pos)+'.jpg" alt="'+pos+'/'+ROM[td]+'" loading="lazy"></a>'+
+      '<div class="cmp-cap"><a href="galerie-td'+td+'.html"><strong>Platte '+ROM[td]+'</strong></a> — Markenfeld '+pos+'<div>'+bad+'</div></div>';
+    g.appendChild(card);
+  }
+}
+document.addEventListener('DOMContentLoaded',function(){
+  var g0=document.getElementById('cmpGrid');
+  g0.addEventListener('mousemove',function(e){
+    if(e.target.tagName!=='IMG') return;
+    var r=e.target.getBoundingClientRect();
+    var x=Math.max(0,Math.min(100,(e.clientX-r.left)/r.width*100));
+    var y=Math.max(0,Math.min(100,(e.clientY-r.top)/r.height*100));
+    e.target.style.transformOrigin=x+'% '+y+'%';
+  });
+  var xl=document.getElementById('cmpXL'), grid=document.getElementById('cmpGrid');
+  try{ if(localStorage.getItem('cmpXL')==='1'){ xl.checked=true; grid.classList.add('xl'); } }catch(e){}
+  xl.addEventListener('change',function(){
+    grid.classList.toggle('xl', xl.checked);
+    try{ localStorage.setItem('cmpXL', xl.checked?'1':'0'); }catch(e){}
+  });
+  var inp=document.getElementById('cmpPos');
+  var m=(location.hash||'').match(/zp(\d+)/);
+  var start=m?parseInt(m[1],10):1;
+  inp.addEventListener('input',function(){ if(inp.value) render(parseInt(inp.value,10)); });
+  document.getElementById('cmpPrev').addEventListener('click',function(){ render(parseInt(inp.value,10)-1<1?100:parseInt(inp.value,10)-1); });
+  document.getElementById('cmpNext').addEventListener('click',function(){ render(parseInt(inp.value,10)+1>100?1:parseInt(inp.value,10)+1); });
+  document.addEventListener('keydown',function(e){
+    if(document.activeElement===inp) return;
+    if(e.key==='ArrowLeft') document.getElementById('cmpPrev').click();
+    if(e.key==='ArrowRight') document.getElementById('cmpNext').click();
+  });
+  render(start);
+});
+</script>
+
+</main>
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div>© 2026 Josef Matoušek — Philatelist und Hradschin-Spezialist</div>
+    <div>Quellen: Monographie der tschechoslowakischen Briefmarken Nr. 1 · eigene Rekonstruktionen und Statistiken</div>
+  <div><a href="o-sbirce.html">Sammlung und Methode</a> · <a href="mapa-stranek.html">Sitemap</a></div>
+  </div>
+</footer>
+<script src="../../15h/js/main.js"></script>
+</body>
+</html>

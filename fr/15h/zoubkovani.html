@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dentelures — Hradčany 15h</title>
+<link rel="icon" type="image/svg+xml" href="../../15h/assets/favicon.svg">
+<meta property="og:title" content="Dentelures — Hradčany 15h">
+<meta property="og:description" content="Hradčany 15h — site spécialisé : planches d’impression, galerie des positions, types, statistiques.">
+<meta property="og:image" content="assets/og-image.jpg">
+<meta property="og:type" content="website">
+<meta name="description" content="Hradčany 15h (POFIS 7) — site spécialisé : planches d’impression, nuances, types, dentelures, statistiques.">
+<link rel="stylesheet" href="../../15h/css/style.css">
+<style>
+.perf-two{display:grid;gap:1.2rem;grid-template-columns:repeat(auto-fit,minmax(320px,1fr))}
+.perf-card{border:1px solid var(--line);border-radius:var(--radius);padding:1rem;background:#fffdfb}
+.perf-card h3{margin:0 0 .6rem}
+.perf-card ul{margin:.6rem 0 .6rem 1.1rem;font-size:.94rem}
+.perf-card li{margin-bottom:.35rem}
+.perf-tag{margin:.6rem 0 0;padding-top:.5rem;border-top:1px dashed var(--line);font-size:.88rem;color:var(--muted)}
+.perf-fig{background:var(--cream);border:1px solid var(--line);border-radius:8px;padding:.4rem}
+.perf-fig.wide{max-width:760px;margin:0 auto 1rem}
+.perf-svg{width:100%;height:auto;display:block}
+.perf-svg .sheet{fill:#fffaf6;stroke:var(--line);stroke-width:1}
+.perf-svg .panel{fill:#fffaf6;stroke:var(--line);stroke-width:1}
+.perf-svg .stamp{fill:#f4e3dc;stroke:#e3c9bf;stroke-width:1}
+.perf-svg .hole{fill:var(--cream);stroke:var(--brick);stroke-width:1.6}
+.perf-svg .hole.v{stroke:var(--accent)}
+.perf-svg .hole.next{stroke:var(--brick-light);stroke-dasharray:2.5 2.5;opacity:.85}
+.perf-svg .ok-hole{fill:var(--accent);stroke:var(--accent)}
+.perf-svg .tool{fill:var(--brick-dark)}
+.perf-svg .flag{fill:none;stroke:var(--brick);stroke-width:2;stroke-dasharray:5 4}
+.perf-svg .ok{fill:none;stroke:var(--accent);stroke-width:2}
+.perf-svg .lead{fill:none;stroke:var(--muted);stroke-width:1.2}
+.perf-svg .arrow{fill:none;stroke:var(--muted);stroke-width:1.6;marker-end:url(#perfArrow)}
+.perf-svg .cap{font-family:"Segoe UI",system-ui,sans-serif;font-size:11.5px;fill:var(--muted)}
+.perf-svg .cap.head{font-size:13px;fill:var(--brick-dark);font-weight:600}
+.perf-svg .cap.mid{text-anchor:middle}
+.perf-svg .flag-cap{fill:var(--brick)}
+.perf-svg .ok-cap{fill:var(--accent)}
+.perf-svg .mark circle{fill:var(--brick);stroke:none}
+.perf-svg .mark.v circle{fill:var(--accent)}
+.perf-svg .mark.next circle{fill:var(--brick-light)}
+.perf-svg .mark text{font-family:"Segoe UI",system-ui,sans-serif;font-size:11px;fill:#fff;text-anchor:middle;font-weight:600}
+.perf-abbr{margin:.4rem 0 1rem 1.2rem;font-size:.94rem}
+.perf-abbr li{margin-bottom:.3rem}
+.perf-svg .stamp.big{fill:#f6e7e0;stroke:#e0c3b8}
+.perf-svg .cap.end{text-anchor:end}
+.perf-svg .cap.diff{fill:var(--brick);font-weight:700}
+.perf-svg .cap.val{fill:var(--brick-dark);font-family:Georgia,serif;font-size:15px}
+.perf-note{background:#fdf4ef;border-left:3px solid var(--brick-light);padding:.6rem .8rem;border-radius:0 8px 8px 0;font-size:.92rem}
+.posun-gal{gap:16px}
+.posun-gal .tg-card{width:172px}
+.posun-gal .tg-card.wide{width:360px}
+.posun-gal .tg-card .cell{background:#2c2a28}
+.posun-gal .tg-card .cell img{aspect-ratio:1;object-fit:contain;background:#2c2a28}
+.posun-gal .tg-card.wide .cell img{aspect-ratio:2/1}
+.posun-gal .tg-card .cell .pos{position:absolute;left:4px;top:4px;background:rgba(0,0,0,.55);color:#fff;font-size:.72rem;line-height:1;padding:3px 5px;border-radius:4px}
+.posun-gal .tg-card .cell{position:relative}
+.posun-gal .tg-cap{font-size:.8rem;text-align:left;color:#5d5049}
+.perf-svg .sheet{fill:#fffaf6;stroke:none}
+.perf-svg .stamp{fill:#f2ddd5;stroke:none}
+.perf-svg .stamp.big{fill:#e9cdc3;stroke:none}
+.perf-svg .dframe{fill:none;stroke:var(--brick-light);stroke-width:1.3}
+.perf-svg .perfbox{fill:none;stroke:var(--line);stroke-width:1}
+@media(max-width:640px){.posun-gal .tg-card{width:46%%}.posun-gal .tg-card.wide{width:96%%}}
+@media(max-width:640px){.perf-card{padding:.7rem}
+.perf-svg .cap{font-size:13px}.perf-svg .cap.head{font-size:15px}.perf-svg .mark text{font-size:12.5px}}
+</style>
+
+<link rel="alternate" hreflang="cs" href="../../15h/zoubkovani.html">
+<link rel="alternate" hreflang="en" href="../../en/15h/zoubkovani.html">
+<link rel="alternate" hreflang="fr" href="../../fr/15h/zoubkovani.html">
+<link rel="alternate" hreflang="de" href="../../de/15h/zoubkovani.html">
+<link rel="alternate" hreflang="es" href="../../es/15h/zoubkovani.html">
+<link rel="alternate" hreflang="x-default" href="../../15h/zoubkovani.html">
+</head>
+<body class="lang-fr">
+<header class="site-header">
+  <div class="header-inner">
+    <a class="brand" href="index.html">
+      <span class="badge15">15h</span>
+      <span>
+        <span class="title">Hradčany 15h</span>
+        <span class="subtitle">rouge brique · POFIS 7 · 1919</span>
+      </span>
+    </a>
+    <div class="lang-switch"><a href="../../15h/zoubkovani.html" hreflang="cs">CZ</a><a href="../../en/15h/zoubkovani.html" hreflang="en">EN</a><span class="active">FR</span><a href="../../de/15h/zoubkovani.html" hreflang="de">DE</a><a href="../../es/15h/zoubkovani.html" hreflang="es">ES</a></div>
+    <button class="nav-toggle">&#9776;</button>
+  </div>
+  <nav class="site-nav"><div class="nav-inner"><a class="nav-up" href="../index.html">&#8592; Émission Hradčany</a><a href="index.html">Aperçu</a><a href="knihtisk.html">Typographie</a><a href="zkusebni-tisky.html">Épreuves</a><a href="barvy.html">Couleurs et nuances</a><a href="tiskove-desky.html">Planches d’impression</a><a href="galerie.html">Galerie des positions</a><a href="komparator.html">Comparateur de positions</a><a href="typy.html">Types</a><a href="zoubkovani.html" class="current">Dentelures</a><a href="vyrobni-vady.html">Défauts de fabrication</a><a href="statistiky.html">Statistiques</a><a href="clanky.html">Articles</a><a href="posta.html">Usage postal</a><a href="mapa.html">Carte des oblitérations</a><a href="shanim.html">Recherche</a></div></nav>
+</header>
+<main>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true"><defs><marker id="perfArrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#7a6a5d"/></marker></defs></svg>
+
+<div class="section">
+  <h1>Dentelures</h1>
+  <p>La valeur 15h possède la gamme de dentelures officielles la plus riche de toute l’émission — huit variantes en plus de la forme non dentelée. L’explication des deux modes de perforation se trouve <a href="#jak-vznika">ci-dessous</a>. Les parts reposent sur l’analyse de 21 239 timbres (collection J. Matoušek).</p>
+  <div class="table-wrap"><table>
+    <tr><th>Code</th><th>Dimension et type</th><th>Attestée sur les planches</th><th class="num">Part dans la statistique</th></tr>
+    <tr><td><strong>—</strong></td><td>non dentelé</td><td>Planches I, II, V, VI, VII</td><td class='num'>21,2 %</td></tr><tr><td><strong>A</strong></td><td>13&frac34; : 13&frac12; en peigne</td><td>Planches I–VII</td><td class='num'>16,1 %</td></tr><tr><td><strong>B</strong></td><td>11&frac34; en peigne</td><td>Planches I–VI</td><td class='num'>25,7 %</td></tr><tr><td><strong>C</strong></td><td>13&frac34; en ligne</td><td>Planches I, II, V, VI</td><td class='num'>22,2 %</td></tr><tr><td><strong>D</strong></td><td>11&frac12; en ligne</td><td>Planches I, II</td><td class='num'>3,5 %</td></tr><tr><td><strong>E</strong></td><td>11&frac12; : 10&frac34; en ligne</td><td>Planches I, II</td><td class='num'>1,0 %</td></tr><tr><td><strong>F</strong></td><td>13&frac34; : 11&frac12; en ligne</td><td>Planches I, II</td><td class='num'>10,3 %</td></tr><tr><td><strong>G</strong></td><td>11&frac12; : 13&frac34; en ligne</td><td>Planches I, II</td><td class='num'>—</td></tr><tr><td><strong>H</strong></td><td>13&frac34; : 10&frac34; en ligne</td><td>Planches I, II</td><td class='num'>—</td></tr>
+  </table></div>
+  <p style="font-size:.85rem;color:#7a6a5d">Les dentelures rares G (11½:13¾) et H (13¾:10¾) ne se rencontrent que sur les planches I et II ; le relevé compte à ce jour 7 exemplaires de G (dont les positions 55, 53, 34, 17, 92/I et 42, 75/II) et 5 exemplaires de H (paire 97+98/I, paire nouvellement trouvée avec oblitération Turnov, et 84/I).</p>
+  <p style="font-size:.85rem;color:#7a6a5d">Les irrégularités de position de la perforation par rapport au dessin — y compris les pièces où la dentelure traverse le dessin — sont décrites dans la section <a href="vyrobni-vady.html#posun">Décalage de dentelure</a> de la page Défauts de fabrication.</p>
+</div>
+
+
+<div class="section" id="jak-vznika">
+  <h2>Comment la dentelure est faite — en ligne et en peigne</h2>
+  <p>La dentelure est une rangée de trous percés dans la feuille là où les timbres doivent être séparés. Deux modes de perforation différents ont été employés pour l’émission Hradčany, et la différence entre eux se voit avant tout aux angles du timbre.</p>
+  <div class="perf-two">
+    <div class="perf-card">
+      <h3>Dentelure en ligne</h3>
+      <div class="perf-fig"><svg class="perf-svg" viewBox="0 0 470 285" role="img" aria-labelledby="lineTitle"><title id="lineTitle">Schéma de la dentelure en ligne</title><rect class="sheet" x="50" y="110" width="270" height="140" rx="3"/><rect class="stamp" x="58" y="118" width="74" height="54" rx="2"/><rect class="stamp" x="58" y="188" width="74" height="54" rx="2"/><rect class="stamp" x="148" y="118" width="74" height="54" rx="2"/><rect class="stamp" x="148" y="188" width="74" height="54" rx="2"/><rect class="stamp" x="238" y="118" width="74" height="54" rx="2"/><rect class="stamp" x="238" y="188" width="74" height="54" rx="2"/><circle class="hole h" cx="50" cy="110" r="4"/><circle class="hole h" cx="65" cy="110" r="4"/><circle class="hole h" cx="80" cy="110" r="4"/><circle class="hole h" cx="95" cy="110" r="4"/><circle class="hole h" cx="110" cy="110" r="4"/><circle class="hole h" cx="125" cy="110" r="4"/><circle class="hole h" cx="140" cy="110" r="4"/><circle class="hole h" cx="155" cy="110" r="4"/><circle class="hole h" cx="170" cy="110" r="4"/><circle class="hole h" cx="185" cy="110" r="4"/><circle class="hole h" cx="200" cy="110" r="4"/><circle class="hole h" cx="215" cy="110" r="4"/><circle class="hole h" cx="230" cy="110" r="4"/><circle class="hole h" cx="245" cy="110" r="4"/><circle class="hole h" cx="260" cy="110" r="4"/><circle class="hole h" cx="275" cy="110" r="4"/><circle class="hole h" cx="290" cy="110" r="4"/><circle class="hole h" cx="305" cy="110" r="4"/><circle class="hole h" cx="320" cy="110" r="4"/><g class="mark h"><circle cx="30" cy="110" r="9"/><text x="30" y="114">1</text></g><circle class="hole h" cx="50" cy="180" r="4"/><circle class="hole h" cx="65" cy="180" r="4"/><circle class="hole h" cx="80" cy="180" r="4"/><circle class="hole h" cx="95" cy="180" r="4"/><circle class="hole h" cx="110" cy="180" r="4"/><circle class="hole h" cx="125" cy="180" r="4"/><circle class="hole h" cx="140" cy="180" r="4"/><circle class="hole h" cx="155" cy="180" r="4"/><circle class="hole h" cx="170" cy="180" r="4"/><circle class="hole h" cx="185" cy="180" r="4"/><circle class="hole h" cx="200" cy="180" r="4"/><circle class="hole h" cx="215" cy="180" r="4"/><circle class="hole h" cx="230" cy="180" r="4"/><circle class="hole h" cx="245" cy="180" r="4"/><circle class="hole h" cx="260" cy="180" r="4"/><circle class="hole h" cx="275" cy="180" r="4"/><circle class="hole h" cx="290" cy="180" r="4"/><circle class="hole h" cx="305" cy="180" r="4"/><circle class="hole h" cx="320" cy="180" r="4"/><g class="mark h"><circle cx="30" cy="180" r="9"/><text x="30" y="184">2</text></g><circle class="hole h" cx="50" cy="250" r="4"/><circle class="hole h" cx="65" cy="250" r="4"/><circle class="hole h" cx="80" cy="250" r="4"/><circle class="hole h" cx="95" cy="250" r="4"/><circle class="hole h" cx="110" cy="250" r="4"/><circle class="hole h" cx="125" cy="250" r="4"/><circle class="hole h" cx="140" cy="250" r="4"/><circle class="hole h" cx="155" cy="250" r="4"/><circle class="hole h" cx="170" cy="250" r="4"/><circle class="hole h" cx="185" cy="250" r="4"/><circle class="hole h" cx="200" cy="250" r="4"/><circle class="hole h" cx="215" cy="250" r="4"/><circle class="hole h" cx="230" cy="250" r="4"/><circle class="hole h" cx="245" cy="250" r="4"/><circle class="hole h" cx="260" cy="250" r="4"/><circle class="hole h" cx="275" cy="250" r="4"/><circle class="hole h" cx="290" cy="250" r="4"/><circle class="hole h" cx="305" cy="250" r="4"/><circle class="hole h" cx="320" cy="250" r="4"/><g class="mark h"><circle cx="30" cy="250" r="9"/><text x="30" y="254">3</text></g><circle class="hole v" cx="50" cy="113" r="4"/><circle class="hole v" cx="50" cy="126" r="4"/><circle class="hole v" cx="50" cy="139" r="4"/><circle class="hole v" cx="50" cy="152" r="4"/><circle class="hole v" cx="50" cy="165" r="4"/><circle class="hole v" cx="50" cy="178" r="4"/><circle class="hole v" cx="50" cy="191" r="4"/><circle class="hole v" cx="50" cy="204" r="4"/><circle class="hole v" cx="50" cy="217" r="4"/><circle class="hole v" cx="50" cy="230" r="4"/><circle class="hole v" cx="50" cy="243" r="4"/><g class="mark v"><circle cx="50" cy="86" r="9"/><text x="50" y="90">4</text></g><circle class="hole v" cx="140" cy="113" r="4"/><circle class="hole v" cx="140" cy="126" r="4"/><circle class="hole v" cx="140" cy="139" r="4"/><circle class="hole v" cx="140" cy="152" r="4"/><circle class="hole v" cx="140" cy="165" r="4"/><circle class="hole v" cx="140" cy="178" r="4"/><circle class="hole v" cx="140" cy="191" r="4"/><circle class="hole v" cx="140" cy="204" r="4"/><circle class="hole v" cx="140" cy="217" r="4"/><circle class="hole v" cx="140" cy="230" r="4"/><circle class="hole v" cx="140" cy="243" r="4"/><g class="mark v"><circle cx="140" cy="86" r="9"/><text x="140" y="90">5</text></g><circle class="hole v" cx="230" cy="113" r="4"/><circle class="hole v" cx="230" cy="126" r="4"/><circle class="hole v" cx="230" cy="139" r="4"/><circle class="hole v" cx="230" cy="152" r="4"/><circle class="hole v" cx="230" cy="165" r="4"/><circle class="hole v" cx="230" cy="178" r="4"/><circle class="hole v" cx="230" cy="191" r="4"/><circle class="hole v" cx="230" cy="204" r="4"/><circle class="hole v" cx="230" cy="217" r="4"/><circle class="hole v" cx="230" cy="230" r="4"/><circle class="hole v" cx="230" cy="243" r="4"/><g class="mark v"><circle cx="230" cy="86" r="9"/><text x="230" y="90">6</text></g><circle class="hole v" cx="320" cy="113" r="4"/><circle class="hole v" cx="320" cy="126" r="4"/><circle class="hole v" cx="320" cy="139" r="4"/><circle class="hole v" cx="320" cy="152" r="4"/><circle class="hole v" cx="320" cy="165" r="4"/><circle class="hole v" cx="320" cy="178" r="4"/><circle class="hole v" cx="320" cy="191" r="4"/><circle class="hole v" cx="320" cy="204" r="4"/><circle class="hole v" cx="320" cy="217" r="4"/><circle class="hole v" cx="320" cy="230" r="4"/><circle class="hole v" cx="320" cy="243" r="4"/><g class="mark v"><circle cx="320" cy="86" r="9"/><text x="320" y="90">7</text></g><circle class="flag" cx="230" cy="112" r="16"/><path class="lead" d="M244 104 L288 74"/><text class="cap flag-cap"><tspan x="294" y="62">les trous se décalent</tspan><tspan x="294" y="74">et se dédoublent</tspan></text><text class="cap"><tspan x="16" y="22">1er passage — lignes horizontales sur toute la feuille (1–3)</tspan><tspan x="16" y="40">2e passage — feuille tournée, lignes verticales (4–7)</tspan></text><text class="cap"><tspan x="16" y="274">Faits séparément, les deux sens ne se rejoignent pas aux coins.</tspan></text></svg></div>
+      <ul>
+<li>La machine possède <strong>une seule rangée d’aiguilles</strong> et ne perce à chaque fois qu’une seule ligne droite à travers toute la feuille.</li>
+<li>La feuille avance peu à peu et est percée ligne après ligne dans un sens ; ensuite elle est tournée et l’autre sens est fait de la même manière.</li>
+<li>Les lignes horizontales et verticales naissent <strong>indépendamment les unes des autres</strong> et ne se rejoignent donc pas dans les angles — les trous se manquent, se doublent, ou bien il en manque un dans l’angle.</li>
+<li>Le pas des deux directions peut différer, car un autre outil ou une autre machine les a faites — d’où des combinaisons comme 13¾ : 11½ et sa forme inversée 11½ : 13¾.</li>
+<li>Le nombre de dents d’un même côté varie donc d’une pièce à l’autre, et la dent d’extrémité est souvent incomplète.</li>
+      </ul>
+      <p class="perf-tag">Pour le 15h : <strong>C, D, E, F, G, H</strong> — le procédé le plus ancien, planches I, II, V, VI</p>
+    </div>
+    <div class="perf-card">
+      <h3>Dentelure en peigne</h3>
+      <div class="perf-fig"><svg class="perf-svg" viewBox="0 0 470 285" role="img" aria-labelledby="combTitle"><title id="combTitle">Schéma de la dentelure en peigne</title><rect class="tool" x="48" y="52" width="274" height="13" rx="3"/><rect class="tool" x="47" y="65" width="6" height="30" rx="2"/><rect class="tool" x="137" y="65" width="6" height="30" rx="2"/><rect class="tool" x="227" y="65" width="6" height="30" rx="2"/><rect class="tool" x="317" y="65" width="6" height="30" rx="2"/><text class="cap"><tspan x="330" y="63">peigne</tspan></text><rect class="sheet" x="50" y="110" width="270" height="140" rx="3"/><rect class="stamp" x="58" y="118" width="74" height="54" rx="2"/><rect class="stamp" x="58" y="188" width="74" height="54" rx="2"/><rect class="stamp" x="148" y="118" width="74" height="54" rx="2"/><rect class="stamp" x="148" y="188" width="74" height="54" rx="2"/><rect class="stamp" x="238" y="118" width="74" height="54" rx="2"/><rect class="stamp" x="238" y="188" width="74" height="54" rx="2"/><circle class="hole h" cx="50" cy="110" r="4"/><circle class="hole h" cx="65" cy="110" r="4"/><circle class="hole h" cx="80" cy="110" r="4"/><circle class="hole h" cx="95" cy="110" r="4"/><circle class="hole h" cx="110" cy="110" r="4"/><circle class="hole h" cx="125" cy="110" r="4"/><circle class="hole h" cx="140" cy="110" r="4"/><circle class="hole h" cx="155" cy="110" r="4"/><circle class="hole h" cx="170" cy="110" r="4"/><circle class="hole h" cx="185" cy="110" r="4"/><circle class="hole h" cx="200" cy="110" r="4"/><circle class="hole h" cx="215" cy="110" r="4"/><circle class="hole h" cx="230" cy="110" r="4"/><circle class="hole h" cx="245" cy="110" r="4"/><circle class="hole h" cx="260" cy="110" r="4"/><circle class="hole h" cx="275" cy="110" r="4"/><circle class="hole h" cx="290" cy="110" r="4"/><circle class="hole h" cx="305" cy="110" r="4"/><circle class="hole h" cx="320" cy="110" r="4"/><circle class="hole h" cx="50" cy="110" r="4"/><circle class="hole h" cx="50" cy="124" r="4"/><circle class="hole h" cx="50" cy="138" r="4"/><circle class="hole h" cx="50" cy="152" r="4"/><circle class="hole h" cx="50" cy="166" r="4"/><circle class="hole h" cx="50" cy="180" r="4"/><circle class="hole h" cx="140" cy="110" r="4"/><circle class="hole h" cx="140" cy="124" r="4"/><circle class="hole h" cx="140" cy="138" r="4"/><circle class="hole h" cx="140" cy="152" r="4"/><circle class="hole h" cx="140" cy="166" r="4"/><circle class="hole h" cx="140" cy="180" r="4"/><circle class="hole h" cx="230" cy="110" r="4"/><circle class="hole h" cx="230" cy="124" r="4"/><circle class="hole h" cx="230" cy="138" r="4"/><circle class="hole h" cx="230" cy="152" r="4"/><circle class="hole h" cx="230" cy="166" r="4"/><circle class="hole h" cx="230" cy="180" r="4"/><circle class="hole h" cx="320" cy="110" r="4"/><circle class="hole h" cx="320" cy="124" r="4"/><circle class="hole h" cx="320" cy="138" r="4"/><circle class="hole h" cx="320" cy="152" r="4"/><circle class="hole h" cx="320" cy="166" r="4"/><circle class="hole h" cx="320" cy="180" r="4"/><circle class="hole next" cx="50" cy="180" r="4"/><circle class="hole next" cx="65" cy="180" r="4"/><circle class="hole next" cx="80" cy="180" r="4"/><circle class="hole next" cx="95" cy="180" r="4"/><circle class="hole next" cx="110" cy="180" r="4"/><circle class="hole next" cx="125" cy="180" r="4"/><circle class="hole next" cx="140" cy="180" r="4"/><circle class="hole next" cx="155" cy="180" r="4"/><circle class="hole next" cx="170" cy="180" r="4"/><circle class="hole next" cx="185" cy="180" r="4"/><circle class="hole next" cx="200" cy="180" r="4"/><circle class="hole next" cx="215" cy="180" r="4"/><circle class="hole next" cx="230" cy="180" r="4"/><circle class="hole next" cx="245" cy="180" r="4"/><circle class="hole next" cx="260" cy="180" r="4"/><circle class="hole next" cx="275" cy="180" r="4"/><circle class="hole next" cx="290" cy="180" r="4"/><circle class="hole next" cx="305" cy="180" r="4"/><circle class="hole next" cx="320" cy="180" r="4"/><circle class="hole next" cx="50" cy="180" r="4"/><circle class="hole next" cx="50" cy="194" r="4"/><circle class="hole next" cx="50" cy="208" r="4"/><circle class="hole next" cx="50" cy="222" r="4"/><circle class="hole next" cx="50" cy="236" r="4"/><circle class="hole next" cx="50" cy="250" r="4"/><circle class="hole next" cx="140" cy="180" r="4"/><circle class="hole next" cx="140" cy="194" r="4"/><circle class="hole next" cx="140" cy="208" r="4"/><circle class="hole next" cx="140" cy="222" r="4"/><circle class="hole next" cx="140" cy="236" r="4"/><circle class="hole next" cx="140" cy="250" r="4"/><circle class="hole next" cx="230" cy="180" r="4"/><circle class="hole next" cx="230" cy="194" r="4"/><circle class="hole next" cx="230" cy="208" r="4"/><circle class="hole next" cx="230" cy="222" r="4"/><circle class="hole next" cx="230" cy="236" r="4"/><circle class="hole next" cx="230" cy="250" r="4"/><circle class="hole next" cx="320" cy="180" r="4"/><circle class="hole next" cx="320" cy="194" r="4"/><circle class="hole next" cx="320" cy="208" r="4"/><circle class="hole next" cx="320" cy="222" r="4"/><circle class="hole next" cx="320" cy="236" r="4"/><circle class="hole next" cx="320" cy="250" r="4"/><g class="mark h"><circle cx="30" cy="110" r="9"/><text x="30" y="114">1</text></g><g class="mark next"><circle cx="30" cy="180" r="9"/><text x="30" y="184">2</text></g><circle class="hole ok-hole" cx="230" cy="180" r="4"/><circle class="ok" cx="230" cy="180" r="13"/><path class="lead" d="M243 187 L330 208"/><text class="cap ok-cap"><tspan x="336" y="206">au coin, un seul</tspan><tspan x="336" y="218">trou commun</tspan></text><path class="arrow" d="M336 116 L336 168"/><text class="cap"><tspan x="344" y="140">la feuille avance</tspan><tspan x="344" y="152">d’une rangée</tspan></text><text class="cap"><tspan x="16" y="22">Un coup (1) perfore trois côtés de toute une rangée à la fois ;</tspan><tspan x="16" y="40">la feuille avance, puis vient le coup suivant (2).</tspan></text><text class="cap"><tspan x="16" y="274">Un seul coup fait les deux sens : les coins restent réguliers.</tspan></text></svg></div>
+      <ul>
+<li>L’outil a la <strong>forme d’un peigne</strong> : une longue rangée horizontale d’aiguilles portant des dents courtes perpendiculaires qui s’insèrent entre les timbres.</li>
+<li>Une seule course perfore donc d’un coup <strong>trois côtés de toute une rangée de timbres</strong> — la ligne supérieure et toutes les séparations verticales situées au-dessous.</li>
+<li>La feuille avance d’une rangée et la course se répète ; la dernière course ferme le bord inférieur.</li>
+<li>Comme la perforation horizontale et la perforation verticale naissent d’une même frappe, <strong>un seul trou commun se trouve dans l’angle</strong> et l’angle est net.</li>
+<li>Le nombre de dents est le même sur tous les timbres de la rangée et la dimension est constante.</li>
+      </ul>
+      <p class="perf-tag">Pour le 15h : <strong>A</strong> (13¾ : 13½) et <strong>B</strong> (11¾) — le procédé plus tardif, planches I–VII</p>
+    </div>
+  </div>
+</div>
+
+<div class="section" id="jak-poznat">
+  <h2>Comment les reconnaître sur un timbre</h2>
+  <div class="perf-fig wide"><svg class="perf-svg wide" viewBox="0 0 470 290" role="img" aria-labelledby="cornTitle"><title id="cornTitle">Détail d’angle — dentelure en peigne et en ligne</title><rect class="panel" x="14" y="14" width="206" height="232" rx="8"/><rect class="stamp" x="40" y="68" width="72" height="64" rx="2"/><rect class="stamp" x="128" y="68" width="72" height="64" rx="2"/><rect class="stamp" x="40" y="148" width="72" height="64" rx="2"/><rect class="stamp" x="128" y="148" width="72" height="64" rx="2"/><circle class="hole h" cx="30" cy="140" r="6"/><circle class="hole h" cx="48" cy="140" r="6"/><circle class="hole h" cx="66" cy="140" r="6"/><circle class="hole h" cx="84" cy="140" r="6"/><circle class="hole h" cx="102" cy="140" r="6"/><circle class="hole h" cx="138" cy="140" r="6"/><circle class="hole h" cx="156" cy="140" r="6"/><circle class="hole h" cx="174" cy="140" r="6"/><circle class="hole h" cx="192" cy="140" r="6"/><circle class="hole h" cx="210" cy="140" r="6"/><circle class="hole h" cx="120" cy="50" r="6"/><circle class="hole h" cx="120" cy="68" r="6"/><circle class="hole h" cx="120" cy="86" r="6"/><circle class="hole h" cx="120" cy="104" r="6"/><circle class="hole h" cx="120" cy="122" r="6"/><circle class="hole h" cx="120" cy="158" r="6"/><circle class="hole h" cx="120" cy="176" r="6"/><circle class="hole h" cx="120" cy="194" r="6"/><circle class="hole h" cx="120" cy="212" r="6"/><circle class="hole h" cx="120" cy="230" r="6"/><circle class="hole ok-hole" cx="120" cy="140" r="6"/><circle class="ok" cx="120" cy="140" r="15"/><text class="cap head mid"><tspan x="117" y="38">en peigne — coin net</tspan></text><text class="cap mid"><tspan x="117" y="266">au coin, un seul</tspan><tspan x="117" y="280">trou commun</tspan></text><rect class="panel" x="250" y="14" width="206" height="232" rx="8"/><rect class="stamp" x="272" y="68" width="63" height="64" rx="2"/><rect class="stamp" x="351" y="68" width="63" height="64" rx="2"/><rect class="stamp" x="272" y="148" width="63" height="64" rx="2"/><rect class="stamp" x="351" y="148" width="63" height="64" rx="2"/><circle class="hole h" cx="262" cy="140" r="6"/><circle class="hole h" cx="280" cy="140" r="6"/><circle class="hole h" cx="298" cy="140" r="6"/><circle class="hole h" cx="316" cy="140" r="6"/><circle class="hole h" cx="334" cy="140" r="6"/><circle class="hole h" cx="352" cy="140" r="6"/><circle class="hole h" cx="370" cy="140" r="6"/><circle class="hole h" cx="388" cy="140" r="6"/><circle class="hole h" cx="406" cy="140" r="6"/><circle class="hole h" cx="424" cy="140" r="6"/><circle class="hole h" cx="442" cy="140" r="6"/><circle class="hole v" cx="343" cy="59" r="6"/><circle class="hole v" cx="343" cy="77" r="6"/><circle class="hole v" cx="343" cy="95" r="6"/><circle class="hole v" cx="343" cy="113" r="6"/><circle class="hole v" cx="343" cy="131" r="6"/><circle class="hole v" cx="343" cy="149" r="6"/><circle class="hole v" cx="343" cy="167" r="6"/><circle class="hole v" cx="343" cy="185" r="6"/><circle class="hole v" cx="343" cy="203" r="6"/><circle class="hole v" cx="343" cy="221" r="6"/><circle class="flag" cx="343" cy="140" r="26"/><text class="cap head mid"><tspan x="353" y="38">en ligne — coin irrégulier</tspan></text><text class="cap mid"><tspan x="353" y="266">pas de trou au coin,</tspan><tspan x="353" y="280">les voisins se serrent</tspan></text></svg></div>
+  <ul>
+<li><strong>L’angle est décisif.</strong> Un trou régulier exactement dans l’angle = peigne. Un angle déchiqueté avec deux trous qui se recouvrent, ou au contraire avec un trou manquant, = ligne.</li>
+<li><strong>Comparez les côtés opposés.</strong> En peigne, tous les timbres d’une même rangée ont le même nombre de dents ; en ligne, le nombre comme la position des dents se déplacent d’une pièce à l’autre.</li>
+<li><strong>Mesurez au odontomètre.</strong> Le chiffre indique le nombre de dents sur 2 cm ; la première valeur vaut pour les côtés horizontaux, la seconde pour les côtés verticaux. Quand une seule valeur est donnée, les deux côtés sont identiques.</li>
+<li><strong>Une paire ou une bande aide.</strong> Sur un multiple, on voit toute une suite d’angles d’un coup et la différence entre un tracé régulier et un tracé irrégulier est impossible à manquer.</li>
+  </ul>
+  <p class="perf-note"><strong>Attention à la confusion :</strong> en dentelure en peigne aussi, deux courses voisines peuvent se manquer légèrement. L’irrégularité ne se situe alors qu’à la limite entre deux rangées, tandis qu’à l’intérieur de la rangée les angles restent nets — en dentelure en ligne, au contraire, chaque angle est irrégulier.</p>
+</div>
+
+<div class="section" id="pofis">
+  <h2>Comment le catalogue Pofis enregistre les dentelures</h2>
+  <p>Le catalogue spécialisé classe les timbres de l’émission par dentelure en groupes désignés par des majuscules. Le numéro de catalogue se forme en associant le <strong>numéro de base de la valeur</strong> à la <strong>lettre du groupe</strong> ; la valeur 15h porte le numéro de base 7, si bien que ses variantes dentelées vont de 7A à 7H. À l’intérieur de chaque entrée, les nuances sont notées par les lettres minuscules a), b), c), d).</p>
+  <ul class="perf-abbr">
+<li><strong>HZ</strong> — dentelure en peigne (hřebenové zoubkování)</li>
+<li><strong>ŘZ</strong> — dentelure en ligne (řádkové zoubkování)</li>
+<li><strong>OHZ</strong> — dentelure en peigne inversée, c’est-à-dire un peigne progressant de bas en haut au lieu du sens habituel de haut en bas. Elle n’est pas mentionnée pour le 15h ; le catalogue la signale à d’autres valeurs (5h, 20h, 25h, 30h).</li>
+<li>La dimension s’écrit <em>horizontal : vertical</em>. Quand un seul chiffre est donné, les deux paires de côtés ont le même pas.</li>
+  </ul>
+  <div class="table-wrap"><table>
+    <tr><th>N° cat.</th><th>Groupe</th><th>Notation du catalogue</th><th>Type</th></tr>
+    <tr><td><strong>7A</strong></td><td>A</td><td>HZ 13&frac34; : 13&frac12;</td><td>en peigne</td></tr>
+    <tr><td><strong>7B</strong></td><td>B</td><td>HZ 11&frac34;</td><td>en peigne</td></tr>
+    <tr><td><strong>7C</strong></td><td>C</td><td>ŘZ 13&frac34;</td><td>en ligne</td></tr>
+    <tr><td><strong>7D</strong></td><td>D</td><td>ŘZ 11&frac12;</td><td>en ligne</td></tr>
+    <tr><td><strong>7E</strong></td><td>E</td><td>ŘZ 11&frac12; : 10&frac34;</td><td>en ligne</td></tr>
+    <tr><td><strong>7F</strong></td><td>F</td><td>ŘZ 13&frac34; : 11&frac12;</td><td>en ligne</td></tr>
+    <tr><td><strong>7G</strong></td><td>G</td><td>ŘZ 11&frac12; : 13&frac34;</td><td>en ligne</td></tr>
+    <tr><td><strong>7H</strong></td><td>H</td><td>ŘZ 13&frac34; : 10&frac34;</td><td>en ligne</td></tr>
+  </table></div>
+  <p class="perf-note">Les lettres A–H du tableau en tête de page sont précisément ces groupes de catalogue — la notation de ce site coïncide donc avec celle du catalogue. La valeur 15h est le seul timbre de l’émission représenté dans <strong>les huit groupes A–H</strong> ; outre le 15h, le groupe G ne comprend que le 30h et le groupe H que le 25h.</p>
+</div>
+
+<div class="section" id="vyjimecna">
+  <h2>Dentelures exceptionnelles (I et L)</h2>
+  <p>Au-delà des huit groupes ordinaires, le catalogue tient une section distincte, <strong>Dentelures exceptionnelles</strong>. Il s’agit de pièces sur lesquelles se sont rencontrés deux passages de perforation différents — la feuille a été perforée en partie avec un outil et achevée avec un autre, si bien que les différents côtés d’un même timbre portent des dentelures différentes. Deux d’entre elles concernent la valeur <strong>15h</strong> : les groupes <strong>I</strong> et <strong>L</strong>. Les autres dentelures exceptionnelles (groupes J et K) ne sont mentionnées par le catalogue que pour la valeur 30h du cinquième dessin, qui n’a pas sa place sur ce site.</p>
+  <div class="table-wrap"><table>
+    <tr><th>Groupe</th><th>Notation du catalogue</th><th>Type</th><th>Timbre</th></tr>
+    <tr><td><strong>I</strong></td><td>ŘZ 13&frac34; : 11&frac12; + 10&frac34;</td><td>mixte</td><td><strong>7I</strong> — 15h rouge brique</td></tr>
+    <tr><td><strong>L</strong></td><td>ŘZ 13&frac34; + 11&frac12; : 11&frac12;</td><td>composée</td><td><strong>7L</strong> — 15h rouge brique</td></tr>
+  </table></div>
+  <h3>Composée et mixte — en quoi elles diffèrent</h3>
+  <p>La différence ressort directement de la notation. Dans une dentelure <strong>composée</strong> (L), <strong>deux</strong> dentelures différentes se rencontrent sur un même timbre — pour le 15h, deux pas différents du même type, 13¾ et 11½ sur les côtés horizontaux opposés. Dans une dentelure <strong>mixte</strong> (I), <strong>trois</strong> pas différents se rencontrent sur un seul timbre : 13¾ à l’horizontale, 11½ sur un côté vertical et 10¾ sur l’autre.</p>
+  <div class="perf-fig wide"><svg class="perf-svg wide" viewBox="0 0 470 292" role="img" aria-labelledby="excTitle"><title id="excTitle">Dentelures composées et mixtes du 15h</title><text class="cap head mid"><tspan x="138" y="34">7L — composée</tspan></text><text class="cap mid"><tspan x="138" y="52">ŘZ 13&frac34; + 11&frac12; : 11&frac12;</tspan></text><text class="cap mid diff"><tspan x="138" y="74">13&frac34;</tspan></text><rect class="stamp big" x="78" y="84" width="120" height="150" rx="3"/><circle class="hole h" cx="80.25" cy="84" r="3.4"/><circle class="hole h" cx="90.75" cy="84" r="3.4"/><circle class="hole h" cx="101.25" cy="84" r="3.4"/><circle class="hole h" cx="111.75" cy="84" r="3.4"/><circle class="hole h" cx="122.25" cy="84" r="3.4"/><circle class="hole h" cx="132.75" cy="84" r="3.4"/><circle class="hole h" cx="143.25" cy="84" r="3.4"/><circle class="hole h" cx="153.75" cy="84" r="3.4"/><circle class="hole h" cx="164.25" cy="84" r="3.4"/><circle class="hole h" cx="174.75" cy="84" r="3.4"/><circle class="hole h" cx="185.25" cy="84" r="3.4"/><circle class="hole h" cx="195.75" cy="84" r="3.4"/><circle class="hole h" cx="81.525" cy="234" r="3.4"/><circle class="hole h" cx="94.075" cy="234" r="3.4"/><circle class="hole h" cx="106.625" cy="234" r="3.4"/><circle class="hole h" cx="119.175" cy="234" r="3.4"/><circle class="hole h" cx="131.725" cy="234" r="3.4"/><circle class="hole h" cx="144.275" cy="234" r="3.4"/><circle class="hole h" cx="156.825" cy="234" r="3.4"/><circle class="hole h" cx="169.375" cy="234" r="3.4"/><circle class="hole h" cx="181.925" cy="234" r="3.4"/><circle class="hole h" cx="194.475" cy="234" r="3.4"/><circle class="hole h" cx="78" cy="89.975" r="3.4"/><circle class="hole h" cx="78" cy="102.525" r="3.4"/><circle class="hole h" cx="78" cy="115.075" r="3.4"/><circle class="hole h" cx="78" cy="127.625" r="3.4"/><circle class="hole h" cx="78" cy="140.175" r="3.4"/><circle class="hole h" cx="78" cy="152.725" r="3.4"/><circle class="hole h" cx="78" cy="165.275" r="3.4"/><circle class="hole h" cx="78" cy="177.825" r="3.4"/><circle class="hole h" cx="78" cy="190.375" r="3.4"/><circle class="hole h" cx="78" cy="202.925" r="3.4"/><circle class="hole h" cx="78" cy="215.475" r="3.4"/><circle class="hole h" cx="78" cy="228.025" r="3.4"/><circle class="hole h" cx="198" cy="89.975" r="3.4"/><circle class="hole h" cx="198" cy="102.525" r="3.4"/><circle class="hole h" cx="198" cy="115.075" r="3.4"/><circle class="hole h" cx="198" cy="127.625" r="3.4"/><circle class="hole h" cx="198" cy="140.175" r="3.4"/><circle class="hole h" cx="198" cy="152.725" r="3.4"/><circle class="hole h" cx="198" cy="165.275" r="3.4"/><circle class="hole h" cx="198" cy="177.825" r="3.4"/><circle class="hole h" cx="198" cy="190.375" r="3.4"/><circle class="hole h" cx="198" cy="202.925" r="3.4"/><circle class="hole h" cx="198" cy="215.475" r="3.4"/><circle class="hole h" cx="198" cy="228.025" r="3.4"/><text class="cap mid val" x="138" y="164">15h</text><text class="cap mid diff"><tspan x="138" y="254">11&frac12;</tspan></text><text class="cap end"><tspan x="70" y="163">11&frac12;</tspan></text><text class="cap"><tspan x="206" y="163">11&frac12;</tspan></text><text class="cap head mid"><tspan x="360" y="34">7I — mixte</tspan></text><text class="cap mid"><tspan x="360" y="52">ŘZ 13&frac34; : 11&frac12; + 10&frac34;</tspan></text><text class="cap mid"><tspan x="360" y="74">13&frac34;</tspan></text><rect class="stamp big" x="300" y="84" width="120" height="150" rx="3"/><circle class="hole h" cx="302.25" cy="84" r="3.4"/><circle class="hole h" cx="312.75" cy="84" r="3.4"/><circle class="hole h" cx="323.25" cy="84" r="3.4"/><circle class="hole h" cx="333.75" cy="84" r="3.4"/><circle class="hole h" cx="344.25" cy="84" r="3.4"/><circle class="hole h" cx="354.75" cy="84" r="3.4"/><circle class="hole h" cx="365.25" cy="84" r="3.4"/><circle class="hole h" cx="375.75" cy="84" r="3.4"/><circle class="hole h" cx="386.25" cy="84" r="3.4"/><circle class="hole h" cx="396.75" cy="84" r="3.4"/><circle class="hole h" cx="407.25" cy="84" r="3.4"/><circle class="hole h" cx="417.75" cy="84" r="3.4"/><circle class="hole h" cx="302.25" cy="234" r="3.4"/><circle class="hole h" cx="312.75" cy="234" r="3.4"/><circle class="hole h" cx="323.25" cy="234" r="3.4"/><circle class="hole h" cx="333.75" cy="234" r="3.4"/><circle class="hole h" cx="344.25" cy="234" r="3.4"/><circle class="hole h" cx="354.75" cy="234" r="3.4"/><circle class="hole h" cx="365.25" cy="234" r="3.4"/><circle class="hole h" cx="375.75" cy="234" r="3.4"/><circle class="hole h" cx="386.25" cy="234" r="3.4"/><circle class="hole h" cx="396.75" cy="234" r="3.4"/><circle class="hole h" cx="407.25" cy="234" r="3.4"/><circle class="hole h" cx="417.75" cy="234" r="3.4"/><circle class="hole h" cx="300" cy="89.975" r="3.4"/><circle class="hole h" cx="300" cy="102.525" r="3.4"/><circle class="hole h" cx="300" cy="115.075" r="3.4"/><circle class="hole h" cx="300" cy="127.625" r="3.4"/><circle class="hole h" cx="300" cy="140.175" r="3.4"/><circle class="hole h" cx="300" cy="152.725" r="3.4"/><circle class="hole h" cx="300" cy="165.275" r="3.4"/><circle class="hole h" cx="300" cy="177.825" r="3.4"/><circle class="hole h" cx="300" cy="190.375" r="3.4"/><circle class="hole h" cx="300" cy="202.925" r="3.4"/><circle class="hole h" cx="300" cy="215.475" r="3.4"/><circle class="hole h" cx="300" cy="228.025" r="3.4"/><circle class="hole h" cx="420" cy="85.135" r="3.4"/><circle class="hole h" cx="420" cy="98.565" r="3.4"/><circle class="hole h" cx="420" cy="111.995" r="3.4"/><circle class="hole h" cx="420" cy="125.425" r="3.4"/><circle class="hole h" cx="420" cy="138.855" r="3.4"/><circle class="hole h" cx="420" cy="152.285" r="3.4"/><circle class="hole h" cx="420" cy="165.715" r="3.4"/><circle class="hole h" cx="420" cy="179.145" r="3.4"/><circle class="hole h" cx="420" cy="192.575" r="3.4"/><circle class="hole h" cx="420" cy="206.005" r="3.4"/><circle class="hole h" cx="420" cy="219.435" r="3.4"/><circle class="hole h" cx="420" cy="232.865" r="3.4"/><text class="cap mid val" x="360" y="164">15h</text><text class="cap mid"><tspan x="360" y="254">13&frac34;</tspan></text><text class="cap end diff"><tspan x="292" y="163">11&frac12;</tspan></text><text class="cap diff"><tspan x="428" y="163">10&frac34;</tspan></text><text class="cap"><tspan x="16" y="284">Schéma des dentelures — les côtés en rouge diffèrent des autres.</tspan></text></svg></div>
+  <p class="perf-note">Les deux variantes du 15h sont liées à la dentelure en ligne des planches précoces I–II, où les pas 13¾, 11½ et 10¾ se rencontraient le plus souvent au sein d’une feuille — c’est la même situation de fabrication qui explique les rares dentelures G et H.</p>
+</div>
+
+<div class="section" id="vady-perforace">
+  <h2>Défauts de perforation</h2>
+  <p>Au-delà des groupes du catalogue, il existe des pièces sur lesquelles la perforation ne s’est pas déroulée comme prévu — l’outil est passé deux fois par le même intervalle (<strong>double dentelure</strong>), ou bien une rangée a totalement manqué et les timbres ont dû être séparés aux ciseaux (<strong>dentelure omise</strong>). Ce ne sont pas des dentelures à part entière, mais des défauts de fabrication : le pas reste le même et le timbre se détermine d’après la rangée correspondant au passage régulier. La description des deux défauts, les illustrations des échantillons ainsi que la section sur le <strong>décalage de dentelure</strong> par rapport au dessin se trouvent sur la page <a href="vyrobni-vady.html#perforace">Défauts de fabrication</a>.</p>
+</div>
+
+<div class="section">
+  <h2>Usages attestés les plus précoces</h2>
+  <p>Sur 6 250 oblitérations lisiblement datées. L’ordre montre comment la fabrication est passée des dentelures en ligne D/E/F sur les planches précoces aux dentelures en peigne A/B sur les planches plus tardives.</p>
+  <div class="table-wrap"><table>
+    <tr><th>Dentelure (planche)</th><th>Date la plus précoce</th></tr>
+    <tr><td>D (planches 1–2)</td><td>30. 6. 1919</td></tr><tr><td>E (planches 1–2)</td><td>8. 8. 1919</td></tr><tr><td>F (planches 1–2)</td><td>12. 9. 1919</td></tr><tr><td>C (planches 1–2)</td><td>9. 11. 1919</td></tr><tr><td>B (planches 1–2)</td><td>30. 12. 1919</td></tr><tr><td>B (planches 5–6)</td><td>8. 2. 1920</td></tr><tr><td>G (planches 1–2)</td><td>18. 2. 1920 <span style="color:#7a6a5d">(Praha 1)</span></td></tr><tr><td>C (planches 5–6)</td><td>22. 2. 1920</td></tr><tr><td>H (planches 1–2)</td><td>15. 3. 1920 <span style="color:#7a6a5d">(Turnov)</span></td></tr><tr><td>B (planche 4)</td><td>23. 3. 1920</td></tr><tr><td>A (planches 5–6)</td><td>25. 3. 1920</td></tr><tr><td>A (planche 7)</td><td>26. 3. 1920</td></tr><tr><td>B (planche 3)</td><td>19. 4. 1920</td></tr><tr><td>A (planche 3)</td><td>4. 5. 1920</td></tr><tr><td>A (planche 4)</td><td>8. 6. 1920</td></tr>
+  </table></div>
+</div>
+
+<div class="section">
+  <h2>Comparaison de trois collections</h2>
+  <p>Les parts des dentelures diffèrent entre les grandes collections et les données de la Monographie — voir les <a href="statistiky.html">statistiques</a>.</p>
+</div>
+</main>
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div>© 2026 Josef Matoušek — Philatéliste et spécialiste des Hradčany</div>
+    <div>Sources: Monographie des timbres tchécoslovaques n° 1 · reconstitutions et statistiques personnelles</div>
+  <div><a href="o-sbirce.html">La collection et la méthode</a> · <a href="mapa-stranek.html">Plan du site</a></div>
+  </div>
+</footer>
+<script src="../../15h/js/main.js"></script>
+</body>
+</html>

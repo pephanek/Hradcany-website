@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Comparateur de positions — Hradčany 15h</title>
+<link rel="icon" type="image/svg+xml" href="../../15h/assets/favicon.svg">
+<meta property="og:title" content="Comparateur de positions — Hradčany 15h">
+<meta property="og:description" content="Hradčany 15h — site spécialisé : planches d’impression, galerie des positions, types, statistiques.">
+<meta property="og:image" content="assets/og-image.jpg">
+<meta property="og:type" content="website">
+<meta name="description" content="Hradčany 15h (POFIS 7) — site spécialisé : planches d’impression, nuances, types, dentelures, statistiques.">
+<link rel="stylesheet" href="../../15h/css/style.css">
+
+<link rel="alternate" hreflang="cs" href="../../15h/komparator.html">
+<link rel="alternate" hreflang="en" href="../../en/15h/komparator.html">
+<link rel="alternate" hreflang="fr" href="../../fr/15h/komparator.html">
+<link rel="alternate" hreflang="de" href="../../de/15h/komparator.html">
+<link rel="alternate" hreflang="es" href="../../es/15h/komparator.html">
+<link rel="alternate" hreflang="x-default" href="../../15h/komparator.html">
+</head>
+<body class="lang-fr">
+<header class="site-header">
+  <div class="header-inner">
+    <a class="brand" href="index.html">
+      <span class="badge15">15h</span>
+      <span>
+        <span class="title">Hradčany 15h</span>
+        <span class="subtitle">rouge brique · POFIS 7 · 1919</span>
+      </span>
+    </a>
+    <div class="lang-switch"><a href="../../15h/komparator.html" hreflang="cs">CZ</a><a href="../../en/15h/komparator.html" hreflang="en">EN</a><span class="active">FR</span><a href="../../de/15h/komparator.html" hreflang="de">DE</a><a href="../../es/15h/komparator.html" hreflang="es">ES</a></div>
+    <button class="nav-toggle">&#9776;</button>
+  </div>
+  <nav class="site-nav"><div class="nav-inner"><a class="nav-up" href="../index.html">&#8592; Émission Hradčany</a><a href="index.html">Aperçu</a><a href="knihtisk.html">Typographie</a><a href="zkusebni-tisky.html">Épreuves</a><a href="barvy.html">Couleurs et nuances</a><a href="tiskove-desky.html">Planches d’impression</a><a href="galerie.html">Galerie des positions</a><a href="komparator.html" class="current">Comparateur de positions</a><a href="typy.html">Types</a><a href="zoubkovani.html">Dentelures</a><a href="vyrobni-vady.html">Défauts de fabrication</a><a href="statistiky.html">Statistiques</a><a href="clanky.html">Articles</a><a href="posta.html">Usage postal</a><a href="mapa.html">Carte des oblitérations</a><a href="shanim.html">Recherche</a></div></nav>
+</header>
+<main>
+
+<div class="section">
+  <h1>Comparateur de positions</h1>
+  <p>Choisissez une position (1–100) et comparez son aspect sur les sept planches d’impression côte à côte — exactement comme on détermine la planche d’un timbre donné. Les images sont recalées sur le cadre rouge du dessin, de sorte que les détails se trouvent au même endroit sur toutes les planches. En survolant une image, le dessin est agrandi (2,6×) et la loupe suit le curseur ; le commutateur « Aperçus XL » agrandit toute la grille et un clic ouvre la pleine résolution.</p>
+  <div class="plate-toolbar">
+    <button class="cmp-btn" id="cmpPrev">&larr;</button>
+    <label for="cmpPos" style="font-weight:600">Position :</label>
+    <input id="cmpPos" type="number" min="1" max="100" value="1" style="width:5.5rem">
+    <button class="cmp-btn" id="cmpNext">&rarr;</button>
+    <label style="margin-left:.8rem;font-weight:600;cursor:pointer"><input type="checkbox" id="cmpXL" style="vertical-align:-2px"> Aperçus XL</label>
+    <span id="cmpBadges" style="margin-left:.5rem"></span>
+  </div>
+  <div class="cmp-grid" id="cmpGrid"></div>
+</div>
+<script>
+var ROM={1:'I',2:'II',3:'III',4:'IV',5:'V',6:'VI',7:'VII'};
+var NOTE={"1": {"Is": [2, 21, 22, 23, 49, 83, 91, 92, 94], "IIp": [2, 4, 5, 15, 17, 91], "IIap": [1, 12, 16, 23]}, "2": {"Is": [15], "IIp": [75, 78], "IIap": [8], "crack": [11], "spot": [5, 13, 16, 19, 50, 55, 61, 82, 88, 95]}, "6": {"frame": [60]}, "7": {"Is": [49, 96], "IIp": [13], "IIap": [93]}};
+var LBL={Is:"Is — spirale ouverte",IIp:"IIp — longue barre",IIap:"IIap — sous-type de barre",crack:"planche fissurée",spot:"tache / voile",frame:"cadre endommagé"};
+var CLS={Is:'type',IIp:'type',IIap:'type',crack:'rare',spot:'flaw',frame:'rare'};
+function pad(n){return ('00'+n).slice(-3);}
+function render(pos){
+  pos=Math.max(1,Math.min(100,pos|0));
+  document.getElementById('cmpPos').value=pos;
+  try{location.hash='zp'+pos;}catch(e){}
+  var g=document.getElementById('cmpGrid');g.innerHTML='';
+  for(var td=1;td<=7;td++){
+    var tags=[];
+    var nt=NOTE[td]||{};
+    for(var k in nt){ if(nt[k].indexOf(pos)>=0) tags.push(k); }
+    var bad=tags.map(function(k){return '<span class="badge '+CLS[k]+'">'+LBL[k]+'</span>';}).join('');
+    var card=document.createElement('div');card.className='cmp-card';
+    card.innerHTML='<a class="zoomwrap" href="../../15h/assets/library/TD'+td+'/full/pos'+pad(pos)+'.jpg" target="_blank" rel="noopener">'+
+      '<img src="../../15h/assets/library/TD'+td+'/full/pos'+pad(pos)+'.jpg" alt="'+pos+'/'+ROM[td]+'" loading="lazy"></a>'+
+      '<div class="cmp-cap"><a href="galerie-td'+td+'.html"><strong>Planche '+ROM[td]+'</strong></a> — Position '+pos+'<div>'+bad+'</div></div>';
+    g.appendChild(card);
+  }
+}
+document.addEventListener('DOMContentLoaded',function(){
+  var g0=document.getElementById('cmpGrid');
+  g0.addEventListener('mousemove',function(e){
+    if(e.target.tagName!=='IMG') return;
+    var r=e.target.getBoundingClientRect();
+    var x=Math.max(0,Math.min(100,(e.clientX-r.left)/r.width*100));
+    var y=Math.max(0,Math.min(100,(e.clientY-r.top)/r.height*100));
+    e.target.style.transformOrigin=x+'% '+y+'%';
+  });
+  var xl=document.getElementById('cmpXL'), grid=document.getElementById('cmpGrid');
+  try{ if(localStorage.getItem('cmpXL')==='1'){ xl.checked=true; grid.classList.add('xl'); } }catch(e){}
+  xl.addEventListener('change',function(){
+    grid.classList.toggle('xl', xl.checked);
+    try{ localStorage.setItem('cmpXL', xl.checked?'1':'0'); }catch(e){}
+  });
+  var inp=document.getElementById('cmpPos');
+  var m=(location.hash||'').match(/zp(\d+)/);
+  var start=m?parseInt(m[1],10):1;
+  inp.addEventListener('input',function(){ if(inp.value) render(parseInt(inp.value,10)); });
+  document.getElementById('cmpPrev').addEventListener('click',function(){ render(parseInt(inp.value,10)-1<1?100:parseInt(inp.value,10)-1); });
+  document.getElementById('cmpNext').addEventListener('click',function(){ render(parseInt(inp.value,10)+1>100?1:parseInt(inp.value,10)+1); });
+  document.addEventListener('keydown',function(e){
+    if(document.activeElement===inp) return;
+    if(e.key==='ArrowLeft') document.getElementById('cmpPrev').click();
+    if(e.key==='ArrowRight') document.getElementById('cmpNext').click();
+  });
+  render(start);
+});
+</script>
+
+</main>
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div>© 2026 Josef Matoušek — Philatéliste et spécialiste des Hradčany</div>
+    <div>Sources: Monographie des timbres tchécoslovaques n° 1 · reconstitutions et statistiques personnelles</div>
+  <div><a href="o-sbirce.html">La collection et la méthode</a> · <a href="mapa-stranek.html">Plan du site</a></div>
+  </div>
+</footer>
+<script src="../../15h/js/main.js"></script>
+</body>
+</html>
