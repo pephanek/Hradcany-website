@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Local backups (not part of the published site)
+_backups/
+
+# Deploy secrets (token) - never commit
+.deploy/
+
+# OS junk
+.DS_Store
+Thumbs.db
