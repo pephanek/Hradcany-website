@@ -441,44 +441,14 @@
  },
  "667a17607e": {
   "cs": "Zoubkování",
-  "en": "Perforations",
-  "tag": "span",
+  "en": "Perforation",
+  "fr": "Dentelure",
+  "de": "Zähnung",
+  "es": "Dentado",
+  "tag": "ui",
   "files": [
-   "15h/barvy.html",
-   "15h/clanky.html",
-   "15h/clanky/15h-celistvost.html",
-   "15h/clanky/15h-neperforovana-td6.html",
-   "15h/clanky/15h-poskozeny-ram-60-6.html",
-   "15h/clanky/15h-praskla-deska.html",
-   "15h/clanky/15h-zavoje-skvrny.html",
-   "15h/galerie-td1.html",
-   "15h/galerie-td2.html",
-   "15h/galerie-td3.html",
-   "15h/galerie-td4.html",
-   "15h/galerie-td5.html",
-   "15h/galerie-td6.html",
-   "15h/galerie-td7.html",
-   "15h/galerie.html",
-   "15h/index.html",
-   "15h/knihtisk.html",
-   "15h/komparator.html",
-   "15h/mapa-stranek.html",
-   "15h/mapa.html",
-   "15h/o-sbirce.html",
-   "15h/posta.html",
-   "15h/shanim.html",
-   "15h/statistiky.html",
-   "15h/svetliny.html",
-   "15h/tiskove-desky.html",
-   "15h/typy-galerie.html",
-   "15h/typy.html",
-   "15h/vyrobni-vady.html",
-   "15h/zkusebni-tisky.html",
-   "15h/zoubkovani.html"
-  ],
-  "fr": "Dentelures",
-  "de": "Zähnungen",
-  "es": "Dentados"
+   "15h/statistiky.html"
+  ]
  },
  "bf273154b7": {
   "cs": "Výrobní vady",
@@ -2547,15 +2517,15 @@
   "es": "Uso documentado"
  },
  "a4fa0827e2": {
-  "cs": "červen 1919 – duben 1921 (dle statistiky 6 243 datovaných razítek)",
-  "en": "June 1919 – April 1921 (based on 6,243 dated cancellations in the statistics)",
+  "cs": "červen 1919 – duben 1921 (dle statistiky 6 474 datovaných razítek)",
+  "en": "June 1919 – April 1921 (based on 6,474 dated cancellations in the statistics)",
   "tag": "span",
   "files": [
    "15h/index.html"
   ],
-  "fr": "juin 1919 – avril 1921 (d’après la statistique de 6 243 oblitérations datées)",
-  "de": "Juni 1919 – April 1921 (nach der Statistik von 6 243 datierten Stempeln)",
-  "es": "junio de 1919 – abril de 1921 (según la estadística de 6 243 matasellos fechados)"
+  "fr": "juin 1919 – avril 1921 (d’après la statistique de 6 474 oblitérations datées)",
+  "de": "Juni 1919 – April 1921 (nach der Statistik von 6 474 datierten Stempeln)",
+  "es": "junio de 1919 – abril de 1921 (según la estadística de 6 474 matasellos fechados)"
  },
  "ea0126cdad": {
   "cs": "Z historie emise",
@@ -3642,15 +3612,15 @@
   "es": "Volumen del material"
  },
  "bc61d4391d": {
-  "cs": "Statistiky vycházejí z evidence <strong>21 329 určených známek 15h</strong> (stav 7/2026),\n  z nichž 6 243 nese čitelně datované razítko. Rekonstrukce tiskových desek stojí na <strong>8 012 známkách\n  s určeným známkovým polem</strong> — od kompletních hlubokých rekonstrukcí desek I a II (20–55 kusů na pozici)\n  po referenční knihovnu vzácné desky VII (122 kusů na 70 pozicích).",
-  "en": "The statistics are based on records of <strong>21,329 attributed 15h stamps</strong> (as of June\n  2026), 6,243 of which carry a legibly dated cancellation. The plate reconstructions rest on <strong>8,012 stamps\n  attributed to their stamp field</strong> — from the complete, deep reconstructions of plates I and II (20–55 copies\n  per position) to the reference library of the rare plate VII (122 copies over 70 positions).",
+  "cs": "Statistiky vycházejí z evidence <strong>21 329 určených známek 15h</strong> (stav 7/2026),\n  z nichž 6 474 nese čitelně datované razítko. Rekonstrukce tiskových desek stojí na <strong>8 012 známkách\n  s určeným známkovým polem</strong> — od kompletních hlubokých rekonstrukcí desek I a II (20–55 kusů na pozici)\n  po referenční knihovnu vzácné desky VII (122 kusů na 70 pozicích).",
+  "en": "The statistics are based on records of <strong>21,329 attributed 15h stamps</strong> (as of June\n  2026), 6,474 of which carry a legibly dated cancellation. The plate reconstructions rest on <strong>8,012 stamps\n  attributed to their stamp field</strong> — from the complete, deep reconstructions of plates I and II (20–55 copies\n  per position) to the reference library of the rare plate VII (122 copies over 70 positions).",
   "tag": "span",
   "files": [
    "15h/o-sbirce.html"
   ],
-  "fr": "Les statistiques reposent sur le relevé de <strong>21 329 timbres 15h déterminés</strong> (état 7/2026), dont 6 243 portent une oblitération lisiblement datée. Les reconstitutions de planches d’impression s’appuient sur <strong>8 012 timbres dont la position est déterminée</strong> — depuis les reconstitutions complètes et approfondies des planches I et II (20–55 exemplaires par position) jusqu’à la bibliothèque de référence de la rare planche VII (122 exemplaires sur 70 positions).",
-  "de": "Die Statistiken beruhen auf der Erfassung von <strong>21 329 bestimmten Marken zu 15h</strong> (Stand 7/2026), von denen 6 243 einen lesbar datierten Stempel tragen. Die Rekonstruktionen der Druckplatten stützen sich auf <strong>8 012 Marken mit bestimmtem Markenfeld</strong> — von den vollständigen tiefen Rekonstruktionen der Platten I und II (20–55 Stück je Position) bis zur Referenzbibliothek der seltenen Platte VII (122 Stück auf 70 Positionen).",
-  "es": "Las estadísticas parten del registro de <strong>21 329 sellos de 15h determinados</strong> (situación 7/2026),\n  de los cuales 6 243 llevan un matasellos con fecha legible. Las reconstrucciones de las planchas de impresión se basan en <strong>8 012 sellos\n  con la posición determinada</strong> — desde las reconstrucciones completas y profundas de las planchas I y II (20–55 ejemplares por posición)\n  hasta la biblioteca de referencia de la rara plancha VII (122 ejemplares en 70 posiciones)."
+  "fr": "Les statistiques reposent sur le relevé de <strong>21 329 timbres 15h déterminés</strong> (état 7/2026), dont 6 474 portent une oblitération lisiblement datée. Les reconstitutions de planches d’impression s’appuient sur <strong>8 012 timbres dont la position est déterminée</strong> — depuis les reconstitutions complètes et approfondies des planches I et II (20–55 exemplaires par position) jusqu’à la bibliothèque de référence de la rare planche VII (122 exemplaires sur 70 positions).",
+  "de": "Die Statistiken beruhen auf der Erfassung von <strong>21 329 bestimmten Marken zu 15h</strong> (Stand 7/2026), von denen 6 474 einen lesbar datierten Stempel tragen. Die Rekonstruktionen der Druckplatten stützen sich auf <strong>8 012 Marken mit bestimmtem Markenfeld</strong> — von den vollständigen tiefen Rekonstruktionen der Platten I und II (20–55 Stück je Position) bis zur Referenzbibliothek der seltenen Platte VII (122 Stück auf 70 Positionen).",
+  "es": "Las estadísticas parten del registro de <strong>21 329 sellos de 15h determinados</strong> (situación 7/2026),\n  de los cuales 6 474 llevan un matasellos con fecha legible. Las reconstrucciones de las planchas de impresión se basan en <strong>8 012 sellos\n  con la posición determinada</strong> — desde las reconstrucciones completas y profundas de las planchas I y II (20–55 ejemplares por posición)\n  hasta la biblioteca de referencia de la rara plancha VII (122 ejemplares en 70 posiciones)."
  },
  "a80f5b70de": {
   "cs": "Jak rekonstrukce vznikají",
@@ -5046,15 +5016,15 @@
   "es": "sin dentar, A, B, C, D, E, F, G, H"
  },
  "02328a68c8": {
-  "cs": "Běžná deska — spolu s TD II tvoří ≈51 % určených známek ve statistice (10 931 z 21 329 ks).",
-  "en": "Common plate — together with plate II it accounts for ≈51 % of the attributed stamps in the statistics (10,931 of 21,329 pieces).",
+  "cs": "Běžná deska — spolu s TD II tvoří ≈51 % určených známek ve statistice (10 941 z 21 329 ks).",
+  "en": "Common plate — together with plate II it accounts for ≈51 % of the attributed stamps in the statistics (10,941 of 21,329 pieces).",
   "tag": "span",
   "files": [
    "15h/tiskove-desky.html"
   ],
-  "fr": "Planche courante — avec la planche II, elle représente ≈51 % des timbres déterminés dans la statistique (10 931 sur 21 329 pièces).",
-  "de": "Häufige Platte — zusammen mit Platte II macht sie ≈51 % der bestimmten Marken in der Statistik aus (10 931 von 21 329 Stück).",
-  "es": "Plancha corriente — junto con la plancha II representa ≈51 % de los sellos determinados en la estadística (10 931 de 21 329 ejemplares)."
+  "fr": "Planche courante — avec la planche II, elle représente ≈51 % des timbres déterminés dans la statistique (10 941 sur 21 329 pièces).",
+  "de": "Häufige Platte — zusammen mit Platte II macht sie ≈51 % der bestimmten Marken in der Statistik aus (10 941 von 21 329 Stück).",
+  "es": "Plancha corriente — junto con la plancha II representa ≈51 % de los sellos determinados en la estadística (10 941 de 21 329 ejemplares)."
  },
  "ea4c59929b": {
   "cs": "galerie",
@@ -8599,15 +8569,15 @@
   "es": "Usos documentados más tempranos"
  },
  "bea2c3d164": {
-  "cs": "Z 6 250 čitelně datovaných razítek. Pořadí ukazuje, jak výroba postupovala od řádkových zoubkování D/E/F na raných deskách k hřebenovým A/B na deskách pozdějších.",
-  "en": "From 6,250 legibly dated cancellations. The sequence shows production moving from line perforations D/E/F on the early plates to comb perforations A/B on the later ones.",
+  "cs": "Z 6 474 čitelně datovaných razítek. Pořadí ukazuje, jak výroba postupovala od řádkových zoubkování D/E/F na raných deskách k hřebenovým A/B na deskách pozdějších.",
+  "en": "From 6,474 legibly dated cancellations. The sequence shows production moving from line perforations D/E/F on the early plates to comb perforations A/B on the later ones.",
   "tag": "span",
   "files": [
    "15h/zoubkovani.html"
   ],
-  "fr": "Sur 6 250 oblitérations lisiblement datées. L’ordre montre comment la fabrication est passée des dentelures en ligne D/E/F sur les planches précoces aux dentelures en peigne A/B sur les planches plus tardives.",
-  "de": "Aus 6 250 lesbar datierten Stempeln. Die Reihenfolge zeigt, wie die Fertigung von den Linienzähnungen D/E/F auf den frühen Platten zu den Kammzähnungen A/B auf den späteren fortschritt.",
-  "es": "De 6 250 matasellos con fecha legible. El orden muestra cómo avanzó la fabricación desde los dentados de línea D/E/F en las planchas tempranas hasta los de peine A/B en las posteriores."
+  "fr": "Sur 6 474 oblitérations lisiblement datées. L’ordre montre comment la fabrication est passée des dentelures en ligne D/E/F sur les planches précoces aux dentelures en peigne A/B sur les planches plus tardives.",
+  "de": "Aus 6 474 lesbar datierten Stempeln. Die Reihenfolge zeigt, wie die Fertigung von den Linienzähnungen D/E/F auf den frühen Platten zu den Kammzähnungen A/B auf den späteren fortschritt.",
+  "es": "De 6 474 matasellos con fecha legible. El orden muestra cómo avanzó la fabricación desde los dentados de línea D/E/F en las planchas tempranas hasta los de peine A/B en las posteriores."
  },
  "dd224d03a0": {
   "cs": "Zoubkování (deska)",
@@ -17357,6 +17327,116 @@
   "tag": "span",
   "files": [
    "novinky.html"
+  ]
+ },
+ "67adc2fb8e": {
+  "cs": "Za poskytnutí statistik ze své sbírky děkuji <strong>Johanu Sevenhuijsenovi</strong>.",
+  "en": "My thanks to <strong>Johan Sevenhuijsen</strong> for sharing the statistics of his collection.",
+  "fr": "Mes remerciements à <strong>Johan Sevenhuijsen</strong> pour avoir partagé les statistiques de sa collection.",
+  "de": "Mein Dank gilt <strong>Johan Sevenhuijsen</strong> für die Überlassung der Statistiken seiner Sammlung.",
+  "es": "Mi agradecimiento a <strong>Johan Sevenhuijsen</strong> por facilitar las estadísticas de su colección.",
+  "tag": "span",
+  "files": [
+   "15h/statistiky.html"
+  ]
+ },
+ "64edd311cd": {
+  "cs": "červen 1919 – duben 1921 (dle statistiky 6 474 datovaných razítek)",
+  "en": "June 1919 – April 1921 (based on 6,474 dated cancellations in the statistics)",
+  "tag": "span",
+  "files": [
+   "15h/index.html"
+  ],
+  "fr": "juin 1919 – avril 1921 (d’après la statistique de 6 474 oblitérations datées)",
+  "de": "Juni 1919 – April 1921 (nach der Statistik von 6 474 datierten Stempeln)",
+  "es": "junio de 1919 – abril de 1921 (según la estadística de 6 474 matasellos fechados)"
+ },
+ "8d17b907fa": {
+  "cs": "Statistiky vycházejí z evidence <strong>21 329 určených známek 15h</strong> (stav 7/2026),\n  z nichž 6 474 nese čitelně datované razítko. Rekonstrukce tiskových desek stojí na <strong>8 012 známkách\n  s určeným známkovým polem</strong> — od kompletních hlubokých rekonstrukcí desek I a II (20–55 kusů na pozici)\n  po referenční knihovnu vzácné desky VII (122 kusů na 70 pozicích).",
+  "en": "The statistics are based on records of <strong>21,329 attributed 15h stamps</strong> (as of June\n  2026), 6,474 of which carry a legibly dated cancellation. The plate reconstructions rest on <strong>8,012 stamps\n  attributed to their stamp field</strong> — from the complete, deep reconstructions of plates I and II (20–55 copies\n  per position) to the reference library of the rare plate VII (122 copies over 70 positions).",
+  "tag": "span",
+  "files": [
+   "15h/o-sbirce.html"
+  ],
+  "fr": "Les statistiques reposent sur le relevé de <strong>21 329 timbres 15h déterminés</strong> (état 7/2026), dont 6 474 portent une oblitération lisiblement datée. Les reconstitutions de planches d’impression s’appuient sur <strong>8 012 timbres dont la position est déterminée</strong> — depuis les reconstitutions complètes et approfondies des planches I et II (20–55 exemplaires par position) jusqu’à la bibliothèque de référence de la rare planche VII (122 exemplaires sur 70 positions).",
+  "de": "Die Statistiken beruhen auf der Erfassung von <strong>21 329 bestimmten Marken zu 15h</strong> (Stand 7/2026), von denen 6 474 einen lesbar datierten Stempel tragen. Die Rekonstruktionen der Druckplatten stützen sich auf <strong>8 012 Marken mit bestimmtem Markenfeld</strong> — von den vollständigen tiefen Rekonstruktionen der Platten I und II (20–55 Stück je Position) bis zur Referenzbibliothek der seltenen Platte VII (122 Stück auf 70 Positionen).",
+  "es": "Las estadísticas parten del registro de <strong>21 329 sellos de 15h determinados</strong> (situación 7/2026),\n  de los cuales 6 474 llevan un matasellos con fecha legible. Las reconstrucciones de las planchas de impresión se basan en <strong>8 012 sellos\n  con la posición determinada</strong> — desde las reconstrucciones completas y profundas de las planchas I y II (20–55 ejemplares por posición)\n  hasta la biblioteca de referencia de la rara plancha VII (122 ejemplares en 70 posiciones)."
+ },
+ "bf1afb290c": {
+  "cs": "Pozn.: evidence uvádí pro desky 1–2 celkem 10 941 kusů; rozdíl ≈950 kusů proti součtu skupin tvoří známky desek 1–2 dosud nerozřazené do skupin zoubkování.",
+  "en": "Note: the records give 10,941 pieces in total for plates 1–2; the difference of ≈950 pieces against the group sum represents plate 1–2 stamps not yet assigned to a perforation group.",
+  "tag": "span",
+  "files": [
+   "15h/statistiky.html"
+  ],
+  "fr": "N.B. : le relevé indique au total 10 941 pièces pour les planches 1–2 ; l’écart d’environ 960 pièces par rapport à la somme des groupes correspond aux timbres des planches 1–2 non encore répartis entre les groupes de dentelure.",
+  "de": "Hinweis: Die Erfassung nennt für die Platten 1–2 insgesamt 10 941 Stück; die Differenz von ≈960 Stück gegenüber der Summe der Gruppen bilden Marken der Platten 1–2, die noch keiner Zähnungsgruppe zugeordnet sind.",
+  "es": "Nota: el registro indica para las planchas 1–2 un total de 10 941 ejemplares; la diferencia de ≈960 ejemplares respecto a la suma de los grupos corresponde a sellos de las planchas 1–2 todavía no clasificados en grupos de dentado."
+ },
+ "b553730e3b": {
+  "cs": "Běžná deska — spolu s TD II tvoří ≈51 % určených známek ve statistice (10 941 z 21 329 ks).",
+  "en": "Common plate — together with plate II it accounts for ≈51 % of the attributed stamps in the statistics (10,941 of 21,329 pieces).",
+  "tag": "span",
+  "files": [
+   "15h/tiskove-desky.html"
+  ],
+  "fr": "Planche courante — avec la planche II, elle représente ≈51 % des timbres déterminés dans la statistique (10 941 sur 21 329 pièces).",
+  "de": "Häufige Platte — zusammen mit Platte II macht sie ≈51 % der bestimmten Marken in der Statistik aus (10 941 von 21 329 Stück).",
+  "es": "Plancha corriente — junto con la plancha II representa ≈51 % de los sellos determinados en la estadística (10 941 de 21 329 ejemplares)."
+ },
+ "e43b0135ad": {
+  "cs": "Z 6 474 čitelně datovaných razítek. Pořadí ukazuje, jak výroba postupovala od řádkových zoubkování D/E/F na raných deskách k hřebenovým A/B na deskách pozdějších.",
+  "en": "From 6,474 legibly dated cancellations. The sequence shows production moving from line perforations D/E/F on the early plates to comb perforations A/B on the later ones.",
+  "tag": "span",
+  "files": [
+   "15h/zoubkovani.html"
+  ],
+  "fr": "Sur 6 474 oblitérations lisiblement datées. L’ordre montre comment la fabrication est passée des dentelures en ligne D/E/F sur les planches précoces aux dentelures en peigne A/B sur les planches plus tardives.",
+  "de": "Aus 6 474 lesbar datierten Stempeln. Die Reihenfolge zeigt, wie die Fertigung von den Linienzähnungen D/E/F auf den frühen Platten zu den Kammzähnungen A/B auf den späteren fortschritt.",
+  "es": "De 6 474 matasellos con fecha legible. El orden muestra cómo avanzó la fabricación desde los dentados de línea D/E/F en las planchas tempranas hasta los de peine A/B en las posteriores."
+ },
+ "878f840ae7": {
+  "cs": "Tisková deska",
+  "en": "Printing plate",
+  "fr": "Planche d’impression",
+  "de": "Druckplatte",
+  "es": "Plancha de impresión",
+  "tag": "ui",
+  "files": [
+   "15h/statistiky.html"
+  ]
+ },
+ "8807d7ac12": {
+  "cs": "Vše",
+  "en": "All",
+  "fr": "Tout",
+  "de": "Alle",
+  "es": "Todo",
+  "tag": "ui",
+  "files": [
+   "15h/statistiky.html"
+  ]
+ },
+ "854c34ee7f": {
+  "cs": "Nic",
+  "en": "None",
+  "fr": "Aucun",
+  "de": "Keine",
+  "es": "Ninguno",
+  "tag": "ui",
+  "files": [
+   "15h/statistiky.html"
+  ]
+ },
+ "9c1fc97683": {
+  "cs": "Každá skupina zvlášť. Tlačítky níže vyberte zoubkování a desky, které chcete porovnat — zobrazí se jen skupiny, které odpovídají obojímu. Jednotlivé řady lze také skrýt kliknutím v legendě.",
+  "en": "Each group separately. Use the buttons below to choose the perforations and the plates you want to compare — only the groups matching both are drawn. Individual series can also be hidden by clicking the legend.",
+  "fr": "Chaque groupe séparément. Les boutons ci-dessous permettent de choisir les dentelures et les planches à comparer — seuls les groupes correspondant aux deux sont tracés. Chaque série peut aussi être masquée en cliquant dans la légende.",
+  "de": "Jede Gruppe einzeln. Wählen Sie mit den Schaltflächen unten die Zähnungen und Platten, die Sie vergleichen möchten — gezeichnet werden nur die Gruppen, die beidem entsprechen. Einzelne Reihen lassen sich außerdem durch Klick in der Legende ausblenden.",
+  "es": "Cada grupo por separado. Con los botones de abajo elija los dentados y las planchas que quiera comparar: solo se dibujan los grupos que coinciden con ambos. Las series individuales también pueden ocultarse haciendo clic en la leyenda.",
+  "tag": "ui",
+  "files": [
+   "15h/statistiky.html"
   ]
  }
 }

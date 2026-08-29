@@ -249,3 +249,22 @@ a.t7:hover{filter:brightness(1.12);text-decoration:none}
 .lang-switch a:hover{background:rgba(255,255,255,.32);text-decoration:none;color:#fff}
 .lang-switch span.active{background:#fff;color:var(--brick-dark);font-weight:700;border-color:#fff}
 @media(max-width:600px){.lang-switch{flex-wrap:wrap;justify-content:flex-end;max-width:11rem}}
+
+/* --- filtr skupin nad grafem vyvoje --- */
+.gfilter{margin:.2rem 0 1rem;font-size:.86rem}
+.gf-row{display:flex;align-items:baseline;gap:.5rem;flex-wrap:wrap;margin:.3rem 0}
+.gf-lab{color:var(--muted);min-width:8.5rem;flex:0 0 auto}
+.gf-chips{display:flex;flex-wrap:wrap;gap:.3rem}
+.gf-chip,.gf-btn{
+  font:inherit;cursor:pointer;border:1px solid var(--line);background:var(--paper);
+  color:var(--muted);border-radius:999px;padding:.18rem .7rem;line-height:1.5;
+}
+.gf-chip:hover,.gf-btn:hover{border-color:var(--brick-light);color:var(--brick-dark)}
+.gf-chip.on{background:var(--brick);border-color:var(--brick);color:#fff;font-weight:600}
+.gf-chip.on:hover{background:var(--brick-dark);border-color:var(--brick-dark);color:#fff}
+.gf-actions{margin-top:.45rem}
+.gf-actions .gf-btn{padding:.18rem .9rem}
+.gfilter.gf-empty::after{
+  content:"";display:block;margin-top:.5rem;border-top:1px dashed var(--line);
+}
+@media(max-width:640px){.gf-lab{min-width:100%}}
