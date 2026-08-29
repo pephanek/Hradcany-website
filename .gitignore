@@ -11,3 +11,6 @@ _backups/
 # OS junk
 .DS_Store
 Thumbs.db
+
+# Generator: seznam nepřeložených řetězců (pracovní soubor)
+i18n/chybejici.txt
