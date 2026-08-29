@@ -17438,5 +17438,104 @@
   "files": [
    "15h/statistiky.html"
   ]
+ },
+ "0cf3b462f6": {
+  "cs": "Kniha návštěv",
+  "en": "Guestbook",
+  "fr": "Livre d’or",
+  "de": "Gästebuch",
+  "es": "Libro de visitas",
+  "tag": "ui",
+  "files": []
+ },
+ "c19b0a6ebc": {
+  "cs": "Napsat vzkaz",
+  "en": "Leave a message",
+  "fr": "Laisser un message",
+  "de": "Nachricht hinterlassen",
+  "es": "Dejar un mensaje",
+  "tag": "ui",
+  "files": []
+ },
+ "98394d75f7": {
+  "cs": "Vzkazy",
+  "en": "Messages",
+  "fr": "Messages",
+  "de": "Nachrichten",
+  "es": "Mensajes",
+  "tag": "ui",
+  "files": []
+ },
+ "72f7817f4e": {
+  "cs": "Kniha návštěv — Sbírám Hradčany",
+  "en": "Guestbook — Collecting Hradčany",
+  "fr": "Livre d’or — Collectionner les Hradčany",
+  "de": "Gästebuch — Hradschin sammeln",
+  "es": "Libro de visitas — Colecciono Hradčany",
+  "tag": "title",
+  "files": []
+ },
+ "b9a21d77db": {
+  "cs": "Kniha návštěv webu Sbírám Hradčany — vzkazy sběratelů k emisi Hradčany.",
+  "en": "The guestbook of Collecting Hradčany — messages from collectors of the Hradčany issue.",
+  "fr": "Le livre d’or de Collectionner les Hradčany — messages de collectionneurs de l’émission Hradčany.",
+  "de": "Das Gästebuch von Hradschin sammeln — Nachrichten von Sammlern der Hradschin-Ausgabe.",
+  "es": "El libro de visitas de Colecciono Hradčany — mensajes de coleccionistas de la emisión Hradčany.",
+  "tag": "meta",
+  "files": []
+ },
+ "af39cacf97": {
+  "cs": "Našli jste tu něco užitečného? Máte doplnění, opravu nebo vlastní nález? Napište mi — vzkazy si přečtou i ostatní sběratelé.",
+  "en": "Did you find something useful here? Do you have an addition, a correction or a find of your own? Write to me — other collectors read these messages too.",
+  "fr": "Avez-vous trouvé ici quelque chose d’utile ? Un complément, une correction, une trouvaille personnelle ? Écrivez-moi — les autres collectionneurs lisent aussi ces messages.",
+  "de": "Haben Sie hier etwas Nützliches gefunden? Haben Sie eine Ergänzung, eine Korrektur oder einen eigenen Fund? Schreiben Sie mir — die Nachrichten lesen auch andere Sammler.",
+  "es": "¿Ha encontrado aquí algo útil? ¿Tiene alguna adición, corrección o un hallazgo propio? Escríbame: otros coleccionistas también leen estos mensajes.",
+  "tag": "ui",
+  "files": []
+ },
+ "993c14222f": {
+  "cs": "Na konkrétní dotazy ke sbírce nebo k výměně raději pište přímo na <a href=\"mailto:pepa.matousek@gmail.com\">pepa.matousek@gmail.com</a>. Odkazy ve vzkazech nejsou povolené — je to nejúčinnější obrana proti spamu.",
+  "en": "For specific questions about the collection or about exchanges, please write directly to <a href=\"mailto:pepa.matousek@gmail.com\">pepa.matousek@gmail.com</a>. Links in messages are not allowed — it is the most effective defence against spam.",
+  "fr": "Pour des questions précises sur la collection ou sur un échange, écrivez plutôt directement à <a href=\"mailto:pepa.matousek@gmail.com\">pepa.matousek@gmail.com</a>. Les liens dans les messages ne sont pas autorisés — c’est la défense la plus efficace contre le spam.",
+  "de": "Für konkrete Fragen zur Sammlung oder zum Tausch schreiben Sie bitte direkt an <a href=\"mailto:pepa.matousek@gmail.com\">pepa.matousek@gmail.com</a>. Links in Nachrichten sind nicht erlaubt — das ist der wirksamste Schutz vor Spam.",
+  "es": "Para preguntas concretas sobre la colección o sobre intercambios, escriba directamente a <a href=\"mailto:pepa.matousek@gmail.com\">pepa.matousek@gmail.com</a>. No se permiten enlaces en los mensajes: es la defensa más eficaz contra el spam.",
+  "tag": "ui",
+  "files": []
+ },
+ "7067be7382": {
+  "cs": "Anketa: která deska je Vám nejmilejší?",
+  "en": "Poll: which plate is your favourite?",
+  "fr": "Sondage : quelle planche préférez-vous ?",
+  "de": "Umfrage: Welche Platte ist Ihnen die liebste?",
+  "es": "Encuesta: ¿cuál es su plancha favorita?",
+  "tag": "ui",
+  "files": []
+ },
+ "557f264f76": {
+  "cs": "Zajímá mě, ke které tiskové desce Hradčan táhne sběratele nejvíc — jestli k raným deskám první kresby, nebo k některé z desek 15h. Vyberte jednu a hlasujte; výsledky uvidíte hned potom.",
+  "en": "I am curious which Hradčany printing plate collectors are drawn to most — the early plates of the first design, or one of the 15h plates. Pick one and vote; you will see the results straight away.",
+  "fr": "Je suis curieux de savoir quelle planche d’impression Hradčany attire le plus les collectionneurs — les planches précoces du premier dessin ou l’une des planches du 15h. Choisissez-en une et votez ; les résultats s’affichent aussitôt.",
+  "de": "Mich interessiert, welche Hradschin-Druckplatte Sammler am meisten anzieht — die frühen Platten der ersten Zeichnung oder eine der 15h-Platten. Wählen Sie eine aus und stimmen Sie ab; die Ergebnisse sehen Sie sofort danach.",
+  "es": "Me interesa saber qué plancha de impresión Hradčany atrae más a los coleccionistas: las planchas tempranas del primer dibujo o alguna de las planchas del 15h. Elija una y vote; verá los resultados enseguida.",
+  "tag": "ui",
+  "files": []
+ },
+ "db6284c137": {
+  "cs": "Hlasovat",
+  "en": "Vote",
+  "fr": "Voter",
+  "de": "Abstimmen",
+  "es": "Votar",
+  "tag": "ui",
+  "files": []
+ },
+ "151d0df6cf": {
+  "cs": "Zobrazit výsledky",
+  "en": "Show results",
+  "fr": "Afficher les résultats",
+  "de": "Ergebnisse anzeigen",
+  "es": "Ver resultados",
+  "tag": "ui",
+  "files": []
  }
 }

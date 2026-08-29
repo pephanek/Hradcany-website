@@ -1,0 +1,13 @@
+name = "hradcany-vratny"
+main = "worker.js"
+compatibility_date = "2026-01-01"
+
+[vars]
+GH_REPO      = "pephanek/Hradcany-website"
+GH_VETEV     = "main"
+POVOLENY_WEB = "https://www.hradcany-stamps.com,https://hradcany-stamps.com"
+
+# Tajné hodnoty se sem NEPÍŠOU. Nastavují se příkazem:
+#   npx wrangler secret put GH_TOKEN
+#   npx wrangler secret put TAJNY_KLIC
+#   npx wrangler secret put TURNSTILE     (volitelné)
