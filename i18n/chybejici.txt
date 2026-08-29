@@ -1,0 +1,2 @@
+15h/statistiky.html [en]	Podrobný statistický rozbor hodnoty 15h vychází z vlastní evidence: <strong>21 329 určených známek</strong>, z toho <strong>6 474 s čitelně datovaným razítkem</strong> (stav 29. 8. 2026). Zdrojem jsou listy „Stats 15h“ a „Usage Stats 15h“ evidenčního sešitu.
+novinky.html [en]	Nový přírůstek v evidenci: kus se <strong>zoubkováním E</strong> (TD&nbsp;II) s datovaným razítkem <strong>10.&nbsp;III.&nbsp;1920</strong>; poštovní úřad není čitelný. Aktualizovány <a href="15h/statistiky.html"><strong>statistiky</strong></a> (6&nbsp;474 datovaných razítek).

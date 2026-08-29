@@ -17336,5 +17336,27 @@
   "es": "Evolución de la posición 91 (retoque)",
   "tag": "label",
   "files": []
+ },
+ "f2bdfe01af": {
+  "cs": "Podrobný statistický rozbor hodnoty 15h vychází z vlastní evidence: <strong>21 329 určených známek</strong>, z toho <strong>6 474 s čitelně datovaným razítkem</strong> (stav 29. 8. 2026). Zdrojem jsou listy „Stats 15h“ a „Usage Stats 15h“ evidenčního sešitu.",
+  "en": "The detailed statistical analysis of the 15h value is based on the author’s records: <strong>21,329 attributed stamps</strong>, of which <strong>6,474 carry a legibly dated cancellation</strong> (as of 29 August 2026). The sources are the “Stats 15h” and “Usage Stats 15h” sheets of the record workbook.",
+  "fr": "L’analyse statistique détaillée de la valeur 15h repose sur le relevé personnel de l’auteur : <strong>21 329 timbres déterminés</strong>, dont <strong>6 474 avec une oblitération lisiblement datée</strong> (état au 29. 8. 2026). Les sources sont les feuilles « Stats 15h » et « Usage Stats 15h » du classeur de relevé.",
+  "de": "Die ausführliche statistische Auswertung des Wertes 15h beruht auf der eigenen Erfassung: <strong>21 329 bestimmte Marken</strong>, davon <strong>6 474 mit lesbar datiertem Stempel</strong> (Stand 29. 8. 2026). Quelle sind die Blätter „Stats 15h“ und „Usage Stats 15h“ der Erfassungsmappe.",
+  "es": "El análisis estadístico detallado del valor de 15h parte del registro propio: <strong>21 329 sellos determinados</strong>, de ellos <strong>6 474 con matasellos de fecha legible</strong> (situación 29. 8. 2026). Las fuentes son las hojas «Stats 15h» y «Usage Stats 15h» del cuaderno de registro.",
+  "tag": "span",
+  "files": [
+   "15h/statistiky.html"
+  ]
+ },
+ "187e79b533": {
+  "cs": "Nový přírůstek v evidenci: kus se <strong>zoubkováním E</strong> (TD&nbsp;II) s datovaným razítkem <strong>10.&nbsp;III.&nbsp;1920</strong>; poštovní úřad není čitelný. Aktualizovány <a href=\"15h/statistiky.html\"><strong>statistiky</strong></a> (6&nbsp;474 datovaných razítek).",
+  "en": "New addition to the records: a piece with <strong>perforation E</strong> (plate&nbsp;II) with a dated cancellation of <strong>10&nbsp;March&nbsp;1920</strong>; the post office is not legible. The <a href=\"15h/statistiky.html\"><strong>statistics</strong></a> have been updated (6,474 dated cancellations).",
+  "fr": "Nouvelle entrée dans le fichier : une pièce en <strong>dentelure E</strong> (planche&nbsp;II) avec une oblitération datée du <strong>10&nbsp;mars&nbsp;1920</strong> ; le bureau de poste n’est pas lisible. Les <a href=\"15h/statistiky.html\"><strong>statistiques</strong></a> ont été mises à jour (6&nbsp;474 oblitérations datées).",
+  "de": "Neuzugang in der Erfassung: ein Stück mit <strong>Zähnung E</strong> (Platte&nbsp;II) mit datiertem Stempel <strong>10.&nbsp;März&nbsp;1920</strong>; das Postamt ist nicht lesbar. Die <a href=\"15h/statistiky.html\"><strong>Statistiken</strong></a> wurden aktualisiert (6&nbsp;474 datierte Stempel).",
+  "es": "Nueva incorporación al registro: un ejemplar con <strong>dentado E</strong> (plancha&nbsp;II) con matasellos fechado el <strong>10&nbsp;de marzo&nbsp;de 1920</strong>; la oficina de correos no es legible. Las <a href=\"15h/statistiky.html\"><strong>estadísticas</strong></a> se han actualizado (6&nbsp;474 matasellos fechados).",
+  "tag": "span",
+  "files": [
+   "novinky.html"
+  ]
  }
 }
