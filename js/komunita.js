@@ -239,7 +239,15 @@
             }
           } else {
             stav.className = 'kn-stav kn-chyba';
-            stav.textContent = T.chyby[(r && r.chyba)] || T.chyby.jine;
+            var kod = r && r.chyba;
+            if (T.chyby[kod]) {
+              stav.textContent = T.chyby[kod];
+            } else {
+              // neznámý kód = závada na straně vrátného; ať je vidět, která
+              stav.innerHTML = esc(T.chyby.jine) +
+                ' <span class="kn-detail">(' + esc(kod || 'bez kódu') +
+                (r && r.detail ? ': ' + esc(String(r.detail).slice(0, 120)) : '') + ')</span>';
+            }
             btn.disabled = false;
           }
         }).catch(function () {
