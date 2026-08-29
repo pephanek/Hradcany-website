@@ -10,7 +10,7 @@
   // ---- NASTAVENÍ ------------------------------------------------------
   // Adresu vypíše `npx wrangler deploy`. Dokud sem nepřijde, formulář
   // se nezobrazí a stránka jen slušně oznámí, že zápis zatím neběží.
-  var API = '';                 // např. 'https://api.hradcany-stamps.com'
+  var API = 'https://hradcany-vratny.pepa-matousek.workers.dev';
   var TURNSTILE_KEY = '';       // volitelné, site key z Cloudflare Turnstile
   // ---------------------------------------------------------------------
 
