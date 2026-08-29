@@ -46,6 +46,13 @@ Doplňte adresu z předchozího kroku. Přegenerovávat nic není potřeba —
 Dokud je řetězec prázdný, kniha návštěv se jen zobrazuje a formulář
 slušně oznámí, že zápis zatím neběží.
 
+## Vlastní token pro vrátného
+
+Token pro Worker vyrobte **samostatně**, nepoužívejte ten, kterým se
+publikuje web. Kdyby bylo někdy potřeba jeden z nich zneplatnit,
+druhá věc pojede dál. Publikační token je uložený jinde
+(`.deploy/github_token.txt`) a mění se skriptem `_backend/vymen-token.py`.
+
 ## Doporučeno: vlastní doména místo workers.dev
 
 Hezčí a odolnější je pověsit Worker na `api.hradcany-stamps.com`.
