@@ -1,13 +1,5 @@
 {
  "verze": 1,
  "zaznamy": [
-  {
-   "jmeno": "Pepa",
-   "mesto": "Praha",
-   "text": "Hello World!!",
-   "ts": "2026-08-29T21:29:02.279Z",
-   "lang": "cs",
-   "id": "zmtew7xwi"
-  }
  ]
 }
