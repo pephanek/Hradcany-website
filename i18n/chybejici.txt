@@ -1,2 +1,11 @@
-15h/statistiky.html [en]	Podrobný statistický rozbor hodnoty 15h vychází z vlastní evidence: <strong>21 329 určených známek</strong>, z toho <strong>6 474 s čitelně datovaným razítkem</strong> (stav 29. 8. 2026). Zdrojem jsou listy „Stats 15h“ a „Usage Stats 15h“ evidenčního sešitu.
-novinky.html [en]	Nový přírůstek v evidenci: kus se <strong>zoubkováním E</strong> (TD&nbsp;II) s datovaným razítkem <strong>10.&nbsp;III.&nbsp;1920</strong>; poštovní úřad není čitelný. Aktualizovány <a href="15h/statistiky.html"><strong>statistiky</strong></a> (6&nbsp;474 datovaných razítek).
+15h/galerie-td7.html [en]	Velmi vzácná deska (jen ~51 kusů z 21 329).
+15h/index.html [en]	Interaktivní grafy z rozboru 21 329 známek.
+15h/o-sbirce.html [en]	Statistiky vycházejí z evidence <strong>21 329 určených známek 15h</strong> (stav 7/2026),
+  z nichž 6 243 nese čitelně datované razítko. Rekonstrukce tiskových desek stojí na <strong>8 012 známkách
+  s určeným známkovým polem</strong> — od kompletních hlubokých rekonstrukcí desek I a II (20–55 kusů na pozici)
+  po referenční knihovnu vzácné desky VII (122 kusů na 70 pozicích).
+15h/tiskove-desky.html [en]	Běžná deska — spolu s TD II tvoří ≈51 % určených známek ve statistice (10 931 z 21 329 ks).
+15h/tiskove-desky.html [en]	Méně běžná — desky III a IV tvoří dohromady jen ≈6,6 % určených známek (1 403 z 21 329 ks); hledaná.
+15h/tiskove-desky.html [en]	Běžná deska — spolu s TD VI tvoří ≈46 % určených známek (9 813 z 21 329 ks); vrchol použití jaro 1920; zoubkování A je zde vzácnější (na TD V–VI jen ≈5 % kusů — viz statistiky).
+15h/tiskove-desky.html [en]	Velmi vzácná — jen 51 kusů z 21 329 určených známek (0,24 %); nejvzácnější deska hodnoty 15h.
+15h/zoubkovani.html [en]	Hodnota 15h má nejbohatší škálu úředních zoubkování z celé emise — vedle nezoubkované úpravy osm variant. Vysvětlení obou způsobů děrování najdete <a href="#jak-vznika">níže</a>. Podíly vycházejí z rozboru 21 329 známek (sbírka J. Matouška).
