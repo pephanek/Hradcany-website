@@ -159,9 +159,25 @@
     if (!API) { misto.innerHTML = '<p class="muted">' + esc(T.zapisVypnut) + '</p>'; return; }
 
     fetch(API.replace(/\/+$/, '') + '/formular')
-      .then(function (r) { return r.json(); })
-      .then(postavFormular)
-      .catch(function () { misto.innerHTML = '<p class="muted">' + esc(T.nedostupne) + '</p>'; });
+      .then(function (r) {
+        return r.json().catch(function () { return { chyba: 'html', stav: r.status }; })
+                .then(function (d) { d.stav = r.status; return d; });
+      })
+      .then(function (f) {
+        if (!f || !f.otazka) {
+          // ať je z webu poznat, co přesně vázne — bez toho se to hádá naslepo
+          var proc = f && f.chyba ? f.chyba : 'bez odpovědi';
+          misto.innerHTML = '<p class="muted">' + esc(T.nedostupne) +
+            ' <span class="kn-detail">(' + esc(proc) + ', HTTP ' + esc(f && f.stav || '?') + ')</span></p>';
+          return;
+        }
+        postavFormular(f);
+      })
+      .catch(function (e) {
+        // sem se to dostane, když prohlížeč spojení vůbec nepustí — typicky CORS
+        misto.innerHTML = '<p class="muted">' + esc(T.nedostupne) +
+          ' <span class="kn-detail">(spojení zamítnuto — zkontrolujte POVOLENY_WEB)</span></p>';
+      });
 
     function postavFormular(f) {
       misto.innerHTML =

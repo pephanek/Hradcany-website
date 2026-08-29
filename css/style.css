@@ -444,3 +444,4 @@ ul.news .date{display:inline-block;min-width:6.4rem;margin-right:.6rem;font-size
 .anketa-bok .an-radek{grid-template-columns:5.2rem 1fr 2.2rem;gap:.4rem}
 .anketa-bok .an-jmeno,.anketa-bok .an-cislo{font-size:.8rem}
 .anketa-bok .an-pruh{height:.7rem}
+.kn-detail{font-size:.85em;opacity:.75}
