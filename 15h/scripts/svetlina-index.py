@@ -77,27 +77,52 @@ def sklon(k, prah=60):
     return float(np.degrees(np.arctan(a)))
 
 
-def _strednice(k, od, do, osa, kolmo):
-    """Řádek (nebo sloupec) s nejvíc barvou v zadaném pásu = střed rámové linky."""
+def _prvni_vrchol(prof, prah_pomer=0.45):
+    """Index prvního výrazného vrcholu profilu při pohledu zvenčí dovnitř.
+
+    Rámovou linku nelze hledat jako maximum v pásu: pár set pixelů dovnitř
+    leží ornamentální páska, která má v průměru barvy víc než tenká linka,
+    a maximum uteče na ni. Zvenčí je ale rámová linka první barva, na kterou
+    se narazí.
+    """
+    if len(prof) == 0 or prof.max() <= 0:
+        return 0
+    prah = prah_pomer * prof.max()
+    i = 0
+    while i < len(prof) and prof[i] < prah:
+        i += 1
+    if i >= len(prof):
+        return int(np.argmax(prof))
+    while i + 1 < len(prof) and prof[i + 1] > prof[i]:   # doladit na vrchol
+        i += 1
+    return i
+
+
+def _linka(k, osa, zvenku, od, do, kolmo):
+    """Střednice a tloušťka vnější rámové linky v zadaném pásu."""
     a, b = kolmo
-    if osa == 'y':
-        pas = k[od:do, a:b].mean(axis=1)
-    else:
-        pas = k[a:b, od:do].mean(axis=0)
-    return od + int(np.argmax(pas))
+    od, do = max(0, od), min(k.shape[1] if osa == 'x' else k.shape[0], do)
+    pas = k[a:b, od:do].mean(axis=0) if osa == 'x' else k[od:do, a:b].mean(axis=1)
+    prof = pas[::-1] if zvenku == 'konec' else pas
+    i = _prvni_vrchol(prof)
+    j = (len(pas) - 1 - i) if zvenku == 'konec' else i
+    return od + j, _tloustka(pas, j)
 
 
 def ram(k):
-    """Střednice čtyř rámových linek: (x_levá, y_horní, x_pravá, y_dolní)."""
+    """Střednice a tloušťky čtyř vnějších rámových linek."""
     x0, y0, x1, y1 = _hruby_ram(k)
     w, h = x1 - x0, y1 - y0
-    dx, dy = int(w * 0.10), int(h * 0.10)
-    ax, bx = x0 + int(w * 0.25), x0 + int(w * 0.75)
-    ay, by = y0 + int(h * 0.25), y0 + int(h * 0.75)
-    return (_strednice(k, max(0, x0 - dx // 2), x0 + dx, 'x', (ay, by)),
-            _strednice(k, max(0, y0 - dy // 2), y0 + dy, 'y', (ax, bx)),
-            _strednice(k, x1 - dx, min(k.shape[1], x1 + dx // 2), 'x', (ay, by)),
-            _strednice(k, y1 - dy, min(k.shape[0], y1 + dy // 2), 'y', (ax, bx)))
+    rez = int(min(w, h) * 0.07)          # jak daleko dovnitř se smí hledat
+    ven = int(min(w, h) * 0.035)         # a jak daleko ven do papíru
+    ax, bx = x0 + int(w * 0.30), x0 + int(w * 0.70)
+    ay, by = y0 + int(h * 0.30), y0 + int(h * 0.70)
+    return {
+        'leva':  _linka(k, 'x', 'zacatek', x0 - ven, x0 + rez, (ay, by)),
+        'prava': _linka(k, 'x', 'konec',   x1 - rez, x1 + ven, (ay, by)),
+        'horni': _linka(k, 'y', 'zacatek', y0 - ven, y0 + rez, (ax, bx)),
+        'dolni': _linka(k, 'y', 'konec',   y1 - rez, y1 + ven, (ax, bx)),
+    }
 
 
 def srovnej(cesta):
@@ -111,7 +136,8 @@ def srovnej(cesta):
     if abs(uhel) > 0.05:
         im = im.rotate(uhel, resample=Image.BICUBIC, fillcolor=(255, 255, 255))
     k = _barva(im)
-    lx, ty, px, dy = ram(k)
+    L = ram(k)
+    lx, ty, px, dy = L['leva'][0], L['horni'][0], L['prava'][0], L['dolni'][0]
     w, h = px - lx, dy - ty
     okr = 0.12
     box = (lx - w * okr, ty - h * okr, px + w * okr, dy + h * okr)
@@ -140,22 +166,10 @@ def _tloustka(pas, stred):
 
 
 def _linky(k, okr):
-    """Střednice a tloušťky čtyř rámových linek na srovnané mřížce."""
     hh, ww = k.shape
     px = lambda v: (v + okr) / (1 + 2 * okr) * ww
     py = lambda v: (v + okr) / (1 + 2 * okr) * hh
-    a, b = int(py(0.25)), int(py(0.75))
-    c, d = int(px(0.25)), int(px(0.75))
-    out = {}
-    for jm, osa, stred in (('leva', 'x', px(0)), ('prava', 'x', px(1)),
-                           ('horni', 'y', py(0)), ('dolni', 'y', py(1))):
-        s0 = int(stred - (ww if osa == 'x' else hh) * 0.03)
-        s1 = int(stred + (ww if osa == 'x' else hh) * 0.03)
-        s0, s1 = max(0, s0), min(ww if osa == 'x' else hh, s1)
-        pas = k[a:b, s0:s1].mean(axis=0) if osa == 'x' else k[s0:s1, c:d].mean(axis=1)
-        i = int(np.argmax(pas))
-        out[jm] = (s0 + i, _tloustka(pas, i))
-    return out, px, py
+    return ram(k), px, py
 
 
 def index(k, okr, ohnisko):
