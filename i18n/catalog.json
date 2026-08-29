@@ -1637,6 +1637,17 @@
   "fr": "N° du train",
   "tag": "span"
  },
+ "1e3d536dd1": {
+  "cs": "15h — porušený rám na 20/V",
+  "de": "15h — gebrochener Rahmen auf 20/V",
+  "en": "15h — a broken frame at 20/V",
+  "es": "15h — marco roto en 20/V",
+  "files": [
+   "15h/mapa-stranek.html"
+  ],
+  "fr": "15h — cadre brisé sur 20/V",
+  "tag": "span"
+ },
  "1e8017e2b8": {
   "cs": "Ani samotná kresba neleží v archu vždy stejně. Poloha sazby v tiskové formě se mohla nepatrně lišit a takový posun tisku vůči okraji archu se pak sečte s posunem perforace.",
   "de": "Auch die Zeichnung selbst liegt nicht immer gleich im Bogen. Die Lage des Satzes in der Druckform konnte geringfügig abweichen, und eine solche Verschiebung des Druckes gegenüber dem Bogenrand addiert sich dann zu der der Zähnung.",
