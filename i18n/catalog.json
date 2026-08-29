@@ -17537,5 +17537,104 @@
   "es": "Ver resultados",
   "tag": "ui",
   "files": []
+ },
+ "bf0df179bd": {
+  "cs": "Anketa: která kresba se Vám líbí nejvíc?",
+  "en": "Poll: which design do you like best?",
+  "fr": "Sondage : quel dessin préférez-vous ?",
+  "de": "Umfrage: Welche Zeichnung gefällt Ihnen am besten?",
+  "es": "Encuesta: ¿qué dibujo le gusta más?",
+  "tag": "ui",
+  "files": [
+   "index.html"
+  ]
+ },
+ "616521b41f": {
+  "cs": "Emise prošla během dvou let pěti kresbami — od prvního provizoria až po pátou, nejpropracovanější. Zajímá mě, která z nich se sběratelům líbí nejvíc. Vyberte jednu a hlasujte; výsledky uvidíte hned potom.",
+  "en": "In two years the issue went through five designs — from the first makeshift one to the fifth and most elaborate. I am curious which of them collectors like best. Pick one and vote; you will see the results straight away.",
+  "fr": "En deux ans, l’émission a connu cinq dessins — du premier, provisoire, au cinquième, le plus abouti. Je suis curieux de savoir lequel plaît le plus aux collectionneurs. Choisissez-en un et votez ; les résultats s’affichent aussitôt.",
+  "de": "Innerhalb von zwei Jahren durchlief die Ausgabe fünf Zeichnungen — von der ersten, behelfsmäßigen bis zur fünften, der ausgereiftesten. Mich interessiert, welche den Sammlern am besten gefällt. Wählen Sie eine aus und stimmen Sie ab; die Ergebnisse sehen Sie sofort danach.",
+  "es": "En dos años la emisión pasó por cinco dibujos: del primero, provisional, al quinto, el más elaborado. Me interesa saber cuál gusta más a los coleccionistas. Elija uno y vote; verá los resultados enseguida.",
+  "tag": "ui",
+  "files": [
+   "index.html"
+  ]
+ },
+ "c508c00e51": {
+  "cs": "kresba",
+  "en": "design",
+  "fr": "dessin",
+  "de": "Zeichnung",
+  "es": "dibujo",
+  "tag": "ui",
+  "files": [
+   "index.html"
+  ]
+ },
+ "dcf4ef6622": {
+  "cs": "1.",
+  "en": "1st",
+  "fr": "1er",
+  "de": "1.",
+  "es": "1.º",
+  "tag": "ui",
+  "files": [
+   "index.html"
+  ]
+ },
+ "e97031e5b0": {
+  "cs": "2.",
+  "en": "2nd",
+  "fr": "2e",
+  "de": "2.",
+  "es": "2.º",
+  "tag": "ui",
+  "files": [
+   "index.html"
+  ]
+ },
+ "9902d381a0": {
+  "cs": "3.",
+  "en": "3rd",
+  "fr": "3e",
+  "de": "3.",
+  "es": "3.º",
+  "tag": "ui",
+  "files": [
+   "index.html"
+  ]
+ },
+ "0c8ed7a5ae": {
+  "cs": "4.",
+  "en": "4th",
+  "fr": "4e",
+  "de": "4.",
+  "es": "4.º",
+  "tag": "ui",
+  "files": [
+   "index.html"
+  ]
+ },
+ "d2835fcfb3": {
+  "cs": "5.",
+  "en": "5th",
+  "fr": "5e",
+  "de": "5.",
+  "es": "5.º",
+  "tag": "ui",
+  "files": [
+   "index.html"
+  ]
+ },
+ "7cd0d580d5": {
+  "cs": "Emise prošla pěti kresbami. Která se Vám líbí nejvíc?",
+  "en": "The issue went through five designs. Which one do you like best?",
+  "fr": "L’émission a connu cinq dessins. Lequel préférez-vous ?",
+  "de": "Die Ausgabe durchlief fünf Zeichnungen. Welche gefällt Ihnen am besten?",
+  "es": "La emisión pasó por cinco dibujos. ¿Cuál le gusta más?",
+  "tag": "ui",
+  "files": [
+   "index.html"
+  ]
  }
 }

@@ -280,15 +280,23 @@ def build_master_switcher(cat):
 
 def main():
     cat=Cat(); pages=html_files()
-    for L in LANGS:
-        d=os.path.join(ROOT,L)
-        if os.path.isdir(d): shutil.rmtree(d)
+    # Soubory se prepisuji na miste. Mazani celych slozek se neosvedcilo —
+    # pripojena slozka casto zapoved dava jen cteni a zapis, ne mazani.
     for L in LANGS:
         for page in pages:
             out=os.path.join(ROOT,L,page)
             os.makedirs(os.path.dirname(out),exist_ok=True)
             open(out,'w',encoding='utf-8').write(build_page(page,L,cat))
         print('%s: %d stranek'%(L,len(pages)))
+        zbyle=[]
+        for dp,dn,fn in os.walk(os.path.join(ROOT,L)):
+            for f in fn:
+                if not f.endswith('.html'): continue
+                rel=os.path.relpath(os.path.join(dp,f),os.path.join(ROOT,L)).replace('\\','/')
+                if rel not in pages: zbyle.append(rel)
+        if zbyle:
+            print('   pozor: %s/ obsahuje %d stranek, ktere uz v masteru nejsou: %s'
+                  %(L,len(zbyle),', '.join(sorted(zbyle)[:5])))
     n=build_master_switcher(cat)
     print('prepinac doplnen do %d ceskych stranek'%n)
     if cat.miss:

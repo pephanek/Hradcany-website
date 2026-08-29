@@ -33,11 +33,29 @@
   <nav class="site-nav"><div class="nav-inner"><a href="index.html" class="current">Übersicht</a><a href="novinky.html">Neuigkeiten</a><a href="znamky-emise.html">Marken der Ausgabe</a><a href="tiskove-desky.html">Druckplatten</a><a href="typy-pate-kresby.html">Typen der fünften Zeichnung</a><a href="clanky.html">Artikel</a><a href="15h/index.html">Hradschin 15h ★</a><a href="shanim.html">Gesucht</a><a href="odkazy.html">Links</a><a href="ke-stazeni.html">Downloads</a><a href="kniha-navstev.html">Gästebuch</a></div></nav>
 </header>
 <main>
-<div class="section">
+<div class="uvod-pas">
+<div class="section uvod-intro">
   <h1>Hradschin sammeln</h1>
   <p class="lead">Eine Website über die erste tschechoslowakische Briefmarkenausgabe — über fünf Zeichnungen, sechsundzwanzig Werte, die Druckplatten und alles, was bei ihrer Herstellung in den Jahren 1918–1920 geschah. Der Wert 15h hat eine eigene, ausführlichere <a href="15h/index.html">Spezialwebsite</a>.</p>
 </div>
-<div class="section">
+<aside class="section anketa-bok" id="anketa">
+  <h2>Umfrage: Welche Zeichnung gefällt Ihnen am besten?</h2>
+  <p>Die Ausgabe durchlief fünf Zeichnungen. Welche gefällt Ihnen am besten?</p>
+  <div class="an-mrizka an-svisle">
+    <button type="button" class="an-moznost" data-id="kresba-1"><img src="../assets/images/h1.jpg" alt="" loading="lazy"><span class="an-pv">1.</span><span class="an-pt">Zeichnung</span></button>
+    <button type="button" class="an-moznost" data-id="kresba-2"><img src="../assets/images/h2.jpg" alt="" loading="lazy"><span class="an-pv">2.</span><span class="an-pt">Zeichnung</span></button>
+    <button type="button" class="an-moznost" data-id="kresba-3"><img src="../assets/images/h3.jpg" alt="" loading="lazy"><span class="an-pv">3.</span><span class="an-pt">Zeichnung</span></button>
+    <button type="button" class="an-moznost" data-id="kresba-4"><img src="../assets/images/h4.jpg" alt="" loading="lazy"><span class="an-pv">4.</span><span class="an-pt">Zeichnung</span></button>
+    <button type="button" class="an-moznost" data-id="kresba-5"><img src="../assets/images/h5.jpg" alt="" loading="lazy"><span class="an-pv">5.</span><span class="an-pt">Zeichnung</span></button>
+  </div>
+  <div class="an-akce">
+    <button type="button" class="an-btn" disabled>Abstimmen</button>
+    <a href="#anketa" class="an-odkaz">Ergebnisse anzeigen</a>
+    <span class="an-stav" role="status"></span>
+  </div>
+  <div class="an-vysledky" hidden></div>
+</aside>
+<div class="section uvod-historie">
   <h2>Zur Geschichte der Ausgabe</h2>
   <p>Um die ersten tschechoslowakischen Briefmarken kursieren viele Geschichten, die sich durch das Wiedererzählen weit von den Tatsachen entfernt haben. Seit ihrer Entstehung sind über hundert Jahre vergangen — hier ist zusammengefasst, was belegt ist.</p>
   <p><img class="zoomable" src="../assets/images/alfons_mucha.png" alt="Alfons Mucha" style="float:right;width:150px;margin:0 0 14px 18px;border:1px solid var(--line);border-radius:8px">
@@ -51,6 +69,8 @@
   </div>
   <p>Die gesamte Ausgabe besteht aus <a href="znamky-emise.html"><strong>fünf verschiedenen Zeichnungen und 26 Werten</strong></a>, von denen 14 auch in gezähnter Ausführung erschienen.</p>
 </div>
+</div>
+
 <div class="section">
   <h2>Die fünf Zeichnungen der Ausgabe</h2>
   <div class="imggrid">
@@ -85,5 +105,6 @@
   </div>
 </footer>
 <script src="../js/main.js"></script>
+<script src="../js/komunita.js"></script>
 </body>
 </html>
