@@ -37,8 +37,11 @@ async function sha(msg) {
 }
 
 function odpoved(data, status, origin) {
-  return new Response(JSON.stringify(data), {
-    status: status || 200,
+  const st = status || 200;
+  // 204/205/304 nesmí mít tělo — Workers na to jinak spadnou
+  const bezTela = st === 101 || st === 204 || st === 205 || st === 304;
+  return new Response(bezTela ? null : JSON.stringify(data), {
+    status: st,
     headers: {
       'content-type': 'application/json; charset=utf-8',
       'cache-control': 'no-store',
