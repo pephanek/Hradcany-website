@@ -30,3 +30,13 @@ větší rozptyl znamená, že detekce linky někde selhala.
 
 **Nové ohnisko** se přidá do tabulky `OHNISKA` v hlavičce skriptu: stačí říct,
 které dvě rámové linky se protínají, a rozsah kontrolního pásu.
+
+## Publikace webu
+
+Změny ve složce se na GitHub dostávají skriptem `publikuj.bat` v kořeni
+repozitáře (spouští ho Plánovač úloh přes `publikuj-skryte.vbs`, aby neblikalo
+okno konzole). Skript uklidí zámky po spadlém běhu, zjistí, jestli je co
+publikovat, srovná se se vzdáleným repozitářem — zapisuje do něj i vrátný knihy
+návštěv — a teprve pak pushne. Průběh je v `publikuj.log`.
+
+Oba skripty jsou v `.gitignore`, protože patří k tomuhle počítači, ne na web.
