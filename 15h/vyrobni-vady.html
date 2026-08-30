@@ -58,6 +58,21 @@
 .vada-gal .tg-card .cell .pos{position:absolute;left:4px;top:4px;background:rgba(0,0,0,.55);color:#fff;font-size:.72rem;line-height:1;padding:3px 5px;border-radius:4px}
 .vada-gal .tg-cap{font-size:.8rem;text-align:left;color:#5d5049}
 @media(max-width:640px){.vada-gal .tg-card{width:46%}.vada-gal .tg-card.wide{width:96%}}
+
+.tf-fig{background:var(--cream);border:1px solid var(--line);border-radius:8px;padding:.5rem;max-width:660px;margin:1rem auto}
+.tf-svg{width:100%;height:auto;display:block}
+.tf-svg .tf-forme{fill:#6b5a4e}
+.tf-svg .tf-ink{fill:var(--brick)}
+.tf-svg .tf-paper{fill:#fffaf6;stroke:#d9c6ba;stroke-width:1.2}
+.tf-svg .tf-object{fill:#d8cabd;stroke:#b3a294;stroke-width:1}
+.tf-svg .tf-platen{fill:none;stroke:#8a7668;stroke-width:2}
+.tf-svg .tf-arrow{fill:none;stroke:#8a7668;stroke-width:2;marker-end:url(#tfArrow)}
+.tf-svg .tf-lead{fill:none;stroke:#b3a294;stroke-width:1.1;stroke-dasharray:3 3}
+.tf-svg .tf-cap{font-family:"Segoe UI",system-ui,sans-serif;font-size:11.5px;fill:var(--muted)}
+.tf-svg .tf-cap.mid{text-anchor:middle}
+.tf-svg .tf-cap.head{font-size:13px;fill:var(--brick-dark);font-weight:600}
+.tf-svg .tf-cap.tf-flaw{fill:var(--brick-dark);font-weight:600}
+@media(max-width:640px){.tf-svg .tf-cap{font-size:13px}}
 </style>
 <link rel="alternate" hreflang="cs" href="../15h/vyrobni-vady.html">
 <link rel="alternate" hreflang="en" href="../en/15h/vyrobni-vady.html">
@@ -207,12 +222,58 @@
 
 <div class="section" id="tisk">
   <h2><span class="cs">Vady tisku</span><span class="en">Printing flaws</span></h2>
+<div class="tf-fig"><svg class="tf-svg" viewBox="0 0 640 205" role="img" aria-labelledby="tfTitleA"><title id="tfTitleA">Nabarveni formy - co se pokazi</title><defs><marker id="tfArrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#8a7668"/></marker></defs><text class="tf-cap head mid" x="320" y="18">Nabarvení formy</text>
+<rect class="tf-forme" x="20" y="150" width="170" height="22"/>
+<rect class="tf-forme" x="75" y="120" width="60" height="30"/>
+<rect class="tf-ink" x="83" y="114" width="44" height="6"/>
+<rect class="tf-paper" x="20" y="38" width="170" height="10"/>
+<path class="tf-arrow" d="M 105 48 L 105 96"/>
+<rect class="tf-ink" x="83" y="48" width="44" height="5" opacity="0.35"/>
+<text class="tf-cap mid" x="105" y="182">málo barvy</text>
+<text class="tf-cap mid tf-flaw" x="105" y="197">→ světlina</text>
+<rect class="tf-forme" x="235" y="150" width="170" height="22"/>
+<rect class="tf-forme" x="290" y="120" width="60" height="30"/>
+<rect class="tf-ink" x="290" y="110" width="60" height="10"/>
+<rect class="tf-paper" x="235" y="38" width="170" height="10"/>
+<path class="tf-arrow" d="M 320 48 L 320 96"/>
+<rect class="tf-ink" x="290" y="48" width="60" height="6"/>
+<text class="tf-cap mid" x="320" y="182">v pořádku</text>
+<rect class="tf-forme" x="450" y="150" width="170" height="22"/>
+<rect class="tf-forme" x="505" y="120" width="60" height="30"/>
+<rect class="tf-ink" x="490" y="98" width="90" height="22"/>
+<rect class="tf-paper" x="450" y="38" width="170" height="10"/>
+<path class="tf-arrow" d="M 535 48 L 535 96"/>
+<rect class="tf-ink" x="490" y="48" width="95" height="7" opacity="0.30"/>
+<rect class="tf-ink" x="500" y="48" width="75" height="7" opacity="0.55"/>
+<text class="tf-cap mid" x="535" y="182">moc barvy</text>
+<text class="tf-cap mid tf-flaw" x="535" y="197">→ slitý tisk, závoj</text>
+</svg><figcaption><span class="cs">Nabarvení formy rozhoduje o výsledku: sníženina se zaschlou barvou dá při dalším tisku málo barvy → světlinu; přebytek barvy na vyvýšeném prvku se roztéká do stran → slitý tisk nebo závoj.</span><span class="en">The inking of the forme decides the outcome: a recess clogged with dried ink starves the next impression → a white spot (světlina); too much ink on a raised element spreads sideways → blurred print or a smear (závoj).</span></figcaption></div>
 <div class="vada" id="zdvojeny-tisk">
   <h3><span class="cs">Částečně zdvojený tisk</span><span class="en">Partly doubled print</span></h3>
   <p><span class="cs">Na těchto známkách se kresba dělí na dvě části <strong>rovnou vodorovnou hranicí</strong>. Nad ní je otisk čistý a ostrý, pod ní těžší, rozmazaný a místy zdvojený — obrysy se opakují posunuté o zlomek milimetru. Hranice je pravítkově rovná, s kresbou nemá nic společného a pokračuje i do bočních okrajů známky. Na všech čtyřech doložených kusech leží přibližně ve stejné výšce.</span><span class="en">On these stamps the design is divided into two parts by a <strong>straight horizontal boundary</strong>. Above it the impression is clean and sharp, below it heavier, smeared and in places doubled — the outlines repeat, displaced by a fraction of a millimetre. The boundary is ruler-straight, has nothing to do with the design and continues into the side margins of the stamp. On all four recorded copies it lies at roughly the same height.</span></p>
   <figure><img src="assets/img/zdvojeny/zdvojeny-detail.jpg" alt="detail hranice mezi ostrým a zdvojeným tiskem / detail of the boundary between sharp and doubled print" loading="lazy"><figcaption><span class="cs">Detail hranice (kus 4) — nahoře čistý otisk, dole rozmazaný a zdvojený. Předěl je rovný a běží i přes boční okraje.</span><span class="en">Detail of the boundary (item 4) — a clean impression above, a smeared and doubled one below. The division is straight and runs across the side margins as well.</span></figcaption></figure>
   <h4><span class="cs">Jak vada vznikla</span><span class="en">How the flaw arose</span></h4>
   <p><span class="cs">Příčina leží <strong>pod archem</strong>, ne v tiskové desce. Při tisku se pod arch dostal cizí předmět — nejspíš další list papíru: podložka, makulatura nebo přeložený roh archu. Jeho rovná hrana nadzvedla část tiskové plochy a od té chvíle se arch tiskl ve dvou různých výškách.</span><span class="en">The cause lies <strong>under the sheet</strong>, not in the printing plate. During printing a foreign object found its way beneath the sheet — most likely another piece of paper: an underlay, a spoiled sheet, or a folded corner of the sheet itself. Its straight edge lifted part of the printing surface, and from that moment the sheet was printed at two different heights.</span></p>
+<div class="tf-fig"><svg class="tf-svg" viewBox="0 0 640 240" role="img" aria-labelledby="tfTitleB"><title id="tfTitleB">Jak vznikl castecne zdvojeny tisk</title>
+<rect class="tf-forme" x="40" y="150" width="560" height="20"/>
+<rect class="tf-forme" x="40" y="140" width="560" height="10"/>
+<rect class="tf-ink" x="40" y="134" width="560" height="6"/>
+<rect class="tf-object" x="380" y="114" width="190" height="20" rx="2"/>
+<polygon class="tf-paper" points="40,134 380,134 380,114 600,114 600,122 380,122 380,140 40,140"/>
+<rect class="tf-platen" x="40" y="80" width="560" height="8"/>
+<path class="tf-arrow" d="M 130 52 L 130 78"/>
+<path class="tf-arrow" d="M 500 52 L 500 78"/>
+<text class="tf-cap mid" x="320" y="44">přítlak</text>
+<path class="tf-lead" d="M 460 100 L 460 114"/>
+<text class="tf-cap" x="420" y="98">cizí předmět pod archem</text>
+<path class="tf-lead" d="M 380 114 L 380 210"/>
+<rect class="tf-ink" x="40" y="188" width="330" height="10"/>
+<rect class="tf-ink" x="380" y="186" width="220" height="10" opacity="0.55"/>
+<rect class="tf-ink" x="388" y="191" width="212" height="10" opacity="0.55"/>
+<text class="tf-cap" x="140" y="206">čistý otisk</text>
+<text class="tf-cap" x="420" y="211">zdvojený / rozmazaný otisk</text>
+<text class="tf-cap" x="386" y="226">hranice</text>
+</svg><figcaption><span class="cs">Cizí předmět pod archem nadzvedl část tiskové plochy. Ta dosedla na formu dřív a s větším tlakem, papír se pod ním nepatrně posunul — proto je otisk za hranicí rozmazaný až zdvojený, zatímco zbytek archu zůstal čistý.</span><span class="en">A foreign object under the sheet lifted part of the printing area. That part met the forme sooner and under greater pressure, and the paper shifted slightly on it — which is why the impression beyond the boundary is smeared or doubled, while the rest of the sheet stayed clean.</span></figcaption></div>
   <ul>
 <li><span class="cs">Nadzvednutá část dosedla na formu dřív a s větším tlakem, než na jakou byl stroj seřízen.</span><span class="en">The raised part met the forme sooner and under greater pressure than the press was set for.</span></li>
 <li><span class="cs">Pod přetlakem se papír na formě nepatrně posunul a otisk se rozmazal až zdvojil — proto se obrysy opakují jen o zlomek milimetru vedle sebe.</span><span class="en">Under that excess pressure the paper shifted slightly on the forme and the impression smeared or doubled — which is why the outlines repeat only a fraction of a millimetre apart.</span></li>
