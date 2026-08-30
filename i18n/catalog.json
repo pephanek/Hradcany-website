@@ -112,6 +112,17 @@
   "fr": "30h planche V",
   "tag": "alt"
  },
+ "019d15ffcd": {
+  "cs": "Šestadvacet známek na dvaceti čtyřech kusech — dvacet dva jednotlivých, jeden nezoubkovaný vodorovný pár (kus 1) a jeden svislý pár (kus 23). Kliknutím se ukázka zvětší.",
+  "de": "Sechsundzwanzig Marken auf vierundzwanzig Stücken — zweiundzwanzig Einzelstücke, ein ungezähntes waagerechtes Paar (Stück 1) und ein senkrechtes Paar (Stück 23). Klicken Sie auf ein Stück, um es zu vergrößern.",
+  "en": "Twenty-six stamps on twenty-four items — twenty-two singles, one imperforate horizontal pair (item 1) and one vertical pair (item 23). Click a specimen to enlarge it.",
+  "es": "Veintiséis sellos en veinticuatro piezas — veintidós individuales, una pareja horizontal sin dentar (pieza 1) y una pareja vertical (pieza 23). Haga clic en un ejemplar para ampliarlo.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Vingt-six timbres sur vingt-quatre pièces — vingt-deux isolés, une paire horizontale non dentelée (pièce 1) et une paire verticale (pièce 23). Cliquez sur un exemplaire pour l'agrandir.",
+  "tag": "span"
+ },
  "020fd8e3f4": {
   "cs": "ZP 11 v galerii TD II",
   "de": "Feld 11 in der Galerie der Platte II",
@@ -2361,6 +2372,17 @@
   "fr": "15h rouge brique",
   "tag": "span"
  },
+ "266849f7e9": {
+  "cs": "Kus s čitelným razítkem 1. VI. 1920. Hranice probíhá těsně pod obloukem, ve výši horních věží Hradčan.",
+  "de": "Ein Exemplar mit einem lesbaren Stempel vom 1. Juni 1920. Die Grenze verläuft knapp unterhalb des Bogens, auf Höhe der oberen Türme des Hradschin.",
+  "en": "A copy with a legible cancel of 1 June 1920. The boundary runs just below the arch, at the level of the upper towers of Hradčany.",
+  "es": "Un ejemplar con un matasellos legible del 1 de junio de 1920. El límite pasa justo debajo del arco, a la altura de las torres superiores del Hradčany.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Exemplaire avec une oblitération lisible du 1er juin 1920. La limite passe juste sous l'arc, au niveau des tours supérieures du Hradčany.",
+  "tag": "span"
+ },
  "269d0d459c": {
   "cs": "zoubkovaná A (13&frac34;:13&frac12;)",
   "de": "gezähnt A (13&frac34;:13&frac12;)",
@@ -3723,6 +3745,17 @@
   "fr": "<tspan x=\"76\" y=\"168\">marges égales sur</tspan><tspan x=\"76\" y=\"181\">les quatre côtés</tspan>",
   "tag": "cap"
  },
+ "38f1e08afa": {
+  "cs": "Kus 24 — Svislá vráska při levém okraji, na kusu s přetiskem SO 1920 (pole 92/I).",
+  "de": "Stück 24 — Senkrechte Knickfalte am linken Rand, auf einem Stück mit dem Aufdruck SO 1920 (Feld 92/I).",
+  "en": "Item 24 — A vertical crease along the left edge, on a copy with the SO 1920 overprint (field 92/I).",
+  "es": "Pieza 24 — Un pliegue vertical junto al margen izquierdo, en un ejemplar con la sobrecarga SO 1920 (campo 92/I).",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Pièce 24 — Pli vertical le long du bord gauche, sur un exemplaire portant la surcharge SO 1920 (champ 92/I).",
+  "tag": "span"
+ },
  "3917b89da1": {
   "cs": "Známky emise",
   "de": "Marken der Ausgabe",
@@ -5080,6 +5113,17 @@
    "15h/index.html"
   ],
   "fr": "Les premiers timbres tchécoslovaques sont nés dans la période précipitée qui a suivi la naissance de la république. Le 1er novembre 1918, le conseiller ministériel Viliam Elias proposa le motif de Hradčany et, dès le 18 décembre 1918, parurent les premières valeurs, 5 h et 10 h. L’émission Hradčany a finalement comporté cinq dessins différents et 26 valeurs, dont 14 ont paru également en version dentelée.",
+  "tag": "span"
+ },
+ "49cd1de30a": {
+  "cs": "Svislá vráska při levém okraji, na kusu s přetiskem SO 1920 (pole 92/I).",
+  "de": "Senkrechte Knickfalte am linken Rand, auf einem Stück mit dem Aufdruck SO 1920 (Feld 92/I).",
+  "en": "A vertical crease along the left edge, on a copy with the SO 1920 overprint (field 92/I).",
+  "es": "Un pliegue vertical junto al margen izquierdo, en un ejemplar con la sobrecarga SO 1920 (campo 92/I).",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Pli vertical le long du bord gauche, sur un exemplaire portant la surcharge SO 1920 (champ 92/I).",
   "tag": "span"
  },
  "4a4435ba25": {
@@ -8040,6 +8084,17 @@
   "fr": "Pièce 16 — Pli horizontal en travers du milieu du dessin, sur toute la largeur du timbre.",
   "tag": "cap"
  },
+ "716cd166be": {
+  "cs": "A (TD 1–2)",
+  "de": "A (Platten 1–2)",
+  "en": "A (plates 1–2)",
+  "es": "A (planchas 1–2)",
+  "files": [
+   "15h/zoubkovani.html"
+  ],
+  "fr": "A (planches 1–2)",
+  "tag": "span"
+ },
  "7178359419": {
   "cs": "4. kresba",
   "de": "4. Zeichnung",
@@ -9765,6 +9820,17 @@
   "fr": "B 1–2",
   "tag": "span"
  },
+ "86983999fb": {
+  "cs": "Kus 5 — Kus s čitelným razítkem 1. VI. 1920. Hranice probíhá těsně pod obloukem, ve výši horních věží Hradčan.",
+  "de": "Stück 5 — Ein Exemplar mit einem lesbaren Stempel vom 1. Juni 1920. Die Grenze verläuft knapp unterhalb des Bogens, auf Höhe der oberen Türme des Hradschin.",
+  "en": "Item 5 — A copy with a legible cancel of 1 June 1920. The boundary runs just below the arch, at the level of the upper towers of Hradčany.",
+  "es": "Pieza 5 — Un ejemplar con un matasellos legible del 1 de junio de 1920. El límite pasa justo debajo del arco, a la altura de las torres superiores del Hradčany.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Pièce 5 — Exemplaire avec une oblitération lisible du 1er juin 1920. La limite passe juste sous l'arc, au niveau des tours supérieures du Hradčany.",
+  "tag": "span"
+ },
  "86b3aa3ed7": {
   "cs": "(ZP 47/VI)",
   "de": "(Feld 47/VI)",
@@ -9847,6 +9913,17 @@
   ],
   "fr": "Types — galerie des timbres — Hradčany 15h",
   "tag": "attr"
+ },
+ "87f0a5eea9": {
+  "cs": "Z 6 478 čitelně datovaných razítek. Pořadí ukazuje, jak výroba postupovala od řádkových zoubkování D/E/F na raných deskách k hřebenovým A/B na deskách pozdějších.",
+  "de": "Von 6.478 lesbar datierten Stempeln. Die Reihenfolge zeigt, wie die Produktion von den Linienzähnungen D/E/F auf den frühen Platten zu den Kammzähnungen A/B auf den späteren Platten überging.",
+  "en": "From 6,478 legibly dated cancellations. The sequence shows production moving from line perforations D/E/F on the early plates to comb perforations A/B on the later ones.",
+  "es": "De 6478 matasellos legiblemente fechados. La secuencia muestra cómo la producción avanzó de los dentados en línea D/E/F en las planchas tempranas a los dentados en peine A/B en las planchas posteriores.",
+  "files": [
+   "15h/zoubkovani.html"
+  ],
+  "fr": "Sur la base de 6 478 oblitérations lisiblement datées. La séquence montre la production passer des dentelures en lignes D/E/F sur les planches précoces aux dentelures en peigne A/B sur les planches plus tardives.",
+  "tag": "span"
  },
  "8807d7ac12": {
   "cs": "Vše",
@@ -16310,6 +16387,17 @@
   "files": [],
   "fr": "Pièce 3 — Exemplaire à oblitération dense ; la limite se trahit par une séparation horizontale à la hauteur des tours, surtout lisible dans la partie droite du timbre.",
   "tag": "cap"
+ },
+ "d94e5d24a0": {
+  "cs": "Z 6 477 čitelně datovaných razítek. Pořadí ukazuje, jak výroba postupovala od řádkových zoubkování D/E/F na raných deskách k hřebenovým A/B na deskách pozdějších.",
+  "de": "Von 6.477 lesbar datierten Stempeln. Die Reihenfolge zeigt, wie die Produktion von den Linienzähnungen D/E/F auf den frühen Platten zu den Kammzähnungen A/B auf den späteren Platten überging.",
+  "en": "From 6,477 legibly dated cancellations. The sequence shows production moving from line perforations D/E/F on the early plates to comb perforations A/B on the later ones.",
+  "es": "De 6477 matasellos legiblemente fechados. La secuencia muestra cómo la producción avanzó de los dentados en línea D/E/F en las planchas tempranas a los dentados en peine A/B en las planchas posteriores.",
+  "files": [
+   "15h/zoubkovani.html"
+  ],
+  "fr": "Sur la base de 6 477 oblitérations lisiblement datées. La séquence montre la production passer des dentelures en lignes D/E/F sur les planches précoces aux dentelures en peigne A/B sur les planches plus tardives.",
+  "tag": "span"
  },
  "d9da9d317c": {
   "cs": "Výrazný šikmý záhyb od horního okraje k dolnímu. Podél něj je kresba světlejší a obě strany záhybu na sebe nenavazují.",
