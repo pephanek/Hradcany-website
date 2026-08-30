@@ -221,6 +221,17 @@
   "fr": "60h planche II",
   "tag": "alt"
  },
+ "03ee3cafcd": {
+  "cs": "shoduje se s produkčním tiskem — žádná pozdější úprava kresby",
+  "de": "stimmt mit dem Produktionsdruck überein — keine spätere Änderung der Zeichnung",
+  "en": "matches the production printing — no later alteration to the design",
+  "es": "coincide con la impresión de producción — sin alteración posterior del dibujo",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "correspond à l'impression de production — aucune modification ultérieure du dessin",
+  "tag": "span"
+ },
  "03fa6c7fc1": {
   "cs": "bod Košice na mapě razítek",
   "de": "der Punkt Košice auf der Stempelkarte",
@@ -324,6 +335,17 @@
    "typy-pate-kresby.html"
   ],
   "fr": "Les types se répartissent en quatre catégories :",
+  "tag": "span"
+ },
+ "0632dcc428": {
+  "cs": "Zkušební tisk 15h v černé barvě, nezoubkovaný. Známkové pole 68 první tiskové desky.",
+  "de": "Ein Probedruck der 15h in Schwarz, ungezähnt. Markenfeld 68 der ersten Druckplatte.",
+  "en": "A proof of the 15h in black, imperforate. Stamp field 68 of the first printing plate.",
+  "es": "Una prueba del 15h en negro, sin dentar. Campo 68 de la primera plancha.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "Une épreuve du 15h en noir, non dentelée. Champ 68 de la première planche.",
   "tag": "span"
  },
  "0655ad83da": {
@@ -862,6 +884,17 @@
   "fr": "Somme des groupes",
   "tag": "span"
  },
+ "0cee595d0e": {
+  "cs": "Vlevo zkušební tisk v černé barvě, vpravo produkční pole 68/I ve stejném měřítku. Kresba, včetně drobných detailů rámečku, je totožná.",
+  "de": "Der Probedruck in Schwarz links, das Produktionsfeld 68/I im gleichen Maßstab rechts. Die Zeichnung, einschließlich der kleinen Rahmendetails, ist identisch.",
+  "en": "The proof in black on the left, the production field 68/I at the same scale on the right. The drawing, including the small details of the frame, is identical.",
+  "es": "La prueba en negro a la izquierda, el campo de producción 68/I a la misma escala a la derecha. El dibujo, incluidos los pequeños detalles del marco, es idéntico.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "L'épreuve en noir à gauche, le champ de production 68/I à la même échelle à droite. Le dessin, y compris les petits détails du cadre, est identique.",
+  "tag": "span"
+ },
  "0cf3b462f6": {
   "cs": "Kniha návštěv",
   "de": "Gästebuch",
@@ -1297,6 +1330,17 @@
    "15h/statistiky.html"
   ],
   "fr": "Chaque groupe séparément — un clic sur une entrée de la légende la masque ou l’affiche.",
+  "tag": "span"
+ },
+ "161b3ef70e": {
+  "cs": "černá — barva, ve které známka nikdy nevyšla",
+  "de": "schwarz — eine Farbe, in der die Marke nie erschienen ist",
+  "en": "black — a colour in which the stamp never appeared",
+  "es": "negro — un color en el que el sello nunca se emitió",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "noir — une couleur dans laquelle le timbre n'a jamais paru",
   "tag": "span"
  },
  "1625f481db": {
@@ -1798,6 +1842,17 @@
    "tiskove-desky.html"
   ],
   "fr": "Schémas des planches d’impression (Radek Novák) — cliquez pour télécharger",
+  "tag": "span"
+ },
+ "1fb411fee9": {
+  "cs": "POFIS 7 (15h)",
+  "de": "POFIS 7 (die 15h)",
+  "en": "POFIS 7 (the 15h)",
+  "es": "POFIS 7 (el 15h)",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "POFIS 7 (le 15h)",
   "tag": "span"
  },
  "1fdb270f84": {
@@ -2339,6 +2394,17 @@
   ],
   "fr": "Deux réserves. Le relief peut s’effacer — sur les pièces qui ont subi un trempage, un lavage ou une mise sous presse dans l’album, il peut être à peine perceptible, et son absence ne prouve donc rien en soi. Et inversement : le relief est un indice, non un certificat. Là où la détermination compte vraiment, il ne saurait le remplacer.",
   "tag": "span"
+ },
+ "27198fda01": {
+  "cs": "celý arch 15h v černé barvě, nezoubkovaný / a full pane of the 15h in black, imperforate",
+  "de": "celý arch 15h v černé barvě, nezoubkovaný / a full pane of the 15h in black, imperforate",
+  "en": "celý arch 15h v černé barvě, nezoubkovaný / a full pane of the 15h in black, imperforate",
+  "es": "celý arch 15h v černé barvě, nezoubkovaný / a full pane of the 15h in black, imperforate",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "celý arch 15h v černé barvě, nezoubkovaný / a full pane of the 15h in black, imperforate",
+  "tag": "alt"
  },
  "271f10f434": {
   "cs": "Hradčany 15h (POFIS 7) — specializovaná stránka: tiskové desky, odstíny, typy, zoubkování, statistiky. / Specialised site on the 15h Hradčany stamp.",
@@ -4223,6 +4289,17 @@
   "fr": "Pli de papier — pièce 8",
   "tag": "alt"
  },
+ "3f8f106097": {
+  "cs": "Pole 68/I tak doplňuje pole 96/I z opačné strany: na 96/I zkušební tisk zachytil formu ještě před dvěma úpravami, na 68/I byla forma v době tohoto otisku už definitivní. Ne všechna pole desky I se tedy v době zkušebních tisků nacházela ve stejném stavu rozpracování.",
+  "de": "Feld 68/I ergänzt somit Feld 96/I von der anderen Seite: Bei 96/I hielt der Probedruck die Druckform noch vor zwei Änderungen fest, bei 68/I war die Druckform zum Zeitpunkt dieses Abdrucks bereits endgültig. Nicht alle Felder der Platte I befanden sich also zum Zeitpunkt der Probedrucke im selben Fertigstellungsstadium.",
+  "en": "Field 68/I complements field 96/I from the opposite side: on 96/I the proof caught the forme before two alterations, on 68/I the forme was already definitive at the time of this impression. Not every field of plate I, then, was at the same stage of completion when the proofs were pulled.",
+  "es": "El campo 68/I complementa así al campo 96/I desde el lado opuesto: en 96/I la prueba capturó la forma antes de dos modificaciones, en 68/I la forma ya era definitiva en el momento de esta impresión. No todos los campos de la plancha I se encontraban, pues, en la misma fase de acabado cuando se tiraron las pruebas.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "Le champ 68/I complète ainsi le champ 96/I depuis l'autre côté : sur 96/I l'épreuve a saisi la forme avant deux modifications, sur 68/I la forme était déjà définitive au moment de ce tirage. Tous les champs de la planche I n'étaient donc pas au même stade d'achèvement lors du tirage des épreuves.",
+  "tag": "span"
+ },
  "3f9cbdc815": {
   "cs": "11&frac12; : 13&frac34; řádkové",
   "de": "11&frac12; : 13&frac34; Linienzähnung",
@@ -4778,6 +4855,17 @@
   "fr": "Statistiques du 15h",
   "tag": "span"
  },
+ "473be7472e": {
+  "cs": "Celý arch v černé barvě — kontrolní čísla",
+  "de": "Ein vollständiger schwarzer Bogen — die Kontrollzahlen",
+  "en": "A full black pane — the control numbers",
+  "es": "Una hoja completa en negro — las cifras de control",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "Une feuille complète en noir — les chiffres de contrôle",
+  "tag": "span"
+ },
  "4746cf41cc": {
   "cs": "Tisková deska IV",
   "de": "Druckplatte IV",
@@ -4877,6 +4965,17 @@
    "pata-kresba.html"
   ],
   "fr": "Tirage : non dentelés 7&nbsp;769&nbsp;000 · Dentelure : – · Date d’émission : 19.&nbsp;8.&nbsp;1919 · <a href=\"typy-pate-kresby.html\">Types du cinquième dessin</a>",
+  "tag": "span"
+ },
+ "48709b2927": {
+  "cs": "Kontrolní čísla jsou postupně rostoucí částky vytištěné pod každým sloupcem deseti známek — 1.50, 3.-, 4.50, 6.-, 7.50, 9.-, 10.50, 12.-, 13.50, až 15.- Kč za celý arch (10 × 15 h = 1,50 Kč na sloupec). Poštovní úředník tak mohl ověřit, že v archu nechybí žádná známka, jen porovnáním posledního vytištěného čísla s cenou celého archu, bez nutnosti počítat jednotlivé kusy.",
+  "de": "Die Kontrollzahlen sind fortlaufend steigende Summen, die unter jeder Spalte von zehn Marken aufgedruckt sind — 1.50, 3.-, 4.50, 6.-, 7.50, 9.-, 10.50, 12.-, 13.50, bis 15.- Kč für den gesamten Bogen (10 × 15h = 1,50 Kč pro Spalte). Ein Postbeamter konnte so überprüfen, dass im Bogen keine Marke fehlte, indem er lediglich die zuletzt aufgedruckte Zahl mit dem Preis des gesamten Bogens verglich, ohne die einzelnen Marken zählen zu müssen.",
+  "en": "The control numbers are running totals printed beneath each column of ten stamps — 1.50, 3.-, 4.50, 6.-, 7.50, 9.-, 10.50, 12.-, 13.50, up to 15.- Kč for the whole pane (10 × 15h = 1.50 Kč per column). A post-office clerk could therefore confirm that no stamp was missing from the sheet simply by checking the last printed figure against the price of the full pane, without having to count the individual stamps.",
+  "es": "Las cifras de control son totales acumulados impresos bajo cada columna de diez sellos — 1.50, 3.-, 4.50, 6.-, 7.50, 9.-, 10.50, 12.-, 13.50, hasta 15.- Kč para la hoja completa (10 × 15h = 1,50 Kč por columna). Un funcionario de correos podía así comprobar que no faltaba ningún sello en la hoja simplemente comparando la última cifra impresa con el precio de la hoja completa, sin necesidad de contar los sellos uno a uno.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "Les chiffres de contrôle sont des totaux cumulés imprimés sous chaque colonne de dix timbres — 1.50, 3.-, 4.50, 6.-, 7.50, 9.-, 10.50, 12.-, 13.50, jusqu'à 15.- Kč pour la feuille entière (10 × 15h = 1,50 Kč par colonne). Un employé des postes pouvait ainsi vérifier qu'il ne manquait aucun timbre dans la feuille en comparant simplement le dernier chiffre imprimé au prix de la feuille complète, sans avoir à compter les timbres un par un.",
   "tag": "span"
  },
  "4889a7cb62": {
@@ -6248,6 +6347,17 @@
   ],
   "fr": "Quatrième dessin — Collectionner les Hradčany",
   "tag": "attr"
+ },
+ "5a7812d9ff": {
+  "cs": "Vedle jednotlivých zkušebních tisků se dochoval i celý arch (10×10 polí) POFIS 7 (15h) vytištěný celý v černé barvě, nezoubkovaný — stejný účel jako u ostatních zkušebních tisků, tentokrát ale na úrovni celého archu místo jediného pole. Rozmezí let 1918–1920 odpovídá období, kdy se na arších tohoto vydání tiskla takzvaná kontrolní čísla.",
+  "de": "Neben den einzelnen Probedrucken ist auch ein vollständiger Bogen (10×10 Felder) von POFIS 7 (der 15h) erhalten geblieben, vollständig in Schwarz gedruckt und ungezähnt — derselbe Zweck wie bei den übrigen Probedrucken, diesmal jedoch auf der Ebene eines ganzen Bogens statt eines einzelnen Feldes. Der Zeitraum 1918–1920 entspricht der Periode, in der die Bögen dieser Ausgabe die sogenannten Kontrollzahlen trugen.",
+  "en": "Besides the individual proofs, a full pane (10×10 fields) of POFIS 7 (the 15h) has also survived, printed entirely in black and imperforate — the same purpose as the other proofs, but at the level of a whole pane rather than a single field. The span 1918–1920 corresponds to the period in which this issue's sheets carried what are called control numbers.",
+  "es": "Además de las pruebas individuales, también se ha conservado una hoja completa (10×10 campos) de POFIS 7 (el 15h), impresa enteramente en negro y sin dentar — el mismo propósito que las demás pruebas, pero esta vez a escala de una hoja entera en lugar de un solo campo. El período 1918–1920 corresponde a la época en que las hojas de esta emisión llevaban las llamadas cifras de control.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "Outre les épreuves individuelles, une feuille complète (10×10 champs) de POFIS 7 (le 15h) a également été conservée, imprimée entièrement en noir et non dentelée — le même objectif que pour les autres épreuves, mais cette fois à l'échelle d'une feuille entière plutôt que d'un seul champ. La période 1918–1920 correspond à l'époque où les feuilles de cette émission portaient ce que l'on appelle les chiffres de contrôle.",
+  "tag": "span"
  },
  "5a9854528a": {
   "cs": "Počet zubů na téže straně proto kolísá kus od kusu a krajní zub bývá neúplný.",
@@ -9531,6 +9641,17 @@
   "fr": "Aucun",
   "tag": "ui"
  },
+ "857aa61703": {
+  "cs": "Detail dolního okraje archu: poslední řada známek a pod ní kontrolní čísla rostoucí po 1,50 Kč na každých deset známek.",
+  "de": "Detail des unteren Bogenrands: die letzte Markenreihe und darunter die Kontrollzahlen, die je zehn Marken um 1,50 Kč ansteigen.",
+  "en": "Detail of the sheet's bottom margin: the last row of stamps and, beneath it, the control numbers rising by 1.50 Kč for every ten stamps.",
+  "es": "Detalle del margen inferior de la hoja: la última fila de sellos y, debajo, las cifras de control que aumentan en 1,50 Kč cada diez sellos.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "Détail du bas de la feuille : la dernière rangée de timbres et, en dessous, les chiffres de contrôle augmentant de 1,50 Kč tous les dix timbres.",
+  "tag": "span"
+ },
  "8582dac5dd": {
   "cs": "Kus 4 — Posun dolů — horní řada leží těsně nad rámečkem, dole zbyl široký okraj.",
   "de": "Stück 4 — Verschiebung nach unten — die obere Reihe liegt dicht über dem Rahmen, unten blieb ein breiter Rand.",
@@ -10636,6 +10757,17 @@
   "fr": "Galerie — planche d’impression I",
   "tag": "span"
  },
+ "9466dec886": {
+  "cs": "Celý arch zkušebního tisku 15h v černé barvě. V dolní části archu jsou vytištěna kontrolní čísla.",
+  "de": "Vollständiger Bogen des Probedrucks der 15h in Schwarz. Im unteren Teil des Bogens sind die Kontrollzahlen aufgedruckt.",
+  "en": "A full pane of the 15h proof in black. Along the bottom of the sheet the control numbers are printed.",
+  "es": "Hoja completa de la prueba del 15h en negro. En la parte inferior de la hoja están impresas las cifras de control.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "Feuille complète de l'épreuve du 15h en noir. Les chiffres de contrôle sont imprimés dans la partie inférieure de la feuille.",
+  "tag": "span"
+ },
  "946829ea9f": {
   "cs": "Dva kusy se závojem pod hodnotovým oválem — na kartě vpravo je odkaz na pole 35/V.",
   "de": "Zwei Stück mit Schleier unter dem Wertoval — die Karte rechts verweist auf Feld 35/V.",
@@ -11118,6 +11250,17 @@
    "15h/vyrobni-vady.html"
   ],
   "fr": "La limite passe approximativement par le milieu du timbre. Au-dessus, l’impression est nette ; au-dessous, plus lourde et aux contours diffus.",
+  "tag": "span"
+ },
+ "995fc8c35f": {
+  "cs": "68 / TD I",
+  "de": "68 / Platte I",
+  "en": "68 / plate I",
+  "es": "68 / plancha I",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "68 / planche I",
   "tag": "span"
  },
  "998cd71899": {
@@ -11605,6 +11748,17 @@
    "15h/zoubkovani.html"
   ],
   "fr": "Code",
+  "tag": "span"
+ },
+ "9d8b6b7513": {
+  "cs": "ZP 68/I — černý zkušební tisk, definitivní stav kresby",
+  "de": "Feld 68/I — ein schwarzer Probedruck, der endgültige Zustand der Zeichnung",
+  "en": "Field 68/I — a black proof, the design's final state",
+  "es": "Campo 68/I — una prueba en negro, el estado definitivo del dibujo",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "Champ 68/I — une épreuve noire, l'état définitif du dessin",
   "tag": "span"
  },
  "9db41c5438": {
@@ -12374,6 +12528,17 @@
   "fr": "5h planche IV",
   "tag": "alt"
  },
+ "a740a7197b": {
+  "cs": "nezoubkovaný arch, 10×10 polí",
+  "de": "ungezähnter Bogen, 10×10 Felder",
+  "en": "imperforate pane, 10×10 fields",
+  "es": "hoja sin dentar, 10×10 campos",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "feuille non dentelée, 10×10 champs",
+  "tag": "span"
+ },
  "a752db7fef": {
   "cs": "500h VIII. TD",
   "de": "500h Platte VIII",
@@ -12713,6 +12878,17 @@
   "fr": "L’épreuve à côté de la position de production 96/I",
   "tag": "cap"
  },
+ "abcaf0526e": {
+  "cs": "nezoubkovaný",
+  "de": "ungezähnt",
+  "en": "imperforate",
+  "es": "sin dentar",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "non dentelé",
+  "tag": "span"
+ },
  "abe038f50b": {
   "cs": "ZP 78 / TD II",
   "de": "Feld 78 / Platte II",
@@ -13001,6 +13177,17 @@
    "druha-kresba.html"
   ],
   "fr": "200h – outremer",
+  "tag": "span"
+ },
+ "b0371dece7": {
+  "cs": "Období",
+  "de": "Zeitraum",
+  "en": "Period",
+  "es": "Período",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "Période",
   "tag": "span"
  },
  "b04c37ebad": {
@@ -13973,6 +14160,17 @@
   ],
   "fr": "300h — planche d’impression I",
   "tag": "span"
+ },
+ "bb665e0ea4": {
+  "cs": "zkušební tisk vedle produkčního ZP 68/I / the proof beside the production field 68/I",
+  "de": "zkušební tisk vedle produkčního ZP 68/I / the proof beside the production field 68/I",
+  "en": "zkušební tisk vedle produkčního ZP 68/I / the proof beside the production field 68/I",
+  "es": "zkušební tisk vedle produkčního ZP 68/I / the proof beside the production field 68/I",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "zkušební tisk vedle produkčního ZP 68/I / the proof beside the production field 68/I",
+  "tag": "alt"
  },
  "bbc340ceab": {
   "cs": "Stupně posunu",
@@ -15978,6 +16176,17 @@
   "fr": "Pli traversant tout le timbre — depuis le bord gauche, il monte légèrement vers la droite et interrompt à la fois le dessin et l’inscription.",
   "tag": "span"
  },
+ "d79d9e3457": {
+  "cs": "krémový, jemně strukturovaný",
+  "de": "cremefarben, fein strukturiert",
+  "en": "cream, finely textured",
+  "es": "crema, de grano fino",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "crème, à grain fin",
+  "tag": "span"
+ },
  "d7a4c11de1": {
   "cs": "Muchova kresba musela nejdřív dostat podobu tisknoucího reliéfu. Z hotového prvku se pak sestavila <strong>tisková forma o sto známkových polích</strong> — tedy sto jednotlivých obrazů vedle sebe, nikoli jeden obraz stokrát. Právě tady vzniká celá dnešní specializace: cokoli se mezi těmi sty prvky liší, liší se <strong>pořád a na stejném místě</strong>.",
   "de": "Muchas Zeichnung musste zunächst die Gestalt eines druckenden Reliefs erhalten. Aus dem fertigen Element wurde dann eine <strong>Druckform mit hundert Markenfeldern</strong> zusammengesetzt — also hundert einzelne Bilder nebeneinander, nicht ein Bild hundertmal. Genau hier entsteht die ganze heutige Spezialisierung: Was sich unter diesen hundert Elementen unterscheidet, unterscheidet sich <strong>immer und an derselben Stelle</strong>.",
@@ -17953,6 +18162,17 @@
   "fr": "article sur la découverte",
   "tag": "span"
  },
+ "f249292b40": {
+  "cs": "detail kontrolních čísel v dolním okraji archu / detail of the control numbers along the bottom margin",
+  "de": "detail kontrolních čísel v dolním okraji archu / detail of the control numbers along the bottom margin",
+  "en": "detail kontrolních čísel v dolním okraji archu / detail of the control numbers along the bottom margin",
+  "es": "detail kontrolních čísel v dolním okraji archu / detail of the control numbers along the bottom margin",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "detail kontrolních čísel v dolním okraji archu / detail of the control numbers along the bottom margin",
+  "tag": "alt"
+ },
  "f278e7bd44": {
   "cs": "ZP 5 / TD I",
   "de": "Feld 5 / Platte I",
@@ -17994,6 +18214,17 @@
   "files": [],
   "fr": "5h vert clair",
   "tag": "cap"
+ },
+ "f34479ebae": {
+  "cs": "Na rozdíl od pole 96/I je tohle pole opačným příkladem. Ve srovnání s produkčním otiskem téhož pole (evidenční sada pozic desky I) je kresba shodná do posledního detailu — včetně drobné nepravidelnosti v levém horním rohu rámečku, kterou má pole 68 jako svůj identifikační znak na všech tiskových deskách. Ta je vidět stejně na zkušebním tisku i na produkčním kuse, takže tu mezi oběma otisky k žádnému zásahu do formy nedošlo.",
+  "de": "Im Gegensatz zu Feld 96/I ist dieses Feld der umgekehrte Fall. Im Vergleich mit dem Produktionsabdruck desselben Feldes (aus der Referenzsammlung der Positionen von Platte I) stimmt die Zeichnung bis ins letzte Detail überein — einschließlich einer kleinen Unregelmäßigkeit in der oberen linken Ecke des Rahmens, die Feld 68 als sein Erkennungsmerkmal auf allen Druckplatten trägt. Sie erscheint auf dem Probedruck ebenso wie auf dem Produktionsstück, sodass zwischen den beiden Abdrucken kein Eingriff in die Druckform erfolgte.",
+  "en": "Unlike field 96/I, this field is the opposite case. Set beside the production impression of the same field (from the reference set of plate I positions), the drawing matches down to the last detail — including a small irregularity in the top left corner of the frame that field 68 carries as its identifying mark on every printing plate. It appears identically on both the proof and the production copy, so no alteration was made to the forme between the two impressions.",
+  "es": "A diferencia del campo 96/I, este campo es el caso contrario. Comparado con la impresión de producción del mismo campo (del conjunto de referencia de posiciones de la plancha I), el dibujo coincide hasta el último detalle, incluida una pequeña irregularidad en la esquina superior izquierda del marco que el campo 68 lleva como su marca identificativa en todas las planchas de impresión. Aparece de forma idéntica tanto en la prueba como en el ejemplar de producción, por lo que no se realizó ninguna intervención en la forma entre ambas impresiones.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "Contrairement au champ 96/I, ce champ constitue le cas inverse. Comparé à l'impression de production du même champ (série de référence des positions de la planche I), le dessin correspond jusqu'au moindre détail — y compris une petite irrégularité dans le coin supérieur gauche du cadre, que le champ 68 porte comme marque d'identification sur toutes les planches d'impression. Elle apparaît de façon identique sur l'épreuve comme sur l'exemplaire de production : aucune intervention sur la forme n'a donc eu lieu entre les deux tirages.",
+  "tag": "span"
  },
  "f3461e4f69": {
   "cs": "10h VII. TD",
