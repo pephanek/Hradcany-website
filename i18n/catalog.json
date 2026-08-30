@@ -232,6 +232,17 @@
   "fr": "le point Košice sur la carte des oblitérations",
   "tag": "span"
  },
+ "042349b89b": {
+  "cs": "V horní části kresby při pravém okraji, poblíž nápisu „POŠTA“.",
+  "de": "Im oberen Teil der Zeichnung, rechts von der Inschrift „POŠTA“.",
+  "en": "In the upper part of the design, right of the “POŠTA” inscription.",
+  "es": "En la parte superior del dibujo, a la derecha de la inscripción «POŠTA».",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Dans la partie supérieure du dessin, à droite de l'inscription « POŠTA ».",
+  "tag": "span"
+ },
  "0426988cda": {
   "cs": "1000h III. TD",
   "de": "1000h Platte III",
@@ -374,6 +385,17 @@
   "files": [],
   "fr": "1000h planche VIII",
   "tag": "alt"
+ },
+ "0705f592dd": {
+  "cs": "Na inkovacím válci nebo přímo na tiskové formě ulpí smítko — kousek zaschlé barvy, nečistota nebo papírové vlákno napuštěné barvou. Otiskne se jen v tom jednom místě jednoho archu; zbytek tisku tím není dotčen. Podle tvaru a velikosti smítka vznikne buď plná skvrna, nebo — když se otiskl hlavně jeho obvod — prstýnek.",
+  "de": "Auf der Farbwalze oder direkt auf der Druckform bleibt ein Krümel haften — ein Stückchen getrockneter Farbe, Schmutz oder eine mit Farbe getränkte Papierfaser. Er druckt sich nur an dieser einen Stelle eines einzigen Bogens ab; der übrige Druck bleibt davon unberührt. Je nach Form und Größe des Krümels entsteht entweder ein voller Fleck oder — wenn hauptsächlich sein Rand Kontakt hatte — ein kleiner Ring.",
+  "en": "A speck lodges on the inking roller or on the printing forme itself — a bit of dried ink, dirt, or a paper fibre soaked in ink. It prints only at that one spot on one sheet; the rest of the impression is unaffected. Depending on the speck's shape and size the result is either a solid spot, or — when mainly its rim made contact — a small ring.",
+  "es": "En el rodillo entintador o directamente en la forma de imprenta se adhiere una motita — un trocito de tinta seca, suciedad o una fibra de papel empapada en tinta. Se imprime solo en ese único lugar de un pliego; el resto de la tirada no se ve afectado. Según la forma y el tamaño de la motita, el resultado es una mancha maciza o bien — cuando ha hecho contacto sobre todo su borde — un pequeño anillo.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Un grain se dépose sur le rouleau encreur ou directement sur la forme d'impression — un fragment d'encre séchée, une impureté ou une fibre de papier imbibée d'encre. Il ne s'imprime qu'à cet unique endroit d'une seule feuille ; le reste du tirage n'en est pas affecté. Selon la forme et la taille du grain, il en résulte soit une tache pleine, soit — lorsque c'est surtout son pourtour qui a touché — un petit anneau.",
+  "tag": "span"
  },
  "076464b196": {
   "cs": "Výrazný posun doprava a dolů — vlevo zasahuje perforace až k rámečku, vpravo i dole zůstal velmi široký okraj.",
@@ -1712,6 +1734,17 @@
   "fr": "Quatrième dessin",
   "tag": "cap"
  },
+ "1f1a664b5b": {
+  "cs": "Kus 11 — V horní části kresby při pravém okraji, poblíž nápisu „POŠTA“.",
+  "de": "Stück 11 — Im oberen Teil der Zeichnung, rechts von der Inschrift „POŠTA“.",
+  "en": "Item 11 — In the upper part of the design, right of the “POŠTA” inscription.",
+  "es": "Ejemplar 11 — En la parte superior del dibujo, a la derecha de la inscripción «POŠTA».",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Pièce 11 — Dans la partie supérieure du dessin, à droite de l'inscription « POŠTA ».",
+  "tag": "span"
+ },
  "1f9be8d640": {
   "cs": "Schémata tiskových desek (Radek Novák) — klikněte pro stažení",
   "de": "Schemata der Druckplatten (Radek Novák) — zum Herunterladen anklicken",
@@ -2277,6 +2310,17 @@
   "fr": "30h planche VI",
   "tag": "alt"
  },
+ "277c5e4b3a": {
+  "cs": "Kus 6 — Uprostřed siluety Hradčan.",
+  "de": "Stück 6 — In der Mitte der Hradschin-Silhouette.",
+  "en": "Item 6 — In the middle of the Hradčany skyline.",
+  "es": "Ejemplar 6 — En el centro de la silueta de Hradčany.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Pièce 6 — Au milieu de la silhouette de Hradčany.",
+  "tag": "span"
+ },
  "2787ae5a18": {
   "cs": "<h1>500h – identifikácia známok s I. typom špirály z TD II.</h1>\n\n<p>Podnetom napísania tohto článku bola skutočnosť, že som sa v uplynulých rokoch na burzách viackrát stretol\ns nesprávne určeným I. typom špirály u hodnoty 500 halierov, ktoré mali podľa deklarovaného popisu pochádzať z TD II.\nOdbornej literatúry je nedostatok a aj v dostupných zdrojoch sú vyobrazenia nepresné, čo sťažuje identifikáciu.\nZámerom článku je priniesť zberateľom komplexnú informáciu pre presné určenie známkových polí s I. typom špirály\nu hodnoty 500 halierov pochádzajúcich z TD II.</p>\n<h2>Na úvod niekoľko skutočností</h2>\n<p>V základnom typovom rozlíšení väčšiny známok V. kresby sa vyskytujú známky s dvoma typmi špirály – konkrétne\nu hodnôt 5 h modrozelená, 15 h tehlovočervená, 25 h fialová, 75 h šedozelená a 500 h hnedá.</p>\n<figure><img src=\"../15h/assets/img/05999-500h_identifikace-1.jpg\" alt=\"\" loading=\"lazy\"></figure>\n<p>Na niektorých tlačových doskách sa vyskytujú oba typy špirál súčasne a tieto v páskach či blokoch tvoria\ntzv. spojené typy špirál (STs). Hodnota 500 h bola tlačená z dvoch TD. Kým všetkých 100 známok TD I. má I. typ špirály,\nu TD II. má 98 známok II. typ špirály a iba 2 známky sú I. typu – na známkových poliach <strong>32 a 35</strong>:</p>\n<figure><img src=\"../15h/assets/img/06000-500h_identifikace-2.gif\" alt=\"\" loading=\"lazy\"></figure>\n<p>Pečiatkované známky I. typu z TD I. patria medzi bežné známky. Známky s I. typom špirály z TD II. majú oveľa vyšší\ncenový záznam; čisté známky sú predmetom predaja v aukciách.</p>\n<h2>Identifikačné znaky ZP 32 (TD II.)</h2>\n<figure><img src=\"../15h/assets/img/06001-500h_identifikace-3.png\" alt=\"\" loading=\"lazy\"></figure>\n<ul>\n<li><strong>a)</strong> horný roh číslice 5 sa dotýka okraja hodnotového štítku, v dolnej časti prvej nuly je zárez klinovitého tvaru</li>\n<li><strong>b)</strong> vryp do rámu nad pravou hornou rohovou špirálou, vybiehajúci pravý horný roh</li>\n<li><strong>c)</strong> vybiehajúci ľavý horný roh</li>\n<li><strong>d)</strong> charakteristické zoskupenie bodov nad chrámom</li>\n</ul>\n<h2>Identifikačné znaky ZP 35 (TD II.)</h2>\n<figure><img src=\"../15h/assets/img/06002-500h_identifikace-4.png\" alt=\"\" loading=\"lazy\"></figure>\n<ul>\n<li><strong>a)</strong> II. typ pravého rámčeka (rámček presahuje do viazania)</li>\n<li><strong>b)</strong> horný roh číslice 5 sa dotýka okraja hodnotového štítku s charakteristickou deformáciou</li>\n<li><strong>c)</strong> obe nuly majú v hornej časti farebné výbežky</li>\n<li><strong>d)</strong> pri ľavej strane tretej veže dva lúče nad sebou s dvoma bodmi nad horným lúčom; vryp do druhej veže z pravej strany; charakteristické zoskupenie bodov nad chrámom</li>\n</ul>\n<p>Pri výrobe TD II. sa vychádzalo z rovnakých podkladov ako pri TD I., preto sa niektoré kontrolné znaky ZP 35\nu známok TD I. a TD II. zhodujú. Stáva sa, že známka ZP 35 pochádzajúca z TD I. je omylom určená ako známka z TD II.</p>\n<figure><img src=\"../15h/assets/img/06003-500h_identifikace-5.png\" alt=\"\" loading=\"lazy\"></figure>\n<p>Identifikácia ZP 35 z TD II. je pritom jednoduchá: ak nájdeme zhodu medzi vyobrazením a skúmanou známkou, stačí\nskontrolovať typ pravého rámčeka. Známka z TD I. ho má I. typu (rámček nezasahuje do viazania), známka z TD II.\nII. typu (rámček zasahuje do viazania).</p>\n<figure><img src=\"../15h/assets/img/06004-500h_identifikace-6.png\" alt=\"\" loading=\"lazy\"></figure>\n<table>\n<tr><th>ZP 35 TD I.</th><th>ZP 35 TD II.</th></tr>\n<tr><td>I. typ pravého rámčeka (rámček nezasahuje do viazania)</td><td>II. typ pravého rámčeka (rámček zasahuje do viazania)</td></tr>\n<tr><td>Písmeno M v MUCHA má kratšie nôžky, písmeno A ľavú nôžku kratšiu</td><td>MUCHA bez zjavných poškodení a deformácií</td></tr>\n<tr><td>Pravý horný roh známky otupený (skosený)</td><td>Pravý horný roh bez skosenia s miernou deformáciou</td></tr>\n<tr><td>Zoskupenie bodov nad chrámom odlišné</td><td>Charakteristické zoskupenie bodov nad chrámom pre toto ZP</td></tr>\n</table>\n<p>Ani uvedené skutočnosti nevylučujú fakt, že je najlepšie sa so svojimi nálezmi obrátiť na zväzových znalcov.</p>\n<p><em>Použitá literatúra: Karásek – Hradčany (1986) · Hamr, Škaloud – Rukověť pro sběratele Hradčan (1998) · www.knihtisk.org</em></p>\n<p class=\"author\"><em>Jozef Džubák (17. 3. 2015)</em></p>",
   "de": "<h1>500h – Identifizierung der Marken mit dem I. Spiraltyp aus Platte II</h1>\n\n<p>Anlass für diesen Artikel war der Umstand, dass mir in den vergangenen Jahren auf Sammlerbörsen mehrfach falsch bestimmte Marken mit dem I. Spiraltyp des Wertes 500 Heller begegnet sind, die laut Beschreibung aus Platte II stammen sollten. An Fachliteratur herrscht Mangel, und auch in den verfügbaren Quellen sind die Abbildungen ungenau, was die Identifizierung erschwert. Ziel des Artikels ist es, den Sammlern umfassende Informationen für die genaue Bestimmung der Markenfelder mit dem I. Spiraltyp des Wertes 500 Heller aus Platte II an die Hand zu geben.</p>\n<h2>Einige Feststellungen vorweg</h2>\n<p>In der grundlegenden Typenunterscheidung kommen bei den meisten Marken der V. Zeichnung Marken mit zwei Spiraltypen vor – konkret bei den Werten 5 h blaugrün, 15 h ziegelrot, 25 h violett, 75 h graugrün und 500 h braun.</p>\n<figure><img src=\"../15h/assets/img/05999-500h_identifikace-1.jpg\" alt=\"\" loading=\"lazy\"></figure>\n<p>Auf manchen Druckplatten kommen beide Spiraltypen zugleich vor und bilden in Streifen oder Blöcken die sogenannten verbundenen Spiraltypen (STs). Der Wert 500 h wurde aus zwei Druckplatten gedruckt. Während alle 100 Marken der Platte I den I. Spiraltyp aufweisen, haben bei Platte II 98 Marken den II. Spiraltyp und nur 2 Marken den I. Typ – auf den Markenfeldern <strong>32 und 35</strong>:</p>\n<figure><img src=\"../15h/assets/img/06000-500h_identifikace-2.gif\" alt=\"\" loading=\"lazy\"></figure>\n<p>Gestempelte Marken des I. Typs aus Platte I gehören zu den gewöhnlichen Marken. Marken mit dem I. Spiraltyp aus Platte II haben eine weit höhere Katalognotierung; ungebrauchte Stücke werden auf Auktionen gehandelt.</p>\n<h2>Identifizierungsmerkmale des Feldes 32 (Platte II)</h2>\n<figure><img src=\"../15h/assets/img/06001-500h_identifikace-3.png\" alt=\"\" loading=\"lazy\"></figure>\n<ul>\n<li><strong>a)</strong> die obere Ecke der Ziffer 5 berührt den Rand des Wertschildes, im unteren Teil der ersten Null befindet sich eine keilförmige Kerbe</li>\n<li><strong>b)</strong> eine Kerbe im Rahmen über der rechten oberen Eckspirale, vorstehende rechte obere Ecke</li>\n<li><strong>c)</strong> vorstehende linke obere Ecke</li>\n<li><strong>d)</strong> charakteristische Gruppierung von Punkten über dem Dom</li>\n</ul>\n<h2>Identifizierungsmerkmale des Feldes 35 (Platte II)</h2>\n<figure><img src=\"../15h/assets/img/06002-500h_identifikace-4.png\" alt=\"\" loading=\"lazy\"></figure>\n<ul>\n<li><strong>a)</strong> II. Typ des rechten Rähmchens (das Rähmchen reicht in die Bindung hinein)</li>\n<li><strong>b)</strong> die obere Ecke der Ziffer 5 berührt den Rand des Wertschildes mit einer charakteristischen Verformung</li>\n<li><strong>c)</strong> beide Nullen haben im oberen Teil farbige Fortsätze</li>\n<li><strong>d)</strong> an der linken Seite des dritten Turms zwei Strahlen übereinander mit zwei Punkten über dem oberen Strahl; eine Kerbe im zweiten Turm von der rechten Seite; charakteristische Gruppierung von Punkten über dem Dom</li>\n</ul>\n<p>Bei der Herstellung der Platte II ging man von denselben Vorlagen aus wie bei Platte I, deshalb stimmen einige Kontrollmerkmale des Feldes 35 bei Marken der Platte I und der Platte II überein. Es kommt vor, dass eine Marke vom Feld 35 aus Platte I irrtümlich als Marke aus Platte II bestimmt wird.</p>\n<figure><img src=\"../15h/assets/img/06003-500h_identifikace-5.png\" alt=\"\" loading=\"lazy\"></figure>\n<p>Die Identifizierung des Feldes 35 aus Platte II ist dabei einfach: Stimmt die untersuchte Marke mit der Abbildung überein, genügt es, den Typ des rechten Rähmchens zu prüfen. Eine Marke aus Platte I hat ihn im I. Typ (das Rähmchen reicht nicht in die Bindung), eine Marke aus Platte II im II. Typ (das Rähmchen reicht in die Bindung).</p>\n<figure><img src=\"../15h/assets/img/06004-500h_identifikace-6.png\" alt=\"\" loading=\"lazy\"></figure>\n<table>\n<tr><th>Feld 35, Platte I</th><th>Feld 35, Platte II</th></tr>\n<tr><td>I. Typ des rechten Rähmchens (das Rähmchen reicht nicht in die Bindung)</td><td>II. Typ des rechten Rähmchens (das Rähmchen reicht in die Bindung)</td></tr>\n<tr><td>Der Buchstabe M in MUCHA hat kürzere Beine, der Buchstabe A ein kürzeres linkes Bein</td><td>MUCHA ohne sichtbare Beschädigungen und Verformungen</td></tr>\n<tr><td>Rechte obere Ecke der Marke abgestumpft (abgeschrägt)</td><td>Rechte obere Ecke ohne Abschrägung, mit leichter Verformung</td></tr>\n<tr><td>Abweichende Gruppierung von Punkten über dem Dom</td><td>Für dieses Feld charakteristische Gruppierung von Punkten über dem Dom</td></tr>\n</table>\n<p>Auch die genannten Feststellungen schließen nicht aus, dass es am besten ist, sich mit seinen Funden an die Verbandsprüfer zu wenden.</p>\n<p><em>Verwendete Literatur: Karásek – Hradschin (1986) · Hamr, Škaloud – Rukověť pro sběratele Hradschin (1998) · www.knihtisk.org</em></p>\n<p class=\"author\"><em>Jozef Džubák (17. März 2015)</em></p>",
@@ -2383,6 +2427,17 @@
   "files": [],
   "fr": "Pièce 6 — Décalage vers la droite et vers le bas ; la rangée supérieure passe au ras du cadre, la marge inférieure est en revanche large.",
   "tag": "cap"
+ },
+ "2913f3fed4": {
+  "cs": "Skutečný prstýnek v písmenu nápisu POŠTA — otiskl se jen obvod smítka, střed zůstal světlý.",
+  "de": "Ein echter Ring in einem Buchstaben der Inschrift POŠTA — es druckte sich nur der Rand des Krümels ab, die Mitte blieb hell.",
+  "en": "A genuine ring inside a letter of the inscription POŠTA — only the rim of the speck printed, the centre stayed light.",
+  "es": "Un anillo genuino dentro de una letra de la inscripción POŠTA — solo se imprimió el borde de la motita, el centro quedó claro.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Un véritable petit anneau dans une lettre de l'inscription POŠTA — seul le pourtour du grain s'est imprimé, le centre est resté clair.",
+  "tag": "span"
  },
  "2970c96cd3": {
   "cs": "400h IV. TD",
@@ -2583,6 +2638,17 @@
    "typy-pate-kresby.html"
   ],
   "fr": "Types à cadre",
+  "tag": "span"
+ },
+ "2d103b7823": {
+  "cs": "Plná skvrna v mezeře mezi věžemi — kompaktní kapka barvy s ostrým okrajem.",
+  "de": "Ein voller Fleck in der Lücke zwischen den Türmen — ein kompakter Farbtropfen mit scharfem Rand.",
+  "en": "A solid spot in the gap between the towers — a compact drop of ink with a sharp edge.",
+  "es": "Una mancha maciza en el hueco entre las torres — una gota de tinta compacta de borde nítido.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Une tache pleine dans l'interstice entre les tours — une goutte d'encre compacte aux contours nets.",
   "tag": "span"
  },
  "2d17c1aefc": {
@@ -3773,6 +3839,17 @@
   "fr": "30h – jaune",
   "tag": "span"
  },
+ "3bc2e153a9": {
+  "cs": "Místo ostrého okraje se tu barva rozlévá do měkké, neostré skvrny, která navazuje na tištěnou linku nebo obtéká hustý, vyvýšený prvek kresby — nejčastěji srdíčkovou ozdobu v rohu rámu. Skvrna nemá vlastní jasnou hranici, plynule slábne do bílé plochy.",
+  "de": "Statt eines scharfen Randes zerfließt die Farbe hier zu einem weichen, unscharfen Fleck, der an eine gedruckte Linie anschließt oder ein dichtes, erhabenes Element der Zeichnung umfließt — am häufigsten das kleine herzförmige Ornament in der Rahmenecke. Der Fleck hat keine eigene klare Grenze; er verblasst allmählich ins Weiß.",
+  "en": "Instead of a sharp edge, the ink here spreads into a soft, blurred stain that runs on from a printed line or spills around a dense, raised element of the design — most often the small heart-shaped ornament in the corner of the frame. The stain has no clear boundary of its own; it fades gradually into the white.",
+  "es": "En lugar de un borde nítido, aquí la tinta se derrama en una mancha suave y difusa, que continúa una línea impresa o se desborda alrededor de un elemento denso y en relieve del dibujo — casi siempre el pequeño adorno en forma de corazón de la esquina del marco. La mancha no tiene un límite propio claro; se desvanece gradualmente hacia el blanco.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Au lieu d'un contour net, l'encre s'étale ici en une tache douce et floue, qui prolonge une ligne imprimée ou déborde autour d'un élément dense et en relief du dessin — le plus souvent le petit motif en forme de cœur dans le coin du cadre. La tache n'a pas de limite propre nette ; elle s'estompe progressivement dans le blanc.",
+  "tag": "span"
+ },
  "3bd4c15486": {
   "cs": "<strong>Brezovka</strong> — 7. VII. 1920 (ZP 35/VI)",
   "de": "<strong>Brezovka</strong> — 7. VII. 1920 (Feld 35/VI)",
@@ -4182,6 +4259,17 @@
    "ctvrta-kresba.html"
   ],
   "fr": "Tirage : non dentelés 12&nbsp;470&nbsp;000 · Dentelure : – · Date d’émission : 10.&nbsp;4.&nbsp;1919 · <a href=\"assets/downloads/tiskove-desky.xlsx\">Schémas des planches</a>",
+  "tag": "span"
+ },
+ "424f2aa416": {
+  "cs": "V nápisu „ČESKO-SLOVENSKO“ vlevo.",
+  "de": "In der Inschrift „ČESKO-SLOVENSKO“, links.",
+  "en": "In the “ČESKO-SLOVENSKO” inscription, on the left.",
+  "es": "En la inscripción «ČESKO-SLOVENSKO», a la izquierda.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Dans l'inscription « ČESKO-SLOVENSKO », à gauche.",
   "tag": "span"
  },
  "42560a4cb3": {
@@ -4725,6 +4813,17 @@
   "fr": "Éclat de bois et moucheture — un corps étranger dans le papier",
   "tag": "span"
  },
+ "4927d706d4": {
+  "cs": "Dvanáct kusů se zaznamenaným výskytem vady — polohy jsou na každém kuse jinde, kroužky vyznačují místo skvrny.",
+  "de": "Zwölf Stück mit erfasstem Vorkommen des Fehlers — die Lage ist bei jedem Stück anders; die Kreise markieren die Stelle des Flecks.",
+  "en": "Twelve copies with the flaw recorded — the position differs on every copy; the circles mark where the spot sits.",
+  "es": "Doce ejemplares con la aparición del defecto registrada — la posición difiere en cada ejemplar; los círculos marcan dónde está la mancha.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Douze exemplaires avec le défaut relevé — la position diffère sur chaque exemplaire ; les cercles indiquent l'emplacement de la tache.",
+  "tag": "span"
+ },
  "4949c7a687": {
   "cs": "5h II. TD",
   "de": "5h Platte II",
@@ -4816,6 +4915,17 @@
   "fr": "Ce sont les bords et les coins exposés d'un champ qui subissent le plus de contraintes — c'est là que le nettoyage de la forme amorce le plus facilement une fissure capillaire. Aux tirages suivants, l'encre s'y infiltre et la pression de la presse l'élargit un peu plus à chaque passage, si bien que le dommage s'aggrave avec le temps et peut être divisé en phases.",
   "tag": "span"
  },
+ "4aeb31e9de": {
+  "cs": "smítko / úlomek zaschlé barvy",
+  "de": "Krümel / Stückchen getrockneter Farbe",
+  "en": "speck / bit of dried ink",
+  "es": "motita / trocito de tinta seca",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "grain / fragment d'encre séchée",
+  "tag": "svg"
+ },
  "4b0ce871bf": {
   "cs": "10 h červená / 10 h red",
   "de": "10h rot",
@@ -4824,6 +4934,17 @@
   "files": [],
   "fr": "10h rouge",
   "tag": "cap"
+ },
+ "4b0fd2ce47": {
+  "cs": "jinde v pořádku, zde navíc kapka barvy",
+  "de": "sonst in Ordnung, hier ein zusätzlicher Farbtropfen",
+  "en": "fine elsewhere, an extra drop of ink here",
+  "es": "correcto en el resto, aquí una gota de tinta de más",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "correct ailleurs, une goutte d'encre en trop ici",
+  "tag": "svg"
  },
  "4b4bc5c8d5": {
   "cs": "11. 12. 2016",
@@ -5061,6 +5182,17 @@
   "fr": "Les bords verticaux du dessin à la même échelle, de gauche à droite : bord gauche de l’épreuve puis de la production, bord droit de l’épreuve puis de la production. Ils servent à comparer l’ornement dans son ensemble — la netteté de l’épreuve se remarque sur toute la longueur du bord.",
   "tag": "span"
  },
+ "4ed5324fc9": {
+  "cs": "V pravé části siluety Hradčan.",
+  "de": "Im rechten Teil der Hradschin-Silhouette.",
+  "en": "In the right part of the Hradčany skyline.",
+  "es": "En la parte derecha de la silueta de Hradčany.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Dans la partie droite de la silhouette de Hradčany.",
+  "tag": "span"
+ },
  "4f50f1b3e4": {
   "cs": "30. 4. 2016",
   "de": "30. 4. 2016",
@@ -5100,6 +5232,17 @@
   ],
   "fr": "Planche et positions",
   "tag": "span"
+ },
+ "506d073d04": {
+  "cs": "na válci nebo na formě",
+  "de": "auf der Walze oder der Form",
+  "en": "on the roller or the forme",
+  "es": "en el rodillo o la forma",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "sur le rouleau ou la forme",
+  "tag": "svg"
  },
  "50afacea44": {
   "cs": "Kus 5 — Šikmý posun doprava a dolů, na obou směrech přibližně stejnou měrou.",
@@ -5307,6 +5450,17 @@
    "typy-pate-kresby.html"
   ],
   "fr": "<img class=\"zoomable\" src=\"assets/images/pata-kresba-schema-fr.png\" alt=\"Schéma des types du cinquième dessin\" style=\"max-width:520px\">",
+  "tag": "span"
+ },
+ "5316d90038": {
+  "cs": "Kus 5 — V levé části siluety Hradčan.",
+  "de": "Stück 5 — Im linken Teil der Hradschin-Silhouette.",
+  "en": "Item 5 — In the left part of the Hradčany skyline.",
+  "es": "Ejemplar 5 — En la parte izquierda de la silueta de Hradčany.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Pièce 5 — Dans la partie gauche de la silhouette de Hradčany.",
   "tag": "span"
  },
  "5327772bd3": {
@@ -5607,6 +5761,17 @@
   "fr": "Comment l’émission Hradčany a été imprimée, quels écarts la typographie produit et pourquoi ils sont un avantage pour le collectionneur.",
   "tag": "meta"
  },
+ "56c8e4593d": {
+  "cs": "Kus 2 — V levé části siluety Hradčan.",
+  "de": "Stück 2 — Im linken Teil der Hradschin-Silhouette.",
+  "en": "Item 2 — In the left part of the Hradčany skyline.",
+  "es": "Ejemplar 2 — En la parte izquierda de la silueta de Hradčany.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Pièce 2 — Dans la partie gauche de la silhouette de Hradčany.",
+  "tag": "span"
+ },
  "56de939525": {
   "cs": "cihlově červená, hnědočervená, červená",
   "de": "ziegelrot, braunrot, rot",
@@ -5857,6 +6022,28 @@
   "fr": "1h brun noir",
   "tag": "span"
  },
+ "592ae39a48": {
+  "cs": "Kus 13 — Uprostřed siluety Hradčan.",
+  "de": "Stück 13 — In der Mitte der Hradschin-Silhouette.",
+  "en": "Item 13 — In the middle of the Hradčany skyline.",
+  "es": "Ejemplar 13 — En el centro de la silueta de Hradčany.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Pièce 13 — Au milieu de la silhouette de Hradčany.",
+  "tag": "span"
+ },
+ "595f4183f0": {
+  "cs": "Kus 3 — V levé části siluety Hradčan.",
+  "de": "Stück 3 — Im linken Teil der Hradschin-Silhouette.",
+  "en": "Item 3 — In the left part of the Hradčany skyline.",
+  "es": "Ejemplar 3 — En la parte izquierda de la silueta de Hradčany.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Pièce 3 — Dans la partie gauche de la silhouette de Hradčany.",
+  "tag": "span"
+ },
  "5991cf2034": {
   "cs": "Dřívko v papíru — kus 2",
   "de": "Holzsplitter im Papier — Stück 2",
@@ -6043,6 +6230,17 @@
   "fr": "120h planche VII",
   "tag": "alt"
  },
+ "5c06e73ac9": {
+  "cs": "Tři další doložené kusy — stejný vzorec: barva se line podél tištěné linky nebo z hustého ornamentu.",
+  "de": "Drei weitere belegte Stück — dasselbe Muster: die Farbe zieht sich entlang einer gedruckten Linie oder aus einem dichten Ornament.",
+  "en": "Three further recorded copies — the same pattern: the ink runs along a printed line or out of a dense ornament.",
+  "es": "Otros tres ejemplares documentados — el mismo patrón: la tinta corre a lo largo de una línea impresa o sale de un ornamento denso.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Trois autres exemplaires documentés — le même schéma : l'encre coule le long d'une ligne imprimée ou hors d'un ornement dense.",
+  "tag": "span"
+ },
  "5c250634ab": {
   "cs": "Neperforovaná 15h z TD VI poštovně použitá — Košice 2, 13. VII. 1920",
   "de": "Geschnittene 15h aus Platte VI postalisch verwendet — Košice 2, 13. VII. 1920",
@@ -6097,6 +6295,17 @@
   ],
   "fr": "corps étranger sous la feuille",
   "tag": "svg"
+ },
+ "5cb5cc25d6": {
+  "cs": "Závoj stéká z nápisu na srdíčkovou ozdobu pod ním — barva plynule slábne, žádná ostrá hranice.",
+  "de": "Der Schleier läuft von der Inschrift auf das kleine Herzornament darunter herab — die Farbe verblasst allmählich, ohne scharfe Grenze.",
+  "en": "A smear runs down from the inscription onto the little heart ornament below it — the ink fades gradually, with no sharp boundary.",
+  "es": "El velo baja desde la inscripción hasta el pequeño adorno en forma de corazón de debajo — la tinta se desvanece gradualmente, sin límite nítido.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Le voile coule depuis l'inscription vers le petit motif en cœur en dessous — l'encre s'estompe progressivement, sans limite nette.",
+  "tag": "span"
  },
  "5cdb3e4d14": {
   "cs": "Kus 21 — Šikmá vráska od levého okraje ke středu kresby.",
@@ -6380,6 +6589,17 @@
    "ctvrta-kresba.html"
   ],
   "fr": "60h jaune",
+  "tag": "span"
+ },
+ "5ffdab6c1a": {
+  "cs": "Pod siluetou hradu při levém okraji.",
+  "de": "Unterhalb der Burgsilhouette, nahe dem linken Rand.",
+  "en": "Below the castle skyline, near the left edge.",
+  "es": "Bajo la silueta del castillo, cerca del borde izquierdo.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Sous la silhouette du château, près du bord gauche.",
   "tag": "span"
  },
  "60373cc53f": {
@@ -7270,6 +7490,17 @@
   "fr": "Pli vertical le long du bord droit et pli horizontal plus faible dans la partie supérieure du timbre.",
   "tag": "span"
  },
+ "6dd7a9ff41": {
+  "cs": "Skutečný prstýnek v mezeře pod siluetou hradu — viz detail níže.",
+  "de": "Ein echter Ring unterhalb der Burgsilhouette — siehe Detail unten.",
+  "en": "A genuine ring below the castle skyline — see the detail below.",
+  "es": "Un anillo genuino bajo la silueta del castillo — véase el detalle más abajo.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Un véritable petit anneau sous la silhouette du château — voir le détail ci-dessous.",
+  "tag": "span"
+ },
  "6ddb154b9d": {
   "cs": "15h (7) – Závoje a skvrny — Hradčany",
   "de": "15h (7) – Schleier und Flecken — Hradschin",
@@ -7803,6 +8034,17 @@
   "fr": "Cet aperçu est tiré directement de la feuille de reconstitution du classeur <em>Hradcany_15h GENERAL</em> (état 6/2026) : les positions notées en vert sont dans la collection, celles signalées ci-dessous manquent. Si vous possédez l’une d’elles, je serai reconnaissant d’un scan ou d’une offre à <a href=\"mailto:pepa.matousek@gmail.com\">pepa.matousek@gmail.com</a>. Un clic sur le numéro d’une position ouvre son image de référence dans le comparateur.",
   "tag": "span"
  },
+ "74a6f51bae": {
+  "cs": "Proč to není bludný kroužek",
+  "de": "Warum das kein wandernder Ring ist",
+  "en": "Why this is not a wandering ring",
+  "es": "Por qué esto no es un anillo errante",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Pourquoi ce n'est pas un anneau errant",
+  "tag": "span"
+ },
  "74ab703004": {
   "cs": "200h ultramarínová",
   "de": "200h ultramarin",
@@ -7970,6 +8212,17 @@
   "fr": "Selon les souvenirs de Jaroslav Lešetický, officier supérieur des postes, le directeur des postes Maxmilián Fatka l’avait cependant chargé dès le <strong>29 octobre 1918</strong> de faire établir le dessin d’une surcharge « Gouvernement provisoire 28. 10. 1918 » destinée aux timbres autrichiens. Ce projet fut rejeté et la surcharge officiellement abandonnée. Dès le lendemain, Lešetický reçut une seconde mission — trouver des projets de timbres provisoires.",
   "tag": "span"
  },
+ "762d2e0eda": {
+  "cs": "Kus 8 — V pravé části siluety Hradčan.",
+  "de": "Stück 8 — Im rechten Teil der Hradschin-Silhouette.",
+  "en": "Item 8 — In the right part of the Hradčany skyline.",
+  "es": "Ejemplar 8 — En la parte derecha de la silueta de Hradčany.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Pièce 8 — Dans la partie droite de la silhouette de Hradčany.",
+  "tag": "span"
+ },
  "7640c6bc31": {
   "cs": "Domnívám se, že vysvětlení je prozaické: barvivo rumělkových výtisků je citlivé na teplo.\n  Pokud je určitý odstín rumělkové známky vystaven vyšší teplotě — typicky při odlepování známek z celistvostí\n  v horké vodě — barva se změní na karmínovou. Tomu odpovídá i to, proč se karmínová vyskytuje téměř výhradně na\n  použitých, tedy zpravidla někdy v minulosti odlepovaných známkách.",
   "de": "Ich vermute, die Erklärung ist prosaisch: Der Farbstoff der zinnoberroten Drucke ist wärmeempfindlich. Wird ein bestimmter Farbton einer zinnoberroten Marke höherer Temperatur ausgesetzt — typischerweise beim Ablösen der Marken von Belegen in heißem Wasser —, schlägt die Farbe nach Karmin um. Dazu passt auch, dass Karmin fast ausschließlich auf gebrauchten, also in der Regel irgendwann abgelösten Marken vorkommt.",
@@ -8084,6 +8337,28 @@
   ],
   "fr": "Dentelure omise",
   "tag": "span"
+ },
+ "7741c63779": {
+  "cs": "Uprostřed siluety Hradčan.",
+  "de": "In der Mitte der Hradschin-Silhouette.",
+  "en": "In the middle of the Hradčany skyline.",
+  "es": "En el centro de la silueta de Hradčany.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Au milieu de la silhouette de Hradčany.",
+  "tag": "span"
+ },
+ "77485f19fe": {
+  "cs": "→ izolovaná skvrna nebo prstýnek",
+  "de": "→ isolierter Fleck oder Ring",
+  "en": "→ isolated spot or ring",
+  "es": "→ mancha aislada o anillo",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "→ tache isolée ou anneau",
+  "tag": "svg"
  },
  "77774db83f": {
   "cs": "karmínová / karmínově červená",
@@ -8452,6 +8727,17 @@
   "fr": "Décalage vers la droite et vers le bas ; la rangée supérieure passe au ras du cadre, la marge inférieure est en revanche large.",
   "tag": "span"
  },
+ "7e1beaa269": {
+  "cs": "Kus 1 — V dolní ozdobě rámu vpravo od hodnotového oválu.",
+  "de": "Stück 1 — In der unteren Rahmenverzierung, rechts vom Wertoval.",
+  "en": "Item 1 — In the lower ornament of the frame, right of the value oval.",
+  "es": "Ejemplar 1 — En el ornamento inferior del marco, a la derecha del óvalo de valor.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Pièce 1 — Dans l'ornement inférieur du cadre, à droite de l'ovale de valeur.",
+  "tag": "span"
+ },
  "7e1d610932": {
   "cs": "500h – identifikácia známok s I. typom špirály z TD II. — Sbírám Hradčany",
   "de": "500h – Identifizierung der Marken mit dem I. Spiraltyp aus Platte II — Hradschin sammeln",
@@ -8611,6 +8897,17 @@
    "15h/knihtisk.html"
   ],
   "fr": "Les autres techniques se comportent à l’inverse. En <strong>taille-douce</strong> (gravure), l’encre repose dans les creux de la forme et ressort ensuite du papier en relief. En <strong>offset</strong> et en <strong>lithographie</strong>, la forme est plane, le papier ne se déforme pas du tout et l’impression est lisse. Un timbre sans le moindre relief censé provenir de cette émission mérite donc un second regard.",
+  "tag": "span"
+ },
+ "80508d0d35": {
+  "cs": "Kus 10 — V levé části siluety Hradčan.",
+  "de": "Stück 10 — Im linken Teil der Hradschin-Silhouette.",
+  "en": "Item 10 — In the left part of the Hradčany skyline.",
+  "es": "Ejemplar 10 — En la parte izquierda de la silueta de Hradčany.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Pièce 10 — Dans la partie gauche de la silhouette de Hradčany.",
   "tag": "span"
  },
  "80841a414a": {
@@ -9058,6 +9355,17 @@
   "fr": "Le dessin de Mucha a d’abord dû prendre la forme d’un relief imprimant. À partir de l’élément achevé fut assemblée une <strong>forme d’impression de cent positions</strong> — soit cent images individuelles côte à côte, et non une seule image répétée cent fois. C’est de là que naît toute la spécialisation d’aujourd’hui : tout ce qui diffère entre ces cent éléments <strong>diffère toujours, et au même endroit</strong>.",
   "tag": "span"
  },
+ "8530569962": {
+  "cs": "Na inkovacím válci nebo přímo na formě ulpí smítko — kousek zaschlé barvy, prachu nebo papírového vlákna napuštěného barvou. Otiskne se jen v tom jednom místě jednoho archu, zbytek tisku zůstává v pořádku. Podle tvaru a velikosti smítka vznikne buď plná skvrna, nebo — když se otiskl hlavně obvod smítka — prstýnek.",
+  "de": "Auf der Farbwalze oder direkt auf der Form bleibt ein Krümel haften — ein Stückchen getrockneter Farbe, Staub oder eine mit Farbe getränkte Papierfaser. Er druckt sich nur an dieser einen Stelle eines einzigen Bogens ab, der übrige Druck bleibt in Ordnung. Je nach Form und Größe des Krümels entsteht entweder ein voller Fleck oder — wenn sich hauptsächlich sein Rand abdruckte — ein Ring.",
+  "en": "A speck lodges on the inking roller or on the forme itself — a bit of dried ink, dust, or a paper fibre soaked in ink. It prints only at that one spot on one sheet; the rest of the impression is unaffected. Depending on the speck's shape and size the result is either a solid spot, or — when mainly its rim made contact — a small ring.",
+  "es": "En el rodillo entintador o directamente en la forma se adhiere una motita — un trocito de tinta seca, polvo o una fibra de papel empapada en tinta. Se imprime solo en ese único lugar de un pliego, el resto de la tirada queda intacto. Según la forma y el tamaño de la motita, el resultado es una mancha maciza o bien — cuando se imprimió sobre todo su borde — un anillo.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Un grain se dépose sur le rouleau encreur ou directement sur la forme — un fragment d'encre séchée, de poussière ou une fibre de papier imbibée d'encre. Il ne s'imprime qu'à cet unique endroit d'une seule feuille, le reste du tirage reste intact. Selon la forme et la taille du grain, il en résulte soit une tache pleine, soit — lorsque c'est surtout son pourtour qui s'est imprimé — un anneau.",
+  "tag": "span"
+ },
  "854c34ee7f": {
   "cs": "Nic",
   "de": "Keine",
@@ -9199,6 +9507,17 @@
   "files": [],
   "fr": "1000h planche VI",
   "tag": "alt"
+ },
+ "8765154420": {
+  "cs": "Kus 11 — Uprostřed siluety Hradčan.",
+  "de": "Stück 11 — In der Mitte der Hradschin-Silhouette.",
+  "en": "Item 11 — In the middle of the Hradčany skyline.",
+  "es": "Ejemplar 11 — En el centro de la silueta de Hradčany.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Pièce 11 — Au milieu de la silhouette de Hradčany.",
+  "tag": "span"
  },
  "878f840ae7": {
   "cs": "Tisková deska",
@@ -9857,6 +10176,17 @@
   "fr": "<strong>Le relief est un test d’authenticité qui ne coûte rien.</strong> La typographie enfonce le papier. Un faux réalisé en offset ou par une imprimante d’aujourd’hui est lisse, et cela se voit en lumière rasante sans aucun instrument.",
   "tag": "span"
  },
+ "90224d7005": {
+  "cs": "Kus 15 — U hodnotového oválu s číslicí 15.",
+  "de": "Stück 15 — Beim Wertoval mit der Ziffer 15.",
+  "en": "Item 15 — Near the value oval with the figure 15.",
+  "es": "Ejemplar 15 — Junto al óvalo de valor con la cifra 15.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Pièce 15 — Près de l'ovale de valeur portant le chiffre 15.",
+  "tag": "span"
+ },
  "902c4370b2": {
   "cs": "Závoje a skvrny (TD II)",
   "de": "Schleier und Flecken (Platte II)",
@@ -9877,6 +10207,17 @@
    "15h/posta.html"
   ],
   "fr": "<strong>bureau illisible</strong> — 24. VII. 1920 (position 90/VI)",
+  "tag": "span"
+ },
+ "907ee1826f": {
+  "cs": "Kus 12 — V levé části siluety Hradčan.",
+  "de": "Stück 12 — Im linken Teil der Hradschin-Silhouette.",
+  "en": "Item 12 — In the left part of the Hradčany skyline.",
+  "es": "Ejemplar 12 — En la parte izquierda de la silueta de Hradčany.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Pièce 12 — Dans la partie gauche de la silhouette de Hradčany.",
   "tag": "span"
  },
  "9096b79e77": {
@@ -9986,6 +10327,17 @@
    "15h/zkusebni-tisky.html"
   ],
   "fr": "Il en découle une question à laquelle nous n’avons pas encore de réponse : les neuf positions de la planche I qui présentent la spirale ouverte en production également (2, 21, 22, 23, 49, 83, 91, 92, 94) sont-elles précisément celles que cette retouche a épargnées ? D’autres épreuves de la même planche pourraient y répondre.",
+  "tag": "span"
+ },
+ "9202ac1d09": {
+  "cs": "Barva vytéká z hustého květinového ornamentu do sousední bílé plochy — okraj je měkký, ne ostrý.",
+  "de": "Farbe fließt aus einem dichten Blumenornament in die benachbarte weiße Fläche — der Rand ist weich, nicht scharf.",
+  "en": "Ink spills from a dense floral ornament into the neighbouring white area — the edge is soft, not sharp.",
+  "es": "La tinta se derrama desde un denso ornamento floral hacia la zona blanca vecina — el borde es suave, no nítido.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "L'encre déborde d'un ornement floral dense vers la zone blanche voisine — le bord est doux, pas net.",
   "tag": "span"
  },
  "92335fadb7": {
@@ -10117,6 +10469,17 @@
    "15h/mapa-stranek.html"
   ],
   "fr": "Galerie — planche d’impression I",
+  "tag": "span"
+ },
+ "946829ea9f": {
+  "cs": "Dva kusy se závojem pod hodnotovým oválem — na kartě vpravo je odkaz na pole 35/V.",
+  "de": "Zwei Stück mit Schleier unter dem Wertoval — die Karte rechts verweist auf Feld 35/V.",
+  "en": "Two copies with a smear below the value oval — the card on the right references field 35/V.",
+  "es": "Dos ejemplares con velo bajo el óvalo de valor — la ficha de la derecha hace referencia al campo 35/V.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Deux exemplaires avec un voile sous l'ovale de valeur — la fiche à droite renvoie au champ 35/V.",
   "tag": "span"
  },
  "94737f2c7c": {
@@ -10393,6 +10756,17 @@
   "fr": "(position 77/V)",
   "tag": "label"
  },
+ "9640b147e1": {
+  "cs": "Drobná, ostře ohraničená tmavá skvrna nebo prstýnek se objeví v místě, kde má kresba zůstat čistě bílá — v mezeře mezi věžemi, v písmenu nápisu, pod ozdobným kroužkem rámu. Na rozdíl od deskové vady se poloha u jednotlivých kusů liší: neváže se na jedno známkové pole, ale mění se kus od kusu.",
+  "de": "An einer Stelle, an der die Zeichnung rein weiß bleiben sollte, erscheint ein kleiner, scharf begrenzter dunkler Fleck oder Ring — in einer Lücke zwischen den Türmen, in einem Buchstaben der Inschrift, unter einem Zierring des Rahmens. Anders als bei einem Plattenfehler weicht die Lage von Stück zu Stück ab: Sie ist nicht an ein bestimmtes Markenfeld gebunden.",
+  "en": "A small, sharply-bounded dark spot or ring appears where the design should stay clean white — in a gap between the towers, inside a letter of the inscription, under an ornamental ring of the frame. Unlike a plate flaw, its position varies from copy to copy: it is not tied to one stamp field.",
+  "es": "Aparece una pequeña mancha oscura o un anillo de contorno nítido en un lugar donde el dibujo debería quedar completamente blanco — en un hueco entre las torres, en una letra de la inscripción, bajo un anillo ornamental del marco. A diferencia de un defecto de plancha, su posición varía de un ejemplar a otro: no está ligada a un campo de sello concreto.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Une petite tache sombre ou un anneau, aux contours nets, apparaît là où le dessin devrait rester d'un blanc net — dans un interstice entre les tours, dans une lettre de l'inscription, sous un anneau ornemental du cadre. À la différence d'un défaut de planche, sa position varie d'un exemplaire à l'autre : elle n'est pas liée à un champ de timbre précis.",
+  "tag": "span"
+ },
  "96da165cf1": {
   "cs": "Náklad: Nezoubkované 4&nbsp;540&nbsp;000 · Zoubkování: – · Datum vydání: 22.&nbsp;4.&nbsp;1919 · <a href=\"clanky/zavoje-a-skvrny.html\">Závoj na 97 ZP</a> · <a href=\"assets/downloads/tiskove-desky.xlsx\">Schémata TD</a>",
   "de": "Auflage: geschnitten 4&nbsp;540&nbsp;000 · Zähnung: – · Ausgabetag: 22.&nbsp;4.&nbsp;1919 · <a href=\"clanky/zavoje-a-skvrny.html\">Schleier auf Feld 97</a> · <a href=\"assets/downloads/tiskove-desky.xlsx\">Plattenschemata</a>",
@@ -10435,6 +10809,17 @@
    "15h/typy-galerie.html"
   ],
   "fr": "Types du cinquième dessin — les timbres eux-mêmes",
+  "tag": "span"
+ },
+ "98242e746b": {
+  "cs": "Kus 2 — Pod siluetou hradu při levém okraji.",
+  "de": "Stück 2 — Unterhalb der Burgsilhouette, nahe dem linken Rand.",
+  "en": "Item 2 — Below the castle skyline, near the left edge.",
+  "es": "Ejemplar 2 — Bajo la silueta del castillo, cerca del borde izquierdo.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Pièce 2 — Sous la silhouette du château, près du bord gauche.",
   "tag": "span"
  },
  "9825bfef3d": {
@@ -10846,6 +11231,17 @@
   "fr": "Chaque groupe séparément. Les boutons ci-dessous permettent de choisir les dentelures et les planches à comparer — seuls les groupes correspondant aux deux sont tracés. Chaque série peut aussi être masquée en cliquant dans la légende.",
   "tag": "ui"
  },
+ "9c22e6757d": {
+  "cs": "Proč to není závoj",
+  "de": "Warum das kein Schleier (závoj) ist",
+  "en": "Why this is not a smear (závoj)",
+  "es": "Por qué esto no es un velo (závoj)",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Pourquoi ce n'est pas un voile (závoj)",
+  "tag": "span"
+ },
  "9c2e056802": {
   "cs": "Závoj na 97 ZP",
   "de": "Schleier auf Feld 97",
@@ -11033,6 +11429,17 @@
   "fr": "1000h planche VII",
   "tag": "alt"
  },
+ "9dbef753a4": {
+  "cs": "→ bludný kroužek",
+  "de": "→ wandernder Ring",
+  "en": "→ wandering ring",
+  "es": "→ anillo errante",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "→ anneau errant",
+  "tag": "svg"
+ },
  "9dc833e6ed": {
   "cs": "Rekonstrukce celé <strong>druhá tiskové desky</strong> hodnoty 60h — všech sto známkových polí v pořadí, v jakém leží v archu. Najetím myší se náhled zaostří na plné rozlišení, kliknutím se pole otevře přes celou obrazovku.",
   "de": "Rekonstruktion der gesamten <strong>zweiten Druckplatte</strong> des Wertes 60h — alle hundert Markenfelder in der Reihenfolge, in der sie im Bogen liegen. Beim Überfahren mit der Maus schärft sich die Vorschau auf volle Auflösung, mit einem Klick öffnet sich das Feld im Vollbild.",
@@ -11095,6 +11502,28 @@
    "15h/vyrobni-vady.html"
   ],
   "fr": "Cette section s’étoffe peu à peu. Chaque type de défaut recevra sa propre partie, avec la description de son origine et ses propres exemples ; quand une partie devient trop longue pour la page, elle est détachée en page distincte et il ne reste ici qu’un résumé assorti d’un lien — comme pour les éclaircies.",
+  "tag": "span"
+ },
+ "9f459993ad": {
+  "cs": "Plná skvrna v mezeře mezi věžemi — viz detail níže.",
+  "de": "Ein voller Fleck in der Lücke zwischen den Türmen — siehe Detail unten.",
+  "en": "A solid spot in the gap between the towers — see the detail below.",
+  "es": "Una mancha maciza en el hueco entre las torres — véase el detalle más abajo.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Une tache pleine dans l'interstice entre les tours — voir le détail ci-dessous.",
+  "tag": "span"
+ },
+ "9f79e4f94b": {
+  "cs": "Kus 8 — Plná skvrna v mezeře mezi věžemi — viz detail níže.",
+  "de": "Stück 8 — Ein voller Fleck in der Lücke zwischen den Türmen — siehe Detail unten.",
+  "en": "Item 8 — A solid spot in the gap between the towers — see the detail below.",
+  "es": "Ejemplar 8 — Una mancha maciza en el hueco entre las torres — véase el detalle más abajo.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Pièce 8 — Une tache pleine dans l'interstice entre les tours — voir le détail ci-dessous.",
   "tag": "span"
  },
  "9fa0f1a208": {
@@ -11334,6 +11763,17 @@
   "fr": "La valeur 15 h compte parmi les plus appréciées : sept planches d’impression, des nuances toujours débattues, huit dimensions de dentelure et une richesse de types et de défauts de planche.",
   "tag": "span"
  },
+ "a247f2edab": {
+  "cs": "Mechanismus je stejný jako u světliny, jen na opačném konci škály — viz schéma na začátku této kapitoly. Přebytek barvy na vyvýšeném prvku formy nebo válce se při přítlaku roztéká do stran. Čím hustší a vyvýšenější je kresba v daném místě, tím víc barvy se tam drží a tím snáz se rozlije — proto se závoj objevuje skoro vždy u stejných typů míst: rohové ornamenty, silné linky rámu.",
+  "de": "Der Mechanismus ist derselbe wie bei einem hellen Fleck, nur am anderen Ende der Skala — siehe das Schema am Anfang dieses Kapitels. Farbüberschuss an einem erhabenen Element der Form oder Walze zerfließt unter dem Anpressdruck zur Seite. Je dichter und erhabener die Zeichnung an einer Stelle ist, desto mehr Farbe sammelt sich dort und desto leichter zerfließt sie — deshalb tritt der Schleier fast immer an denselben Arten von Stellen auf: Eckornamente, kräftige Rahmenlinien.",
+  "en": "The mechanism is the same as for a white spot, just at the opposite end of the scale — see the diagram at the start of this chapter. Excess ink on a raised element of the forme or roller spreads sideways under pressure. The denser and more raised the design is at a given spot, the more ink collects there and the more easily it spreads — which is why a smear turns up almost always at the same kinds of places: corner ornaments, heavy frame lines.",
+  "es": "El mecanismo es el mismo que en una mancha clara, solo que en el extremo opuesto de la escala — véase el esquema al principio de este capítulo. El exceso de tinta en un elemento en relieve de la forma o del rodillo se extiende hacia los lados bajo la presión. Cuanto más denso y elevado sea el dibujo en un punto dado, más tinta se acumula allí y más fácilmente se extiende — por eso el velo aparece casi siempre en los mismos tipos de lugares: adornos de esquina, líneas gruesas del marco.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Le mécanisme est le même que pour une tache claire, mais à l'autre bout de l'échelle — voir le schéma au début de ce chapitre. L'excès d'encre sur un élément en relief de la forme ou du rouleau s'étale latéralement sous la pression. Plus le dessin est dense et en relief à un endroit donné, plus l'encre s'y accumule et plus elle s'étale facilement — c'est pourquoi le voile apparaît presque toujours aux mêmes types d'endroits : ornements de coin, lignes épaisses du cadre.",
+  "tag": "span"
+ },
  "a25398222f": {
   "cs": "5h — VIII. tisková deska",
   "de": "5h — VIII. Druckplatte",
@@ -11462,6 +11902,17 @@
    "15h/index.html"
   ],
   "fr": "Planche fissurée 11/II, cadre endommagé 60/VI, un trésor pour une bouchée de pain…",
+  "tag": "span"
+ },
+ "a41e29ef2b": {
+  "cs": "Kus 3 — Uprostřed siluety Hradčan.",
+  "de": "Stück 3 — In der Mitte der Hradschin-Silhouette.",
+  "en": "Item 3 — In the middle of the Hradčany skyline.",
+  "es": "Ejemplar 3 — En el centro de la silueta de Hradčany.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Pièce 3 — Au milieu de la silhouette de Hradčany.",
   "tag": "span"
  },
  "a43997a995": {
@@ -12271,6 +12722,17 @@
    "clanky.html"
   ],
   "fr": "24. 6. 2017",
+  "tag": "span"
+ },
+ "af15246825": {
+  "cs": "Kus 13 — V levé části siluety Hradčan.",
+  "de": "Stück 13 — Im linken Teil der Hradschin-Silhouette.",
+  "en": "Item 13 — In the left part of the Hradčany skyline.",
+  "es": "Ejemplar 13 — En la parte izquierda de la silueta de Hradčany.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Pièce 13 — Dans la partie gauche de la silhouette de Hradčany.",
   "tag": "span"
  },
  "af39cacf97": {
@@ -13400,6 +13862,17 @@
   "fr": "20h carmin",
   "tag": "span"
  },
+ "bcc73f67c4": {
+  "cs": "Kus 9 — V dolní ozdobě rámu vpravo od hodnotového oválu.",
+  "de": "Stück 9 — In der unteren Rahmenverzierung, rechts vom Wertoval.",
+  "en": "Item 9 — In the lower ornament of the frame, right of the value oval.",
+  "es": "Ejemplar 9 — En el ornamento inferior del marco, a la derecha del óvalo de valor.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Pièce 9 — Dans l'ornement inférieur du cadre, à droite de l'ovale de valeur.",
+  "tag": "span"
+ },
  "bcf038b980": {
   "cs": "16,1&nbsp;%",
   "de": "16,1&nbsp;%",
@@ -13485,6 +13958,17 @@
    "shanim.html"
   ],
   "fr": "Planche III",
+  "tag": "span"
+ },
+ "bec5045909": {
+  "cs": "Kus 9 — Uprostřed siluety Hradčan.",
+  "de": "Stück 9 — In der Mitte der Hradschin-Silhouette.",
+  "en": "Item 9 — In the middle of the Hradčany skyline.",
+  "es": "Ejemplar 9 — En el centro de la silueta de Hradčany.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Pièce 9 — Au milieu de la silhouette de Hradčany.",
   "tag": "span"
  },
  "bed6f89893": {
@@ -13846,6 +14330,17 @@
   "fr": "galerie des positions",
   "tag": "span"
  },
+ "c2c424e22f": {
+  "cs": "V dolní ozdobě rámu vlevo od hodnotového oválu.",
+  "de": "In der unteren Rahmenverzierung, links vom Wertoval.",
+  "en": "In the lower ornament of the frame, left of the value oval.",
+  "es": "En el ornamento inferior del marco, a la izquierda del óvalo de valor.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Dans l'ornement inférieur du cadre, à gauche de l'ovale de valeur.",
+  "tag": "span"
+ },
  "c2eea20aba": {
   "cs": "ZP 15 / TD I",
   "de": "Feld 15 / Platte I",
@@ -13855,6 +14350,17 @@
    "15h/typy-galerie.html"
   ],
   "fr": "position 15 / planche I",
+  "tag": "span"
+ },
+ "c2f2b9a2f9": {
+  "cs": "Kus 16 — U hodnotového oválu s číslicí 15.",
+  "de": "Stück 16 — Beim Wertoval mit der Ziffer 15.",
+  "en": "Item 16 — Near the value oval with the figure 15.",
+  "es": "Ejemplar 16 — Junto al óvalo de valor con la cifra 15.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Pièce 16 — Près de l'ovale de valeur portant le chiffre 15.",
   "tag": "span"
  },
  "c3140d8116": {
@@ -13972,6 +14478,17 @@
   "fr": "catalogues POFIS et MERKUR ; Filatelistická revue 10–11/1934 (Lešetický)",
   "tag": "span"
  },
+ "c484b3e7cd": {
+  "cs": "Bludný kroužek vzniká jedním izolovaným smítkem a je proto malý, ostře ohraničený a leží samostatně v bílé ploše. Závoj naopak vzniká plošným přebytkem barvy na vyvýšené kresbě a vždy na ni navazuje nebo z ní vytéká — nikdy neleží izolovaně a nemá ostrý okraj.",
+  "de": "Der wandernde Ring entsteht durch einen einzelnen isolierten Krümel und ist daher klein, scharf begrenzt und liegt allein in einer weißen Fläche. Der Schleier dagegen entsteht durch einen flächendeckenden Farbüberschuss an einem erhabenen Teil der Zeichnung und schließt immer daran an oder fließt daraus hervor — er liegt nie isoliert und hat nie einen scharfen Rand.",
+  "en": "A wandering ring comes from one isolated speck, so it is small, sharply bounded and sits on its own in a white area. A smear, by contrast, comes from a blanket excess of ink on a raised part of the design and always runs on from it or spills out of it — it never sits in isolation and never has a sharp edge.",
+  "es": "El anillo errante proviene de una única motita aislada, por lo que es pequeño, nítido y se encuentra solo en una zona blanca. El velo, en cambio, proviene de un exceso de tinta generalizado sobre una parte en relieve del dibujo y siempre continúa desde ella o se derrama de ella — nunca se encuentra aislado ni tiene un borde nítido.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "L'anneau errant provient d'un grain isolé unique ; il est donc petit, net et se trouve seul dans une zone blanche. Le voile, lui, provient d'un excès d'encre généralisé sur un relief du dessin et le prolonge toujours ou en déborde — il ne se trouve jamais isolé et n'a jamais de contour net.",
+  "tag": "span"
+ },
  "c491aa4445": {
   "cs": "VIII. TD",
   "de": "Platte VIII",
@@ -13980,6 +14497,17 @@
   "files": [],
   "fr": "planche VIII",
   "tag": "label"
+ },
+ "c4b524098b": {
+  "cs": "Závoj vzniká celoplošným přebytkem barvy na válci nebo na formě a projevuje se jako rozlitá barva na větší ploše kresby. Bludný kroužek naopak vzniká jedním izolovaným smítkem na jednom konkrétním místě — proto je ostře ohraničený, malý a jeho poloha se u různých kusů liší, zatímco závoj se drží míst, kde je na desce nejvíc vyvýšené kresby.",
+  "de": "Der Schleier (závoj) entsteht durch einen flächendeckenden Farbüberschuss auf der Walze oder der Form und zeigt sich als Farbe, die sich über eine größere Fläche der Zeichnung ausbreitet. Der wandernde Ring dagegen entsteht durch einen einzelnen, isolierten Krümel an einer bestimmten Stelle — deshalb ist er scharf begrenzt, klein, und seine Lage weicht von Stück zu Stück ab, während sich der Schleier dort hält, wo die Zeichnung der Platte am stärksten erhaben ist.",
+  "en": "A smear (závoj) comes from a blanket excess of ink on the roller or forme and shows up as ink spreading over a larger area of the design. A wandering ring, by contrast, comes from one isolated speck at one particular spot — which is why it is sharply bounded, small, and its position differs from copy to copy, while a smear stays where the plate's raised design is thickest.",
+  "es": "El velo (závoj) surge de un exceso de tinta generalizado en el rodillo o la forma y se manifiesta como tinta extendida sobre una zona más amplia del dibujo. El anillo errante, en cambio, proviene de una única motita aislada en un punto concreto — por eso es nítido, pequeño, y su posición difiere de un ejemplar a otro, mientras que el velo se mantiene donde el relieve de la plancha es más marcado.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Le voile (závoj) naît d'un excès d'encre généralisé sur le rouleau ou la forme et se traduit par une encre étalée sur une plus grande surface du dessin. L'anneau errant, lui, provient d'un grain isolé en un point précis — c'est pourquoi il est net, petit, et sa position diffère d'un exemplaire à l'autre, tandis que le voile reste là où le relief de la planche est le plus marqué.",
+  "tag": "span"
  },
  "c4bd8089ce": {
   "cs": "fialová",
@@ -14043,6 +14571,17 @@
   "files": [],
   "fr": "10h planche I",
   "tag": "alt"
+ },
+ "c593dbaf88": {
+  "cs": "Kus 5 — Uprostřed siluety Hradčan.",
+  "de": "Stück 5 — In der Mitte der Hradschin-Silhouette.",
+  "en": "Item 5 — In the middle of the Hradčany skyline.",
+  "es": "Ejemplar 5 — En el centro de la silueta de Hradčany.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Pièce 5 — Au milieu de la silhouette de Hradčany.",
+  "tag": "span"
  },
  "c5bdccf392": {
   "cs": "Galerie — tisková deska VII",
@@ -14313,6 +14852,17 @@
   "fr": "Étendue du matériel",
   "tag": "span"
  },
+ "c9949ea884": {
+  "cs": "Kus 14 — V levé části siluety Hradčan.",
+  "de": "Stück 14 — Im linken Teil der Hradschin-Silhouette.",
+  "en": "Item 14 — In the left part of the Hradčany skyline.",
+  "es": "Ejemplar 14 — En la parte izquierda de la silueta de Hradčany.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Pièce 14 — Dans la partie gauche de la silhouette de Hradčany.",
+  "tag": "span"
+ },
  "ca160a6b83": {
   "cs": "Nejzřetelnější kus sestavy. Rovná hranice prochází napříč celou známkou a pokračuje i do bočních okrajů; pod ní jsou obrysy zdvojené. Z tohoto kusu je i výřez výše.",
   "de": "Das deutlichste Stück der Zusammenstellung. Die gerade Grenze verläuft quer über die ganze Marke und setzt sich auch in die seitlichen Ränder fort; darunter sind die Umrisse verdoppelt. Von diesem Stück stammt auch der Ausschnitt oben.",
@@ -14445,6 +14995,17 @@
   "fr": "La dentelure était la dernière opération et, en même temps, la plus sujette à l’erreur. En <a href=\"zoubkovani.html\">dentelure en ligne</a>, chaque rangée de trous était appliquée séparément, de sorte qu’une feuille entière naissait de dizaines de frappes dont la précision reposait sur l’opérateur. De là viennent deux défauts opposés : une rangée en trop, et une rangée qui manque.",
   "tag": "span"
  },
+ "cb4a0e4c5f": {
+  "cs": "„Bludné kroužky“",
+  "de": "„Wandernde Ringe“",
+  "en": "“Wandering rings”",
+  "es": "«Anillos errantes»",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "« Anneaux errants »",
+  "tag": "span"
+ },
  "cb9906a65a": {
   "cs": "400h VIII. TD",
   "de": "400h Platte VIII",
@@ -14475,6 +15036,17 @@
    "shanim.html"
   ],
   "fr": "Planche · dentelure",
+  "tag": "span"
+ },
+ "cc18df47d0": {
+  "cs": "Jeden z doložených kusů nese na sběratelské kartě odkaz na pole <strong>35/V</strong>. Pokud se stejný závoj na tomto poli opakuje i na dalších arších, nešlo by už o náhodnou výrobní vadu, ale o vadu vázanou na konkrétní pole desky — otázka zatím zůstává otevřená.",
+  "de": "Eines der belegten Stücke trägt auf der Sammlerkarte einen Verweis auf Feld <strong>35/V</strong>. Sollte sich derselbe Schleier auf diesem Feld auch auf weiteren Bogen wiederholen, wäre es kein zufälliger Herstellungsfehler mehr, sondern ein an ein bestimmtes Plattenfeld gebundener Fehler — die Frage bleibt vorerst offen.",
+  "en": "One of the recorded copies carries a collector's card referencing field <strong>35/V</strong>. If the same smear recurs on this field on further sheets, it would no longer be a random production flaw but one tied to a particular plate field — the question is still open.",
+  "es": "Uno de los ejemplares documentados lleva en su ficha de coleccionista una referencia al campo <strong>35/V</strong>. Si el mismo velo se repitiera en este campo en otros pliegos, ya no se trataría de un defecto de fabricación aleatorio, sino de un defecto ligado a un campo concreto de la plancha — la cuestión sigue abierta.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "L'un des exemplaires documentés porte une fiche de collectionneur renvoyant au champ <strong>35/V</strong>. Si le même voile se répète sur ce champ sur d'autres feuilles, il ne s'agirait plus d'un défaut de fabrication aléatoire, mais d'un défaut lié à un champ précis de la planche — la question reste ouverte.",
   "tag": "span"
  },
  "cc633a3f9e": {
@@ -15008,6 +15580,17 @@
   "fr": "300h — planche I",
   "tag": "span"
  },
+ "d5e1483692": {
+  "cs": "Kus 18 — Uprostřed siluety Hradčan.",
+  "de": "Stück 18 — In der Mitte der Hradschin-Silhouette.",
+  "en": "Item 18 — In the middle of the Hradčany skyline.",
+  "es": "Ejemplar 18 — En el centro de la silueta de Hradčany.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Pièce 18 — Au milieu de la silhouette de Hradčany.",
+  "tag": "span"
+ },
  "d60055cbe4": {
   "cs": "VII. TD",
   "de": "Platte VII",
@@ -15025,6 +15608,17 @@
   "files": [],
   "fr": "position 9, éclaircie 5",
   "tag": "alt"
+ },
+ "d66cffdc89": {
+  "cs": "Kus 10 — V dolní ozdobě rámu vlevo od hodnotového oválu.",
+  "de": "Stück 10 — In der unteren Rahmenverzierung, links vom Wertoval.",
+  "en": "Item 10 — In the lower ornament of the frame, left of the value oval.",
+  "es": "Ejemplar 10 — En el ornamento inferior del marco, a la izquierda del óvalo de valor.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Pièce 10 — Dans l'ornement inférieur du cadre, à gauche de l'ovale de valeur.",
+  "tag": "span"
  },
  "d674222e11": {
   "cs": "Dlouhá příčka — IIp",
@@ -15400,6 +15994,17 @@
   "fr": "Recherche — Hradčany 15h",
   "tag": "attr"
  },
+ "dbc2cff826": {
+  "cs": "V dolní ozdobě rámu vpravo od hodnotového oválu.",
+  "de": "In der unteren Rahmenverzierung, rechts vom Wertoval.",
+  "en": "In the lower ornament of the frame, right of the value oval.",
+  "es": "En el ornamento inferior del marco, a la derecha del óvalo de valor.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Dans l'ornement inférieur du cadre, à droite de l'ovale de valeur.",
+  "tag": "span"
+ },
  "dbc62bde49": {
   "cs": "Galerie — tisková deska V",
   "de": "Galerie — Druckplatte V",
@@ -15729,6 +16334,17 @@
    "15h/index.html"
   ],
   "fr": "700 images — les 100 positions de chacune des 7 planches.",
+  "tag": "span"
+ },
+ "de8319ec09": {
+  "cs": "Kus 7 — Skutečný prstýnek v mezeře pod siluetou hradu — viz detail níže.",
+  "de": "Stück 7 — Ein echter Ring unterhalb der Burgsilhouette — siehe Detail unten.",
+  "en": "Item 7 — A genuine ring below the castle skyline — see the detail below.",
+  "es": "Ejemplar 7 — Un anillo genuino bajo la silueta del castillo — véase el detalle más abajo.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Pièce 7 — Un véritable petit anneau sous la silhouette du château — voir le détail ci-dessous.",
   "tag": "span"
  },
  "de9088e77a": {
@@ -16074,6 +16690,17 @@
   "fr": "20h / planche II",
   "tag": "span"
  },
+ "e50735a923": {
+  "cs": "V levé části siluety Hradčan.",
+  "de": "Im linken Teil der Hradschin-Silhouette.",
+  "en": "In the left part of the Hradčany skyline.",
+  "es": "En la parte izquierda de la silueta de Hradčany.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Dans la partie gauche de la silhouette de Hradčany.",
+  "tag": "span"
+ },
  "e50cf5c067": {
   "cs": "Dále jsou ve sbírce dva neperforované kusy s razítkem bez čitelného úřadu i data: ZP 36/VI a ZP 57/V.",
   "de": "Weiter befinden sich in der Sammlung zwei geschnittene Stücke mit einem Stempel ohne lesbares Amt und Datum: Feld 36/VI und Feld 57/V.",
@@ -16267,6 +16894,17 @@
   "fr": "groupes suivis",
   "tag": "span"
  },
+ "e7f70cc009": {
+  "cs": "Kus 17 — V nápisu „ČESKO-SLOVENSKO“ vlevo.",
+  "de": "Stück 17 — In der Inschrift „ČESKO-SLOVENSKO“, links.",
+  "en": "Item 17 — In the “ČESKO-SLOVENSKO” inscription, on the left.",
+  "es": "Ejemplar 17 — En la inscripción «ČESKO-SLOVENSKO», a la izquierda.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Pièce 17 — Dans l'inscription « ČESKO-SLOVENSKO », à gauche.",
+  "tag": "span"
+ },
  "e80c88bd3f": {
   "cs": "Celkem",
   "de": "Gesamt",
@@ -16300,6 +16938,17 @@
   "fr": "Planche d’impression fissurée — 11/II",
   "tag": "span"
  },
+ "e831cc7da8": {
+  "cs": "Kus 4 — Uprostřed siluety Hradčan.",
+  "de": "Stück 4 — In der Mitte der Hradschin-Silhouette.",
+  "en": "Item 4 — In the middle of the Hradčany skyline.",
+  "es": "Ejemplar 4 — En el centro de la silueta de Hradčany.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Pièce 4 — Au milieu de la silhouette de Hradčany.",
+  "tag": "span"
+ },
  "e85d5e5b07": {
   "cs": "500h V. TD",
   "de": "500h Platte V",
@@ -16327,6 +16976,17 @@
    "prvni-kresba.html"
   ],
   "fr": "Tirage : 108&nbsp;903&nbsp;000 (non dent. 103&nbsp;123&nbsp;000, dent. off. 5&nbsp;750&nbsp;000) · Dentelure : 13¾&nbsp;:&nbsp;13½ en peigne, 13¾ en ligne, 11½ en ligne · Date d’émission : 30.&nbsp;12.&nbsp;1918 · <a href=\"assets/downloads/tiskove-desky.xlsx\">Schémas des planches</a>",
+  "tag": "span"
+ },
+ "e913baa421": {
+  "cs": "Kus 7 — U hodnotového oválu s číslicí 15.",
+  "de": "Stück 7 — Beim Wertoval mit der Ziffer 15.",
+  "en": "Item 7 — Near the value oval with the figure 15.",
+  "es": "Ejemplar 7 — Junto al óvalo de valor con la cifra 15.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Pièce 7 — Près de l'ovale de valeur portant le chiffre 15.",
   "tag": "span"
  },
  "e93c294d0e": {
@@ -16699,6 +17359,17 @@
   "fr": "La numérotation des positions",
   "tag": "span"
  },
+ "edc1e569b6": {
+  "cs": "Kus 19 — Uprostřed siluety Hradčan.",
+  "de": "Stück 19 — In der Mitte der Hradschin-Silhouette.",
+  "en": "Item 19 — In the middle of the Hradčany skyline.",
+  "es": "Ejemplar 19 — En el centro de la silueta de Hradčany.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Pièce 19 — Au milieu de la silhouette de Hradčany.",
+  "tag": "span"
+ },
  "edcaf9aaa2": {
   "cs": "Typ",
   "de": "Typ",
@@ -16824,6 +17495,17 @@
   "fr": "Nuances",
   "tag": "span"
  },
+ "eeab3cf9a3": {
+  "cs": "Dvanáct kusů se zaznamenaným závojem — kroužky vyznačují místo, žádný z nich není ostře ohraničený.",
+  "de": "Zwölf Stück mit erfasstem Schleier — die Kreise markieren die Stelle, keiner davon ist scharf begrenzt.",
+  "en": "Twelve copies with a recorded smear — the circles mark the spot; none of them is sharply bounded.",
+  "es": "Doce ejemplares con velo registrado — los círculos marcan el lugar; ninguno de ellos está nítidamente delimitado.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Douze exemplaires avec un voile relevé — les cercles indiquent l'emplacement ; aucun d'eux n'est nettement délimité.",
+  "tag": "span"
+ },
  "eeb7ba2f17": {
   "cs": "Porušený rám na 20/V",
   "de": "Gebrochener Rahmen auf 20/V",
@@ -16910,6 +17592,17 @@
    "sitemap.html"
   ],
   "fr": "Plan du site 15h",
+  "tag": "span"
+ },
+ "f0af8fff97": {
+  "cs": "Kus 12 — V nápisu „ČESKO-SLOVENSKO“ vlevo.",
+  "de": "Stück 12 — In der Inschrift „ČESKO-SLOVENSKO“, links.",
+  "en": "Item 12 — In the “ČESKO-SLOVENSKO” inscription, on the left.",
+  "es": "Ejemplar 12 — En la inscripción «ČESKO-SLOVENSKO», a la izquierda.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Pièce 12 — Dans l'inscription « ČESKO-SLOVENSKO », à gauche.",
   "tag": "span"
  },
  "f0b3dcf253": {
@@ -17381,6 +18074,17 @@
   "fr": "120h — planche II",
   "tag": "span"
  },
+ "f89035df5a": {
+  "cs": "Kus 6 — V levé části siluety Hradčan.",
+  "de": "Stück 6 — Im linken Teil der Hradschin-Silhouette.",
+  "en": "Item 6 — In the left part of the Hradčany skyline.",
+  "es": "Ejemplar 6 — En la parte izquierda de la silueta de Hradčany.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Pièce 6 — Dans la partie gauche de la silhouette de Hradčany.",
+  "tag": "span"
+ },
  "f8a197040c": {
   "cs": "Opakem dvojitého úderu je průchod, který se vůbec neuskutečnil. Mezi dvěma řadami známek pak zůstane souvislý pás papíru a arch nelze v tom místě roztrhnout. Známky se musely oddělit nůžkami nebo roztržením, takže hotový kus má jednu či více stran <strong>hladkých, bez zoubků</strong> — a zbývající strany zoubkované normálně.",
   "de": "Das Gegenteil eines Doppelschlags ist ein Durchgang, der überhaupt nicht stattfand. Zwischen zwei Markenreihen bleibt dann ein durchgehender Papierstreifen, und der Bogen lässt sich an dieser Stelle nicht trennen. Die Marken mussten mit der Schere oder durch Reißen getrennt werden, sodass das fertige Stück eine oder mehrere <strong>glatte, zahnlose</strong> Seiten hat — und die übrigen Seiten normal gezähnt.",
@@ -17772,6 +18476,17 @@
   "fr": "Pli de papier — pièce 15",
   "tag": "alt"
  },
+ "fdf1cfd561": {
+  "cs": "U hodnotového oválu s číslicí 15.",
+  "de": "Beim Wertoval mit der Ziffer 15.",
+  "en": "Near the value oval with the figure 15.",
+  "es": "Junto al óvalo de valor con la cifra 15.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Près de l'ovale de valeur portant le chiffre 15.",
+  "tag": "span"
+ },
  "fe353320a6": {
   "cs": "H — 13¾:10¾ řádk.",
   "de": "H — 13¾:10¾ Linie",
@@ -17900,6 +18615,17 @@
   "fr": "<tspan x=\"117\" y=\"266\">au coin, un seul</tspan><tspan x=\"117\" y=\"280\">trou commun</tspan>",
   "tag": "cap"
  },
+ "ff3ca0fa01": {
+  "cs": "Kus 1 — V nápisu „ČESKO-SLOVENSKO“ vlevo.",
+  "de": "Stück 1 — In der Inschrift „ČESKO-SLOVENSKO“, links.",
+  "en": "Item 1 — In the “ČESKO-SLOVENSKO” inscription, on the left.",
+  "es": "Ejemplar 1 — En la inscripción «ČESKO-SLOVENSKO», a la izquierda.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Pièce 1 — Dans l'inscription « ČESKO-SLOVENSKO », à gauche.",
+  "tag": "span"
+ },
  "ff5586d583": {
   "cs": "Diskusní fórum",
   "de": "Diskussionsforum",
@@ -17955,269 +18681,5 @@
   ],
   "fr": "25,7&nbsp;%",
   "tag": "num"
- },
- "cb4a0e4c5f": {
-  "cs": "„Bludné kroužky“",
-  "en": "“Wandering rings”",
-  "fr": "« Anneaux errants »",
-  "de": "„Wandernde Ringe“",
-  "es": "«Anillos errantes»",
-  "tag": "span",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ]
- },
- "9640b147e1": {
-  "cs": "Drobná, ostře ohraničená tmavá skvrna nebo prstýnek se objeví v místě, kde má kresba zůstat čistě bílá — v mezeře mezi věžemi, v písmenu nápisu, pod ozdobným kroužkem rámu. Na rozdíl od deskové vady se poloha u jednotlivých kusů liší: neváže se na jedno známkové pole, ale mění se kus od kusu.",
-  "en": "A small, sharply-bounded dark spot or ring appears where the design should stay clean white — in a gap between the towers, inside a letter of the inscription, under an ornamental ring of the frame. Unlike a plate flaw, its position varies from copy to copy: it is not tied to one stamp field.",
-  "fr": "Une petite tache sombre ou un anneau, aux contours nets, apparaît là où le dessin devrait rester d'un blanc net — dans un interstice entre les tours, dans une lettre de l'inscription, sous un anneau ornemental du cadre. À la différence d'un défaut de planche, sa position varie d'un exemplaire à l'autre : elle n'est pas liée à un champ de timbre précis.",
-  "de": "An einer Stelle, an der die Zeichnung rein weiß bleiben sollte, erscheint ein kleiner, scharf begrenzter dunkler Fleck oder Ring — in einer Lücke zwischen den Türmen, in einem Buchstaben der Inschrift, unter einem Zierring des Rahmens. Anders als bei einem Plattenfehler weicht die Lage von Stück zu Stück ab: Sie ist nicht an ein bestimmtes Markenfeld gebunden.",
-  "es": "Aparece una pequeña mancha oscura o un anillo de contorno nítido en un lugar donde el dibujo debería quedar completamente blanco — en un hueco entre las torres, en una letra de la inscripción, bajo un anillo ornamental del marco. A diferencia de un defecto de plancha, su posición varía de un ejemplar a otro: no está ligada a un campo de sello concreto.",
-  "tag": "span",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ]
- },
- "4927d706d4": {
-  "cs": "Dvanáct kusů se zaznamenaným výskytem vady — polohy jsou na každém kuse jinde, kroužky vyznačují místo skvrny.",
-  "en": "Twelve copies with the flaw recorded — the position differs on every copy; the circles mark where the spot sits.",
-  "fr": "Douze exemplaires avec le défaut relevé — la position diffère sur chaque exemplaire ; les cercles indiquent l'emplacement de la tache.",
-  "de": "Zwölf Stück mit erfasstem Vorkommen des Fehlers — die Lage ist bei jedem Stück anders; die Kreise markieren die Stelle des Flecks.",
-  "es": "Doce ejemplares con la aparición del defecto registrada — la posición difiere en cada ejemplar; los círculos marcan dónde está la mancha.",
-  "tag": "span",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ]
- },
- "0705f592dd": {
-  "cs": "Na inkovacím válci nebo přímo na tiskové formě ulpí smítko — kousek zaschlé barvy, nečistota nebo papírové vlákno napuštěné barvou. Otiskne se jen v tom jednom místě jednoho archu; zbytek tisku tím není dotčen. Podle tvaru a velikosti smítka vznikne buď plná skvrna, nebo — když se otiskl hlavně jeho obvod — prstýnek.",
-  "en": "A speck lodges on the inking roller or on the printing forme itself — a bit of dried ink, dirt, or a paper fibre soaked in ink. It prints only at that one spot on one sheet; the rest of the impression is unaffected. Depending on the speck's shape and size the result is either a solid spot, or — when mainly its rim made contact — a small ring.",
-  "fr": "Un grain se dépose sur le rouleau encreur ou directement sur la forme d'impression — un fragment d'encre séchée, une impureté ou une fibre de papier imbibée d'encre. Il ne s'imprime qu'à cet unique endroit d'une seule feuille ; le reste du tirage n'en est pas affecté. Selon la forme et la taille du grain, il en résulte soit une tache pleine, soit — lorsque c'est surtout son pourtour qui a touché — un petit anneau.",
-  "de": "Auf der Farbwalze oder direkt auf der Druckform bleibt ein Krümel haften — ein Stückchen getrockneter Farbe, Schmutz oder eine mit Farbe getränkte Papierfaser. Er druckt sich nur an dieser einen Stelle eines einzigen Bogens ab; der übrige Druck bleibt davon unberührt. Je nach Form und Größe des Krümels entsteht entweder ein voller Fleck oder — wenn hauptsächlich sein Rand Kontakt hatte — ein kleiner Ring.",
-  "es": "En el rodillo entintador o directamente en la forma de imprenta se adhiere una motita — un trocito de tinta seca, suciedad o una fibra de papel empapada en tinta. Se imprime solo en ese único lugar de un pliego; el resto de la tirada no se ve afectado. Según la forma y el tamaño de la motita, el resultado es una mancha maciza o bien — cuando ha hecho contacto sobre todo su borde — un pequeño anillo.",
-  "tag": "span",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ]
- },
- "4aeb31e9de": {
-  "cs": "smítko / úlomek zaschlé barvy",
-  "en": "speck / bit of dried ink",
-  "fr": "grain / fragment d'encre séchée",
-  "de": "Krümel / Stückchen getrockneter Farbe",
-  "es": "motita / trocito de tinta seca",
-  "tag": "svg",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ]
- },
- "506d073d04": {
-  "cs": "na válci nebo na formě",
-  "en": "on the roller or the forme",
-  "fr": "sur le rouleau ou la forme",
-  "de": "auf der Walze oder der Form",
-  "es": "en el rodillo o la forma",
-  "tag": "svg",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ]
- },
- "9dbef753a4": {
-  "cs": "→ bludný kroužek",
-  "en": "→ wandering ring",
-  "fr": "→ anneau errant",
-  "de": "→ wandernder Ring",
-  "es": "→ anillo errante",
-  "tag": "svg",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ]
- },
- "4b0fd2ce47": {
-  "cs": "jinde v pořádku, zde navíc kapka barvy",
-  "en": "fine elsewhere, an extra drop of ink here",
-  "fr": "correct ailleurs, une goutte d'encre en trop ici",
-  "de": "sonst in Ordnung, hier ein zusätzlicher Farbtropfen",
-  "es": "correcto en el resto, aquí una gota de tinta de más",
-  "tag": "svg",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ]
- },
- "77485f19fe": {
-  "cs": "→ izolovaná skvrna nebo prstýnek",
-  "en": "→ isolated spot or ring",
-  "fr": "→ tache isolée ou anneau",
-  "de": "→ isolierter Fleck oder Ring",
-  "es": "→ mancha aislada o anillo",
-  "tag": "svg",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ]
- },
- "8530569962": {
-  "cs": "Na inkovacím válci nebo přímo na formě ulpí smítko — kousek zaschlé barvy, prachu nebo papírového vlákna napuštěného barvou. Otiskne se jen v tom jednom místě jednoho archu, zbytek tisku zůstává v pořádku. Podle tvaru a velikosti smítka vznikne buď plná skvrna, nebo — když se otiskl hlavně obvod smítka — prstýnek.",
-  "en": "A speck lodges on the inking roller or on the forme itself — a bit of dried ink, dust, or a paper fibre soaked in ink. It prints only at that one spot on one sheet; the rest of the impression is unaffected. Depending on the speck's shape and size the result is either a solid spot, or — when mainly its rim made contact — a small ring.",
-  "fr": "Un grain se dépose sur le rouleau encreur ou directement sur la forme — un fragment d'encre séchée, de poussière ou une fibre de papier imbibée d'encre. Il ne s'imprime qu'à cet unique endroit d'une seule feuille, le reste du tirage reste intact. Selon la forme et la taille du grain, il en résulte soit une tache pleine, soit — lorsque c'est surtout son pourtour qui s'est imprimé — un anneau.",
-  "de": "Auf der Farbwalze oder direkt auf der Form bleibt ein Krümel haften — ein Stückchen getrockneter Farbe, Staub oder eine mit Farbe getränkte Papierfaser. Er druckt sich nur an dieser einen Stelle eines einzigen Bogens ab, der übrige Druck bleibt in Ordnung. Je nach Form und Größe des Krümels entsteht entweder ein voller Fleck oder — wenn sich hauptsächlich sein Rand abdruckte — ein Ring.",
-  "es": "En el rodillo entintador o directamente en la forma se adhiere una motita — un trocito de tinta seca, polvo o una fibra de papel empapada en tinta. Se imprime solo en ese único lugar de un pliego, el resto de la tirada queda intacto. Según la forma y el tamaño de la motita, el resultado es una mancha maciza o bien — cuando se imprimió sobre todo su borde — un anillo.",
-  "tag": "span",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ]
- },
- "9c22e6757d": {
-  "cs": "Proč to není závoj",
-  "en": "Why this is not a smear (závoj)",
-  "fr": "Pourquoi ce n'est pas un voile (závoj)",
-  "de": "Warum das kein Schleier (závoj) ist",
-  "es": "Por qué esto no es un velo (závoj)",
-  "tag": "span",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ]
- },
- "c4b524098b": {
-  "cs": "Závoj vzniká celoplošným přebytkem barvy na válci nebo na formě a projevuje se jako rozlitá barva na větší ploše kresby. Bludný kroužek naopak vzniká jedním izolovaným smítkem na jednom konkrétním místě — proto je ostře ohraničený, malý a jeho poloha se u různých kusů liší, zatímco závoj se drží míst, kde je na desce nejvíc vyvýšené kresby.",
-  "en": "A smear (závoj) comes from a blanket excess of ink on the roller or forme and shows up as ink spreading over a larger area of the design. A wandering ring, by contrast, comes from one isolated speck at one particular spot — which is why it is sharply bounded, small, and its position differs from copy to copy, while a smear stays where the plate's raised design is thickest.",
-  "fr": "Le voile (závoj) naît d'un excès d'encre généralisé sur le rouleau ou la forme et se traduit par une encre étalée sur une plus grande surface du dessin. L'anneau errant, lui, provient d'un grain isolé en un point précis — c'est pourquoi il est net, petit, et sa position diffère d'un exemplaire à l'autre, tandis que le voile reste là où le relief de la planche est le plus marqué.",
-  "de": "Der Schleier (závoj) entsteht durch einen flächendeckenden Farbüberschuss auf der Walze oder der Form und zeigt sich als Farbe, die sich über eine größere Fläche der Zeichnung ausbreitet. Der wandernde Ring dagegen entsteht durch einen einzelnen, isolierten Krümel an einer bestimmten Stelle — deshalb ist er scharf begrenzt, klein, und seine Lage weicht von Stück zu Stück ab, während sich der Schleier dort hält, wo die Zeichnung der Platte am stärksten erhaben ist.",
-  "es": "El velo (závoj) surge de un exceso de tinta generalizado en el rodillo o la forma y se manifiesta como tinta extendida sobre una zona más amplia del dibujo. El anillo errante, en cambio, proviene de una única motita aislada en un punto concreto — por eso es nítido, pequeño, y su posición difiere de un ejemplar a otro, mientras que el velo se mantiene donde el relieve de la plancha es más marcado.",
-  "tag": "span",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ]
- },
- "2d103b7823": {
-  "cs": "Plná skvrna v mezeře mezi věžemi — kompaktní kapka barvy s ostrým okrajem.",
-  "en": "A solid spot in the gap between the towers — a compact drop of ink with a sharp edge.",
-  "fr": "Une tache pleine dans l'interstice entre les tours — une goutte d'encre compacte aux contours nets.",
-  "de": "Ein voller Fleck in der Lücke zwischen den Türmen — ein kompakter Farbtropfen mit scharfem Rand.",
-  "es": "Una mancha maciza en el hueco entre las torres — una gota de tinta compacta de borde nítido.",
-  "tag": "span",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ]
- },
- "2913f3fed4": {
-  "cs": "Skutečný prstýnek v písmenu nápisu POŠTA — otiskl se jen obvod smítka, střed zůstal světlý.",
-  "en": "A genuine ring inside a letter of the inscription POŠTA — only the rim of the speck printed, the centre stayed light.",
-  "fr": "Un véritable petit anneau dans une lettre de l'inscription POŠTA — seul le pourtour du grain s'est imprimé, le centre est resté clair.",
-  "de": "Ein echter Ring in einem Buchstaben der Inschrift POŠTA — es druckte sich nur der Rand des Krümels ab, die Mitte blieb hell.",
-  "es": "Un anillo genuino dentro de una letra de la inscripción POŠTA — solo se imprimió el borde de la motita, el centro quedó claro.",
-  "tag": "span",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ]
- },
- "3bc2e153a9": {
-  "cs": "Místo ostrého okraje se tu barva rozlévá do měkké, neostré skvrny, která navazuje na tištěnou linku nebo obtéká hustý, vyvýšený prvek kresby — nejčastěji srdíčkovou ozdobu v rohu rámu. Skvrna nemá vlastní jasnou hranici, plynule slábne do bílé plochy.",
-  "en": "Instead of a sharp edge, the ink here spreads into a soft, blurred stain that runs on from a printed line or spills around a dense, raised element of the design — most often the small heart-shaped ornament in the corner of the frame. The stain has no clear boundary of its own; it fades gradually into the white.",
-  "fr": "Au lieu d'un contour net, l'encre s'étale ici en une tache douce et floue, qui prolonge une ligne imprimée ou déborde autour d'un élément dense et en relief du dessin — le plus souvent le petit motif en forme de cœur dans le coin du cadre. La tache n'a pas de limite propre nette ; elle s'estompe progressivement dans le blanc.",
-  "de": "Statt eines scharfen Randes zerfließt die Farbe hier zu einem weichen, unscharfen Fleck, der an eine gedruckte Linie anschließt oder ein dichtes, erhabenes Element der Zeichnung umfließt — am häufigsten das kleine herzförmige Ornament in der Rahmenecke. Der Fleck hat keine eigene klare Grenze; er verblasst allmählich ins Weiß.",
-  "es": "En lugar de un borde nítido, aquí la tinta se derrama en una mancha suave y difusa, que continúa una línea impresa o se desborda alrededor de un elemento denso y en relieve del dibujo — casi siempre el pequeño adorno en forma de corazón de la esquina del marco. La mancha no tiene un límite propio claro; se desvanece gradualmente hacia el blanco.",
-  "tag": "span",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ]
- },
- "eeab3cf9a3": {
-  "cs": "Dvanáct kusů se zaznamenaným závojem — kroužky vyznačují místo, žádný z nich není ostře ohraničený.",
-  "en": "Twelve copies with a recorded smear — the circles mark the spot; none of them is sharply bounded.",
-  "fr": "Douze exemplaires avec un voile relevé — les cercles indiquent l'emplacement ; aucun d'eux n'est nettement délimité.",
-  "de": "Zwölf Stück mit erfasstem Schleier — die Kreise markieren die Stelle, keiner davon ist scharf begrenzt.",
-  "es": "Doce ejemplares con velo registrado — los círculos marcan el lugar; ninguno de ellos está nítidamente delimitado.",
-  "tag": "span",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ]
- },
- "a247f2edab": {
-  "cs": "Mechanismus je stejný jako u světliny, jen na opačném konci škály — viz schéma na začátku této kapitoly. Přebytek barvy na vyvýšeném prvku formy nebo válce se při přítlaku roztéká do stran. Čím hustší a vyvýšenější je kresba v daném místě, tím víc barvy se tam drží a tím snáz se rozlije — proto se závoj objevuje skoro vždy u stejných typů míst: rohové ornamenty, silné linky rámu.",
-  "en": "The mechanism is the same as for a white spot, just at the opposite end of the scale — see the diagram at the start of this chapter. Excess ink on a raised element of the forme or roller spreads sideways under pressure. The denser and more raised the design is at a given spot, the more ink collects there and the more easily it spreads — which is why a smear turns up almost always at the same kinds of places: corner ornaments, heavy frame lines.",
-  "fr": "Le mécanisme est le même que pour une tache claire, mais à l'autre bout de l'échelle — voir le schéma au début de ce chapitre. L'excès d'encre sur un élément en relief de la forme ou du rouleau s'étale latéralement sous la pression. Plus le dessin est dense et en relief à un endroit donné, plus l'encre s'y accumule et plus elle s'étale facilement — c'est pourquoi le voile apparaît presque toujours aux mêmes types d'endroits : ornements de coin, lignes épaisses du cadre.",
-  "de": "Der Mechanismus ist derselbe wie bei einem hellen Fleck, nur am anderen Ende der Skala — siehe das Schema am Anfang dieses Kapitels. Farbüberschuss an einem erhabenen Element der Form oder Walze zerfließt unter dem Anpressdruck zur Seite. Je dichter und erhabener die Zeichnung an einer Stelle ist, desto mehr Farbe sammelt sich dort und desto leichter zerfließt sie — deshalb tritt der Schleier fast immer an denselben Arten von Stellen auf: Eckornamente, kräftige Rahmenlinien.",
-  "es": "El mecanismo es el mismo que en una mancha clara, solo que en el extremo opuesto de la escala — véase el esquema al principio de este capítulo. El exceso de tinta en un elemento en relieve de la forma o del rodillo se extiende hacia los lados bajo la presión. Cuanto más denso y elevado sea el dibujo en un punto dado, más tinta se acumula allí y más fácilmente se extiende — por eso el velo aparece casi siempre en los mismos tipos de lugares: adornos de esquina, líneas gruesas del marco.",
-  "tag": "span",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ]
- },
- "9202ac1d09": {
-  "cs": "Barva vytéká z hustého květinového ornamentu do sousední bílé plochy — okraj je měkký, ne ostrý.",
-  "en": "Ink spills from a dense floral ornament into the neighbouring white area — the edge is soft, not sharp.",
-  "fr": "L'encre déborde d'un ornement floral dense vers la zone blanche voisine — le bord est doux, pas net.",
-  "de": "Farbe fließt aus einem dichten Blumenornament in die benachbarte weiße Fläche — der Rand ist weich, nicht scharf.",
-  "es": "La tinta se derrama desde un denso ornamento floral hacia la zona blanca vecina — el borde es suave, no nítido.",
-  "tag": "span",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ]
- },
- "5cb5cc25d6": {
-  "cs": "Závoj stéká z nápisu na srdíčkovou ozdobu pod ním — barva plynule slábne, žádná ostrá hranice.",
-  "en": "A smear runs down from the inscription onto the little heart ornament below it — the ink fades gradually, with no sharp boundary.",
-  "fr": "Le voile coule depuis l'inscription vers le petit motif en cœur en dessous — l'encre s'estompe progressivement, sans limite nette.",
-  "de": "Der Schleier läuft von der Inschrift auf das kleine Herzornament darunter herab — die Farbe verblasst allmählich, ohne scharfe Grenze.",
-  "es": "El velo baja desde la inscripción hasta el pequeño adorno en forma de corazón de debajo — la tinta se desvanece gradualmente, sin límite nítido.",
-  "tag": "span",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ]
- },
- "74a6f51bae": {
-  "cs": "Proč to není bludný kroužek",
-  "en": "Why this is not a wandering ring",
-  "fr": "Pourquoi ce n'est pas un anneau errant",
-  "de": "Warum das kein wandernder Ring ist",
-  "es": "Por qué esto no es un anillo errante",
-  "tag": "span",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ]
- },
- "c484b3e7cd": {
-  "cs": "Bludný kroužek vzniká jedním izolovaným smítkem a je proto malý, ostře ohraničený a leží samostatně v bílé ploše. Závoj naopak vzniká plošným přebytkem barvy na vyvýšené kresbě a vždy na ni navazuje nebo z ní vytéká — nikdy neleží izolovaně a nemá ostrý okraj.",
-  "en": "A wandering ring comes from one isolated speck, so it is small, sharply bounded and sits on its own in a white area. A smear, by contrast, comes from a blanket excess of ink on a raised part of the design and always runs on from it or spills out of it — it never sits in isolation and never has a sharp edge.",
-  "fr": "L'anneau errant provient d'un grain isolé unique ; il est donc petit, net et se trouve seul dans une zone blanche. Le voile, lui, provient d'un excès d'encre généralisé sur un relief du dessin et le prolonge toujours ou en déborde — il ne se trouve jamais isolé et n'a jamais de contour net.",
-  "de": "Der wandernde Ring entsteht durch einen einzelnen isolierten Krümel und ist daher klein, scharf begrenzt und liegt allein in einer weißen Fläche. Der Schleier dagegen entsteht durch einen flächendeckenden Farbüberschuss an einem erhabenen Teil der Zeichnung und schließt immer daran an oder fließt daraus hervor — er liegt nie isoliert und hat nie einen scharfen Rand.",
-  "es": "El anillo errante proviene de una única motita aislada, por lo que es pequeño, nítido y se encuentra solo en una zona blanca. El velo, en cambio, proviene de un exceso de tinta generalizado sobre una parte en relieve del dibujo y siempre continúa desde ella o se derrama de ella — nunca se encuentra aislado ni tiene un borde nítido.",
-  "tag": "span",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ]
- },
- "cc18df47d0": {
-  "cs": "Jeden z doložených kusů nese na sběratelské kartě odkaz na pole <strong>35/V</strong>. Pokud se stejný závoj na tomto poli opakuje i na dalších arších, nešlo by už o náhodnou výrobní vadu, ale o vadu vázanou na konkrétní pole desky — otázka zatím zůstává otevřená.",
-  "en": "One of the recorded copies carries a collector's card referencing field <strong>35/V</strong>. If the same smear recurs on this field on further sheets, it would no longer be a random production flaw but one tied to a particular plate field — the question is still open.",
-  "fr": "L'un des exemplaires documentés porte une fiche de collectionneur renvoyant au champ <strong>35/V</strong>. Si le même voile se répète sur ce champ sur d'autres feuilles, il ne s'agirait plus d'un défaut de fabrication aléatoire, mais d'un défaut lié à un champ précis de la planche — la question reste ouverte.",
-  "de": "Eines der belegten Stücke trägt auf der Sammlerkarte einen Verweis auf Feld <strong>35/V</strong>. Sollte sich derselbe Schleier auf diesem Feld auch auf weiteren Bogen wiederholen, wäre es kein zufälliger Herstellungsfehler mehr, sondern ein an ein bestimmtes Plattenfeld gebundener Fehler — die Frage bleibt vorerst offen.",
-  "es": "Uno de los ejemplares documentados lleva en su ficha de coleccionista una referencia al campo <strong>35/V</strong>. Si el mismo velo se repitiera en este campo en otros pliegos, ya no se trataría de un defecto de fabricación aleatorio, sino de un defecto ligado a un campo concreto de la plancha — la cuestión sigue abierta.",
-  "tag": "span",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ]
- },
- "946829ea9f": {
-  "cs": "Dva kusy se závojem pod hodnotovým oválem — na kartě vpravo je odkaz na pole 35/V.",
-  "en": "Two copies with a smear below the value oval — the card on the right references field 35/V.",
-  "fr": "Deux exemplaires avec un voile sous l'ovale de valeur — la fiche à droite renvoie au champ 35/V.",
-  "de": "Zwei Stück mit Schleier unter dem Wertoval — die Karte rechts verweist auf Feld 35/V.",
-  "es": "Dos ejemplares con velo bajo el óvalo de valor — la ficha de la derecha hace referencia al campo 35/V.",
-  "tag": "span",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ]
- },
- "5c06e73ac9": {
-  "cs": "Tři další doložené kusy — stejný vzorec: barva se line podél tištěné linky nebo z hustého ornamentu.",
-  "en": "Three further recorded copies — the same pattern: the ink runs along a printed line or out of a dense ornament.",
-  "fr": "Trois autres exemplaires documentés — le même schéma : l'encre coule le long d'une ligne imprimée ou hors d'un ornement dense.",
-  "de": "Drei weitere belegte Stück — dasselbe Muster: die Farbe zieht sich entlang einer gedruckten Linie oder aus einem dichten Ornament.",
-  "es": "Otros tres ejemplares documentados — el mismo patrón: la tinta corre a lo largo de una línea impresa o sale de un ornamento denso.",
-  "tag": "span",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ]
  }
 }
