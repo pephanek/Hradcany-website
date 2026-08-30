@@ -21,7 +21,7 @@ body{
 h1,h2,h3,h4{font-family:Georgia,"Times New Roman",serif;line-height:1.25;color:var(--brick-dark)}
 a{color:var(--brick);text-decoration:none}
 a:hover{text-decoration:underline}
-img{max-width:100%;display:block}
+img{max-width:100%;display:block;height:auto}
 
 /* language toggle */
 body.lang-cs .en{display:none !important}
