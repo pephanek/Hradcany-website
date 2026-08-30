@@ -58,6 +58,25 @@
 .vada-gal .tg-card .cell .pos{position:absolute;left:4px;top:4px;background:rgba(0,0,0,.55);color:#fff;font-size:.72rem;line-height:1;padding:3px 5px;border-radius:4px}
 .vada-gal .tg-cap{font-size:.8rem;text-align:left;color:#5d5049}
 @media(max-width:640px){.vada-gal .tg-card{width:46%}.vada-gal .tg-card.wide{width:96%}}
+
+.tf-fig{background:var(--cream);border:1px solid var(--line);border-radius:8px;padding:.5rem;max-width:660px;margin:1rem auto}
+.tf-svg{width:100%;height:auto;display:block}
+.tf-svg .tf-forme{fill:#6b5a4e}
+.tf-svg .tf-ink{fill:var(--brick)}
+.tf-svg .tf-paper{fill:#fffaf6;stroke:#d9c6ba;stroke-width:1.2}
+.tf-svg .tf-object{fill:#d8cabd;stroke:#b3a294;stroke-width:1}
+.tf-svg .tf-platen{fill:none;stroke:#8a7668;stroke-width:2}
+.tf-svg .tf-arrow{fill:none;stroke:#8a7668;stroke-width:2;marker-end:url(#tfArrow)}
+.tf-svg .tf-lead{fill:none;stroke:#b3a294;stroke-width:1.1;stroke-dasharray:3 3}
+.tf-svg .tf-cap{font-family:"Segoe UI",system-ui,sans-serif;font-size:11.5px;fill:var(--muted)}
+.tf-svg .tf-cap.mid{text-anchor:middle}
+.tf-svg .tf-cap.head{font-size:13px;fill:var(--brick-dark);font-weight:600}
+.tf-svg .tf-cap.tf-flaw{fill:var(--brick-dark);font-weight:600}
+@media(max-width:640px){.tf-svg .tf-cap{font-size:13px}}
+
+.tf-svg .tf-frame{fill:none;stroke:var(--brick-light);stroke-width:1.3}
+.tf-svg .tf-crack{fill:none;stroke:#4a3f37;stroke-width:1.4}
+.tf-svg .tf-crack.thick{stroke:var(--brick);stroke-width:2.6}
 </style>
 <link rel="alternate" hreflang="cs" href="../../15h/vyrobni-vady.html">
 <link rel="alternate" hreflang="en" href="../../en/15h/vyrobni-vady.html">
@@ -207,12 +226,58 @@
 
 <div class="section" id="tisk">
   <h2>Défauts d’impression</h2>
+<div class="tf-fig"><svg class="tf-svg" viewBox="0 0 640 205" role="img" aria-labelledby="tfTitleA"><title id="tfTitleA">Nabarveni formy - co se pokazi</title><defs><marker id="tfArrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#8a7668"/></marker></defs><text class="tf-cap head mid" x="320" y="18">Encrage de la forme</text>
+<rect class="tf-forme" x="20" y="150" width="170" height="22"/>
+<rect class="tf-forme" x="75" y="120" width="60" height="30"/>
+<rect class="tf-ink" x="83" y="114" width="44" height="6"/>
+<rect class="tf-paper" x="20" y="38" width="170" height="10"/>
+<path class="tf-arrow" d="M 105 48 L 105 96"/>
+<rect class="tf-ink" x="83" y="48" width="44" height="5" opacity="0.35"/>
+<text class="tf-cap mid" x="105" y="182">trop peu d'encre</text>
+<text class="tf-cap mid tf-flaw" x="105" y="197">→ tache claire</text>
+<rect class="tf-forme" x="235" y="150" width="170" height="22"/>
+<rect class="tf-forme" x="290" y="120" width="60" height="30"/>
+<rect class="tf-ink" x="290" y="110" width="60" height="10"/>
+<rect class="tf-paper" x="235" y="38" width="170" height="10"/>
+<path class="tf-arrow" d="M 320 48 L 320 96"/>
+<rect class="tf-ink" x="290" y="48" width="60" height="6"/>
+<text class="tf-cap mid" x="320" y="182">correct</text>
+<rect class="tf-forme" x="450" y="150" width="170" height="22"/>
+<rect class="tf-forme" x="505" y="120" width="60" height="30"/>
+<rect class="tf-ink" x="490" y="98" width="90" height="22"/>
+<rect class="tf-paper" x="450" y="38" width="170" height="10"/>
+<path class="tf-arrow" d="M 535 48 L 535 96"/>
+<rect class="tf-ink" x="490" y="48" width="95" height="7" opacity="0.30"/>
+<rect class="tf-ink" x="500" y="48" width="75" height="7" opacity="0.55"/>
+<text class="tf-cap mid" x="535" y="182">trop d'encre</text>
+<text class="tf-cap mid tf-flaw" x="535" y="197">→ impression maculée, voile</text>
+</svg><figcaption>L'encrage de la forme détermine le résultat : un creux encrassé d'encre séchée affame l'impression suivante → une tache claire (světlina) ; trop d'encre sur un élément en relief se répand sur les côtés → impression maculée ou voile (závoj).</figcaption></div>
 <div class="vada" id="zdvojeny-tisk">
   <h3>Impression partiellement doublée</h3>
   <p>Sur ces timbres, le dessin se divise en deux parties selon une <strong>limite horizontale rectiligne</strong>. Au-dessus, l’empreinte est nette et franche ; au-dessous, plus lourde, empâtée et par endroits doublée — les contours se répètent, décalés d’une fraction de millimètre. La limite est droite comme une règle, n’a rien à voir avec le dessin et se poursuit jusque dans les marges latérales du timbre. Sur les quatre pièces attestées, elle se situe approximativement à la même hauteur.</p>
   <figure><img src="../../15h/assets/img/zdvojeny/zdvojeny-detail.jpg" alt="detail hranice mezi ostrým a zdvojeným tiskem / detail of the boundary between sharp and doubled print" loading="lazy"><figcaption>Détail de la limite (pièce 4) — empreinte nette au-dessus, empâtée et doublée au-dessous. La séparation est rectiligne et court aussi à travers les marges latérales.</figcaption></figure>
   <h4>Comment le défaut est apparu</h4>
   <p>La cause se trouve <strong>sous la feuille</strong>, et non dans la planche d’impression. Pendant le tirage, un corps étranger s’est glissé sous la feuille — très probablement une autre feuille de papier : une cale, une maculature ou un coin replié de la feuille elle-même. Son bord rectiligne a soulevé une partie de la surface d’impression et, à partir de cet instant, la feuille s’est imprimée à deux hauteurs différentes.</p>
+<div class="tf-fig"><svg class="tf-svg" viewBox="0 0 640 240" role="img" aria-labelledby="tfTitleB"><title id="tfTitleB">Jak vznikl castecne zdvojeny tisk</title>
+<rect class="tf-forme" x="40" y="150" width="560" height="20"/>
+<rect class="tf-forme" x="40" y="140" width="560" height="10"/>
+<rect class="tf-ink" x="40" y="134" width="560" height="6"/>
+<rect class="tf-object" x="380" y="114" width="190" height="20" rx="2"/>
+<polygon class="tf-paper" points="40,134 380,134 380,114 600,114 600,122 380,122 380,140 40,140"/>
+<rect class="tf-platen" x="40" y="80" width="560" height="8"/>
+<path class="tf-arrow" d="M 130 52 L 130 78"/>
+<path class="tf-arrow" d="M 500 52 L 500 78"/>
+<text class="tf-cap mid" x="320" y="44">pression</text>
+<path class="tf-lead" d="M 460 100 L 460 114"/>
+<text class="tf-cap" x="420" y="98">corps étranger sous la feuille</text>
+<path class="tf-lead" d="M 380 114 L 380 210"/>
+<rect class="tf-ink" x="40" y="188" width="330" height="10"/>
+<rect class="tf-ink" x="380" y="186" width="220" height="10" opacity="0.55"/>
+<rect class="tf-ink" x="388" y="191" width="212" height="10" opacity="0.55"/>
+<text class="tf-cap" x="140" y="206">impression nette</text>
+<text class="tf-cap" x="420" y="211">impression dédoublée / maculée</text>
+<text class="tf-cap" x="386" y="226">limite</text>
+</svg><figcaption>Un corps étranger sous la feuille a soulevé une partie de la surface d'impression. Cette partie a touché la forme plus tôt et sous une pression plus forte, et le papier y a légèrement glissé — c'est pourquoi l'impression au-delà de la limite est maculée, voire dédoublée, tandis que le reste de la feuille est resté net.</figcaption></div>
   <ul>
 <li>La partie soulevée a rencontré la forme plus tôt et sous une pression plus grande que celle pour laquelle la machine était réglée.</li>
 <li>Sous cette surpression, le papier a légèrement glissé sur la forme et l’empreinte s’est empâtée jusqu’à se doubler — d’où des contours qui ne se répètent qu’à une fraction de millimètre l’un de l’autre.</li>
@@ -247,6 +312,14 @@
 <div class="section" id="deska">
   <h2>Endommagement de la planche d’impression</h2>
   <p>Un cas particulier parmi les défauts de fabrication. Un défaut de planche constant ordinaire est dans la planche dès le début et relève de la reconstitution des planches — vous le trouverez dans la <a href="galerie.html">galerie des positions</a>. N’entrent ici que les cas où la planche <strong>s’est endommagée en cours d’utilisation</strong>, le plus souvent lors du nettoyage. Un tel dommage évolue dans le temps et peut donc être découpé en phases — et les phases aident ensuite à classer chronologiquement les différentes pièces. Pour la valeur 15h, deux cas sont traités de la sorte.</p>
+<div class="tf-fig"><svg class="tf-svg" viewBox="0 0 640 190" role="img" aria-labelledby="tfTitleD"><title id="tfTitleD">Jak mohla vzniknout praskla deska</title>
+<rect class="tf-forme" x="60" y="60" width="90" height="90" rx="3"/><rect class="tf-frame" x="72" y="72" width="66" height="66" rx="2"/><rect class="tf-object" x="30" y="42" width="55" height="16" rx="3" transform="rotate(-28 57 50)"/><path class="tf-lead" d="M 45 36 A 30 14 0 0 1 85 36"/><text class="tf-cap mid" x="105" y="172">a) nettoyage de la forme</text>
+<path class="tf-arrow" d="M 200 105 L 225 105"/>
+<rect class="tf-forme" x="275" y="60" width="90" height="90" rx="3"/><rect class="tf-frame" x="287" y="72" width="66" height="66" rx="2"/><path class="tf-crack" d="M 275 60 L 287 74 L 282 82 L 293 92"/><text class="tf-cap mid" x="320" y="172">b) fissure capillaire</text>
+<path class="tf-arrow" d="M 415 105 L 440 105"/>
+<rect class="tf-forme" x="490" y="60" width="90" height="90" rx="3"/><rect class="tf-frame" x="502" y="72" width="66" height="66" rx="2"/><path class="tf-crack thick" d="M 490 62 L 505 78 L 499 87 L 512 98 L 506 108"/><path class="tf-forme" d="M 490 60 L 504 60 L 490 74 Z"/><text class="tf-cap mid" x="535" y="172">c) la fissure se remplit d'encre et s'agrandit</text>
+</svg><figcaption>Ce sont les bords et les coins exposés d'un champ qui subissent le plus de contraintes — c'est là que le nettoyage de la forme amorce le plus facilement une fissure capillaire. Aux tirages suivants, l'encre s'y infiltre et la pression de la presse l'élargit un peu plus à chaque passage, si bien que le dommage s'aggrave avec le temps et peut être divisé en phases.</figcaption></div>
+
   <div class="soon">
     <div class="soon-card done"><strong>Planche d’impression fissurée — 11/II</strong><span class="note">Fissure marquée du coin supérieur gauche sur la 11e position de la deuxième planche, manifestement consécutive à un dommage survenu lors du nettoyage régulier. La fissure s’est peu à peu agrandie ; l’article la répartit en cinq phases et montre leur présence dans les différentes dentelures — <a href="clanky/15h-praskla-deska.html">article complet</a>.</span></div>
     <div class="soon-card done"><strong>Cadre endommagé — 60/VI</strong><span class="note">La Monographie mentionne la 60e position de la sixième planche comme une position à défaut de planche retenu — une excroissance sur le bord droit du cadre. Les épreuves ont montré que l’objet a évolué : l’excroissance d’origine (type I) s’est ensuite rompue (type II) — <a href="clanky/15h-poskozeny-ram-60-6.html">article complet</a>.</span></div>
