@@ -14,3 +14,9 @@ Thumbs.db
 
 # Generator: seznam nepřeložených řetězců (pracovní soubor)
 i18n/chybejici.txt
+
+# Lokalni skripty pro publikaci z tohoto pocitace (nepatri na web)
+publikuj.bat
+publikuj-skryte.vbs
+publikuj.log
+publikuj.log.old
