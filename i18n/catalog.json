@@ -1009,17 +1009,6 @@
   "fr": "Le site du 15h",
   "tag": "span"
  },
- "0ec040204b": {
-  "cs": "Kus 14 — Plná skvrna v ploše oblohy vpravo od věží Hradčan.",
-  "de": "Stück 14 — Ein voller Fleck am Himmel, rechts von den Türmen des Hradschin.",
-  "en": "Item 14 — A solid spot in the sky, to the right of the towers of Hradčany.",
-  "es": "Pieza 14 — Una mancha maciza en el cielo, a la derecha de las torres del Hradčany.",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ],
-  "fr": "Pièce 14 — Une tache pleine dans le ciel, à droite des tours du Hradčany.",
-  "tag": "span"
- },
  "0ee71e298e": {
   "cs": "Náklad: 113&nbsp;930&nbsp;000 (nezoubk. 105&nbsp;640&nbsp;000, úředně zoubk. 8&nbsp;290&nbsp;000) · Zoubkování: 11½ řádkové, 11½&nbsp;:&nbsp;10¾ řádkové · Datum vydání: 18.&nbsp;12.&nbsp;1918 · <a href=\"assets/downloads/tiskove-desky.xlsx\">Schémata TD</a>",
   "de": "Auflage: 113&nbsp;930&nbsp;000 (geschn. 105&nbsp;640&nbsp;000, amtl. gez. 8&nbsp;290&nbsp;000) · Zähnung: 11½ Linie, 11½&nbsp;:&nbsp;10¾ Linie · Ausgabetag: 18.&nbsp;12.&nbsp;1918 · <a href=\"assets/downloads/tiskove-desky.xlsx\">Plattenschemata</a>",
@@ -4721,17 +4710,6 @@
    "pata-kresba.html"
   ],
   "fr": "500h brun",
-  "tag": "span"
- },
- "450d246f68": {
-  "cs": "Plná skvrna v ploše oblohy vpravo od věží Hradčan.",
-  "de": "Ein voller Fleck am Himmel, rechts von den Türmen des Hradschin.",
-  "en": "A solid spot in the sky, to the right of the towers of Hradčany.",
-  "es": "Una mancha maciza en el cielo, a la derecha de las torres del Hradčany.",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ],
-  "fr": "Une tache pleine dans le ciel, à droite des tours du Hradčany.",
   "tag": "span"
  },
  "453c4ff3e9": {
@@ -9863,6 +9841,17 @@
   ],
   "fr": "(position 47/VI)",
   "tag": "label"
+ },
+ "86be3a60bb": {
+  "cs": "Kus 14 — Kroužek s tmavým jádrem a světlým dvorcem — při pravém okraji kresby, v porostu vpravo od kostelních věží, těsně nad lištou s nápisem.",
+  "de": "Stück 14 — Ein Ring mit dunklem Kern und hellem Hof — am rechten Rand der Zeichnung, im Blattwerk rechts der Kirchtürme, unmittelbar über dem Schriftband.",
+  "en": "Item 14 — A ring with a dark core and a light halo — at the right edge of the design, in the foliage right of the church towers, just above the inscription band.",
+  "es": "Pieza 14 — Un anillo con núcleo oscuro y halo claro — en el borde derecho del dibujo, entre el follaje a la derecha de las torres de la iglesia, justo encima de la franja de la inscripción.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Pièce 14 — Un anneau au centre sombre et au halo clair — au bord droit du dessin, dans le feuillage à droite des tours de l'église, juste au-dessus du bandeau de l'inscription.",
+  "tag": "span"
  },
  "86cc851f67": {
   "cs": "16 · nejvýraznější",
@@ -16525,6 +16514,17 @@
   "fr": "25h planche VII",
   "tag": "alt"
  },
+ "dae597f0a4": {
+  "cs": "Kroužek s tmavým jádrem a světlým dvorcem — při pravém okraji kresby, v porostu vpravo od kostelních věží, těsně nad lištou s nápisem.",
+  "de": "Ein Ring mit dunklem Kern und hellem Hof — am rechten Rand der Zeichnung, im Blattwerk rechts der Kirchtürme, unmittelbar über dem Schriftband.",
+  "en": "A ring with a dark core and a light halo — at the right edge of the design, in the foliage right of the church towers, just above the inscription band.",
+  "es": "Un anillo con núcleo oscuro y halo claro — en el borde derecho del dibujo, entre el follaje a la derecha de las torres de la iglesia, justo encima de la franja de la inscripción.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Un anneau au centre sombre et au halo clair — au bord droit du dessin, dans le feuillage à droite des tours de l'église, juste au-dessus du bandeau de l'inscription.",
+  "tag": "span"
+ },
  "db143e9de7": {
   "cs": "Výjimečná zoubkování (I a L)",
   "de": "Außergewöhnliche Zähnungen (I und L)",
@@ -19320,5 +19320,126 @@
   ],
   "fr": "25,7&nbsp;%",
   "tag": "num"
+ },
+ "32f752c558": {
+  "cs": "Posun doprava a nahoru — vlevo prochází perforace těsně u rámečku, nahoře přebývá pruh papíru se stopou tisku sousední známky.",
+  "de": "Verschiebung nach rechts und nach oben — links verläuft die Zähnung dicht am Rahmen, oben bleibt ein zusätzlicher Papierstreifen mit einer Spur des Druckes der Nachbarmarke.",
+  "en": "Shift to the right and upwards — on the left the perforation passes hard against the frame, at the top an extra strip of paper carries a trace of the neighbouring stamp's print.",
+  "es": "Desplazamiento hacia la derecha y hacia arriba — a la izquierda la perforación pasa justo junto al marco; arriba queda una banda de papel sobrante con un resto de la impresión del sello vecino.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Décalage vers la droite et vers le haut — à gauche, la perforation passe tout contre le cadre ; en haut subsiste une bande de papier supplémentaire portant une trace de l’impression du timbre voisin.",
+  "tag": "span"
+ },
+ "da9920bd4b": {
+  "cs": "Kus 25 — Posun doprava a nahoru — vlevo prochází perforace těsně u rámečku, nahoře přebývá pruh papíru se stopou tisku sousední známky.",
+  "de": "Stück 25 — Verschiebung nach rechts und nach oben — links verläuft die Zähnung dicht am Rahmen, oben bleibt ein zusätzlicher Papierstreifen mit einer Spur des Druckes der Nachbarmarke.",
+  "en": "Item 25 — Shift to the right and upwards — on the left the perforation passes hard against the frame, at the top an extra strip of paper carries a trace of the neighbouring stamp's print.",
+  "es": "Ejemplar 25 — Desplazamiento hacia la derecha y hacia arriba — a la izquierda la perforación pasa justo junto al marco; arriba queda una banda de papel sobrante con un resto de la impresión del sello vecino.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Pièce 25 — Décalage vers la droite et vers le haut — à gauche, la perforation passe tout contre le cadre ; en haut subsiste une bande de papier supplémentaire portant une trace de l’impression du timbre voisin.",
+  "tag": "cap"
+ },
+ "dc59841cde": {
+  "cs": "Posun doprava a nahoru — vlevo zasahuje řada až k rámečku, nahoře zůstal široký okraj se stopou tisku sousední známky.",
+  "de": "Verschiebung nach rechts und nach oben — links reicht die Reihe bis an den Rahmen, oben blieb ein breiter Rand mit einer Spur des Druckes der Nachbarmarke.",
+  "en": "Shift to the right and upwards — on the left the row reaches the frame, at the top a wide margin remains with a trace of the neighbouring stamp's print.",
+  "es": "Desplazamiento hacia la derecha y hacia arriba — a la izquierda la fila llega hasta el marco; arriba queda un margen ancho con un resto de la impresión del sello vecino.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Décalage vers la droite et vers le haut — à gauche, la rangée atteint le cadre ; en haut subsiste une large marge portant une trace de l’impression du timbre voisin.",
+  "tag": "span"
+ },
+ "0aa4dfe181": {
+  "cs": "Kus 26 — Posun doprava a nahoru — vlevo zasahuje řada až k rámečku, nahoře zůstal široký okraj se stopou tisku sousední známky.",
+  "de": "Stück 26 — Verschiebung nach rechts und nach oben — links reicht die Reihe bis an den Rahmen, oben blieb ein breiter Rand mit einer Spur des Druckes der Nachbarmarke.",
+  "en": "Item 26 — Shift to the right and upwards — on the left the row reaches the frame, at the top a wide margin remains with a trace of the neighbouring stamp's print.",
+  "es": "Ejemplar 26 — Desplazamiento hacia la derecha y hacia arriba — a la izquierda la fila llega hasta el marco; arriba queda un margen ancho con un resto de la impresión del sello vecino.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Pièce 26 — Décalage vers la droite et vers le haut — à gauche, la rangée atteint le cadre ; en haut subsiste une large marge portant une trace de l’impression du timbre voisin.",
+  "tag": "cap"
+ },
+ "148fd111bc": {
+  "cs": "Velmi jemná, sotva znatelná skvrna v nápisu ČESKO-SLOVENSKA a v ozdobě vlevo od hodnotového oválu — nejslabší doložený případ.",
+  "de": "Ein sehr feiner, kaum wahrnehmbarer Fleck in der Inschrift ČESKO-SLOVENSKA und in der Verzierung links vom Wertoval — der schwächste belegte Fall.",
+  "en": "A very faint, barely visible spot in the ČESKO-SLOVENSKA inscription and in the ornament to the left of the value oval — the faintest copy recorded.",
+  "es": "Una mancha muy tenue, apenas perceptible, en la inscripción ČESKO-SLOVENSKA y en el ornamento a la izquierda del óvalo del valor — el caso más débil documentado.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Une tache très fine, à peine perceptible, dans l’inscription ČESKO-SLOVENSKA et dans l’ornement à gauche de l’ovale de valeur — le cas le plus faible attesté.",
+  "tag": "span"
+ },
+ "cd1ed410c0": {
+  "cs": "Kus 2 — Velmi jemná, sotva znatelná skvrna v nápisu ČESKO-SLOVENSKA a v ozdobě vlevo od hodnotového oválu — nejslabší doložený případ.",
+  "de": "Stück 2 — Ein sehr feiner, kaum wahrnehmbarer Fleck in der Inschrift ČESKO-SLOVENSKA und in der Verzierung links vom Wertoval — der schwächste belegte Fall.",
+  "en": "Item 2 — A very faint, barely visible spot in the ČESKO-SLOVENSKA inscription and in the ornament to the left of the value oval — the faintest copy recorded.",
+  "es": "Ejemplar 2 — Una mancha muy tenue, apenas perceptible, en la inscripción ČESKO-SLOVENSKA y en el ornamento a la izquierda del óvalo del valor — el caso más débil documentado.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Pièce 2 — Une tache très fine, à peine perceptible, dans l’inscription ČESKO-SLOVENSKA et dans l’ornement à gauche de l’ovale de valeur — le cas le plus faible attesté.",
+  "tag": "cap"
+ },
+ "0a6189d3b3": {
+  "cs": "V nápisu „ČESKO-SLOVENSKA“ vlevo.",
+  "de": "In der Inschrift „ČESKO-SLOVENSKA“, links.",
+  "en": "In the “ČESKO-SLOVENSKA” inscription, on the left.",
+  "es": "En la inscripción «ČESKO-SLOVENSKA», a la izquierda.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Dans l'inscription « ČESKO-SLOVENSKA », à gauche.",
+  "tag": "span"
+ },
+ "c365d7942a": {
+  "cs": "Kus 1 — V nápisu „ČESKO-SLOVENSKA“ vlevo.",
+  "de": "Stück 1 — In der Inschrift „ČESKO-SLOVENSKA“, links.",
+  "en": "Item 1 — In the “ČESKO-SLOVENSKA” inscription, on the left.",
+  "es": "Ejemplar 1 — En la inscripción «ČESKO-SLOVENSKA», a la izquierda.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Pièce 1 — Dans l'inscription « ČESKO-SLOVENSKA », à gauche.",
+  "tag": "cap"
+ },
+ "02ba0d33e8": {
+  "cs": "Kus 12 — V nápisu „ČESKO-SLOVENSKA“ vlevo.",
+  "de": "Stück 12 — In der Inschrift „ČESKO-SLOVENSKA“, links.",
+  "en": "Item 12 — In the “ČESKO-SLOVENSKA” inscription, on the left.",
+  "es": "Ejemplar 12 — En la inscripción «ČESKO-SLOVENSKA», a la izquierda.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Pièce 12 — Dans l'inscription « ČESKO-SLOVENSKA », à gauche.",
+  "tag": "cap"
+ },
+ "d0af684481": {
+  "cs": "Kus 17 — V nápisu „ČESKO-SLOVENSKA“ vlevo.",
+  "de": "Stück 17 — In der Inschrift „ČESKO-SLOVENSKA“, links.",
+  "en": "Item 17 — In the “ČESKO-SLOVENSKA” inscription, on the left.",
+  "es": "Ejemplar 17 — En la inscripción «ČESKO-SLOVENSKA», a la izquierda.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Pièce 17 — Dans l'inscription « ČESKO-SLOVENSKA », à gauche.",
+  "tag": "cap"
+ },
+ "c2edc52123": {
+  "cs": "Kus 14 — V pravé části siluety Hradčan.",
+  "de": "Stück 14 — Im rechten Teil der Hradschin-Silhouette.",
+  "en": "Item 14 — In the right part of the Hradčany skyline.",
+  "es": "Ejemplar 14 — En la parte derecha de la silueta de Hradčany.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Pièce 14 — Dans la partie droite de la silhouette de Hradčany.",
+  "tag": "cap"
  }
 }
