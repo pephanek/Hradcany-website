@@ -12,15 +12,20 @@
 <meta name="description" content="Hradčany 15h (POFIS 7) — production flaws: double and missing perforation, printing and paper flaws.">
 <link rel="stylesheet" href="../../15h/css/style.css">
 <style>
-.vada-toc{display:flex;flex-wrap:wrap;gap:.5rem;margin:.9rem 0 0;padding:0;list-style:none}
+.vada-toc{display:flex;flex-wrap:wrap;gap:1rem;margin:.9rem 0 0;padding:0;list-style:none;align-items:flex-start}
+.vada-toc .toc-group{display:flex;flex-direction:column;gap:.32rem;align-items:flex-start}
 .vada-toc a{display:inline-block;border:1px solid var(--line);border-radius:999px;padding:.28rem .8rem;font-size:.9rem;text-decoration:none;background:#fffdfb}
 .vada-toc a:hover{background:var(--cream)}
+.vada-toc .toc-sub{display:flex;flex-wrap:wrap;gap:.3rem;padding-left:.7rem}
+.vada-toc .toc-sub a{font-size:.78rem;padding:.15rem .6rem;opacity:.8}
 .vada{border-top:1px solid var(--line);padding-top:1.1rem;margin-top:1.6rem}
 .vada:first-of-type{border-top:0;padding-top:0;margin-top:.6rem}
 .vada h3{margin:0 0 .6rem}
 .vada h4{margin:1.2rem 0 .4rem;font-size:1rem}
 .vada-figs{display:flex;gap:1.2rem;flex-wrap:wrap;align-items:flex-start;justify-content:center}
 .vada-figs figure{margin:.5rem 0}
+.vada-figs.det-sq figure{width:300px;max-width:300px;margin:.5rem 0}
+.vada-figs.det-sq figcaption{text-align:left}
 .perf-note{background:#fdf4ef;border-left:3px solid var(--brick-light);padding:.6rem .8rem;border-radius:0 8px 8px 0;font-size:.92rem}
 .soon{display:grid;gap:.8rem;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));margin-top:.8rem}
 .soon-card{border:1px dashed var(--line);border-radius:var(--radius);padding:.75rem .9rem;background:#fffdfb}
@@ -106,10 +111,10 @@
   <p>The Hradčany stamps were produced in 1919 in haste, on makeshift equipment and on whatever paper was at hand. The traces of that haste are still visible on the stamps. This page collects the <strong>production flaws</strong> of the 15h value — deviations that arose while the sheet was being made, not damage suffered after issue. They are arranged by production stage: <strong>paper → printing → perforation</strong>. How that process ran, and why it produces these particular deviations, is explained on the <a href="knihtisk.html">Letterpress</a> page.</p>
   <p class="perf-note">A production flaw is not the same as a catalogue variety. The perforation groups A–H, the drawing types or the shades describe <em>with what and how</em> a sheet was made, and they are regular. A flaw is a disturbance of that same process — random in most kinds, tied to a particular place on the plate in some (white spots). Constant plate varieties, which recur on the same stamp field, belong to plate reconstruction — see the <a href="galerie.html">position gallery</a>.</p>
   <ul class="vada-toc">
-    <li><a href="#perforace">Perforation flaws</a></li><li><a href="#posun">Perforation shifts</a></li>
-    <li><a href="#tisk">Printing flaws</a></li><li><a href="#zdvojeny-tisk">Partly doubled print</a></li>
-    <li><a href="#deska">Damage to the printing plate</a></li>
-    <li><a href="#zvrasneni">Creased paper</a></li><li><a href="#drivko">Splinter in the paper</a></li><li><a href="#papir">Paper flaws</a></li>
+    <li class="toc-group"><a href="#perforace">Perforation flaws</a><span class="toc-sub"><a href="#posun">Perforation shifts</a></span></li>
+    <li class="toc-group"><a href="#tisk">Printing flaws</a><span class="toc-sub"><a href="#zdvojeny-tisk">Partly doubled print</a></span></li>
+    <li class="toc-group"><a href="#deska">Damage to the printing plate</a></li>
+    <li class="toc-group"><a href="#papir">Paper flaws</a><span class="toc-sub"><a href="#zvrasneni">Creased paper</a><a href="#drivko">Splinter in the paper</a></span></li>
   </ul>
 </div>
 
@@ -254,7 +259,7 @@
 </svg><figcaption>The inking of the forme decides the outcome: a recess clogged with dried ink starves the next impression → a white spot (světlina); too much ink on a raised element spreads sideways → blurred print or a smear (závoj).</figcaption></div>
 <div class="vada" id="zdvojeny-tisk">
   <h3>Partly doubled print</h3>
-  <p>On these stamps the design is divided into two parts by a <strong>straight horizontal boundary</strong>. Above it the impression is clean and sharp, below it heavier, smeared and in places doubled — the outlines repeat, displaced by a fraction of a millimetre. The boundary is ruler-straight, has nothing to do with the design and continues into the side margins of the stamp. On all four recorded copies it lies at roughly the same height.</p>
+  <p>On these stamps the design is divided into two parts by a <strong>straight horizontal boundary</strong>. Above it the impression is clean and sharp, below it heavier, smeared and in places doubled — the outlines repeat, displaced by a fraction of a millimetre. The boundary is ruler-straight, has nothing to do with the design and continues into the side margins of the stamp. On all five recorded copies it lies at roughly the same height.</p>
   <figure><img src="../../15h/assets/img/zdvojeny/zdvojeny-detail.jpg" alt="detail hranice mezi ostrým a zdvojeným tiskem / detail of the boundary between sharp and doubled print" loading="lazy"><figcaption>Detail of the boundary (item 4) — a clean impression above, a smeared and doubled one below. The division is straight and runs across the side margins as well.</figcaption></figure>
   <h4>How the flaw arose</h4>
   <p>The cause lies <strong>under the sheet</strong>, not in the printing plate. During printing a foreign object found its way beneath the sheet — most likely another piece of paper: an underlay, a spoiled sheet, or a folded corner of the sheet itself. Its straight edge lifted part of the printing surface, and from that moment the sheet was printed at two different heights.</p>
@@ -345,8 +350,10 @@
 <div class="tg-card"><div class="cell" data-pos="13" data-full="../../15h/assets/img/bludne-krouzky/full/bludne-krouzky-13.jpg" data-cap="Item 13 — In the left part of the Hradčany skyline." data-tags=""><img src="../../15h/assets/img/bludne-krouzky/thumb/bludne-krouzky-13.jpg" alt="Bludné kroužky — kus 13" loading="lazy"><span class="pos">13</span></div><p class="tg-cap">In the left part of the Hradčany skyline.</p></div>
 <div class="tg-card"><div class="cell" data-pos="14" data-full="../../15h/assets/img/bludne-krouzky/full/bludne-krouzky-14.jpg" data-cap="Item 14 — A ring with a dark core and a light halo — at the right edge of the design, in the foliage right of the church towers, just above the inscription band." data-tags=""><img src="../../15h/assets/img/bludne-krouzky/thumb/bludne-krouzky-14.jpg" alt="Bludné kroužky — kus 14" loading="lazy"><span class="pos">14</span></div><p class="tg-cap">A ring with a dark core and a light halo — at the right edge of the design, in the foliage right of the church towers, just above the inscription band.</p></div>
 </div>
-<figure><img src="../../15h/assets/img/bludne-krouzky/bludne-krouzky-detail-skvrna.jpg" alt="detail plne skvrny mezi vezemi / detail of a solid spot between the towers" loading="lazy"><figcaption>A solid spot in the gap between the towers — a compact drop of ink with a sharp edge.</figcaption></figure>
-<figure><img src="../../15h/assets/img/bludne-krouzky/bludne-krouzky-detail-krouzek.jpg" alt="detail prstynku v napisu POSTA / detail of a ring inside the word POSTA" loading="lazy"><figcaption>A genuine ring inside a letter of the inscription POŠTA — only the rim of the speck printed, the centre stayed light.</figcaption></figure>
+<div class="vada-figs det-sq">
+<figure><img src="../../15h/assets/img/bludne-krouzky/bludne-krouzky-detail-skvrna.jpg" alt="detail plne skvrny mezi vezemi / detail of a solid spot between the towers" loading="lazy" style="max-width:300px"><figcaption>A solid spot in the gap between the towers — a compact drop of ink with a sharp edge.</figcaption></figure>
+<figure><img src="../../15h/assets/img/bludne-krouzky/bludne-krouzky-detail-krouzek.jpg" alt="detail prstynku v napisu POSTA / detail of a ring inside the word POSTA" loading="lazy" style="max-width:300px"><figcaption>A genuine ring inside a letter of the inscription POŠTA — only the rim of the speck printed, the centre stayed light.</figcaption></figure>
+</div>
 </div>
 
 <div class="vada" id="zavoje">
@@ -379,8 +386,10 @@
 <div class="tg-card"><div class="cell" data-pos="18" data-full="../../15h/assets/img/zavoje/full/zavoje-18.jpg" data-cap="Item 18 — In the middle of the Hradčany skyline." data-tags=""><img src="../../15h/assets/img/zavoje/thumb/zavoje-18.jpg" alt="Závoje — kus 18" loading="lazy"><span class="pos">18</span></div><p class="tg-cap">In the middle of the Hradčany skyline.</p></div>
 <div class="tg-card"><div class="cell" data-pos="19" data-full="../../15h/assets/img/zavoje/full/zavoje-19.jpg" data-cap="Item 19 — In the middle of the Hradčany skyline." data-tags=""><img src="../../15h/assets/img/zavoje/thumb/zavoje-19.jpg" alt="Závoje — kus 19" loading="lazy"><span class="pos">19</span></div><p class="tg-cap">In the middle of the Hradčany skyline.</p></div>
 </div>
-<figure><img src="../../15h/assets/img/zavoje/zavoje-detail-1.jpg" alt="detail zavoje vytekajiciho z ornamentu / detail of a smear spilling from an ornament" loading="lazy"><figcaption>Ink spills from a dense floral ornament into the neighbouring white area — the edge is soft, not sharp.</figcaption></figure>
-<figure><img src="../../15h/assets/img/zavoje/zavoje-detail-2.jpg" alt="detail zavoje pod napisem CESKO / detail of a smear under the inscription CESKO" loading="lazy"><figcaption>A smear runs down from the inscription onto the little heart ornament below it — the ink fades gradually, with no sharp boundary.</figcaption></figure>
+<div class="vada-figs det-sq">
+<figure><img src="../../15h/assets/img/zavoje/zavoje-detail-1.jpg" alt="detail zavoje vytekajiciho z ornamentu / detail of a smear spilling from an ornament" loading="lazy" style="max-width:300px"><figcaption>Ink spills from a dense floral ornament into the neighbouring white area — the edge is soft, not sharp.</figcaption></figure>
+<figure><img src="../../15h/assets/img/zavoje/zavoje-detail-2.jpg" alt="detail zavoje pod napisem CESKO / detail of a smear under the inscription CESKO" loading="lazy" style="max-width:300px"><figcaption>A smear runs down from the inscription onto the little heart ornament below it — the ink fades gradually, with no sharp boundary.</figcaption></figure>
+</div>
 </div>
 
   <div class="soon">
@@ -424,8 +433,10 @@
 <div class="tg-card"><div class="cell" data-pos="03" data-full="../../15h/assets/img/bile-skvrny/full/bile-skvrny-03.jpg" data-cap="Item 3 — A sharply bounded spot across the base of the castle and the letter L of the ČESKO-SLOVENSKA inscription — the letter disappears completely." data-tags=""><img src="../../15h/assets/img/bile-skvrny/thumb/bile-skvrny-03.jpg" alt="Bílé skvrny — kus 3" loading="lazy"><span class="pos">3</span></div><p class="tg-cap">A sharply bounded spot across the base of the castle and the letter L of the ČESKO-SLOVENSKA inscription — the letter disappears completely.</p></div>
 <div class="tg-card"><div class="cell" data-pos="04" data-full="../../15h/assets/img/bile-skvrny/full/bile-skvrny-04.jpg" data-cap="Item 4 — A diagonal spot across the towers, the inscription and the value oval, partly hidden under the cancel." data-tags=""><img src="../../15h/assets/img/bile-skvrny/thumb/bile-skvrny-04.jpg" alt="Bílé skvrny — kus 4" loading="lazy"><span class="pos">4</span></div><p class="tg-cap">A diagonal spot across the towers, the inscription and the value oval, partly hidden under the cancel.</p></div>
   </div>
-<figure><img src="../../15h/assets/img/bile-skvrny/bile-skvrny-detail-1.jpg" alt="detail ostre skvrny mizici v pismenu L / detail of a sharp spot erasing the letter L" loading="lazy"><figcaption>Detail of item 3 — the spot completely erases the letter L and reaches into the base of the castle. The boundary is sharp all the way round.</figcaption></figure>
-<figure><img src="../../15h/assets/img/bile-skvrny/bile-skvrny-detail-2.jpg" alt="detail velke skvrny v rohu ramu / detail of a large spot in the corner of the frame" loading="lazy"><figcaption>Detail of item 1 — only two tiny islands of ink survive within the spot; otherwise the boundary is clean and does not fade gradually into white.</figcaption></figure>
+<div class="vada-figs det-sq">
+<figure><img src="../../15h/assets/img/bile-skvrny/bile-skvrny-detail-1.jpg" alt="detail ostre skvrny mizici v pismenu L / detail of a sharp spot erasing the letter L" loading="lazy" style="max-width:300px"><figcaption>Detail of item 3 — the spot completely erases the letter L and reaches into the base of the castle. The boundary is sharp all the way round.</figcaption></figure>
+<figure><img src="../../15h/assets/img/bile-skvrny/bile-skvrny-detail-2.jpg" alt="detail velke skvrny v rohu ramu / detail of a large spot in the corner of the frame" loading="lazy" style="max-width:300px"><figcaption>Detail of item 1 — only two tiny islands of ink survive within the spot; otherwise the boundary is clean and does not fade gradually into white.</figcaption></figure>
+</div>
 </div>
 
 <div class="section" id="deska">

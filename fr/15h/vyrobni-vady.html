@@ -12,15 +12,20 @@
 <meta name="description" content="Hradčany 15h (POFIS 7) — défauts de fabrication : double dentelure et dentelure omise, défauts d’impression et de papier.">
 <link rel="stylesheet" href="../../15h/css/style.css">
 <style>
-.vada-toc{display:flex;flex-wrap:wrap;gap:.5rem;margin:.9rem 0 0;padding:0;list-style:none}
+.vada-toc{display:flex;flex-wrap:wrap;gap:1rem;margin:.9rem 0 0;padding:0;list-style:none;align-items:flex-start}
+.vada-toc .toc-group{display:flex;flex-direction:column;gap:.32rem;align-items:flex-start}
 .vada-toc a{display:inline-block;border:1px solid var(--line);border-radius:999px;padding:.28rem .8rem;font-size:.9rem;text-decoration:none;background:#fffdfb}
 .vada-toc a:hover{background:var(--cream)}
+.vada-toc .toc-sub{display:flex;flex-wrap:wrap;gap:.3rem;padding-left:.7rem}
+.vada-toc .toc-sub a{font-size:.78rem;padding:.15rem .6rem;opacity:.8}
 .vada{border-top:1px solid var(--line);padding-top:1.1rem;margin-top:1.6rem}
 .vada:first-of-type{border-top:0;padding-top:0;margin-top:.6rem}
 .vada h3{margin:0 0 .6rem}
 .vada h4{margin:1.2rem 0 .4rem;font-size:1rem}
 .vada-figs{display:flex;gap:1.2rem;flex-wrap:wrap;align-items:flex-start;justify-content:center}
 .vada-figs figure{margin:.5rem 0}
+.vada-figs.det-sq figure{width:300px;max-width:300px;margin:.5rem 0}
+.vada-figs.det-sq figcaption{text-align:left}
 .perf-note{background:#fdf4ef;border-left:3px solid var(--brick-light);padding:.6rem .8rem;border-radius:0 8px 8px 0;font-size:.92rem}
 .soon{display:grid;gap:.8rem;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));margin-top:.8rem}
 .soon-card{border:1px dashed var(--line);border-radius:var(--radius);padding:.75rem .9rem;background:#fffdfb}
@@ -106,10 +111,10 @@
   <p>L’émission Hradčany est née en 1919 dans la hâte, sur un matériel de fortune et avec le papier qui se trouvait sous la main. Les traces de cette hâte sont encore visibles aujourd’hui sur les timbres. Cette page rassemble les <strong>défauts de fabrication</strong> de la valeur 15h — c’est-à-dire les variations apparues pendant la fabrication de la feuille, et non les dommages subis après l’émission. Ils sont classés par étape de fabrication : <strong>papier → impression → perforation</strong>. Comment ce procédé se déroulait, et pourquoi il engendre précisément ces variations-là, la page <a href="knihtisk.html">Typographie</a> l’explique.</p>
   <p class="perf-note">Un défaut de fabrication n’est pas la même chose qu’une variété de catalogue. Les groupes de dentelure A–H, les types du dessin ou les nuances décrivent <em>avec quoi et comment</em> une feuille a été fabriquée, et ils sont réguliers. Un défaut est une perturbation de ce même procédé — fortuite dans la plupart des cas, liée à un endroit précis de la planche dans certains (les éclaircies). Les défauts de planche constants, qui se répètent à la même position, relèvent de la reconstitution des planches — vous les trouverez dans la <a href="galerie.html">galerie des positions</a>.</p>
   <ul class="vada-toc">
-    <li><a href="#perforace">Défauts de perforation</a></li><li><a href="#posun">Décalage de dentelure</a></li>
-    <li><a href="#tisk">Défauts d’impression</a></li><li><a href="#zdvojeny-tisk">Impression partiellement doublée</a></li>
-    <li><a href="#deska">Endommagement de la planche d’impression</a></li>
-    <li><a href="#zvrasneni">Pli de papier</a></li><li><a href="#drivko">Éclat de bois dans le papier</a></li><li><a href="#papir">Défauts du papier</a></li>
+    <li class="toc-group"><a href="#perforace">Défauts de perforation</a><span class="toc-sub"><a href="#posun">Décalage de dentelure</a></span></li>
+    <li class="toc-group"><a href="#tisk">Défauts d’impression</a><span class="toc-sub"><a href="#zdvojeny-tisk">Impression partiellement doublée</a></span></li>
+    <li class="toc-group"><a href="#deska">Endommagement de la planche d’impression</a></li>
+    <li class="toc-group"><a href="#papir">Défauts du papier</a><span class="toc-sub"><a href="#zvrasneni">Pli de papier</a><a href="#drivko">Éclat de bois dans le papier</a></span></li>
   </ul>
 </div>
 
@@ -254,7 +259,7 @@
 </svg><figcaption>L'encrage de la forme détermine le résultat : un creux encrassé d'encre séchée affame l'impression suivante → une tache claire (světlina) ; trop d'encre sur un élément en relief se répand sur les côtés → impression maculée ou voile (závoj).</figcaption></div>
 <div class="vada" id="zdvojeny-tisk">
   <h3>Impression partiellement doublée</h3>
-  <p>Sur ces timbres, le dessin se divise en deux parties selon une <strong>limite horizontale rectiligne</strong>. Au-dessus, l’empreinte est nette et franche ; au-dessous, plus lourde, empâtée et par endroits doublée — les contours se répètent, décalés d’une fraction de millimètre. La limite est droite comme une règle, n’a rien à voir avec le dessin et se poursuit jusque dans les marges latérales du timbre. Sur les quatre pièces attestées, elle se situe approximativement à la même hauteur.</p>
+  <p>Sur ces timbres, le dessin se divise en deux parties selon une <strong>limite horizontale rectiligne</strong>. Au-dessus, l’empreinte est nette et franche ; au-dessous, plus lourde, empâtée et par endroits doublée — les contours se répètent, décalés d’une fraction de millimètre. La limite est droite comme une règle, n’a rien à voir avec le dessin et se poursuit jusque dans les marges latérales du timbre. Sur les cinq pièces attestées, elle se situe approximativement à la même hauteur.</p>
   <figure><img src="../../15h/assets/img/zdvojeny/zdvojeny-detail.jpg" alt="detail hranice mezi ostrým a zdvojeným tiskem / detail of the boundary between sharp and doubled print" loading="lazy"><figcaption>Détail de la limite (pièce 4) — empreinte nette au-dessus, empâtée et doublée au-dessous. La séparation est rectiligne et court aussi à travers les marges latérales.</figcaption></figure>
   <h4>Comment le défaut est apparu</h4>
   <p>La cause se trouve <strong>sous la feuille</strong>, et non dans la planche d’impression. Pendant le tirage, un corps étranger s’est glissé sous la feuille — très probablement une autre feuille de papier : une cale, une maculature ou un coin replié de la feuille elle-même. Son bord rectiligne a soulevé une partie de la surface d’impression et, à partir de cet instant, la feuille s’est imprimée à deux hauteurs différentes.</p>
@@ -345,8 +350,10 @@
 <div class="tg-card"><div class="cell" data-pos="13" data-full="../../15h/assets/img/bludne-krouzky/full/bludne-krouzky-13.jpg" data-cap="Pièce 13 — Dans la partie gauche de la silhouette de Hradčany." data-tags=""><img src="../../15h/assets/img/bludne-krouzky/thumb/bludne-krouzky-13.jpg" alt="Bludné kroužky — kus 13" loading="lazy"><span class="pos">13</span></div><p class="tg-cap">Dans la partie gauche de la silhouette de Hradčany.</p></div>
 <div class="tg-card"><div class="cell" data-pos="14" data-full="../../15h/assets/img/bludne-krouzky/full/bludne-krouzky-14.jpg" data-cap="Pièce 14 — Un anneau au centre sombre et au halo clair — au bord droit du dessin, dans le feuillage à droite des tours de l&#x27;église, juste au-dessus du bandeau de l&#x27;inscription." data-tags=""><img src="../../15h/assets/img/bludne-krouzky/thumb/bludne-krouzky-14.jpg" alt="Bludné kroužky — kus 14" loading="lazy"><span class="pos">14</span></div><p class="tg-cap">Un anneau au centre sombre et au halo clair — au bord droit du dessin, dans le feuillage à droite des tours de l'église, juste au-dessus du bandeau de l'inscription.</p></div>
 </div>
-<figure><img src="../../15h/assets/img/bludne-krouzky/bludne-krouzky-detail-skvrna.jpg" alt="detail plne skvrny mezi vezemi / detail of a solid spot between the towers" loading="lazy"><figcaption>Une tache pleine dans l'interstice entre les tours — une goutte d'encre compacte aux contours nets.</figcaption></figure>
-<figure><img src="../../15h/assets/img/bludne-krouzky/bludne-krouzky-detail-krouzek.jpg" alt="detail prstynku v napisu POSTA / detail of a ring inside the word POSTA" loading="lazy"><figcaption>Un véritable petit anneau dans une lettre de l'inscription POŠTA — seul le pourtour du grain s'est imprimé, le centre est resté clair.</figcaption></figure>
+<div class="vada-figs det-sq">
+<figure><img src="../../15h/assets/img/bludne-krouzky/bludne-krouzky-detail-skvrna.jpg" alt="detail plne skvrny mezi vezemi / detail of a solid spot between the towers" loading="lazy" style="max-width:300px"><figcaption>Une tache pleine dans l'interstice entre les tours — une goutte d'encre compacte aux contours nets.</figcaption></figure>
+<figure><img src="../../15h/assets/img/bludne-krouzky/bludne-krouzky-detail-krouzek.jpg" alt="detail prstynku v napisu POSTA / detail of a ring inside the word POSTA" loading="lazy" style="max-width:300px"><figcaption>Un véritable petit anneau dans une lettre de l'inscription POŠTA — seul le pourtour du grain s'est imprimé, le centre est resté clair.</figcaption></figure>
+</div>
 </div>
 
 <div class="vada" id="zavoje">
@@ -379,8 +386,10 @@
 <div class="tg-card"><div class="cell" data-pos="18" data-full="../../15h/assets/img/zavoje/full/zavoje-18.jpg" data-cap="Pièce 18 — Au milieu de la silhouette de Hradčany." data-tags=""><img src="../../15h/assets/img/zavoje/thumb/zavoje-18.jpg" alt="Závoje — kus 18" loading="lazy"><span class="pos">18</span></div><p class="tg-cap">Au milieu de la silhouette de Hradčany.</p></div>
 <div class="tg-card"><div class="cell" data-pos="19" data-full="../../15h/assets/img/zavoje/full/zavoje-19.jpg" data-cap="Pièce 19 — Au milieu de la silhouette de Hradčany." data-tags=""><img src="../../15h/assets/img/zavoje/thumb/zavoje-19.jpg" alt="Závoje — kus 19" loading="lazy"><span class="pos">19</span></div><p class="tg-cap">Au milieu de la silhouette de Hradčany.</p></div>
 </div>
-<figure><img src="../../15h/assets/img/zavoje/zavoje-detail-1.jpg" alt="detail zavoje vytekajiciho z ornamentu / detail of a smear spilling from an ornament" loading="lazy"><figcaption>L'encre déborde d'un ornement floral dense vers la zone blanche voisine — le bord est doux, pas net.</figcaption></figure>
-<figure><img src="../../15h/assets/img/zavoje/zavoje-detail-2.jpg" alt="detail zavoje pod napisem CESKO / detail of a smear under the inscription CESKO" loading="lazy"><figcaption>Le voile coule depuis l'inscription vers le petit motif en cœur en dessous — l'encre s'estompe progressivement, sans limite nette.</figcaption></figure>
+<div class="vada-figs det-sq">
+<figure><img src="../../15h/assets/img/zavoje/zavoje-detail-1.jpg" alt="detail zavoje vytekajiciho z ornamentu / detail of a smear spilling from an ornament" loading="lazy" style="max-width:300px"><figcaption>L'encre déborde d'un ornement floral dense vers la zone blanche voisine — le bord est doux, pas net.</figcaption></figure>
+<figure><img src="../../15h/assets/img/zavoje/zavoje-detail-2.jpg" alt="detail zavoje pod napisem CESKO / detail of a smear under the inscription CESKO" loading="lazy" style="max-width:300px"><figcaption>Le voile coule depuis l'inscription vers le petit motif en cœur en dessous — l'encre s'estompe progressivement, sans limite nette.</figcaption></figure>
+</div>
 </div>
 
   <div class="soon">
@@ -424,8 +433,10 @@
 <div class="tg-card"><div class="cell" data-pos="03" data-full="../../15h/assets/img/bile-skvrny/full/bile-skvrny-03.jpg" data-cap="Pièce 3 — Une tache aux contours nets traversant la base du château et la lettre L de l&#x27;inscription ČESKO-SLOVENSKA — la lettre disparaît complètement." data-tags=""><img src="../../15h/assets/img/bile-skvrny/thumb/bile-skvrny-03.jpg" alt="Bílé skvrny — kus 3" loading="lazy"><span class="pos">3</span></div><p class="tg-cap">Une tache aux contours nets traversant la base du château et la lettre L de l'inscription ČESKO-SLOVENSKA — la lettre disparaît complètement.</p></div>
 <div class="tg-card"><div class="cell" data-pos="04" data-full="../../15h/assets/img/bile-skvrny/full/bile-skvrny-04.jpg" data-cap="Pièce 4 — Une tache oblique traversant les tours, l&#x27;inscription et l&#x27;ovale de valeur, en partie masquée par l&#x27;oblitération." data-tags=""><img src="../../15h/assets/img/bile-skvrny/thumb/bile-skvrny-04.jpg" alt="Bílé skvrny — kus 4" loading="lazy"><span class="pos">4</span></div><p class="tg-cap">Une tache oblique traversant les tours, l'inscription et l'ovale de valeur, en partie masquée par l'oblitération.</p></div>
   </div>
-<figure><img src="../../15h/assets/img/bile-skvrny/bile-skvrny-detail-1.jpg" alt="detail ostre skvrny mizici v pismenu L / detail of a sharp spot erasing the letter L" loading="lazy"><figcaption>Détail de la pièce 3 — la tache efface complètement la lettre L et empiète sur la base du château. Le contour est net sur tout le pourtour.</figcaption></figure>
-<figure><img src="../../15h/assets/img/bile-skvrny/bile-skvrny-detail-2.jpg" alt="detail velke skvrny v rohu ramu / detail of a large spot in the corner of the frame" loading="lazy"><figcaption>Détail de la pièce 1 — seuls deux minuscules îlots d'encre subsistent dans la tache ; le contour est par ailleurs net et ne s'estompe pas progressivement vers le blanc.</figcaption></figure>
+<div class="vada-figs det-sq">
+<figure><img src="../../15h/assets/img/bile-skvrny/bile-skvrny-detail-1.jpg" alt="detail ostre skvrny mizici v pismenu L / detail of a sharp spot erasing the letter L" loading="lazy" style="max-width:300px"><figcaption>Détail de la pièce 3 — la tache efface complètement la lettre L et empiète sur la base du château. Le contour est net sur tout le pourtour.</figcaption></figure>
+<figure><img src="../../15h/assets/img/bile-skvrny/bile-skvrny-detail-2.jpg" alt="detail velke skvrny v rohu ramu / detail of a large spot in the corner of the frame" loading="lazy" style="max-width:300px"><figcaption>Détail de la pièce 1 — seuls deux minuscules îlots d'encre subsistent dans la tache ; le contour est par ailleurs net et ne s'estompe pas progressivement vers le blanc.</figcaption></figure>
+</div>
 </div>
 
 <div class="section" id="deska">
