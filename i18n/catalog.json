@@ -1009,6 +1009,17 @@
   "fr": "Le site du 15h",
   "tag": "span"
  },
+ "0ec040204b": {
+  "cs": "Kus 14 — Plná skvrna v ploše oblohy vpravo od věží Hradčan.",
+  "de": "Stück 14 — Ein voller Fleck am Himmel, rechts von den Türmen des Hradschin.",
+  "en": "Item 14 — A solid spot in the sky, to the right of the towers of Hradčany.",
+  "es": "Pieza 14 — Una mancha maciza en el cielo, a la derecha de las torres del Hradčany.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Pièce 14 — Une tache pleine dans le ciel, à droite des tours du Hradčany.",
+  "tag": "span"
+ },
  "0ee71e298e": {
   "cs": "Náklad: 113&nbsp;930&nbsp;000 (nezoubk. 105&nbsp;640&nbsp;000, úředně zoubk. 8&nbsp;290&nbsp;000) · Zoubkování: 11½ řádkové, 11½&nbsp;:&nbsp;10¾ řádkové · Datum vydání: 18.&nbsp;12.&nbsp;1918 · <a href=\"assets/downloads/tiskove-desky.xlsx\">Schémata TD</a>",
   "de": "Auflage: 113&nbsp;930&nbsp;000 (geschn. 105&nbsp;640&nbsp;000, amtl. gez. 8&nbsp;290&nbsp;000) · Zähnung: 11½ Linie, 11½&nbsp;:&nbsp;10¾ Linie · Ausgabetag: 18.&nbsp;12.&nbsp;1918 · <a href=\"assets/downloads/tiskove-desky.xlsx\">Plattenschemata</a>",
@@ -4710,6 +4721,17 @@
    "pata-kresba.html"
   ],
   "fr": "500h brun",
+  "tag": "span"
+ },
+ "450d246f68": {
+  "cs": "Plná skvrna v ploše oblohy vpravo od věží Hradčan.",
+  "de": "Ein voller Fleck am Himmel, rechts von den Türmen des Hradschin.",
+  "en": "A solid spot in the sky, to the right of the towers of Hradčany.",
+  "es": "Una mancha maciza en el cielo, a la derecha de las torres del Hradčany.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Une tache pleine dans le ciel, à droite des tours du Hradčany.",
   "tag": "span"
  },
  "453c4ff3e9": {
