@@ -393,6 +393,17 @@
     "fr": "Une épreuve du 15h en noir, non dentelée. Champ 68 de la première planche.",
     "tag": "span"
   },
+  "0642a4e404": {
+    "cs": "Silně orazítkovaný kus; i ve volných místech mezi otisky razítka je znát bledý, řídký tisk.",
+    "de": "Ein stark gestempeltes Stück; selbst in den freien Stellen zwischen den Stempelabdrücken ist der blasse, dünne Druck erkennbar.",
+    "en": "A heavily cancelled copy; even in the gaps between the cancel strikes the pale, thin print is evident.",
+    "es": "Un ejemplar fuertemente matasellado; incluso en los espacios libres entre las marcas del matasellos se aprecia la impresión pálida y diluida.",
+    "files": [
+      "15h/vyrobni-vady.html"
+    ],
+    "fr": "Une pièce fortement oblitérée ; même dans les espaces libres entre les empreintes du cachet, l'impression pâle et diluée est perceptible.",
+    "tag": "span"
+  },
   "0655ad83da": {
     "cs": "ZP 83 / TD I",
     "de": "Feld 83 / Platte I",
@@ -731,6 +742,17 @@
       "clanky/100h-skvrna-60-2.html"
     ],
     "fr": "Taches blanches sur 60/2 de la valeur 100h",
+    "tag": "span"
+  },
+  "0a8e762b3d": {
+    "cs": "Bludný kroužek je jedno izolované smítko na inkovacím válci nebo formě, které se otiskne jako drobná skvrna nebo prstýnek v jinak čistě bílé ploše kresby, a to jen na jednom konkrétním archu. Tady se skvrny objevují napříč celou řadou — na sedmi různých kusech — vždy společně s celkově slabým tiskem, a leží na jemných liniích kresby, ne izolovaně v bílé ploše.",
+    "de": "Ein wandernder Ring entsteht durch ein einzelnes, isoliertes Staubkorn auf der Farbwalze oder der Druckform, das sich als kleiner Fleck oder Ringchen in einer sonst rein weißen Fläche der Zeichnung abdrückt, und zwar nur auf einem bestimmten Bogen. Hier treten die Flecken dagegen über eine ganze Reihe hinweg auf — bei sieben verschiedenen Stücken — stets zusammen mit einem insgesamt schwachen Druck, und sie liegen auf den feinen Linien der Zeichnung, nicht isoliert in der weißen Fläche.",
+    "en": "A wandering ring comes from one isolated speck on the inking roller or the forme, printing as a small spot or ring in an otherwise plain white area of the design, on just one particular sheet. Here the spots turn up across a whole series — on seven different copies — always together with an overall weak print, and they sit on the design's own fine lines rather than in isolation in a white area.",
+    "es": "Un anillo errante procede de una única mota aislada en el rodillo entintador o en la forma, que se imprime como una pequeña mancha o anillo en una zona por lo demás totalmente blanca del dibujo, y solo en un pliego concreto. Aquí, en cambio, las manchas aparecen a lo largo de toda una serie — en siete ejemplares distintos —, siempre junto con una impresión globalmente débil, y se sitúan sobre las finas líneas del dibujo, no aisladas en la zona blanca.",
+    "files": [
+      "15h/vyrobni-vady.html"
+    ],
+    "fr": "Un anneau errant provient d'une seule saleté isolée sur le rouleau encreur ou sur la forme, qui s'imprime comme une petite tache ou un petit anneau dans une zone par ailleurs entièrement blanche du dessin, et cela sur une seule feuille en particulier. Ici, en revanche, les taches apparaissent sur toute une série — sur sept pièces différentes — toujours accompagnées d'une impression globalement faible, et elles se situent sur les fines lignes du dessin, non isolées dans la zone blanche.",
     "tag": "span"
   },
   "0a96e65c05": {
@@ -1293,6 +1315,17 @@
     "fr": "gris argenté",
     "tag": "span"
   },
+  "13562efad9": {
+    "cs": "Kus s hustým razítkem; v obloze nad hradem přesto prosvítá několik drobných skvrn.",
+    "de": "Ein Stück mit dichtem Stempel; im Himmel über der Burg schimmern dennoch einige kleine Flecken durch.",
+    "en": "A heavily cancelled copy; a few small spots still show through in the sky above the castle.",
+    "es": "Un ejemplar con matasellos denso; en el cielo sobre el castillo asoman, no obstante, algunas manchas pequeñas.",
+    "files": [
+      "15h/vyrobni-vady.html"
+    ],
+    "fr": "Une pièce au cachet dense ; dans le ciel au-dessus du château, quelques petites taches transparaissent néanmoins.",
+    "tag": "span"
+  },
   "13647d0f92": {
     "cs": "<h1>15h (7) – Závoje a skvrny</h1>\n\n<p>Průběžně doplňovaný katalog výrobních skvrn a závojů na známkách 15h (POFIS č. 7). Zejména první a druhá tisková\ndeska jsou na světliny bohaté. Níže přehled druhé tiskové desky – zvýrazněná pole se skvrnami/závoji a jejich\ndoložené vývojové fáze.</p>\n<figure><img src=\"../assets/img/08929-15h-TD2-skvrny-a-zavoje.jpg\" alt=\"Přehled polí druhé tiskové desky se skvrnami a závoji\" loading=\"lazy\"><figcaption>Přehled polí druhé tiskové desky se skvrnami a závoji</figcaption></figure>\n<div class=\"imgrow\" style=\"justify-content:flex-start\"><figure style=\"margin:.4rem\"><img src=\"../assets/img/08934-15h-5-2.jpg\" alt=\"ZP 5\" loading=\"lazy\" style=\"max-width:170px\"><figcaption>ZP 5</figcaption></figure><figure style=\"margin:.4rem\"><img src=\"../assets/img/08935-15h-13-2.jpg\" alt=\"ZP 13\" loading=\"lazy\" style=\"max-width:170px\"><figcaption>ZP 13</figcaption></figure><figure style=\"margin:.4rem\"><img src=\"../assets/img/08949-15h-16-2.jpg\" alt=\"ZP 16\" loading=\"lazy\" style=\"max-width:170px\"><figcaption>ZP 16</figcaption></figure><figure style=\"margin:.4rem\"><img src=\"../assets/img/08932-15h-19-2.jpg\" alt=\"ZP 19\" loading=\"lazy\" style=\"max-width:170px\"><figcaption>ZP 19</figcaption></figure><figure style=\"margin:.4rem\"><img src=\"../assets/img/08939-15h-50-2.jpg\" alt=\"ZP 50\" loading=\"lazy\" style=\"max-width:170px\"><figcaption>ZP 50</figcaption></figure><figure style=\"margin:.4rem\"><img src=\"../assets/img/08940-15h-55a-2.jpg\" alt=\"ZP 55 (a)\" loading=\"lazy\" style=\"max-width:170px\"><figcaption>ZP 55 (a)</figcaption></figure><figure style=\"margin:.4rem\"><img src=\"../assets/img/08941-15h-55b-2.jpg\" alt=\"ZP 55 (b)\" loading=\"lazy\" style=\"max-width:170px\"><figcaption>ZP 55 (b)</figcaption></figure><figure style=\"margin:.4rem\"><img src=\"../assets/img/08933-15h-61-2.jpg\" alt=\"ZP 61\" loading=\"lazy\" style=\"max-width:170px\"><figcaption>ZP 61</figcaption></figure><figure style=\"margin:.4rem\"><img src=\"../assets/img/08945-15h-82a-2.jpg\" alt=\"ZP 82 (a)\" loading=\"lazy\" style=\"max-width:170px\"><figcaption>ZP 82 (a)</figcaption></figure><figure style=\"margin:.4rem\"><img src=\"../assets/img/08946-15h-82b-2.jpg\" alt=\"ZP 82 (b)\" loading=\"lazy\" style=\"max-width:170px\"><figcaption>ZP 82 (b)</figcaption></figure><figure style=\"margin:.4rem\"><img src=\"../assets/img/08947-15h-88a-2.jpg\" alt=\"ZP 88 (a)\" loading=\"lazy\" style=\"max-width:170px\"><figcaption>ZP 88 (a)</figcaption></figure><figure style=\"margin:.4rem\"><img src=\"../assets/img/08948-15h-88b-2.jpg\" alt=\"ZP 88 (b)\" loading=\"lazy\" style=\"max-width:170px\"><figcaption>ZP 88 (b)</figcaption></figure><figure style=\"margin:.4rem\"><img src=\"../assets/img/08936-15h-95a-2.jpg\" alt=\"ZP 95 (a)\" loading=\"lazy\" style=\"max-width:170px\"><figcaption>ZP 95 (a)</figcaption></figure><figure style=\"margin:.4rem\"><img src=\"../assets/img/08937-15h-95b-2.jpg\" alt=\"ZP 95 (b)\" loading=\"lazy\" style=\"max-width:170px\"><figcaption>ZP 95 (b)</figcaption></figure><figure style=\"margin:.4rem\"><img src=\"../assets/img/08938-15h-95c-2.jpg\" alt=\"ZP 95 (c)\" loading=\"lazy\" style=\"max-width:170px\"><figcaption>ZP 95 (c)</figcaption></figure></div>\n<p><em>******* Postupně doplňuji *******</em></p>\n<p>Jednotlivá pole druhé desky si můžete prohlédnout také v <a href=\"../galerie-td2.html\">galerii pozic TD II\nna webu 15h</a>.</p>\n<p class=\"author\"><em>Josef Matoušek</em></p>",
     "de": "<h1>15h (7) – Schleier und Flecken</h1>\n\n<p>Ein laufend ergänzter Katalog der Herstellungsflecken und Schleier auf den Marken 15h (POFIS Nr. 7). Besonders die erste und die zweite Druckplatte sind reich an Lichtstellen. Nachstehend eine Übersicht der zweiten Druckplatte – hervorgehobene Felder mit Flecken/Schleiern und ihre belegten Entwicklungsphasen.</p>\n<figure><img src=\"../assets/img/08929-15h-TD2-skvrny-a-zavoje.jpg\" alt=\"Übersicht der Felder der zweiten Druckplatte mit Flecken und Schleiern\" loading=\"lazy\"><figcaption>Übersicht der Felder der zweiten Druckplatte mit Flecken und Schleiern</figcaption></figure>\n<div class=\"imgrow\" style=\"justify-content:flex-start\"><figure style=\"margin:.4rem\"><img src=\"../assets/img/08934-15h-5-2.jpg\" alt=\"Feld 5\" loading=\"lazy\" style=\"max-width:170px\"><figcaption>Feld 5</figcaption></figure><figure style=\"margin:.4rem\"><img src=\"../assets/img/08935-15h-13-2.jpg\" alt=\"Feld 13\" loading=\"lazy\" style=\"max-width:170px\"><figcaption>Feld 13</figcaption></figure><figure style=\"margin:.4rem\"><img src=\"../assets/img/08949-15h-16-2.jpg\" alt=\"Feld 16\" loading=\"lazy\" style=\"max-width:170px\"><figcaption>Feld 16</figcaption></figure><figure style=\"margin:.4rem\"><img src=\"../assets/img/08932-15h-19-2.jpg\" alt=\"Feld 19\" loading=\"lazy\" style=\"max-width:170px\"><figcaption>Feld 19</figcaption></figure><figure style=\"margin:.4rem\"><img src=\"../assets/img/08939-15h-50-2.jpg\" alt=\"Feld 50\" loading=\"lazy\" style=\"max-width:170px\"><figcaption>Feld 50</figcaption></figure><figure style=\"margin:.4rem\"><img src=\"../assets/img/08940-15h-55a-2.jpg\" alt=\"Feld 55 (a)\" loading=\"lazy\" style=\"max-width:170px\"><figcaption>Feld 55 (a)</figcaption></figure><figure style=\"margin:.4rem\"><img src=\"../assets/img/08941-15h-55b-2.jpg\" alt=\"Feld 55 (b)\" loading=\"lazy\" style=\"max-width:170px\"><figcaption>Feld 55 (b)</figcaption></figure><figure style=\"margin:.4rem\"><img src=\"../assets/img/08933-15h-61-2.jpg\" alt=\"Feld 61\" loading=\"lazy\" style=\"max-width:170px\"><figcaption>Feld 61</figcaption></figure><figure style=\"margin:.4rem\"><img src=\"../assets/img/08945-15h-82a-2.jpg\" alt=\"Feld 82 (a)\" loading=\"lazy\" style=\"max-width:170px\"><figcaption>Feld 82 (a)</figcaption></figure><figure style=\"margin:.4rem\"><img src=\"../assets/img/08946-15h-82b-2.jpg\" alt=\"Feld 82 (b)\" loading=\"lazy\" style=\"max-width:170px\"><figcaption>Feld 82 (b)</figcaption></figure><figure style=\"margin:.4rem\"><img src=\"../assets/img/08947-15h-88a-2.jpg\" alt=\"Feld 88 (a)\" loading=\"lazy\" style=\"max-width:170px\"><figcaption>Feld 88 (a)</figcaption></figure><figure style=\"margin:.4rem\"><img src=\"../assets/img/08948-15h-88b-2.jpg\" alt=\"Feld 88 (b)\" loading=\"lazy\" style=\"max-width:170px\"><figcaption>Feld 88 (b)</figcaption></figure><figure style=\"margin:.4rem\"><img src=\"../assets/img/08936-15h-95a-2.jpg\" alt=\"Feld 95 (a)\" loading=\"lazy\" style=\"max-width:170px\"><figcaption>Feld 95 (a)</figcaption></figure><figure style=\"margin:.4rem\"><img src=\"../assets/img/08937-15h-95b-2.jpg\" alt=\"Feld 95 (b)\" loading=\"lazy\" style=\"max-width:170px\"><figcaption>Feld 95 (b)</figcaption></figure><figure style=\"margin:.4rem\"><img src=\"../assets/img/08938-15h-95c-2.jpg\" alt=\"Feld 95 (c)\" loading=\"lazy\" style=\"max-width:170px\"><figcaption>Feld 95 (c)</figcaption></figure></div>\n<p><em>******* wird laufend ergänzt *******</em></p>\n<p>Die einzelnen Felder der zweiten Platte können Sie auch in der <a href=\"../galerie-td2.html\">Positionsgalerie der Platte II auf der 15h-Website</a> ansehen.</p>\n<p class=\"author\"><em>Josef Matoušek</em></p>",
@@ -1487,6 +1520,17 @@
     "fr": "Catalogue, complété en continu, des taches et des voiles de fabrication sur la deuxième planche d’impression — attestés aux positions 5, 13, 16, 19, 50, 55, 61, 82, 88 et 95, pour certaines en plusieurs phases d’évolution.",
     "tag": "span"
   },
+  "16a54220b5": {
+    "cs": "Kus 3 — Nejhustší doložený roj skvrn — v obloze vpravo od věží, u květinové ozdoby. Detail skvrn níže je z tohoto kusu.",
+    "de": "Stück 3 — Die dichteste belegte Ansammlung von Flecken — im Himmel rechts von den Türmen, bei der Blumenverzierung. Das Detail der Flecken unten stammt von diesem Stück.",
+    "en": "Item 3 — The densest cluster of spots recorded — in the sky to the right of the towers, near the floral ornament. The detail of the spots below is taken from this copy.",
+    "es": "Pieza 3 — El grupo de manchas más denso documentado — en el cielo a la derecha de las torres, junto al ornamento floral. El detalle de las manchas más abajo procede de este ejemplar.",
+    "files": [
+      "15h/vyrobni-vady.html"
+    ],
+    "fr": "Pièce 3 — L'essaim de taches le plus dense recensé — dans le ciel à droite des tours, près de l'ornement floral. Le détail des taches ci-dessous provient de cette pièce.",
+    "tag": "span"
+  },
   "16bd0aaec8": {
     "cs": "Kus 4 — Šikmá skvrna přes věže, nápis i hodnotový ovál, z části skrytá pod razítkem.",
     "de": "Stück 4 — Ein diagonaler Fleck über den Türmen, der Inschrift und dem Wertoval, teilweise unter dem Stempel verborgen.",
@@ -1496,6 +1540,17 @@
       "15h/vyrobni-vady.html"
     ],
     "fr": "Pièce 4 — Une tache oblique traversant les tours, l'inscription et l'ovale de valeur, en partie masquée par l'oblitération.",
+    "tag": "span"
+  },
+  "16cdb4f71c": {
+    "cs": "Zatím máme doloženo jen těchto sedm kusů a u žádného není známo pole desky ani datum tisku. Pokud se v budoucnu najdou další kusy, bude užitečné ověřit, jestli se skvrny drží stejného místa u kusů ze stejného pole, nebo jde skutečně o obecnou vlastnost celé dávky barvy či nákladu — otázka zatím zůstává otevřená.",
+    "de": "Bislang sind nur diese sieben Stücke belegt, und bei keinem ist das Plattenfeld oder das Druckdatum bekannt. Sollten künftig weitere Stücke auftauchen, wäre es sinnvoll zu prüfen, ob die Flecken bei Stücken vom selben Feld an derselben Stelle bleiben oder ob es sich tatsächlich um eine allgemeine Eigenschaft einer ganzen Farbcharge oder Auflage handelt — die Frage bleibt vorerst offen.",
+    "en": "So far only these seven copies are recorded, and none carries a known plate field or print date. If further copies turn up, it will be worth checking whether the spots keep to the same place on copies from the same field, or whether this is truly a general property of one batch of ink or one print run — the question remains open for now.",
+    "es": "Por ahora solo están documentados estos siete ejemplares, y en ninguno se conoce la posición de plancha ni la fecha de impresión. Si en el futuro aparecieran más ejemplares, sería útil comprobar si las manchas se mantienen en el mismo lugar en ejemplares de la misma posición, o si se trata realmente de una característica general de todo un lote de tinta o de una tirada — la cuestión permanece, por ahora, abierta.",
+    "files": [
+      "15h/vyrobni-vady.html"
+    ],
+    "fr": "Pour l'instant, seules ces sept pièces sont attestées, et pour aucune d'elles la position de planche ni la date d'impression ne sont connues. Si d'autres pièces venaient à être découvertes, il serait utile de vérifier si les taches se maintiennent au même endroit sur des pièces issues de la même position, ou s'il s'agit véritablement d'une caractéristique générale de tout un lot d'encre ou d'un tirage — la question reste pour l'instant ouverte.",
     "tag": "span"
   },
   "16d4248774": {
@@ -1656,6 +1711,17 @@
     ],
     "fr": "Un 15h non dentelé de la planche VI utilisé postalement — Hradčany",
     "tag": "attr"
+  },
+  "1a07aa0615": {
+    "cs": "Kus 4 — Kus s hustým razítkem; v obloze nad hradem přesto prosvítá několik drobných skvrn.",
+    "de": "Stück 4 — Ein Stück mit dichtem Stempel; im Himmel über der Burg schimmern dennoch einige kleine Flecken durch.",
+    "en": "Item 4 — A heavily cancelled copy; a few small spots still show through in the sky above the castle.",
+    "es": "Pieza 4 — Un ejemplar con matasellos denso; en el cielo sobre el castillo asoman, no obstante, algunas manchas pequeñas.",
+    "files": [
+      "15h/vyrobni-vady.html"
+    ],
+    "fr": "Pièce 4 — Une pièce au cachet dense ; dans le ciel au-dessus du château, quelques petites taches transparaissent néanmoins.",
+    "tag": "span"
   },
   "1a408ded73": {
     "cs": "80h olivová",
@@ -2063,6 +2129,17 @@
     "fr": "position 9, éclaircie 8",
     "tag": "alt"
   },
+  "20a3176fa2": {
+    "cs": "Kus 5 — Kromě drobných teček v obloze nese i výraznou souvislou skvrnu vpravo nahoře, pod nápisem POSTA — nejsilnější doložený případ.",
+    "de": "Stück 5 — Neben kleinen Punkten im Himmel trägt es auch einen deutlichen, zusammenhängenden Fleck oben rechts, unter der Aufschrift POSTA — der stärkste belegte Fall.",
+    "en": "Item 5 — Besides fine dots in the sky it also carries a large solid spot in the upper right, below the POSTA inscription — the strongest case recorded.",
+    "es": "Pieza 5 — Además de puntos pequeños en el cielo, también presenta una mancha continua y marcada arriba a la derecha, bajo la inscripción POSTA — el caso más intenso documentado.",
+    "files": [
+      "15h/vyrobni-vady.html"
+    ],
+    "fr": "Pièce 5 — Outre de petits points dans le ciel, elle porte aussi une tache nette et continue en haut à droite, sous l'inscription POSTA — le cas le plus marqué recensé.",
+    "tag": "span"
+  },
   "20a69d0116": {
     "cs": "5h — I. tisková deska — Sbírám Hradčany",
     "de": "5h — I. Druckplatte — Hradschin sammeln",
@@ -2406,6 +2483,17 @@
       "15h/mapa.html"
     ],
     "fr": "Carte interactive des lieux d’usage postal des timbres 15h : bureaux de poste attestés sur les dentelures plus rares des planches d’impression 1–2 (<strong style=\"color:#2471a3\">B 11¾ bleu</strong>, <strong style=\"color:#d68910\">C 13¾ orange</strong>, <strong style=\"color:#8e44ad\">E 11½:10¾ violet</strong> ; source : le relevé du classeur Hradcany_15h GENERAL), les dentelures rares <strong style=\"color:#d63384\">G 11½:13¾ (rose)</strong> — Praha 1 — et <strong style=\"color:#8d6e63\">H 13¾:10¾ (brun)</strong> — Hradec Králové et Turnov, les oblitérations lisibles des planches <strong style=\"color:#c0392b\">3 (rouge)</strong> et <strong style=\"color:#00838f\">4 (bleu pétrole)</strong> issues du relevé des oblitérations sur timbres usagés, les lieux d’usage des timbres de la rare planche <strong style=\"color:#1e8449\">7 (vert)</strong> et les témoignages uniques des <strong style=\"color:#333\">planches 5 et 6 non dentelées (noir)</strong> utilisées postalement — Košice, Rimavská Sobota, Štitáre, Plešivec, Lučenec, Brezovka et Malý Lipník (10 exemplaires). Secteurs multicolores = plusieurs groupes provenant du même lieu, le nombre indique la quantité d’exemplaires. Un clic sur un marqueur affiche le détail, dates des oblitérations comprises ; les lignes en pointillé signalent les postes ambulantes. Les couches se règlent dans le coin supérieur droit de la carte. Seul lieu non localisé : Schenkenhahn.",
+    "tag": "span"
+  },
+  "2499286b83": {
+    "cs": "Kus 2 — Girlanda v levém rohu rámu je téměř vytracená a v obloze vpravo od věží je roztroušeno několik drobných skvrn — detail vytracené girlandy níže je z tohoto kusu.",
+    "de": "Stück 2 — Die Girlande in der linken Rahmenecke ist fast verschwunden, und im Himmel rechts von den Türmen sind einige kleine Flecken verstreut — das Detail der verschwundenen Girlande unten stammt von diesem Stück.",
+    "en": "Item 2 — The garland in the left corner of the frame is almost gone, and a few small spots are scattered in the sky to the right of the towers — the detail of the faded garland below is taken from this copy.",
+    "es": "Pieza 2 — La guirnalda en la esquina izquierda del marco está casi borrada, y en el cielo a la derecha de las torres hay dispersas algunas manchas pequeñas — el detalle de la guirnalda borrada más abajo procede de este ejemplar.",
+    "files": [
+      "15h/vyrobni-vady.html"
+    ],
+    "fr": "Pièce 2 — La guirlande dans le coin gauche du cadre a presque disparu, et dans le ciel à droite des tours sont dispersées quelques petites taches — le détail de la guirlande effacée ci-dessous provient de cette pièce.",
     "tag": "span"
   },
   "249eef0afd": {
@@ -2938,6 +3026,17 @@
     "fr": "Articles sur la valeur 15h",
     "tag": "span"
   },
+  "2c1feee659": {
+    "cs": "Bílá skvrna vzniká, když cizí objekt na formě zabrání barvě dostat se na papír v jinak normálně sytém tisku — jde o ostře ohraničenou ztrátu barvy v jedné izolované ploše. Tady je to obráceně: barva navíc se objevuje uprostřed celkově podprůměrně naneseného tisku, a to přímo na místech kresby, ne mimo ni.",
+    "de": "Ein weißer Fleck entsteht, wenn ein Fremdkörper auf der Druckform verhindert, dass Farbe innerhalb eines sonst normal satten Drucks auf das Papier gelangt — es handelt sich also um einen scharf begrenzten Farbverlust in einer isolierten Fläche. Hier ist es umgekehrt: Zusätzliche Farbe erscheint inmitten eines insgesamt unterdurchschnittlich aufgetragenen Drucks, und zwar genau an den Stellen der Zeichnung, nicht außerhalb davon.",
+    "en": "A blank spot arises when a foreign object on the forme keeps ink from reaching the paper within an otherwise normally saturated print — a sharply bounded loss of colour in one isolated area. Here it is the reverse: extra colour appears in the middle of an overall under-inked print, and it appears right on the design's own lines, not away from them.",
+    "es": "Una mancha blanca se produce cuando un cuerpo extraño en la forma impide que la tinta llegue al papel dentro de una impresión por lo demás normalmente saturada — se trata, pues, de una pérdida de color nítidamente delimitada en una zona aislada. Aquí ocurre lo contrario: aparece color de más en medio de una impresión globalmente poco entintada, y justo en los lugares del dibujo, no fuera de ellos.",
+    "files": [
+      "15h/vyrobni-vady.html"
+    ],
+    "fr": "Une tache blanche apparaît lorsqu'un corps étranger présent sur la forme empêche l'encre d'atteindre le papier au sein d'une impression par ailleurs normalement soutenue — il s'agit donc d'une perte de couleur nettement délimitée dans une zone isolée. Ici, c'est l'inverse : de la couleur en trop apparaît au milieu d'une impression globalement sous-encrée, et précisément sur les lignes du dessin, non en dehors de celles-ci.",
+    "tag": "span"
+  },
   "2cb77feb84": {
     "cs": "Z toho plynou dvě stopy, podle nichž se knihtisk pozná i po sto letech. Papír je v místě tisknoucích prvků <strong>promáčknutý</strong> — kresba je hmatatelná z rubu a při šikmém světle viditelná. A protože se barva pod tlakem vytlačuje do stran, bývá při okrajích barevných ploch nahromaděná do tmavšího <strong>lemu</strong>.",
     "de": "Daraus ergeben sich zwei Spuren, an denen der Buchdruck auch nach hundert Jahren zu erkennen ist. Das Papier ist an den Stellen der druckenden Elemente <strong>eingedrückt</strong> — die Zeichnung ist von der Rückseite tastbar und bei streifendem Licht sichtbar. Und weil die Farbe unter dem Druck zur Seite gepresst wird, sammelt sie sich an den Rändern der Farbflächen häufig zu einem dunkleren <strong>Saum</strong>.",
@@ -3409,6 +3508,17 @@
       "15h/vyrobni-vady.html"
     ],
     "fr": "Il manque <strong>les deux dentelures horizontales</strong> : les côtés supérieur et inférieur ont été séparés aux ciseaux, les côtés verticaux ont une dentelure normale. Que la coupe soit passée entre deux timbres, le bord inférieur le trahit — on y voit encore un fragment du cadre du timbre voisin. Deux rangées horizontales consécutives ont donc été omises, ce qui, avec un perforateur en ligne, signifie que la feuille est passée deux fois de suite sans frappe.",
+    "tag": "span"
+  },
+  "31760c8ee1": {
+    "cs": "Proč to není bílá skvrna",
+    "de": "Warum das kein weißer Fleck ist",
+    "en": "Why this is not a blank spot",
+    "es": "Por qué esto no es una mancha blanca",
+    "files": [
+      "15h/vyrobni-vady.html"
+    ],
+    "fr": "Pourquoi ce n'est pas une tache blanche",
     "tag": "span"
   },
   "31ad4db772": {
@@ -4871,6 +4981,17 @@
     "fr": "Sources",
     "tag": "span"
   },
+  "43d986e09f": {
+    "cs": "<strong>15h</strong> — Nová sekce <a href=\"15h/vyrobni-vady.html#ridky-tisk\"><strong>Řídký tisk se skvrnami</strong></a> ve Výrobních vadách: řídká, nerovnoměrně rozprostřená barva dá slabý, vytracený otisk, ale v týchž místech kresby se místy srazí do drobných sytě červených skvrn — se sedmi doloženými kusy a rozborem, proč nejde o bílou skvrnu, bludný kroužek, závoj ani světlinu.",
+    "de": "<strong>15h</strong> — Neuer Abschnitt <a href=\"15h/vyrobni-vady.html#ridky-tisk\"><strong>Dünner Druck mit Farbflecken</strong></a> bei den Herstellungsfehlern: zu dünnflüssige, ungleichmäßig verteilte Farbe ergibt einen schwachen, verblassten Abdruck, doch genau an denselben Stellen der Zeichnung sammelt sie sich stellenweise zu kleinen, satt roten Flecken — mit sieben belegten Stücken und einer Analyse, warum es sich weder um einen weißen Fleck, einen wandernden Ring, einen Schleier noch eine Lichtstelle (světlina) handelt.",
+    "en": "<strong>15h</strong> — New section <a href=\"15h/vyrobni-vady.html#ridky-tisk\"><strong>Thin print with ink spots</strong></a> in Production flaws: ink that is too thin and unevenly spread gives a weak, faded impression, yet in the very same places of the design it sometimes collects into small, solidly red spots — with seven recorded copies and an analysis of why it is neither a blank spot, a wandering ring, a smear, nor a světlina.",
+    "es": "<strong>15h</strong> — Nueva sección <a href=\"15h/vyrobni-vady.html#ridky-tisk\"><strong>Impresión diluida con manchas de tinta</strong></a> dentro de los defectos de fabricación: una tinta demasiado diluida y mal repartida da una impresión débil y borrosa, pero en esos mismos lugares del dibujo se concentra a veces en pequeñas manchas de rojo intenso — con siete ejemplares documentados y un análisis de por qué no se trata de una mancha blanca, un anillo errante, un velo ni una clara (světlina).",
+    "files": [
+      "novinky.html"
+    ],
+    "fr": "<strong>15h</strong> — Nouvelle section <a href=\"15h/vyrobni-vady.html#ridky-tisk\"><strong>Impression diluée avec taches d'encre</strong></a> parmi les défauts de fabrication : une encre trop diluée et mal répartie donne une impression faible et effacée, mais aux mêmes endroits du dessin elle se concentre par endroits en petites taches d'un rouge soutenu — avec sept pièces recensées et une analyse de ce qui la distingue d'une tache blanche, d'un anneau errant, d'un voile et d'une éclaircie (světlina).",
+    "tag": "span"
+  },
   "43e28f8641": {
     "cs": "Celkem 17 chybějících známkových polí u ostatních hodnot.",
     "de": "Insgesamt 17 fehlende Markenfelder bei den übrigen Werten.",
@@ -5575,6 +5696,17 @@
     "fr": "sans date lisible",
     "tag": "span"
   },
+  "4d6907c2e1": {
+    "cs": "Kus bez razítka přes horní část kresby — dobře patrný celkový dojem řídkého tisku i drobné skvrny v obloze.",
+    "de": "Ein Stück ohne Stempel über dem oberen Teil der Zeichnung — der Gesamteindruck des dünnen Drucks sowie die kleinen Flecken im Himmel sind gut erkennbar.",
+    "en": "A copy with no cancel over the upper part of the design — clearly showing the overall thin print and the fine spots in the sky.",
+    "es": "Un ejemplar sin matasellos sobre la parte superior del dibujo — se aprecia bien la impresión general diluida y las pequeñas manchas en el cielo.",
+    "files": [
+      "15h/vyrobni-vady.html"
+    ],
+    "fr": "Une pièce sans oblitération sur la partie supérieure du dessin — l'impression générale diluée ainsi que les petites taches dans le ciel y sont bien visibles.",
+    "tag": "span"
+  },
   "4d8455426d": {
     "cs": "Zvrásnění papíru — kus 16",
     "de": "Papierfaltung — Stück 16",
@@ -5771,6 +5903,17 @@
       "15h/typy.html"
     ],
     "fr": "Planche et positions",
+    "tag": "span"
+  },
+  "501a9af723": {
+    "cs": "Kus 6 — Další zřetelný shluk drobných skvrn v obloze vpravo od věží, u květinové ozdoby.",
+    "de": "Stück 6 — Ein weiterer deutlicher Fleckenschwarm im Himmel rechts von den Türmen, bei der Blumenverzierung.",
+    "en": "Item 6 — Another clear cluster of fine spots in the sky to the right of the towers, near the floral ornament.",
+    "es": "Pieza 6 — Otro grupo claro de manchas pequeñas en el cielo a la derecha de las torres, junto al ornamento floral.",
+    "files": [
+      "15h/vyrobni-vady.html"
+    ],
+    "fr": "Pièce 6 — Un autre groupe net de petites taches dans le ciel à droite des tours, près de l'ornement floral.",
     "tag": "span"
   },
   "506d073d04": {
@@ -6296,6 +6439,17 @@
     "files": [],
     "fr": "Pièce 19 — Pli horizontal au-dessus de l’inscription ČESKO-SLOVENSKA.",
     "tag": "cap"
+  },
+  "566ecdec7c": {
+    "cs": "Řídký tisk se skvrnami",
+    "de": "Dünner Druck mit Farbflecken",
+    "en": "Thin print with ink spots",
+    "es": "Impresión diluida con manchas de tinta",
+    "files": [
+      "15h/vyrobni-vady.html"
+    ],
+    "fr": "Impression diluée avec taches d'encre",
+    "tag": "span"
   },
   "5690a34a97": {
     "cs": "2 (TD 5,6)",
@@ -9380,6 +9534,17 @@
     "fr": "Une esquille comme une impureté sont des corps étrangers incorporés directement dans le papier lors de sa fabrication, et sont donc visibles des deux côtés du timbre — au recto ils perturbent l'impression, au verso leur contour est visible. L'objet à l'origine de la tache blanche ne se trouvait que sur la forme d'impression : le verso est donc parfaitement propre, sans aucune trace.",
     "tag": "span"
   },
+  "7d2fab0965": {
+    "cs": "Světlina je místní, trvalé oslabení tisku vázané na jedno konkrétní pole desky — vrací se na stejném místě znovu a znovu, zatímco zbytek kresby zůstává normálně sytý. Tady je slabý celý otisk, na celé ploše známky, a doložené kusy zjevně pocházejí z různých archů či polí — jde tedy spíš o vlastnost tiskového nákladu nebo jedné dávky barvy, ne jednoho poškozeného místa desky.",
+    "de": "Eine Lichtstelle (světlina) ist eine örtliche, dauerhafte Druckschwächung, die an ein bestimmtes Feld der Druckplatte gebunden ist — sie kehrt immer wieder an derselben Stelle zurück, während der Rest der Zeichnung normal satt bleibt. Hier ist dagegen der gesamte Abdruck über die ganze Fläche der Marke schwach, und die belegten Stücke stammen offensichtlich von verschiedenen Bogen bzw. Feldern — es handelt sich also eher um eine Eigenschaft einer Druckauflage oder einer bestimmten Farbcharge als um eine einzelne beschädigte Stelle der Platte.",
+    "en": "A světlina is a local, permanent weakening of the print tied to one particular field of the plate — it recurs at the same spot time after time, while the rest of the design stays normally saturated. Here the whole impression is weak, over the entire stamp, and the recorded copies evidently come from different sheets or fields — so this looks more like a property of a printing run or a batch of ink than of one damaged spot on the plate.",
+    "es": "Una clara (světlina) es un debilitamiento local y permanente de la impresión, ligado a una posición concreta de la plancha — reaparece una y otra vez en el mismo lugar, mientras el resto del dibujo conserva una saturación normal. Aquí, en cambio, es la impresión entera la que resulta débil, en toda la superficie del sello, y los ejemplares documentados proceden evidentemente de pliegos o posiciones distintas — se trata, por tanto, más bien de una característica de una tirada de impresión o de un lote de tinta que de un punto dañado de la plancha.",
+    "files": [
+      "15h/vyrobni-vady.html"
+    ],
+    "fr": "Une éclaircie (světlina) est un affaiblissement local et permanent de l'impression, lié à une position précise de la planche — elle revient sans cesse au même endroit, tandis que le reste du dessin conserve une saturation normale. Ici, c'est l'impression entière qui est faible, sur toute la surface du timbre, et les pièces recensées proviennent manifestement de feuilles ou de positions différentes — il s'agit donc plutôt d'une caractéristique d'un tirage ou d'un lot d'encre que d'un endroit endommagé sur la planche.",
+    "tag": "span"
+  },
   "7d9dce561b": {
     "cs": "10h V. TD",
     "de": "10h Platte V",
@@ -12227,6 +12392,17 @@
     "fr": "<strong>Une paire ou une bande aide.</strong> Sur un multiple, on voit toute une suite d’angles d’un coup et la différence entre un tracé régulier et un tracé irrégulier est impossible à manquer.",
     "tag": "span"
   },
+  "9cc6128570": {
+    "cs": "Další zřetelný shluk drobných skvrn v obloze vpravo od věží, u květinové ozdoby.",
+    "de": "Ein weiterer deutlicher Fleckenschwarm im Himmel rechts von den Türmen, bei der Blumenverzierung.",
+    "en": "Another clear cluster of fine spots in the sky to the right of the towers, near the floral ornament.",
+    "es": "Otro grupo claro de manchas pequeñas en el cielo a la derecha de las torres, junto al ornamento floral.",
+    "files": [
+      "15h/vyrobni-vady.html"
+    ],
+    "fr": "Un autre groupe net de petites taches dans le ciel à droite des tours, près de l'ornement floral.",
+    "tag": "span"
+  },
   "9cd3273ca6": {
     "cs": "Rozteč obou směrů se může lišit, protože je dělal jiný nástroj nebo jiný stroj — odtud kombinace jako 13¾ : 11½ a její obrácená podoba 11½ : 13¾.",
     "de": "Der Lochabstand beider Richtungen kann sich unterscheiden, weil sie ein anderes Werkzeug oder eine andere Maschine erzeugte — daher Kombinationen wie 13¾ : 11½ und ihre umgekehrte Form 11½ : 13¾.",
@@ -13290,6 +13466,17 @@
     "fr": "Usage le plus précoce",
     "tag": "span"
   },
+  "aa0d6c4d9e": {
+    "cs": "Na těchto známkách je otisk po celé kresbě neobvykle slabý a řídký — jemné rytiny, girlandy po stranách rámu, vyzařující šrafování oblohy i textura svahu pod hradem jsou skoro vytracené, barva je spíš narůžovělá než sytě červená. V týchž místech, kde má podle kresby ležet barva — nejnápadněji v jemném vyzařujícím šrafování oblohy nad hradem — se místy barva srazila do drobných sytě červených teček a skvrnek. Skvrny neleží v čistě bílých plochách kresby, ale přesně tam, kde má být tisk, jen v jiném množství.",
+    "de": "Auf diesen Marken ist der Abdruck über die ganze Zeichnung hinweg ungewöhnlich schwach und dünn — die feine Gravur, die Girlanden an den Rahmenseiten, die strahlenförmige Schraffur des Himmels und die Struktur des Hangs unter der Burg sind fast verschwunden, die Farbe ist eher blassrosa als kräftig rot. An genau denselben Stellen, an denen laut Zeichnung Farbe liegen soll — am auffälligsten in der feinen strahlenförmigen Schraffur des Himmels über der Burg — hat sich die Farbe stellenweise zu kleinen, satt roten Punkten und Flecken zusammengezogen. Die Flecken liegen nicht in den rein weißen Flächen der Zeichnung, sondern genau dort, wo der Druck sein sollte, nur in anderer Menge.",
+    "en": "On these stamps the print is unusually weak across the whole design — the fine engraving, the garlands along the sides of the frame, the radiating hatching of the sky and the texture of the hillside below the castle are almost gone, the colour more pale pink than solid red. In the very same places where the design calls for colour — most noticeably in the fine radiating hatching of the sky above the castle — the ink has in places collected into small, solidly red dots and spots instead. The spots do not sit in the plain white areas of the design; they sit exactly where the print should be, only in a different amount.",
+    "es": "En estos sellos, la impresión es inusualmente débil y diluida en todo el dibujo — el grabado fino, las guirnaldas a los lados del marco, el sombreado radiante del cielo y la textura de la ladera bajo el castillo están casi borrados, el color es más bien rosa pálido que rojo intenso. En esos mismos lugares donde, según el dibujo, debería haber color — de forma más llamativa en el fino sombreado radiante del cielo sobre el castillo — la tinta se ha concentrado en algunos puntos en pequeños puntos y manchas de rojo intenso. Las manchas no se encuentran en las zonas blancas del dibujo, sino exactamente donde debería estar la impresión, solo que en cantidad distinta.",
+    "files": [
+      "15h/vyrobni-vady.html"
+    ],
+    "fr": "Sur ces timbres, l'impression est étonnamment faible et diluée sur l'ensemble du dessin — la gravure fine, les guirlandes le long des côtés du cadre, le hachurage rayonnant du ciel et la texture de la colline sous le château sont presque effacés, la couleur est plus rose pâle que rouge soutenu. Aux mêmes endroits où le dessin appelle de la couleur — le plus visiblement dans le fin hachurage rayonnant du ciel au-dessus du château — l'encre s'est par endroits concentrée en petits points et taches d'un rouge soutenu. Les taches ne se trouvent pas dans les zones purement blanches du dessin, mais exactement là où l'impression devrait être, seulement en quantité différente.",
+    "tag": "span"
+  },
   "aa1ca619af": {
     "cs": "TD I: 1, 12, 16, 23 &nbsp;·&nbsp; TD II: 8 &nbsp;·&nbsp; TD VII: 93",
     "de": "Platte I: 1, 12, 16, 23 &nbsp;·&nbsp; Platte II: 8 &nbsp;·&nbsp; Platte VII: 93",
@@ -13474,6 +13661,17 @@
       "15h/index.html"
     ],
     "fr": "Les bureaux de poste des dentelures B/C/E (planches 1–2) et l’usage de la planche VII sur la carte.",
+    "tag": "span"
+  },
+  "ac53263edf": {
+    "cs": "Detail kusu 2 — girlanda v rohu rámu i kruhové ozdoby jsou téměř vytracené, otisk je jen matným náznakem kresby.",
+    "de": "Detail von Stück 2 — die Girlande in der Rahmenecke sowie die Kreisverzierungen sind fast verschwunden, der Abdruck ist nur noch ein matter Hinweis auf die Zeichnung.",
+    "en": "Detail of item 2 — the garland in the corner of the frame and the circular ornaments are almost gone, the print only a faint hint of the design.",
+    "es": "Detalle de la pieza 2 — la guirnalda en la esquina del marco y los ornamentos circulares están casi borrados, la impresión es solo un tenue indicio del dibujo.",
+    "files": [
+      "15h/vyrobni-vady.html"
+    ],
+    "fr": "Détail de la pièce 2 — la guirlande dans le coin du cadre ainsi que les ornements circulaires ont presque disparu, l'impression n'est plus qu'une vague indication du dessin.",
     "tag": "span"
   },
   "acbcd5863c": {
@@ -13888,6 +14086,17 @@
     "fr": "violet clair",
     "tag": "span"
   },
+  "b24c7f8eaa": {
+    "cs": "Závoj vzniká přebytkem barvy na hustém, vyvýšeném prvku kresby (nejčastěji srdíčkové ozdobě nebo silné linii rámu) a má měkký, neostrý okraj, který plynule přechází do bílé. Skvrny u řídkého tisku jsou naproti tomu drobné a poměrně ostře ohraničené, neváží se na žádný konkrétní vyvýšený prvek a vznikají z nedostatku, ne z přebytku barvy na formě.",
+    "de": "Ein Schleier entsteht durch einen Farbüberschuss an einem dichten, erhabenen Element der Zeichnung (am häufigsten der Herzverzierung oder einer kräftigen Rahmenlinie) und hat einen weichen, unscharfen Rand, der fließend ins Weiß übergeht. Die Flecken beim dünnen Druck sind dagegen klein und verhältnismäßig scharf begrenzt, sind an kein bestimmtes erhabenes Element gebunden und entstehen aus einem Mangel, nicht aus einem Überschuss an Farbe auf der Druckform.",
+    "en": "A smear comes from an excess of ink on a dense, raised element of the design (most often the little heart ornament or a heavy frame line) and has a soft, blurred edge that fades gradually into white. The spots seen with thin print are, by contrast, small and fairly sharply bounded, are not tied to any particular raised element, and arise from a shortage of ink on the forme, not an excess.",
+    "es": "Un velo se produce por un exceso de tinta en un elemento denso y en relieve del dibujo (con mayor frecuencia el ornamento en forma de corazón o una línea gruesa del marco) y tiene un borde suave y difuso que se funde gradualmente con el blanco. Las manchas de la impresión diluida, en cambio, son pequeñas y de contorno bastante nítido, no están ligadas a ningún elemento en relieve concreto, y se originan por una falta, no por un exceso de tinta en la forma.",
+    "files": [
+      "15h/vyrobni-vady.html"
+    ],
+    "fr": "Un voile provient d'un excès d'encre sur un élément dense et en relief du dessin (le plus souvent l'ornement en forme de cœur ou une ligne épaisse du cadre) et présente un bord doux, flou, qui se fond progressivement dans le blanc. Les taches observées avec l'impression diluée sont au contraire petites et relativement nettement délimitées, ne sont liées à aucun élément en relief particulier, et proviennent d'un manque, non d'un excès d'encre sur la forme.",
+    "tag": "span"
+  },
   "b260c67741": {
     "cs": "(ZP 100/V)",
     "de": "(Feld 100/V)",
@@ -13981,6 +14190,17 @@
       "15h/tiskove-desky.html"
     ],
     "fr": "non dentelée, A, B, C",
+    "tag": "span"
+  },
+  "b31ecbd1e7": {
+    "cs": "Kromě drobných teček v obloze nese i výraznou souvislou skvrnu vpravo nahoře, pod nápisem POSTA — nejsilnější doložený případ.",
+    "de": "Neben kleinen Punkten im Himmel trägt es auch einen deutlichen, zusammenhängenden Fleck oben rechts, unter der Aufschrift POSTA — der stärkste belegte Fall.",
+    "en": "Besides fine dots in the sky it also carries a large solid spot in the upper right, below the POSTA inscription — the strongest case recorded.",
+    "es": "Además de puntos pequeños en el cielo, también presenta una mancha continua y marcada arriba a la derecha, bajo la inscripción POSTA — el caso más intenso documentado.",
+    "files": [
+      "15h/vyrobni-vady.html"
+    ],
+    "fr": "Outre de petits points dans le ciel, elle porte aussi une tache nette et continue en haut à droite, sous l'inscription POSTA — le cas le plus marqué recensé.",
     "tag": "span"
   },
   "b349b02c32": {
@@ -15763,6 +15983,17 @@
     "fr": "à gauche : <strong>spirale ouverte – Is</strong> &nbsp;·&nbsp; à droite : <strong>spirale fermée – IIs</strong> &nbsp;(archives personnelles)",
     "tag": "span"
   },
+  "c697e0a692": {
+    "cs": "Kus 7 — Kus bez razítka přes horní část kresby — dobře patrný celkový dojem řídkého tisku i drobné skvrny v obloze.",
+    "de": "Stück 7 — Ein Stück ohne Stempel über dem oberen Teil der Zeichnung — der Gesamteindruck des dünnen Drucks sowie die kleinen Flecken im Himmel sind gut erkennbar.",
+    "en": "Item 7 — A copy with no cancel over the upper part of the design — clearly showing the overall thin print and the fine spots in the sky.",
+    "es": "Pieza 7 — Un ejemplar sin matasellos sobre la parte superior del dibujo — se aprecia bien la impresión general diluida y las pequeñas manchas en el cielo.",
+    "files": [
+      "15h/vyrobni-vady.html"
+    ],
+    "fr": "Pièce 7 — Une pièce sans oblitération sur la partie supérieure du dessin — l'impression générale diluée ainsi que les petites taches dans le ciel y sont bien visibles.",
+    "tag": "span"
+  },
   "c6f7ea4c29": {
     "cs": "60h červenooranžová",
     "de": "60h rotorange",
@@ -17034,6 +17265,17 @@
     "fr": "Planche I",
     "tag": "span"
   },
+  "d89e6e9321": {
+    "cs": "Příčinou není množství barvy na formě, ale její konzistence. Příliš řídká barva se po jemných liniích šrafování nerozprostře rovnoměrně — většinou jí na papír přejde jen tenká vrstva, ale v místech, kde se řídká barva srazí nebo nahromadí, ulpí jí najednou víc a otiskne se jako tmavší tečka nebo skvrnka. Světlý, řídký tisk a tmavší skvrny jsou tak dva projevy téže příčiny, ne dvě nezávislé vady — proto se na doložených kusech objevují společně.",
+    "de": "Die Ursache ist nicht die Menge der Farbe auf der Druckform, sondern ihre Konsistenz. Zu dünnflüssige Farbe verteilt sich entlang der feinen Schraffurlinien nicht gleichmäßig — meist gelangt nur ein dünner Film auf das Papier, aber an Stellen, wo sich die dünne Farbe staut oder ansammelt, haftet auf einmal mehr davon und druckt sich als dunklerer Punkt oder Fleck ab. Der schwache, dünne Druck und die dunkleren Flecken sind somit zwei Erscheinungsformen derselben Ursache, nicht zwei unabhängige Fehler — deshalb treten sie auf allen bisher belegten Stücken gemeinsam auf.",
+    "en": "The cause is not the amount of ink on the forme, but its consistency. Ink that is too thin does not spread evenly along fine engraved lines — mostly only a thin film reaches the paper, but wherever the thin ink collects or pools, more of it lands at once and prints as a darker dot or spot. The weak, thin print and the darker spots are therefore two symptoms of the same cause, not two independent flaws — which is why they turn up together on every copy recorded so far.",
+    "es": "La causa no es la cantidad de tinta en la forma, sino su consistencia. Una tinta demasiado diluida no se reparte de manera uniforme a lo largo de las finas líneas del sombreado — casi siempre solo llega al papel una capa fina, pero en los puntos donde la tinta diluida se acumula o se concentra, se deposita de golpe más cantidad y se imprime como un punto o mancha más oscura. La impresión débil y diluida y las manchas más oscuras son así dos manifestaciones de una misma causa, no dos defectos independientes — por eso aparecen juntas en todos los ejemplares documentados hasta ahora.",
+    "files": [
+      "15h/vyrobni-vady.html"
+    ],
+    "fr": "La cause n'est pas la quantité d'encre sur la forme, mais sa consistance. Une encre trop diluée ne se répartit pas uniformément le long des fines lignes de hachurage — le plus souvent, seule une mince pellicule atteint le papier, mais aux endroits où l'encre diluée s'accumule ou se concentre, il en reste davantage d'un coup, qui s'imprime comme un point ou une tache plus sombre. L'impression pâle et diluée et les taches plus sombres sont donc deux manifestations d'une seule et même cause, non deux défauts indépendants — c'est pourquoi elles apparaissent ensemble sur toutes les pièces recensées jusqu'ici.",
+    "tag": "span"
+  },
   "d8a4d1b8a1": {
     "cs": "Odstíny 15h hodnoty jsou dodnes předmětem seriózních diskusí. Katalogy rozlišují pět základních odstínů; jejich výskyt je vázán na skupiny tiskových desek.",
     "de": "Die Farbtöne des Wertes 15h sind bis heute Gegenstand ernsthafter Diskussionen. Die Kataloge unterscheiden fünf Grundfarbtöne; ihr Vorkommen ist an Gruppen von Druckplatten gebunden.",
@@ -17328,6 +17570,17 @@
       "15h/knihtisk.html"
     ],
     "fr": "Humidification du papier",
+    "tag": "span"
+  },
+  "dc3f0ba566": {
+    "cs": "Girlanda v levém rohu rámu je téměř vytracená a v obloze vpravo od věží je roztroušeno několik drobných skvrn — detail vytracené girlandy níže je z tohoto kusu.",
+    "de": "Die Girlande in der linken Rahmenecke ist fast verschwunden, und im Himmel rechts von den Türmen sind einige kleine Flecken verstreut — das Detail der verschwundenen Girlande unten stammt von diesem Stück.",
+    "en": "The garland in the left corner of the frame is almost gone, and a few small spots are scattered in the sky to the right of the towers — the detail of the faded garland below is taken from this copy.",
+    "es": "La guirnalda en la esquina izquierda del marco está casi borrada, y en el cielo a la derecha de las torres hay dispersas algunas manchas pequeñas — el detalle de la guirnalda borrada más abajo procede de este ejemplar.",
+    "files": [
+      "15h/vyrobni-vady.html"
+    ],
+    "fr": "La guirlande dans le coin gauche du cadre a presque disparu, et dans le ciel à droite des tours sont dispersées quelques petites taches — le détail de la guirlande effacée ci-dessous provient de cette pièce.",
     "tag": "span"
   },
   "dc4cd78b57": {
@@ -18322,6 +18575,17 @@
     "fr": "Pièce 4 — Au milieu de la silhouette de Hradčany.",
     "tag": "span"
   },
+  "e858416575": {
+    "cs": "Kus 1 — Silně orazítkovaný kus; i ve volných místech mezi otisky razítka je znát bledý, řídký tisk.",
+    "de": "Stück 1 — Ein stark gestempeltes Stück; selbst in den freien Stellen zwischen den Stempelabdrücken ist der blasse, dünne Druck erkennbar.",
+    "en": "Item 1 — A heavily cancelled copy; even in the gaps between the cancel strikes the pale, thin print is evident.",
+    "es": "Pieza 1 — Un ejemplar fuertemente matasellado; incluso en los espacios libres entre las marcas del matasellos se aprecia la impresión pálida y diluida.",
+    "files": [
+      "15h/vyrobni-vady.html"
+    ],
+    "fr": "Pièce 1 — Une pièce fortement oblitérée ; même dans les espaces libres entre les empreintes du cachet, l'impression pâle et diluée est perceptible.",
+    "tag": "span"
+  },
   "e85d5e5b07": {
     "cs": "500h V. TD",
     "de": "500h Platte V",
@@ -18989,6 +19253,17 @@
     "fr": "impression dédoublée / maculée",
     "tag": "svg"
   },
+  "f012f1f0fa": {
+    "cs": "Detail kusu 3 — drobné skvrny leží přímo na jemných liniích vyzařujícího šrafování oblohy, ne mimo ně v bílé ploše.",
+    "de": "Detail von Stück 3 — die kleinen Flecken liegen direkt auf den feinen Linien der strahlenförmigen Himmelsschraffur, nicht außerhalb davon in der weißen Fläche.",
+    "en": "Detail of item 3 — the fine spots sit right on the fine lines of the sky's radiating hatching, not away from them in the white field.",
+    "es": "Detalle de la pieza 3 — las pequeñas manchas se sitúan directamente sobre las finas líneas del sombreado radiante del cielo, no fuera de ellas, en la zona blanca.",
+    "files": [
+      "15h/vyrobni-vady.html"
+    ],
+    "fr": "Détail de la pièce 3 — les petites taches se situent directement sur les fines lignes du hachurage rayonnant du ciel, non en dehors, dans la zone blanche.",
+    "tag": "span"
+  },
   "f019e5bba8": {
     "cs": "Perforace se do archu proděrovala až po tisku, samostatným pracovním krokem a na jiném stroji. Poloha děrovací mřížky vůči vytištěné kresbě proto nikdy nebyla pevně dána a u hradčanské emise se od ideálu odchyluje neobvykle často. Ukázky níže pocházejí z jedné sbírky — 28 kusů, celkem 29 známek — a pokrývají celou škálu od sotva znatelně nestejných okrajů až po kusy, na nichž zoubkování prochází kresbou a na okraji zůstal proužek sousední známky.",
     "de": "Die Zähnung wurde erst nach dem Druck in den Bogen gelocht, in einem eigenen Arbeitsschritt und auf einer anderen Maschine. Die Lage des Lochrasters gegenüber der gedruckten Zeichnung war deshalb nie fest vorgegeben und weicht bei der Hradschin-Ausgabe ungewöhnlich oft vom Ideal ab. Die Beispiele unten stammen aus einer einzigen Sammlung — 28 Stücke, insgesamt 29 Marken — und decken die ganze Bandbreite ab, von kaum merklich ungleichen Rändern bis zu Stücken, bei denen die Zähnung durch die Zeichnung läuft und am Rand ein Streifen der Nachbarmarke stehen blieb.",
@@ -19544,6 +19819,17 @@
       "15h/zkusebni-tisky.html"
     ],
     "fr": "Feuille complète de l'épreuve du 15h en noir. Les chiffres de contrôle sont imprimés dans la partie inférieure de la feuille.",
+    "tag": "span"
+  },
+  "f74ca74bfe": {
+    "cs": "Nejhustší doložený roj skvrn — v obloze vpravo od věží, u květinové ozdoby. Detail skvrn níže je z tohoto kusu.",
+    "de": "Die dichteste belegte Ansammlung von Flecken — im Himmel rechts von den Türmen, bei der Blumenverzierung. Das Detail der Flecken unten stammt von diesem Stück.",
+    "en": "The densest cluster of spots recorded — in the sky to the right of the towers, near the floral ornament. The detail of the spots below is taken from this copy.",
+    "es": "El grupo de manchas más denso documentado — en el cielo a la derecha de las torres, junto al ornamento floral. El detalle de las manchas más abajo procede de este ejemplar.",
+    "files": [
+      "15h/vyrobni-vady.html"
+    ],
+    "fr": "L'essaim de taches le plus dense recensé — dans le ciel à droite des tours, près de l'ornement floral. Le détail des taches ci-dessous provient de cette pièce.",
     "tag": "span"
   },
   "f7d762e554": {
