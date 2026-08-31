@@ -17921,6 +17921,18 @@
     "fr": "En cliquant sur les différents types, vous accédez à leur description ainsi qu’à l’affichage des positions correspondantes. L’endroit où chaque élément se trouve dans le dessin est indiqué par le schéma suivant :",
     "tag": "span"
   },
+  "e42c321a65": {
+    "cs": "U vzácné sedmé desky chybí <strong>30 pozic</strong>:",
+    "de": "Bei der seltenen siebten Platte fehlen <strong>30 Positionen</strong>:",
+    "en": "Of the rare seventh plate, <strong>30 positions</strong> are missing:",
+    "es": "De la rara séptima plancha faltan <strong>30 posiciones</strong>:",
+    "files": [
+      "15h/shanim.html",
+      "shanim.html"
+    ],
+    "fr": "Pour la rare septième planche, il manque <strong>30 positions</strong> :",
+    "tag": "span"
+  },
   "e43b0135ad": {
     "cs": "Z 6 474 čitelně datovaných razítek. Pořadí ukazuje, jak výroba postupovala od řádkových zoubkování D/E/F na raných deskách k hřebenovým A/B na deskách pozdějších.",
     "de": "Aus 6 474 lesbar datierten Stempeln. Die Reihenfolge zeigt, wie die Fertigung von den Linienzähnungen D/E/F auf den frühen Platten zu den Kammzähnungen A/B auf den späteren fortschritt.",
