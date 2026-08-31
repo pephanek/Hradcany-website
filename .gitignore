@@ -20,3 +20,9 @@ publikuj.bat
 publikuj-skryte.vbs
 publikuj.log
 publikuj.log.old
+
+# Scratch/QA files (not part of the published site; large binaries here
+# were repeatedly breaking pushes over GitHub's 100 MB limit)
+_to_delete/
+*.tar.gz
+*.zip
