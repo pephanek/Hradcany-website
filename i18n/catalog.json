@@ -655,6 +655,17 @@
     "fr": "Nouvel article – <a href=\"15h/clanky/15h-neperforovana-td6.html\"><strong>découverte d’un 15h non dentelé ayant servi postalement, de la sixième planche</strong></a> (Košice 2, 13&nbsp;juillet&nbsp;1920, position 34/VI). Par ailleurs, la <a href=\"15h/mapa.html\"><strong>carte des oblitérations du 15h</strong></a> couvre désormais les oblitérations lisibles des planches&nbsp;3 et&nbsp;4.",
     "tag": "span"
   },
+  "08e1937069": {
+    "cs": "dvě známky Hradčan dvou různých hodnot.",
+    "de": "zwei Hradschin-Marken zweier verschiedener Werte.",
+    "en": "two Hradčany stamps of two different values.",
+    "es": "dos sellos de Hradčany de dos valores diferentes.",
+    "files": [
+      "posta.html"
+    ],
+    "fr": "deux timbres du Hradschin de deux valeurs différentes.",
+    "tag": "span"
+  },
   "094e36fe27": {
     "cs": "Sháním — Sbírám Hradčany",
     "de": "Gesucht — Hradschin sammeln",
@@ -1190,6 +1201,17 @@
     "files": [],
     "fr": "Pièce 1 — Paire horizontale non dentelée. Le pli court sur les deux timbres à la même hauteur et se poursuit par-dessus l’intervalle qui les sépare — il s’est donc formé dans la feuille, avant que les timbres ne soient séparés.",
     "tag": "cap"
+  },
+  "106ca6a48c": {
+    "cs": "jedna známka Hradčan jedné hodnoty.",
+    "de": "eine Hradschin-Marke eines einzigen Werts.",
+    "en": "one Hradčany stamp of a single value.",
+    "es": "un único sello de Hradčany de un solo valor.",
+    "files": [
+      "posta.html"
+    ],
+    "fr": "un seul timbre du Hradschin d'une seule valeur.",
+    "tag": "span"
   },
   "106fa4d64c": {
     "cs": "Frankatura s razítkem Župní slet sokolský ve Znojmě, 24.&nbsp;VIII.&nbsp;1919",
@@ -2920,6 +2942,17 @@
     "fr": "Pli de papier — pièce 5",
     "tag": "alt"
   },
+  "29f5ea0d3f": {
+    "cs": "Vícenásobná frankatura",
+    "de": "Mehrfachfrankatur",
+    "en": "Multiple franking",
+    "es": "Franqueo múltiple",
+    "files": [
+      "posta.html"
+    ],
+    "fr": "Affranchissement multiple",
+    "tag": "span"
+  },
   "2a18b48a61": {
     "cs": "Mezi zkusmým tiskem a produkcí se na tomto poli <strong>zasahovalo do kresby</strong>. Nejde tedy jen o rozdíl v ostrosti: forma se mezi oběma otisky ještě upravovala. Doloženy jsou dvě změny.",
     "de": "Zwischen dem Probedruck und der Produktion wurde auf diesem Feld <strong>in die Zeichnung eingegriffen</strong>. Es handelt sich also nicht nur um einen Unterschied in der Schärfe: Die Form wurde zwischen beiden Abdrucken noch überarbeitet. Belegt sind zwei Änderungen.",
@@ -4573,6 +4606,17 @@
       "15h/statistiky.html"
     ],
     "fr": "Groupe (dentelure · planches)",
+    "tag": "span"
+  },
+  "3d53b165f5": {
+    "cs": "Podle toho, jaké známky celistvost nese, se frankatury obvykle dělí do několika základních typů. Rozlišení je užitečné při popisu celistvostí a při hledání zajímavějších kombinací:",
+    "de": "Je nachdem, welche Marken ein Beleg trägt, werden Frankaturen üblicherweise in mehrere Grundtypen eingeteilt. Die Unterscheidung ist bei der Beschreibung von Belegen und bei der Suche nach interessanteren Kombinationen nützlich:",
+    "en": "Depending on which stamps a cover carries, frankings are usually divided into several basic types. The distinction is useful when describing covers and when looking for more interesting combinations:",
+    "es": "Según los sellos que lleve, una pieza postal se clasifica generalmente en varios tipos básicos de franqueo. Esta distinción resulta útil para describir piezas postales y para localizar las combinaciones más interesantes:",
+    "files": [
+      "posta.html"
+    ],
+    "fr": "Selon les timbres qu'il porte, un pli est généralement classé en plusieurs types fondamentaux d'affranchissement. Cette distinction est utile pour décrire les plis et pour repérer les combinaisons les plus intéressantes :",
     "tag": "span"
   },
   "3d596e48c2": {
@@ -7537,6 +7581,17 @@
     "fr": "Hradčany — le troisième dessin : valeurs, nuances et tirages.",
     "tag": "meta"
   },
+  "604699a889": {
+    "cs": "Smíšená frankatura",
+    "de": "Mischfrankatur",
+    "en": "Mixed franking",
+    "es": "Franqueo mixto",
+    "files": [
+      "posta.html"
+    ],
+    "fr": "Affranchissement mixte",
+    "tag": "span"
+  },
   "60515ad42a": {
     "cs": "Posloupnost nejranějších dat hezky dokládá výrobní chronologii: nezoubkované archy a řádková zoubkování D → E → F na deskách 1–2 (léto–podzim 1919), poté C a B, od jara 1920 desky 3–6 a hřebenové A.",
     "de": "Die Abfolge der frühesten Daten belegt schön die Fertigungschronologie: geschnittene Bogen und die Linienzähnungen D → E → F auf den Platten 1–2 (Sommer–Herbst 1919), danach C und B, ab Frühjahr 1920 die Platten 3–6 und die Kammzähnung A.",
@@ -7786,6 +7841,28 @@
       "15h/typy-galerie.html"
     ],
     "fr": "position 17 / planche I",
+    "tag": "span"
+  },
+  "632c162deb": {
+    "cs": "Jednoznámková frankatura",
+    "de": "Einzelfrankatur",
+    "en": "Single franking",
+    "es": "Franqueo simple",
+    "files": [
+      "posta.html"
+    ],
+    "fr": "Affranchissement simple",
+    "tag": "span"
+  },
+  "6342e957ef": {
+    "cs": "známky Hradčan spolu se známkou z nevýplatní emise (např. spěšné nebo novinové).",
+    "de": "Hradschin-Marken zusammen mit einer Marke aus einer Nicht-Freimarkenausgabe (z.&nbsp;B. Eilmarken oder Zeitungsmarken).",
+    "en": "Hradčany stamps together with a stamp from a non-definitive issue (e.g. express or newspaper stamps).",
+    "es": "sellos de Hradčany junto con un sello de una emisión no ordinaria (por ejemplo, sellos urgentes o para periódicos).",
+    "files": [
+      "posta.html"
+    ],
+    "fr": "des timbres du Hradschin associés à un timbre d'une émission non courante (par ex. timbres exprès ou pour journaux).",
     "tag": "span"
   },
   "6370e93d85": {
@@ -9461,6 +9538,17 @@
     "fr": "Postes ambulantes attestées sur des timbres à 15 h de dentelures plus rares :",
     "tag": "span"
   },
+  "7879ce7866": {
+    "cs": "Kombinovaná frankatura",
+    "de": "Kombinationsfrankatur",
+    "en": "Combination franking",
+    "es": "Franqueo combinado",
+    "files": [
+      "posta.html"
+    ],
+    "fr": "Affranchissement combiné",
+    "tag": "span"
+  },
   "788fce5616": {
     "cs": "Katalog",
     "de": "Katalog",
@@ -10196,6 +10284,17 @@
       "15h/vyrobni-vady.html"
     ],
     "fr": "Pli oblique traversant le milieu du dessin ; sous une oblitération dense, il se trahit surtout par une bande claire sans impression.",
+    "tag": "span"
+  },
+  "824c03c4f0": {
+    "cs": "více známek Hradčan stejné hodnoty.",
+    "de": "mehrere Hradschin-Marken desselben Werts.",
+    "en": "several Hradčany stamps of the same value.",
+    "es": "varios sellos de Hradčany del mismo valor.",
+    "files": [
+      "posta.html"
+    ],
+    "fr": "plusieurs timbres du Hradschin de la même valeur.",
     "tag": "span"
   },
   "82536ae5f4": {
@@ -11177,6 +11276,17 @@
     "fr": "19 positions au total. Le survol de la souris affine l’aperçu ; un clic ouvre l’exemple en plein écran.",
     "tag": "span"
   },
+  "8cc12ed8f6": {
+    "cs": "Typy frankatur podle celistvosti",
+    "de": "Frankaturarten nach Beleg",
+    "en": "Types of franking on a cover",
+    "es": "Tipos de franqueo según la pieza postal",
+    "files": [
+      "posta.html"
+    ],
+    "fr": "Types d'affranchissement selon le pli",
+    "tag": "span"
+  },
   "8cd30e9d39": {
     "cs": "TD 5–6",
     "de": "Platten 5–6",
@@ -12046,6 +12156,17 @@
     "files": [],
     "fr": "15h planche II",
     "tag": "alt"
+  },
+  "96166beb2d": {
+    "cs": "Terminologie a hranice jednotlivých typů (zejména u kombinované, barevné a společné frankatury) se v literatuře a u jednotlivých autorů mírně liší; zde uvedené dělení vychází z běžné aukční a sběratelské praxe. Pojmy jednoznámková, vícenásobná a smíšená frankatura odpovídají obecným filatelistickým definicím (srov. Cojeco — Frankatura; anglicky single/multiple/mixed franking).",
+    "de": "Die Terminologie und die genauen Grenzen der einzelnen Typen (insbesondere Kombinations-, bunte und Gemeinschaftsfrankatur) variieren in der Literatur und bei einzelnen Autoren leicht; die hier angegebene Einteilung folgt der üblichen Auktions- und Sammlerpraxis. Die Begriffe Einzel-, Mehrfach- und Mischfrankatur entsprechen den allgemeinen philatelistischen Definitionen (vgl. Cojeco — Frankatura; im Englischen: single/multiple/mixed franking).",
+    "en": "The terminology and the exact boundaries of each type (especially combination, colour and joint franking) vary slightly between authors and reference works; the division given here follows common auction-house and collecting practice. The terms single, multiple and mixed franking correspond to the general philatelic definitions (cf. Cojeco — Frankatura; in English usage: single/multiple/mixed franking).",
+    "es": "La terminología y los límites exactos de cada tipo (en especial el franqueo combinado, multicolor y conjunto) varían ligeramente según los autores y las obras de referencia; la clasificación aquí presentada sigue la práctica habitual de casas de subastas y coleccionistas. Los términos franqueo simple, múltiple y mixto corresponden a las definiciones filatélicas generales (cf. Cojeco — Frankatura; en inglés: single/multiple/mixed franking).",
+    "files": [
+      "posta.html"
+    ],
+    "fr": "La terminologie et les limites exactes de chaque type (en particulier l'affranchissement combiné, multicolore et conjoint) varient légèrement selon les auteurs et les ouvrages de référence ; la répartition présentée ici suit la pratique courante des maisons de vente et des collectionneurs. Les notions d'affranchissement simple, multiple et mixte correspondent aux définitions philatéliques générales (cf. Cojeco — Frankatura ; en anglais : single/multiple/mixed franking).",
+    "tag": "span"
   },
   "9638aa2aca": {
     "cs": "(ZP 77/V)",
@@ -13481,6 +13602,17 @@
       "15h/zoubkovani.html"
     ],
     "fr": "La machine possède <strong>une seule rangée d’aiguilles</strong> et ne perce à chaque fois qu’une seule ligne droite à travers toute la feuille.",
+    "tag": "span"
+  },
+  "a5b7449387": {
+    "cs": "jedna nebo více známek Hradčan spolu se známkou z jiné, v té době současně platné emise.",
+    "de": "eine oder mehrere Hradschin-Marken zusammen mit einer Marke einer anderen, zur gleichen Zeit gültigen Ausgabe.",
+    "en": "one or more Hradčany stamps together with a stamp from another issue valid at the same time.",
+    "es": "uno o más sellos de Hradčany junto con un sello de otra emisión vigente al mismo tiempo.",
+    "files": [
+      "posta.html"
+    ],
+    "fr": "un ou plusieurs timbres du Hradschin associés à un timbre d'une autre émission alors simultanément valable.",
     "tag": "span"
   },
   "a5eecd897c": {
@@ -16042,6 +16174,17 @@
     "fr": "<strong>Ondulation</strong> — le papier est seulement ondulé, le dessin reste continu et ne fait qu’onduler légèrement. L’état le moins visible.",
     "tag": "span"
   },
+  "c3320fd3f4": {
+    "cs": "Barevná frankatura",
+    "de": "Bunte Frankatur",
+    "en": "Colour franking",
+    "es": "Franqueo multicolor",
+    "files": [
+      "posta.html"
+    ],
+    "fr": "Affranchissement multicolore",
+    "tag": "span"
+  },
   "c335d94959": {
     "cs": "Kus 27 — Posun doleva a dolů — vpravo prochází perforace rámečkem, vlevo je na okraji stopa sousední známky.",
     "de": "Stück 27 — Verschiebung nach links und nach unten — rechts verläuft die Zähnung durch den Rahmen, links ist am Rand eine Spur der Nachbarmarke.",
@@ -17212,6 +17355,17 @@
     ],
     "fr": "15h – planche d’impression fissurée sur 11/II — Hradčany",
     "tag": "attr"
+  },
+  "d2deaa5fd4": {
+    "cs": "tři a více známek Hradčan o třech a více různých hodnotách.",
+    "de": "drei oder mehr Hradschin-Marken mit drei oder mehr verschiedenen Werten.",
+    "en": "three or more Hradčany stamps of three or more different values.",
+    "es": "tres o más sellos de Hradčany de tres o más valores diferentes.",
+    "files": [
+      "posta.html"
+    ],
+    "fr": "trois timbres du Hradschin ou plus, de trois valeurs différentes ou plus.",
+    "tag": "span"
   },
   "d317f6bf45": {
     "cs": "Příčkové typy (vlastní archiv)",
@@ -18877,6 +19031,17 @@
       "prvni-kresba.html"
     ],
     "fr": "5h vert jaune",
+    "tag": "span"
+  },
+  "e64c8a2a91": {
+    "cs": "Společná frankatura",
+    "de": "Gemeinschaftsfrankatur",
+    "en": "Joint franking",
+    "es": "Franqueo conjunto",
+    "files": [
+      "posta.html"
+    ],
+    "fr": "Affranchissement conjoint",
     "tag": "span"
   },
   "e68892c57d": {
