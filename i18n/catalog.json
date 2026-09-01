@@ -1037,6 +1037,17 @@
     "fr": "Schémas des planches d’impression à télécharger",
     "tag": "span"
   },
+  "0d1ced4cd7": {
+    "cs": "<strong>III. období</strong> — dopisnice 20&nbsp;h, dopis 30&nbsp;h, doporučený dopis 80&nbsp;h",
+    "de": "<strong>III. Periode</strong> — Postkarte 20&nbsp;h, Brief 30&nbsp;h, Einschreibebrief 80&nbsp;h",
+    "en": "<strong>Period III</strong> — postcard 20&nbsp;h, letter 30&nbsp;h, registered letter 80&nbsp;h",
+    "es": "<strong>Período III</strong> — tarjeta postal 20&nbsp;h, carta 30&nbsp;h, carta certificada 80&nbsp;h",
+    "files": [
+      "15h/posta.html"
+    ],
+    "fr": "<strong>Période III</strong> — carte postale 20&nbsp;h, lettre 30&nbsp;h, lettre recommandée 80&nbsp;h",
+    "tag": "span"
+  },
   "0d62ba8fb4": {
     "cs": "červen 1919 – duben 1921 (dle statistiky 6 480 datovaných razítek)",
     "de": "Juni 1919 – April 1921 (nach der Statistik von 6 480 datierten Stempeln)",
@@ -2940,6 +2951,17 @@
     "fr": "position 16 / planche I",
     "tag": "span"
   },
+  "2b0badf43a": {
+    "cs": "Místní (lokální) sazba — žádný z použitých zdrojů ji pro ČSR let 1918–1921 nezmiňuje; zdá se, že se od rakouské praxe upustilo.",
+    "de": "Eine Orts-(Lokal-)Gebühr — keine der verwendeten Quellen erwähnt sie für die ČSR der Jahre 1918–1921; es scheint, dass von der österreichischen Praxis abgegangen wurde.",
+    "en": "A local rate — none of the sources used mentions one for Czechoslovakia in 1918–1921; the Austrian practice appears to have been dropped.",
+    "es": "Una tarifa local — ninguna de las fuentes utilizadas la menciona para Checoslovaquia en los años 1918–1921; parece que se abandonó la práctica austríaca.",
+    "files": [
+      "15h/posta.html"
+    ],
+    "fr": "Une taxe locale — aucune des sources utilisées ne la mentionne pour la Tchécoslovaquie des années 1918–1921 ; il semble que la pratique autrichienne ait été abandonnée.",
+    "tag": "span"
+  },
   "2b203edec9": {
     "cs": "20h VIII. TD",
     "de": "20h Platte VIII",
@@ -3900,6 +3922,17 @@
     "fr": "120h gris",
     "tag": "span"
   },
+  "36c0db78c3": {
+    "cs": "<strong>od 1.&nbsp;1.&nbsp;1922</strong> (V. období, mimo platnost Hradčan) — dopis 250&nbsp;h, dopisnice 50&nbsp;h, doporučeně +250&nbsp;h.",
+    "de": "<strong>ab 1.&nbsp;1.&nbsp;1922</strong> (V.&nbsp;Periode, außerhalb der Gültigkeit der Hradschin-Marken) — Brief 250&nbsp;h, Postkarte 50&nbsp;h, Einschreiben +250&nbsp;h.",
+    "en": "<strong>From 1&nbsp;Jan&nbsp;1922</strong> (period V, outside the Hradčany's validity) — letter 250&nbsp;h, postcard 50&nbsp;h, registration +250&nbsp;h.",
+    "es": "<strong>desde el 1&nbsp;de enero de&nbsp;1922</strong> (período V, fuera de la validez de los sellos de Hradčany) — carta 250&nbsp;h, tarjeta postal 50&nbsp;h, certificado +250&nbsp;h.",
+    "files": [
+      "15h/posta.html"
+    ],
+    "fr": "<strong>à partir du 1er&nbsp;janvier&nbsp;1922</strong> (période V, hors validité des timbres du Hradschin) — lettre 250&nbsp;h, carte postale 50&nbsp;h, recommandation +250&nbsp;h.",
+    "tag": "span"
+  },
   "36cd9dd518": {
     "cs": "Kompletní knihovnu referenčních obrazů všech pozic najdete v",
     "de": "Die vollständige Bibliothek der Referenzbilder aller Positionen finden Sie in der",
@@ -4179,6 +4212,17 @@
       "ctvrta-kresba.html"
     ],
     "fr": "vert foncé / vert noir",
+    "tag": "span"
+  },
+  "394ac91f01": {
+    "cs": "převzaté rakouské sazby",
+    "de": "übernommene österreichische Gebühren",
+    "en": "inherited Austrian rates",
+    "es": "tarifas austríacas heredadas",
+    "files": [
+      "15h/posta.html"
+    ],
+    "fr": "taxes autrichiennes reprises",
     "tag": "span"
   },
   "3960b9a765": {
@@ -5219,6 +5263,28 @@
     "fr": "100h planche II",
     "tag": "alt"
   },
+  "468d96e562": {
+    "cs": "cenné psaní — příplatek 20&nbsp;h za každých 300&nbsp;K udané ceny",
+    "de": "Wertbrief — Zuschlag von 20&nbsp;h je 300&nbsp;K des angegebenen Wertes",
+    "en": "insured letter — a surcharge of 20&nbsp;h per 300&nbsp;K of declared value",
+    "es": "carta con valor declarado — recargo de 20&nbsp;h por cada 300&nbsp;K de valor declarado",
+    "files": [
+      "15h/posta.html"
+    ],
+    "fr": "lettre chargée (valeur déclarée) — surtaxe de 20&nbsp;h par 300&nbsp;K de valeur déclarée",
+    "tag": "span"
+  },
+  "46b66e4ce5": {
+    "cs": "Hradčany byly v prodeji od 18.&nbsp;prosince 1918 (jednotlivé hodnoty vycházely postupně až do roku 1920) a v oběhu zůstaly ještě déle poté — reálně tak pokryly čtyři tarifní období. Páté období začalo až 1.&nbsp;ledna 1922, tedy už po jejich stažení z oběhu; uvádíme je v tabulce jen pro srovnání. Sazby jsou v haléřích a jde o tuzemský provoz.",
+    "de": "Die Hradschin-Marken waren ab dem 18.&nbsp;Dezember 1918 im Verkauf (die einzelnen Werte erschienen nach und nach bis 1920) und blieben danach noch länger im Umlauf — praktisch deckten sie damit vier Tarifperioden ab. Eine fünfte Periode begann erst am 1.&nbsp;Januar 1922, also schon nach ihrer Einziehung aus dem Verkehr; sie wird in der Tabelle nur zum Vergleich angeführt. Die Gebühren sind in Heller angegeben und beziehen sich auf den Inlandsverkehr.",
+    "en": "The Hradčany stamps went on sale on 18&nbsp;December 1918 (individual values were issued gradually up to 1920) and remained in circulation for some time afterwards — in practice covering four tariff periods. A fifth period began only on 1&nbsp;January 1922, after the issue had already been withdrawn; it is included in the table only for comparison. Rates are in hellers and refer to domestic mail.",
+    "es": "Los sellos de Hradčany se pusieron a la venta el 18&nbsp;de diciembre de 1918 (los distintos valores fueron apareciendo progresivamente hasta 1920) y siguieron circulando aún más tiempo después — en la práctica cubrieron así cuatro períodos tarifarios. Un quinto período comenzó recién el 1&nbsp;de enero de 1922, es decir, ya después de su retirada de la circulación; se incluye en la tabla solo a efectos de comparación. Las tarifas están en hellers y se refieren al tráfico postal interior.",
+    "files": [
+      "15h/posta.html"
+    ],
+    "fr": "Les timbres du Hradschin ont été mis en vente le 18&nbsp;décembre 1918 (les différentes valeurs ont paru progressivement jusqu'en 1920) et sont restés en circulation encore plus longtemps — ils ont ainsi couvert en pratique quatre périodes tarifaires. Une cinquième période n'a commencé que le 1er&nbsp;janvier 1922, c'est-à-dire après leur retrait de la circulation ; elle n'est indiquée dans le tableau qu'à titre de comparaison. Les taxes sont exprimées en hellers et concernent le régime intérieur.",
+    "tag": "span"
+  },
   "46bce20d55": {
     "cs": "<strong>Košice 4</strong> — 1. IX. 1920 <span class=\"cs\">(svislá dvoupáska ZP 6+16/V)</span>",
     "de": "<strong>Košice 4</strong> — 1. IX. 1920 (senkrechtes Paar, Feldern 6+16/V)",
@@ -5283,6 +5349,17 @@
       "15h/galerie.html"
     ],
     "fr": "Planche d’impression IV",
+    "tag": "span"
+  },
+  "4773c5a005": {
+    "cs": "<strong>II. období</strong> — dopis 50&nbsp;h, každých dalších 20&nbsp;g 30&nbsp;h, doporučeně +50&nbsp;h. Do tzv. blízké ciziny (Německo, Rakousko, Maďarsko, Jugoslávie, Polsko, Západní Ukrajina) platily tuzemské sazby, tj. dopis 25&nbsp;h a doporučeně +50&nbsp;h.",
+    "de": "<strong>II. Periode</strong> — Brief 50&nbsp;h, je weitere 20&nbsp;g 30&nbsp;h, Einschreiben +50&nbsp;h. Für das sogenannte nahe Ausland (Deutschland, Österreich, Ungarn, Jugoslawien, Polen, Westukraine) galten die Inlandsgebühren, d.&nbsp;h. Brief 25&nbsp;h und Einschreiben +50&nbsp;h.",
+    "en": "<strong>Period II</strong> — letter 50&nbsp;h, each further 20&nbsp;g 30&nbsp;h, registration +50&nbsp;h. To the so-called near-abroad (Germany, Austria, Hungary, Yugoslavia, Poland, Western Ukraine) domestic rates applied instead, i.e. letter 25&nbsp;h plus registration +50&nbsp;h.",
+    "es": "<strong>Período II</strong> — carta 50&nbsp;h, cada 20&nbsp;g adicionales 30&nbsp;h, certificado +50&nbsp;h. Al llamado «extranjero cercano» (Alemania, Austria, Hungría, Yugoslavia, Polonia, Ucrania occidental) se aplicaban las tarifas interiores, es decir, carta 25&nbsp;h y certificado +50&nbsp;h.",
+    "files": [
+      "15h/posta.html"
+    ],
+    "fr": "<strong>Période II</strong> — lettre 50&nbsp;h, chaque 20&nbsp;g supplémentaire 30&nbsp;h, recommandation +50&nbsp;h. Pour l'« étranger proche » (Allemagne, Autriche, Hongrie, Yougoslavie, Pologne, Ukraine occidentale), les taxes intérieures s'appliquaient, soit lettre 25&nbsp;h et recommandation +50&nbsp;h.",
     "tag": "span"
   },
   "47c971bfd7": {
@@ -6265,6 +6342,17 @@
     "fr": "Pièce 11 — Décalage vers la droite, léger seulement à la verticale — large marge à droite, étroite à gauche.",
     "tag": "cap"
   },
+  "54f74cfc30": {
+    "cs": "poštovní poukázka do 50&nbsp;K — 25&nbsp;h, za každých dalších 50&nbsp;K 5&nbsp;h",
+    "de": "Postanweisung bis 50&nbsp;K — 25&nbsp;h, für je weitere 50&nbsp;K 5&nbsp;h",
+    "en": "postal money order up to 50&nbsp;K — 25&nbsp;h, plus 5&nbsp;h for every further 50&nbsp;K",
+    "es": "giro postal hasta 50&nbsp;K — 25&nbsp;h, más 5&nbsp;h por cada 50&nbsp;K adicionales",
+    "files": [
+      "15h/posta.html"
+    ],
+    "fr": "mandat postal jusqu'à 50&nbsp;K — 25&nbsp;h, plus 5&nbsp;h par tranche supplémentaire de 50&nbsp;K",
+    "tag": "span"
+  },
   "550dadcdc7": {
     "cs": "Srovnání podílů zoubkování ve sbírkách",
     "de": "Vergleich der Zähnungsanteile in Sammlungen",
@@ -6389,6 +6477,17 @@
       "clanky.html"
     ],
     "fr": "15h lettre – Un trésor pour une bouchée de pain",
+    "tag": "span"
+  },
+  "560787e708": {
+    "cs": "Výše spěšného příplatku ve IV. období (60, nebo 100&nbsp;h) — viz poznámka u tabulky výše.",
+    "de": "Die Höhe des Eilzuschlags in der 4.&nbsp;Periode (60 oder 100&nbsp;h) — siehe Anmerkung oberhalb der Tabelle.",
+    "en": "The amount of the express fee in the 4th period (60 or 100&nbsp;h) — see the note above the table.",
+    "es": "El importe del recargo urgente en el 4.º período (60 o 100&nbsp;h) — véase la nota sobre la tabla anterior.",
+    "files": [
+      "15h/posta.html"
+    ],
+    "fr": "Le montant de la surtaxe exprès de la 4e période (60 ou 100&nbsp;h) — voir la note ci-dessus au-dessus du tableau.",
     "tag": "span"
   },
   "561cf61576": {
@@ -6885,6 +6984,17 @@
       "znamky-emise.html"
     ],
     "fr": "<strong>Valeurs :</strong> 100h, 200h, 400h.",
+    "tag": "span"
+  },
+  "5ae088bbaf": {
+    "cs": "Nejběžnější frankatury",
+    "de": "Die häufigsten Frankaturen",
+    "en": "The most common frankings",
+    "es": "Los franqueos más habituales",
+    "files": [
+      "15h/posta.html"
+    ],
+    "fr": "Les affranchissements les plus courants",
     "tag": "span"
   },
   "5b1b73ccd1": {
@@ -7509,6 +7619,17 @@
     "fr": "<h1>15h – planche d’impression fissurée sur 11/II</h1>\n\n<p><em>Complété le 24 juin 2017</em></p>\n<p>Les fissures de la planche d’impression apparaissent, pour plusieurs valeurs de cette émission, surtout aux positions\nmarginales, où le risque d’endommagement mécanique est naturellement plus grand. En reconstituant la première et la\ndeuxième planche d’impression de la valeur 15h (POFIS n° 7), je suis tombé sur un exemple très intéressant de planche\nd’impression fissurée.</p>\n<p>Une fissure marquée du coin supérieur gauche apparaît <strong>à la 11e position de la 2e planche d’impression</strong>.\nJ’estime qu’elle est née d’un endommagement de la planche d’impression lors du nettoyage régulier. La présence de timbres\nportant cet endommagement est, de mon point de vue, rare.</p>\n<figure><img src=\"../assets/img/11192-15h-11-2-bez.png\" alt=\"Position 11 de la planche II – non dentelé, sans la fissure\" loading=\"lazy\" style=\"max-width:340px\"><figcaption>Position 11 de la planche II – non dentelé, sans la fissure</figcaption></figure>\n<figure><img src=\"../assets/img/11186-15h-11-2-perf-F.png\" alt=\"Position 11 de la planche II – dentelure en ligne 13¾ : 11½ (F), avec la fissure\" loading=\"lazy\" style=\"max-width:340px\"><figcaption>Position 11 de la planche II – dentelure en ligne 13¾ : 11½ (F), avec la fissure</figcaption></figure>\n<figure><img src=\"../assets/img/01872-15h-11-II-strihana.jpg\" alt=\"Position 11 de la planche II – non dentelé, avec la fissure\" loading=\"lazy\" style=\"max-width:340px\"><figcaption>Position 11 de la planche II – non dentelé, avec la fissure</figcaption></figure>\n<figure><img src=\"../assets/img/01873-15h-11-II-zoubkovana-A.jpg\" alt=\"Position 11 de la planche II – dentelure en peigne 13¾ : 13½ (A), avec la fissure\" loading=\"lazy\" style=\"max-width:340px\"><figcaption>Position 11 de la planche II – dentelure en peigne 13¾ : 13½ (A), avec la fissure</figcaption></figure>\n<figure><img src=\"../assets/img/01926-hradcany-praskle-tiskove-desky-_-2357a6.jpg\" alt=\"Position 11 de la planche II – dentelure en peigne 11¾ (B), avec la fissure (collection de M. Jaroslav Michalík)\" loading=\"lazy\" style=\"max-width:340px\"><figcaption>Position 11 de la planche II – dentelure en peigne 11¾ (B), avec la fissure (collection de M. Jaroslav Michalík)</figcaption></figure>\n<figure><img src=\"../assets/img/01930-Praskl-roh-1.jpg\" alt=\"Position 11 de la planche II – dentelure B, avec la fissure, en bloc de six (collection de M. Jaroslav Michalík)\" loading=\"lazy\" style=\"max-width:480px\"><figcaption>Position 11 de la planche II – dentelure B, avec la fissure, en bloc de six (collection de M. Jaroslav Michalík)</figcaption></figure>\n<figure><img src=\"../assets/img/11253-15h-11-2-zkusmy-tisk.png\" alt=\"Position 11 de la planche II – épreuve dans la rare dentelure en ligne 13¾ (C), fissure en phase 3\" loading=\"lazy\" style=\"max-width:340px\"><figcaption>Position 11 de la planche II – épreuve dans la rare dentelure en ligne 13¾ (C), fissure en phase 3</figcaption></figure>\n<h2>Évolution de la fissure</h2>\n<p>La fissure s’est développée progressivement, comme le montrent les images des différentes phases :</p>\n<div class=\"imgrow\"><img src=\"../assets/img/11191-15h-11-2-E.png\" alt=\"\" loading=\"lazy\"><img src=\"../assets/img/11188-15h-11-2-B.png\" alt=\"\" loading=\"lazy\"><img src=\"../assets/img/11189-15h-11-2-C.png\" alt=\"\" loading=\"lazy\"><img src=\"../assets/img/11187-15h-11-2-A.png\" alt=\"\" loading=\"lazy\"><img src=\"../assets/img/11190-15h-11-2-D.png\" alt=\"\" loading=\"lazy\"></div>\n<p class=\"imgcap\">Phase 0 – planche intacte · Phase 1 – légère déformation · Phase 2 – la planche présente une fissure · Phase 3 – la fissure s’agrandit · Phase 4 – phase finale</p>\n<div class=\"table-wrap\"><table class=\"phase-table\"><caption>15h 11/II — présence des phases de la fissure dans les différentes dentelures</caption><tr><th>Dentelure</th><th>Phase 0<br><small>planche intacte</small></th><th>Phase 1<br><small>la planche n’est pas encore fissurée, mais présente une déformation</small></th><th>Phase 2<br><small>la planche présente la fissure</small></th><th>Phase 3<br><small>la fissure s’agrandit</small></th><th>Phase 4<br><small>phase finale de la fissure</small></th></tr><tr><td><strong>non dentelé</strong></td><td><span class=\"chk\">&#10003;</span></td><td><span class=\"chk\">&#10003;</span></td><td></td><td><span class=\"chk\">&#10003;</span></td><td><span class=\"chk\">&#10003;</span></td></tr><tr><td><strong>A</strong></td><td><span class=\"chk\">&#10003;</span></td><td><span class=\"chk\">&#10003;</span></td><td></td><td></td><td><span class=\"chk\">&#10003;</span></td></tr><tr><td><strong>B</strong></td><td></td><td></td><td></td><td></td><td><span class=\"chk\">&#10003;</span></td></tr><tr><td><strong>C</strong></td><td><span class=\"chk\">&#10003;</span></td><td><span class=\"chk\">&#10003;</span></td><td></td><td></td><td></td></tr><tr><td><strong>D</strong></td><td><span class=\"chk\">&#10003;</span></td><td><span class=\"chk\">&#10003;</span></td><td><span class=\"chk\">&#10003;</span></td><td></td><td></td></tr><tr><td><strong>E</strong></td><td><span class=\"chk\">&#10003;</span></td><td><span class=\"chk\">&#10003;</span></td><td></td><td></td><td></td></tr><tr><td><strong>F</strong></td><td><span class=\"chk\">&#10003;</span></td><td><span class=\"chk\">&#10003;</span></td><td><span class=\"chk\">&#10003;</span></td><td></td><td></td></tr></table></div>\n<p><strong>Complément :</strong> le collègue Jaroslav Michalík a publié sur le serveur infofila.cz un article intéressant\nsur ce sujet : <a href=\"https://www.infofila.cz/hradcany-praskle-tiskove-desky-r-2-c-5312\" target=\"_blank\" rel=\"noopener\">\ninfofila.cz – Hradčany : planches d’impression fissurées</a>.</p>\n<p class=\"author\"><em>Josef Matoušek (30 décembre 2014, complété le 24 juin 2017)</em></p>",
     "tag": "div"
   },
+  "62643ced37": {
+    "cs": "Dopisnice",
+    "de": "Postkarte",
+    "en": "Postcard",
+    "es": "Tarjeta postal",
+    "files": [
+      "15h/posta.html"
+    ],
+    "fr": "Carte postale",
+    "tag": "span"
+  },
   "62989040d3": {
     "cs": "4 (TD 5–8)",
     "de": "4 (Platten 5–8)",
@@ -7638,6 +7759,17 @@
     "files": [],
     "fr": "400h planche VI",
     "tag": "alt"
+  },
+  "64381f6fd3": {
+    "cs": "Sazby do ciziny ve III. a IV. tarifním období — úplné tabulky se zatím nepodařilo dohledat.",
+    "de": "Auslandsgebühren in der 3. und 4. Tarifperiode — vollständige Tabellen konnten bislang nicht ermittelt werden.",
+    "en": "Foreign rates in the 3rd and 4th tariff periods — complete tables have not yet been located.",
+    "es": "Las tarifas al extranjero en el 3.º y 4.º período tarifario — todavía no se han podido localizar tablas completas.",
+    "files": [
+      "15h/posta.html"
+    ],
+    "fr": "Les taxes vers l'étranger pour les 3e et 4e périodes tarifaires — des tableaux complets n'ont pas encore pu être trouvés.",
+    "tag": "span"
   },
   "6484084f9d": {
     "cs": "Galerie pozic — Hradčany 15h",
@@ -8170,6 +8302,17 @@
     "fr": "La seconde intervention concerne l’<strong>éventail situé à droite de la colombe de droite</strong>. Sur l’épreuve, les rayons de l’éventail sont plus longs et nettement séparés les uns des autres ; en production, le dessin de l’éventail est différent. Une partie de l’écart tient au papier et à l’usure, mais le contour de l’éventail diffère même là où l’empreinte de production reste lisible.",
     "tag": "span"
   },
+  "6b7fe31f8e": {
+    "cs": "Tiskopis (do 50 g)",
+    "de": "Drucksache (bis 50 g)",
+    "en": "Printed matter (up to 50 g)",
+    "es": "Impreso (hasta 50 g)",
+    "files": [
+      "15h/posta.html"
+    ],
+    "fr": "Imprimé (jusqu'à 50 g)",
+    "tag": "span"
+  },
   "6beb1e4554": {
     "cs": "Zde jsou přesně ty známky (referenční obrazy známkových polí), které jsou uvedeny na stránce",
     "de": "Hier sind genau jene Marken (Referenzbilder der Markenfelder), die aufgeführt sind auf der Seite",
@@ -8478,6 +8621,17 @@
       "15h/statistiky.html"
     ],
     "fr": "A 4",
+    "tag": "span"
+  },
+  "711ccdc2a2": {
+    "cs": "Spěšný příplatek IV. období uvádějí zdroje rozdílně — 60&nbsp;h (SCP), nebo 100&nbsp;h (RPSL, s platností od 15.&nbsp;10.&nbsp;1920). Toto datum ale odpovídá vydání známky v hodnotě 100&nbsp;h, nikoli nutně změně sazby, takže přesný okamžik zdražení zůstává otevřený.",
+    "de": "Die Quellen geben den Eilzuschlag der 4.&nbsp;Periode unterschiedlich an — 60&nbsp;h (SCP) oder 100&nbsp;h (RPSL, gültig ab dem 15.&nbsp;10.&nbsp;1920). Dieses Datum entspricht jedoch der Ausgabe der 100-Heller-Marke und nicht notwendigerweise einer Gebührenänderung, sodass der genaue Zeitpunkt der Erhöhung offen bleibt.",
+    "en": "Sources disagree on the express fee of the 4th period — 60&nbsp;h (SCP), or 100&nbsp;h (RPSL, effective from 15&nbsp;Oct&nbsp;1920). That date, however, matches the issue date of the 100&nbsp;h stamp rather than necessarily a change in the rate, so the exact moment of the increase remains open.",
+    "es": "Las fuentes indican de forma distinta el recargo urgente del 4.º período — 60&nbsp;h (SCP), o 100&nbsp;h (RPSL, vigente desde el 15&nbsp;10&nbsp;1920). Sin embargo, esa fecha coincide con la emisión del sello de 100&nbsp;h y no necesariamente con un cambio de tarifa, por lo que el momento exacto del aumento sigue sin aclararse.",
+    "files": [
+      "15h/posta.html"
+    ],
+    "fr": "Les sources indiquent différemment la surtaxe exprès de la 4e période — 60&nbsp;h (SCP) ou 100&nbsp;h (RPSL, en vigueur à partir du 15&nbsp;10&nbsp;1920). Cette date correspond toutefois à l'émission du timbre de 100&nbsp;h et non nécessairement à un changement de taxe, de sorte que le moment exact de l'augmentation reste incertain.",
     "tag": "span"
   },
   "712d65cda0": {
@@ -10640,6 +10794,17 @@
     "fr": "Voiles et taches sur les timbres de l’émission Hradčany",
     "tag": "span"
   },
+  "89b04aefd9": {
+    "cs": "mimo platnost Hradčan — jen pro srovnání",
+    "de": "außerhalb der Gültigkeit der Hradschin-Marken — nur zum Vergleich",
+    "en": "outside the Hradčany's validity — for comparison only",
+    "es": "fuera de la validez de los sellos de Hradčany — solo a efectos de comparación",
+    "files": [
+      "15h/posta.html"
+    ],
+    "fr": "hors de la validité des timbres du Hradschin — à titre de comparaison seulement",
+    "tag": "span"
+  },
   "89b36c6a23": {
     "cs": "Rekonstrukce VI. tiskové desky hodnoty 5h emise Hradčany.",
     "de": "Rekonstruktion der Druckplatte VI des Wertes 5h der Hradschin-Ausgabe.",
@@ -10648,6 +10813,17 @@
     "files": [],
     "fr": "Reconstitution de la planche VI du 5h de l’émission Hradčany.",
     "tag": "meta"
+  },
+  "89ef09c560": {
+    "cs": "<strong>IV. období</strong> — dopisnice 40&nbsp;h, dopis 60&nbsp;h, doporučený dopis 185&nbsp;h <span style=\"color:var(--muted)\">(pro tuto frankaturu vyšla i alegorie v hodnotě 185&nbsp;h)</span>, tiskopis 10&nbsp;h",
+    "de": "<strong>IV. Periode</strong> — Postkarte 40&nbsp;h, Brief 60&nbsp;h, Einschreibebrief 185&nbsp;h <span style=\"color:var(--muted)\">(für diese Frankatur erschien auch die Allegorie zu 185&nbsp;h)</span>, Drucksache 10&nbsp;h",
+    "en": "<strong>Period IV</strong> — postcard 40&nbsp;h, letter 60&nbsp;h, registered letter 185&nbsp;h <span style=\"color:var(--muted)\">(the 185&nbsp;h Allegory stamp was issued specifically for this franking)</span>, printed matter 10&nbsp;h",
+    "es": "<strong>Período IV</strong> — tarjeta postal 40&nbsp;h, carta 60&nbsp;h, carta certificada 185&nbsp;h <span style=\"color:var(--muted)\">(para este franqueo se emitió también la alegoría de 185&nbsp;h)</span>, impreso 10&nbsp;h",
+    "files": [
+      "15h/posta.html"
+    ],
+    "fr": "<strong>Période IV</strong> — carte postale 40&nbsp;h, lettre 60&nbsp;h, lettre recommandée 185&nbsp;h <span style=\"color:var(--muted)\">(l'allégorie à 185&nbsp;h a d'ailleurs été émise pour cet affranchissement)</span>, imprimé 10&nbsp;h",
+    "tag": "span"
   },
   "8a12d12587": {
     "cs": "barva se vytlačí do stran —",
@@ -10891,6 +11067,17 @@
     "fr": "violet brun",
     "tag": "span"
   },
+  "8c8153e0b7": {
+    "cs": "Dalších 20 g",
+    "de": "Weitere 20 g",
+    "en": "Extra 20 g",
+    "es": "20 g adicionales",
+    "files": [
+      "15h/posta.html"
+    ],
+    "fr": "20 g supplémentaires",
+    "tag": "span"
+  },
   "8c9f7587c5": {
     "cs": "Celkem 19 známkových polí. Najetím myší se náhled zaostří, kliknutím se ukázka otevře přes celou obrazovku.",
     "de": "Insgesamt 19 Markenfelder. Beim Überfahren mit der Maus schärft sich die Vorschau, mit einem Klick öffnet sich das Beispiel im Vollbild.",
@@ -11083,6 +11270,17 @@
     ],
     "fr": "Planches d’impression — Hradčany 15h",
     "tag": "attr"
+  },
+  "8ecf68a103": {
+    "cs": "<strong>II. období</strong> — dopisnice 15&nbsp;h, dopis 25&nbsp;h, dvojitá dopisnice 30&nbsp;h, doporučený dopis 75&nbsp;h",
+    "de": "<strong>II. Periode</strong> — Postkarte 15&nbsp;h, Brief 25&nbsp;h, Doppelpostkarte 30&nbsp;h, Einschreibebrief 75&nbsp;h",
+    "en": "<strong>Period II</strong> — postcard 15&nbsp;h, letter 25&nbsp;h, double postcard 30&nbsp;h, registered letter 75&nbsp;h",
+    "es": "<strong>Período II</strong> — tarjeta postal 15&nbsp;h, carta 25&nbsp;h, tarjeta postal doble 30&nbsp;h, carta certificada 75&nbsp;h",
+    "files": [
+      "15h/posta.html"
+    ],
+    "fr": "<strong>Période II</strong> — carte postale 15&nbsp;h, lettre 25&nbsp;h, carte postale double 30&nbsp;h, lettre recommandée 75&nbsp;h",
+    "tag": "span"
   },
   "8ee11890f8": {
     "cs": "30h žlutá / žlutoolivová",
@@ -11880,6 +12078,17 @@
     "fr": "Messages",
     "tag": "ui"
   },
+  "9845b2ecd1": {
+    "cs": "Zdražení oproti předchozím sazbám činilo v průměru 20–50&nbsp;%, u sazeb neměněných po celou válku i 100&nbsp;%.",
+    "de": "Die Erhöhung gegenüber den vorherigen Gebühren betrug im Durchschnitt 20–50&nbsp;%, bei während des gesamten Krieges unveränderten Gebühren sogar 100&nbsp;%.",
+    "en": "The increase over the previous rates averaged 20–50&nbsp;%, and reached 100&nbsp;% for rates left unchanged throughout the war.",
+    "es": "El aumento respecto a las tarifas anteriores fue, de media, del 20–50&nbsp;%, y llegó al 100&nbsp;% en las tarifas que no habían cambiado durante toda la guerra.",
+    "files": [
+      "15h/posta.html"
+    ],
+    "fr": "La hausse par rapport aux taxes précédentes s'élevait en moyenne à 20–50&nbsp;%, et jusqu'à 100&nbsp;% pour les taxes restées inchangées pendant toute la guerre.",
+    "tag": "span"
+  },
   "985cba5b27": {
     "cs": "Typy páté kresby na 15h",
     "de": "Typen der fünften Zeichnung auf der 15h",
@@ -12469,6 +12678,17 @@
     "fr": "Code",
     "tag": "span"
   },
+  "9d68d6a5f5": {
+    "cs": "Dobový zdroj (Hospodářský list, 1919) uvádí i sazby pro další druhy zásilek platné ve II. tarifním období:",
+    "de": "Eine zeitgenössische Quelle (Hospodářský list, 1919) nennt auch Gebühren für weitere Sendungsarten, die in der 2.&nbsp;Tarifperiode galten:",
+    "en": "A contemporary source (Hospodářský list, 1919) also records rates for other kinds of mail valid in the 2nd tariff period:",
+    "es": "Una fuente de la época (Hospodářský list, 1919) también recoge tarifas para otros tipos de envíos vigentes en el 2.º período tarifario:",
+    "files": [
+      "15h/posta.html"
+    ],
+    "fr": "Une source de l'époque (Hospodářský list, 1919) mentionne aussi des taxes pour d'autres types d'envois en vigueur pendant la 2e période tarifaire :",
+    "tag": "span"
+  },
   "9d8b6b7513": {
     "cs": "ZP 68/I — černý zkušební tisk, definitivní stav kresby",
     "de": "Feld 68/I — ein schwarzer Probedruck, der endgültige Zustand der Zeichnung",
@@ -12949,6 +13169,17 @@
       "15h/statistiky.html"
     ],
     "fr": "C — 13¾ ligne",
+    "tag": "span"
+  },
+  "a3b311d4d6": {
+    "cs": "Tarify a poštovní sazby",
+    "de": "Tarife und Postgebühren",
+    "en": "Tariffs and postal rates",
+    "es": "Tarifas y tasas postales",
+    "files": [
+      "15h/posta.html"
+    ],
+    "fr": "Tarifs et taxes postales",
     "tag": "span"
   },
   "a3bbb71f04": {
@@ -13542,6 +13773,17 @@
     "fr": "Carte interactive des lieux d’usage postal des timbres 15h : bureaux de poste attestés sur les dentelures plus rares des planches d’impression 1–2 (<strong style=\"color:#2471a3\">B 11¾ bleu</strong>, <strong style=\"color:#d68910\">C 13¾ orange</strong>, <strong style=\"color:#8e44ad\">E 11½:10¾ violet</strong> ; source : le relevé du classeur Hradcany_15h GENERAL), les dentelures rares <strong style=\"color:#d63384\">G 11½:13¾ (rose)</strong> — Praha 1 — et <strong style=\"color:#8d6e63\">H 13¾:10¾ (brun)</strong> — Hradec Králové et Turnov, les oblitérations lisibles des planches <strong style=\"color:#c0392b\">3 (rouge)</strong> et <strong style=\"color:#00838f\">4 (bleu pétrole)</strong> issues du relevé des oblitérations sur timbres usagés, les lieux d’usage des timbres de la rare planche <strong style=\"color:#1e8449\">7 (vert)</strong> et les témoignages uniques des <strong style=\"color:#333\">planches 5 et 6 non dentelées (noir)</strong> utilisées postalement — Košice, Rimavská Sobota, Štitáre, Plešivec, Lučenec, Brezovka et Malý Lipník (12 exemplaires). Secteurs multicolores = plusieurs groupes provenant du même lieu, le nombre indique la quantité d’exemplaires. Un clic sur un marqueur affiche le détail, dates des oblitérations comprises ; les lignes en pointillé signalent les postes ambulantes. Les couches se règlent dans le coin supérieur droit de la carte. Seul lieu non localisé : Schenkenhahn.",
     "tag": "span"
   },
+  "aa9c894efe": {
+    "cs": "Doporučeně",
+    "de": "Einschreiben",
+    "en": "Registered",
+    "es": "Certificado",
+    "files": [
+      "15h/posta.html"
+    ],
+    "fr": "Recommandé",
+    "tag": "span"
+  },
   "aaac235458": {
     "cs": "datovaných razítek",
     "de": "datierte Stempel",
@@ -13608,6 +13850,17 @@
       "15h/zoubkovani.html"
     ],
     "fr": "Le nombre de dents est le même sur tous les timbres de la rangée et la dimension est constante.",
+    "tag": "span"
+  },
+  "ab7aceeb93": {
+    "cs": "Dopis do 20 g",
+    "de": "Brief bis 20 g",
+    "en": "Letter up to 20 g",
+    "es": "Carta hasta 20 g",
+    "files": [
+      "15h/posta.html"
+    ],
+    "fr": "Lettre jusqu'à 20 g",
     "tag": "span"
   },
   "ab8e45bc14": {
@@ -13959,7 +14212,8 @@
     "en": "Period",
     "es": "Período",
     "files": [
-      "15h/zkusebni-tisky.html"
+      "15h/zkusebni-tisky.html",
+      "15h/posta.html"
     ],
     "fr": "Période",
     "tag": "span"
@@ -14997,6 +15251,17 @@
       "ke-stazeni.html"
     ],
     "fr": "Grille pour la reconstitution d’une planche",
+    "tag": "span"
+  },
+  "bbf16ef808": {
+    "cs": "Sazby do zahraničí",
+    "de": "Auslandsgebühren",
+    "en": "Foreign rates",
+    "es": "Tarifas al extranjero",
+    "files": [
+      "15h/posta.html"
+    ],
+    "fr": "Taxes pour l'étranger",
     "tag": "span"
   },
   "bbf7b9d0e6": {
@@ -16190,6 +16455,17 @@
     "fr": "Étendue du matériel",
     "tag": "span"
   },
+  "c983ecf8c4": {
+    "cs": "<strong>I. období</strong> — dopis do 20&nbsp;g 25&nbsp;h, každých dalších 20&nbsp;g 5&nbsp;h, doporučeně +25&nbsp;h <span style=\"color:var(--muted)\">(jiný pramen uvádí +50&nbsp;h — mezi zdroji je v tomto bodě rozpor)</span>",
+    "de": "<strong>I. Periode</strong> — Brief bis 20&nbsp;g 25&nbsp;h, je weitere 20&nbsp;g 5&nbsp;h, Einschreiben +25&nbsp;h <span style=\"color:var(--muted)\">(eine andere Quelle nennt +50&nbsp;h — die Quellen widersprechen sich in diesem Punkt)</span>",
+    "en": "<strong>Period I</strong> — letter up to 20&nbsp;g 25&nbsp;h, each further 20&nbsp;g 5&nbsp;h, registration +25&nbsp;h <span style=\"color:var(--muted)\">(another source gives +50&nbsp;h — the sources disagree on this point)</span>",
+    "es": "<strong>Período I</strong> — carta hasta 20&nbsp;g 25&nbsp;h, cada 20&nbsp;g adicionales 5&nbsp;h, certificado +25&nbsp;h <span style=\"color:var(--muted)\">(otra fuente indica +50&nbsp;h — las fuentes se contradicen en este punto)</span>",
+    "files": [
+      "15h/posta.html"
+    ],
+    "fr": "<strong>Période I</strong> — lettre jusqu'à 20&nbsp;g 25&nbsp;h, chaque 20&nbsp;g supplémentaire 5&nbsp;h, recommandation +25&nbsp;h <span style=\"color:var(--muted)\">(une autre source indique +50&nbsp;h — les sources se contredisent sur ce point)</span>",
+    "tag": "span"
+  },
   "c9949ea884": {
     "cs": "Kus 14 — V levé části siluety Hradčan.",
     "de": "Stück 14 — Im linken Teil der Hradschin-Silhouette.",
@@ -16285,6 +16561,17 @@
       "15h/vyrobni-vady.html"
     ],
     "fr": "Cadre endommagé — 60/VI",
+    "tag": "span"
+  },
+  "cadbc24f79": {
+    "cs": "Platnost",
+    "de": "Gültigkeit",
+    "en": "Validity",
+    "es": "Validez",
+    "files": [
+      "15h/posta.html"
+    ],
+    "fr": "Validité",
     "tag": "span"
   },
   "caf4397383": {
@@ -16825,6 +17112,17 @@
       "15h/typy.html"
     ],
     "fr": "Types à barre (archives personnelles)",
+    "tag": "span"
+  },
+  "d34f4b45f3": {
+    "cs": "<strong>III. a IV. období</strong> — sazby do ciziny se nepodařilo z dostupných zdrojů spolehlivě dohledat. RPSL uvádí pro roky 1920–21 zlevněnou sazbu 100&nbsp;h do některých sousedních států a sazbu 25&nbsp;h za tiskopis do ciziny.",
+    "de": "<strong>III. und IV. Periode</strong> — die Auslandsgebühren ließen sich aus den verfügbaren Quellen nicht zuverlässig ermitteln. RPSL nennt für die Jahre 1920–21 eine ermäßigte Gebühr von 100&nbsp;h in einige Nachbarstaaten sowie eine Gebühr von 25&nbsp;h für Drucksachen ins Ausland.",
+    "en": "<strong>Periods III and IV</strong> — the foreign rates could not be reliably established from the sources at hand. RPSL records a reduced rate of 100&nbsp;h to some neighbouring states for 1920–21, and a rate of 25&nbsp;h for printed matter sent abroad.",
+    "es": "<strong>Períodos III y IV</strong> — no se ha podido establecer con fiabilidad, a partir de las fuentes disponibles, las tarifas al extranjero. El RPSL indica para 1920–21 una tarifa reducida de 100&nbsp;h a algunos países vecinos y una tarifa de 25&nbsp;h para impresos al extranjero.",
+    "files": [
+      "15h/posta.html"
+    ],
+    "fr": "<strong>Périodes III et IV</strong> — les taxes vers l'étranger n'ont pas pu être établies de façon fiable à partir des sources disponibles. Le RPSL indique pour 1920–21 un tarif réduit de 100&nbsp;h vers certains États voisins et un tarif de 25&nbsp;h pour les imprimés à destination de l'étranger.",
     "tag": "span"
   },
   "d35b9a90ab": {
@@ -17927,6 +18225,17 @@
     "fr": "Composée et mixte — en quoi elles diffèrent",
     "tag": "span"
   },
+  "dec3ca9a5e": {
+    "cs": "obchodní papíry — 5&nbsp;h za každých 50&nbsp;g, nejméně 25&nbsp;h",
+    "de": "Geschäftspapiere — 5&nbsp;h je 50&nbsp;g, mindestens 25&nbsp;h",
+    "en": "commercial papers — 5&nbsp;h per 50&nbsp;g, minimum 25&nbsp;h",
+    "es": "papeles de negocios — 5&nbsp;h por cada 50&nbsp;g, mínimo 25&nbsp;h",
+    "files": [
+      "15h/posta.html"
+    ],
+    "fr": "papiers d'affaires — 5&nbsp;h par 50&nbsp;g, minimum 25&nbsp;h",
+    "tag": "span"
+  },
   "dec5949cab": {
     "cs": "Kus 8 — Vodorovná vráska přes horní část kresby, souběžná s rámečkem.",
     "de": "Stück 8 — Waagerechte Falte über den oberen Teil der Zeichnung, parallel zum Rahmen.",
@@ -17975,6 +18284,17 @@
     "files": [],
     "fr": "20h planche IV",
     "tag": "alt"
+  },
+  "df8e32f2f8": {
+    "cs": "ukázky zboží — 5&nbsp;h za každých 50&nbsp;g, nejméně 15&nbsp;h",
+    "de": "Warenproben — 5&nbsp;h je 50&nbsp;g, mindestens 15&nbsp;h",
+    "en": "samples of merchandise — 5&nbsp;h per 50&nbsp;g, minimum 15&nbsp;h",
+    "es": "muestras de mercancías — 5&nbsp;h por cada 50&nbsp;g, mínimo 15&nbsp;h",
+    "files": [
+      "15h/posta.html"
+    ],
+    "fr": "échantillons de marchandises — 5&nbsp;h par 50&nbsp;g, minimum 15&nbsp;h",
+    "tag": "span"
   },
   "dff2e776ae": {
     "cs": "Z 6 480 čitelně datovaných razítek. Pořadí ukazuje, jak výroba postupovala od řádkových zoubkování D/E/F na raných deskách k hřebenovým A/B na deskách pozdějších.",
@@ -18139,6 +18459,17 @@
       "15h/statistiky.html"
     ],
     "fr": "H 1–2",
+    "tag": "span"
+  },
+  "e342fbb280": {
+    "cs": "Konec poštovní platnosti Hradčan — žádný z dostupných zdrojů přesné datum neuvádí. Tradičně se uvádí konec roku 1921, ale je třeba to ověřit v Pofisu nebo v Monografii čs. známek.",
+    "de": "Das Ende der postalischen Gültigkeit der Hradschin-Marken — keine der verfügbaren Quellen nennt ein genaues Datum. Traditionell wird das Ende des Jahres 1921 angegeben, dies muss aber im POFIS oder in der Monographie der tschechoslowakischen Briefmarken überprüft werden.",
+    "en": "The end of the Hradčany's postal validity — none of the sources at hand gives an exact date. The end of 1921 is traditionally cited, but this needs verification against POFIS or the Monograph of Czechoslovak Stamps.",
+    "es": "El fin de la validez postal de los sellos de Hradčany — ninguna de las fuentes disponibles da una fecha exacta. Tradicionalmente se cita el final de 1921, pero esto debe verificarse en POFIS o en la Monografía de los sellos checoslovacos.",
+    "files": [
+      "15h/posta.html"
+    ],
+    "fr": "La fin de la validité postale des timbres du Hradschin — aucune des sources disponibles n'indique de date exacte. La fin de l'année 1921 est traditionnellement citée, mais cela reste à vérifier dans le POFIS ou la Monographie des timbres tchécoslovaques.",
     "tag": "span"
   },
   "e39b925858": {
@@ -18720,6 +19051,17 @@
     "fr": "Histoire de l’émission",
     "tag": "span"
   },
+  "ea1758cc75": {
+    "cs": "Zvláštní tuzemské sazby (II. období)",
+    "de": "Besondere Inlandsgebühren (II.&nbsp;Periode)",
+    "en": "Special domestic rates (period II)",
+    "es": "Tarifas interiores especiales (período II)",
+    "files": [
+      "15h/posta.html"
+    ],
+    "fr": "Taxes intérieures particulières (période II)",
+    "tag": "span"
+  },
   "ea32cc9fcb": {
     "cs": "25h / I. TD",
     "de": "25h / Platte I",
@@ -18935,6 +19277,17 @@
     ],
     "fr": "3,5&nbsp;%",
     "tag": "num"
+  },
+  "ec97d3d7e7": {
+    "cs": "<strong>I. období</strong> — dopisnice 10&nbsp;h, dopis 20&nbsp;h, doporučený dopis 45&nbsp;h <span style=\"color:var(--muted)\">(např. 3×10&nbsp;h + 3×5&nbsp;h na R-dopisu z 19.&nbsp;12.&nbsp;1918)</span>",
+    "de": "<strong>I. Periode</strong> — Postkarte 10&nbsp;h, Brief 20&nbsp;h, Einschreibebrief 45&nbsp;h <span style=\"color:var(--muted)\">(z.&nbsp;B. 3×10&nbsp;h + 3×5&nbsp;h auf einem Einschreibebrief vom 19.&nbsp;12.&nbsp;1918)</span>",
+    "en": "<strong>Period I</strong> — postcard 10&nbsp;h, letter 20&nbsp;h, registered letter 45&nbsp;h <span style=\"color:var(--muted)\">(e.g. 3×10&nbsp;h + 3×5&nbsp;h on a registered letter of 19&nbsp;Dec&nbsp;1918)</span>",
+    "es": "<strong>Período I</strong> — tarjeta postal 10&nbsp;h, carta 20&nbsp;h, carta certificada 45&nbsp;h <span style=\"color:var(--muted)\">(p.&nbsp;ej. 3×10&nbsp;h + 3×5&nbsp;h en una carta certificada del 19&nbsp;12&nbsp;1918)</span>",
+    "files": [
+      "15h/posta.html"
+    ],
+    "fr": "<strong>Période I</strong> — carte postale 10&nbsp;h, lettre 20&nbsp;h, lettre recommandée 45&nbsp;h <span style=\"color:var(--muted)\">(p.&nbsp;ex. 3×10&nbsp;h + 3×5&nbsp;h sur une lettre recommandée du 19&nbsp;12&nbsp;1918)</span>",
+    "tag": "span"
   },
   "ecddb0da41": {
     "cs": "7 — cihlově červená / brick red",
@@ -19425,6 +19778,17 @@
     "fr": "La pièce est déterminée comme la <strong>position 100 de la troisième planche d’impression</strong> — le coin inférieur droit de la feuille, donc la dernière rangée. Le côté inférieur y a été perforé par <strong>deux rangées de trous distinctes</strong> superposées, décalées l’une par rapport à l’autre de moins d’un pas, de sorte qu’elles ne se sont pas mêlées et sont côte à côte comme deux parallèles. Le timbre a été séparé le long de la rangée <strong>inférieure</strong> — celle-ci présente le profil denté habituel — tandis que la <strong>rangée supérieure est restée entière</strong> : elle repose intacte dans la marge comme une suite continue de trous ronds, parce que rien n’a été déchiré le long d’elle. C’est là ce que la pièce a de plus précieux. Une rangée de trous intacte à l’intérieur de la marge ne peut résulter que d’un second passage de l’outil ; le défaut se prouve donc de lui-même — à la différence des dents déchiquetées, que l’on peut confondre avec une séparation faite sans ménagement.",
     "tag": "span"
   },
+  "f296add84c": {
+    "cs": "Otevřené otázky",
+    "de": "Offene Fragen",
+    "en": "Open questions",
+    "es": "Cuestiones abiertas",
+    "files": [
+      "15h/posta.html"
+    ],
+    "fr": "Questions ouvertes",
+    "tag": "span"
+  },
   "f2bdfe01af": {
     "cs": "Podrobný statistický rozbor hodnoty 15h vychází z vlastní evidence: <strong>21 329 určených známek</strong>, z toho <strong>6 474 s čitelně datovaným razítkem</strong> (stav 29. 8. 2026). Zdrojem jsou listy „Stats 15h“ a „Usage Stats 15h“ evidenčního sešitu.",
     "de": "Die ausführliche statistische Auswertung des Wertes 15h beruht auf der eigenen Erfassung: <strong>21 329 bestimmte Marken</strong>, davon <strong>6 474 mit lesbar datiertem Stempel</strong> (Stand 29. 8. 2026). Quelle sind die Blätter „Stats 15h“ und „Usage Stats 15h“ der Erfassungsmappe.",
@@ -19724,6 +20088,28 @@
     ],
     "fr": "5h — planche d’impression VI — Collectionner les Hradčany",
     "tag": "attr"
+  },
+  "f6d794ec98": {
+    "cs": "od",
+    "de": "ab",
+    "en": "from",
+    "es": "desde",
+    "files": [
+      "15h/posta.html"
+    ],
+    "fr": "à partir de",
+    "tag": "span"
+  },
+  "f6dee5fdd1": {
+    "cs": "<strong>Zdroje:</strong> SCP – Collecting Czechoslovakia: The Transition Period · RPSL – Czechoslovakia, The Allegory Issues 1920–1926 · Hospodářský list (1919), cit. dle Bejvávalo.cz · Philaseiten – Tschechoslowakei: Belege bestimmen · Burda Aukce 71 – Hradčany celistvosti · CPSGB – rejstřík článků Czechout · Kunc, Poštovnictví na území německo-rakouských provincií (NA ČR) · Infofila – Československá pošta 1918–1919 · World Stamps Project. Podrobnější tabulky by měly obsahovat i články v Czechout: Feldmann, Changeover dates of postal rates (12/1989); Hutyra, Schedule of postal rates (3/1995); Švejnar, Valuable items … in six tariff periods (9/2005).",
+    "de": "<strong>Quellen:</strong> SCP – Collecting Czechoslovakia: The Transition Period · RPSL – Czechoslovakia, The Allegory Issues 1920–1926 · Hospodářský list (1919), zit. nach Bejvávalo.cz · Philaseiten – Tschechoslowakei: Belege bestimmen · Burda Auktion 71 – Hradschin-Belege · CPSGB – Czechout-Artikelverzeichnis · Kunc, Poštovnictví na území německo-rakouských provincií (Tschechisches Nationalarchiv) · Infofila – Tschechoslowakische Post 1918–1919 · World Stamps Project. Ausführlichere Tabellen dürften auch in Czechout zu finden sein: Feldmann, Changeover dates of postal rates (12/1989); Hutyra, Schedule of postal rates (3/1995); Švejnar, Valuable items … in six tariff periods (9/2005).",
+    "en": "<strong>Sources:</strong> SCP – Collecting Czechoslovakia: The Transition Period · RPSL – Czechoslovakia, The Allegory Issues 1920–1926 · Hospodářský list (1919), cited via Bejvávalo.cz · Philaseiten – Tschechoslowakei: Belege bestimmen · Burda Auction 71 – Hradčany covers · CPSGB – Czechout article index · Kunc, Poštovnictví na území německo-rakouských provincií (Czech National Archive) · Infofila – Czechoslovak post 1918–1919 · World Stamps Project. Fuller tables should also be found in Czechout: Feldmann, Changeover dates of postal rates (12/1989); Hutyra, Schedule of postal rates (3/1995); Švejnar, Valuable items … in six tariff periods (9/2005).",
+    "es": "<strong>Fuentes:</strong> SCP – Collecting Czechoslovakia: The Transition Period · RPSL – Czechoslovakia, The Allegory Issues 1920–1926 · Hospodářský list (1919), citado según Bejvávalo.cz · Philaseiten – Tschechoslowakei: Belege bestimmen · Burda, subasta 71 – cartas de Hradčany · CPSGB – índice de artículos de Czechout · Kunc, Poštovnictví na území německo-rakouských provincií (Archivo Nacional checo) · Infofila – Correo checoslovaco 1918–1919 · World Stamps Project. En Czechout deberían encontrarse también tablas más completas: Feldmann, Changeover dates of postal rates (12/1989); Hutyra, Schedule of postal rates (3/1995); Švejnar, Valuable items … in six tariff periods (9/2005).",
+    "files": [
+      "15h/posta.html"
+    ],
+    "fr": "<strong>Sources :</strong> SCP – Collecting Czechoslovakia: The Transition Period · RPSL – Czechoslovakia, The Allegory Issues 1920–1926 · Hospodářský list (1919), cité d'après Bejvávalo.cz · Philaseiten – Tschechoslowakei: Belege bestimmen · Burda, vente 71 – lettres du Hradschin · CPSGB – index des articles de Czechout · Kunc, Poštovnictví na území německo-rakouských provincií (Archives nationales tchèques) · Infofila – Poste tchécoslovaque 1918–1919 · World Stamps Project. Des tableaux plus complets devraient également se trouver dans Czechout : Feldmann, Changeover dates of postal rates (12/1989) ; Hutyra, Schedule of postal rates (3/1995) ; Švejnar, Valuable items … in six tariff periods (9/2005).",
+    "tag": "span"
   },
   "f6f213a961": {
     "cs": "Typy páté kresby",
@@ -20232,6 +20618,17 @@
       "15h/zkusebni-tisky.html"
     ],
     "fr": "l’impression est nette sur toute la surface — la planche n’était pas encore usée",
+    "tag": "span"
+  },
+  "fd4febe6c0": {
+    "cs": "Spěšně",
+    "de": "Express",
+    "en": "Express",
+    "es": "Urgente",
+    "files": [
+      "15h/posta.html"
+    ],
+    "fr": "Exprès",
     "tag": "span"
   },
   "fd739ef89b": {
