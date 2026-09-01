@@ -1043,7 +1043,7 @@
     "en": "<strong>Period III</strong> — postcard 20&nbsp;h, letter 30&nbsp;h, registered letter 80&nbsp;h",
     "es": "<strong>Período III</strong> — tarjeta postal 20&nbsp;h, carta 30&nbsp;h, carta certificada 80&nbsp;h",
     "files": [
-      "15h/posta.html"
+      "posta.html"
     ],
     "fr": "<strong>Période III</strong> — carte postale 20&nbsp;h, lettre 30&nbsp;h, lettre recommandée 80&nbsp;h",
     "tag": "span"
@@ -1190,6 +1190,17 @@
     "files": [],
     "fr": "Pièce 1 — Paire horizontale non dentelée. Le pli court sur les deux timbres à la même hauteur et se poursuit par-dessus l’intervalle qui les sépare — il s’est donc formé dans la feuille, avant que les timbres ne soient séparés.",
     "tag": "cap"
+  },
+  "106fa4d64c": {
+    "cs": "Frankatura s razítkem Župní slet sokolský ve Znojmě, 24.&nbsp;VIII.&nbsp;1919",
+    "de": "Die Frankatur mit dem Stempel des Sokol-Bezirkstreffens in Znaim, 24.&nbsp;August&nbsp;1919",
+    "en": "The franking with the Sokol regional rally, Znojmo cancel, 24&nbsp;Aug&nbsp;1919",
+    "es": "El franqueo con el matasellos de la concentración regional del Sokol en Znojmo, 24&nbsp;de agosto&nbsp;de 1919",
+    "files": [
+      "15h/posta.html"
+    ],
+    "fr": "L'affranchissement avec l'oblitération du rassemblement régional du Sokol à Znojmo, le 24&nbsp;août&nbsp;1919",
+    "tag": "span"
   },
   "10cc64a964": {
     "cs": "Sekce poroste. Každý další zkusmý tisk dostane vlastní oddíl se stejnou stavbou: popis kusu, srovnání s odpovídajícím produkčním známkovým polem a rozbor toho, co se mezi oběma otisky s deskou stalo.",
@@ -2045,6 +2056,17 @@
     "fr": "A — 13¾:13½ peigne",
     "tag": "span"
   },
+  "1eb86f88f6": {
+    "cs": "Poštovní provoz — Sbírám Hradčany",
+    "de": "Postalische Verwendung — Sbírám Hradčany",
+    "en": "Postal use — Collecting Hradčany",
+    "es": "Uso postal — Sbírám Hradčany",
+    "files": [
+      "posta.html"
+    ],
+    "fr": "Usage postal — Sbírám Hradčany",
+    "tag": "span"
+  },
   "1f04922c15": {
     "cs": "Podrobný statistický rozbor hodnoty 15h vychází z vlastní evidence: <strong>21 341 určených známek</strong>, z toho <strong>6 480 s čitelně datovaným razítkem</strong> (stav 30. 8. 2026). Zdrojem jsou listy „Stats 15h“ a „Usage Stats 15h“ evidenčního sešitu.",
     "de": "Die detaillierte statistische Auswertung des Wertes 15h beruht auf meiner eigenen Erfassung: <strong>21.341 bestimmte Marken</strong>, davon <strong>6.480 mit lesbar datiertem Stempel</strong> (Stand 30. August 2026). Die Quellen sind die Blätter „Stats 15h“ und „Usage Stats 15h“ der Erfassungsmappe.",
@@ -2590,6 +2612,17 @@
     "fr": "B (planches 1–2)",
     "tag": "span"
   },
+  "257ab6bc0e": {
+    "cs": "Hodnota vyšla 7.&nbsp;června 1919 — necelý měsíc po tarifní změně z 15.&nbsp;května 1919, kterou začalo II.&nbsp;tarifní období a která zvýšila sazbu za tuzemskou dopisnici právě na 15&nbsp;h. Nová známka tak mohla od počátku sloužit k jednoznámkové úhradě nejběžnější zásilky. Vytištěna byla ve třech základních deskách (TD 1, 2 a 7 — cihlově červená a její odstíny), později přibyly desky 3–6 pro odstíny karmínová a rumělková; náklad přesáhl 112,5&nbsp;milionu kusů, což z ní činí jednu z nejrozšířenějších hodnot celé emise. Obecný přehled tarifů a poštovních sazeb platných po dobu oběhu Hradčan najdete na <a href=\"../posta.html#tarify\">stránce emise</a>; zde na webu hodnoty 15h sledujeme její konkrétní poštovní použití — vlakové pošty, seznamy pošt a příležitostná razítka.",
+    "de": "Der Wert erschien am 7.&nbsp;Juni 1919 — keinen Monat nach der Tarifänderung vom 15.&nbsp;Mai 1919, mit der die 2.&nbsp;Tarifperiode begann und die Inlands-Postkartengebühr auf genau 15&nbsp;h angehoben wurde. Die neue Marke konnte damit von Anfang an die häufigste Sendungsart, die Postkarte, mit einer einzigen Marke frankieren. Gedruckt wurde sie von drei ursprünglichen Platten (Platten 1, 2 und 7 — ziegelrot und ihre Farbtöne), später kamen die Platten 3–6 für die Farbtöne Karmin und Zinnober hinzu; die Auflage überstieg 112,5&nbsp;Millionen Stück, was sie zu einem der meistverwendeten Werte der ganzen Ausgabe macht. Einen allgemeinen Überblick über die Tarife und Postgebühren, die während des Umlaufs der Hradschin-Marken galten, finden Sie auf der <a href=\"../posta.html#tarify\">Seite der Ausgabe</a>; diese Seite zum Wert 15&nbsp;h verfolgt seine konkrete postalische Verwendung — Bahnpostämter, Postamtslisten und Sonderstempel.",
+    "en": "The value was issued on 7&nbsp;June 1919 — less than a month after the tariff change of 15&nbsp;May 1919 that opened the 2nd tariff period and raised the domestic postcard rate to exactly 15&nbsp;h. The new stamp could thus cover the most common item of mail, the postcard, with a single stamp from the outset. It was printed from three original plates (plates 1, 2 and 7 — brick red and its shades), later joined by plates 3–6 for the carmine and vermilion shades; the print run exceeded 112.5&nbsp;million copies, making it one of the most widely used values of the whole issue. A general overview of the tariffs and postal rates in force while the Hradčany stamps were current can be found on the <a href=\"../posta.html#tarify\">issue-wide page</a>; this 15h site follows its specific postal use — railway post offices, post-office lists and commemorative postmarks.",
+    "es": "El valor se emitió el 7&nbsp;de junio de 1919 — menos de un mes después del cambio tarifario del 15&nbsp;de mayo de 1919, que abrió el 2.º período tarifario y elevó la tasa de la tarjeta postal interior a exactamente 15&nbsp;h. El nuevo sello pudo así, desde el principio, franquear por sí solo el envío más habitual, la tarjeta postal. Se imprimió a partir de tres planchas originales (planchas 1, 2 y 7 — rojo ladrillo y sus matices), a las que más tarde se sumaron las planchas 3 a 6 para los matices carmín y bermellón; la tirada superó los 112,5&nbsp;millones de ejemplares, lo que lo convierte en uno de los valores más utilizados de toda la emisión. Un panorama general de las tarifas y tasas postales vigentes mientras circularon los sellos de Hradčany se encuentra en la <a href=\"../posta.html#tarify\">página de la emisión</a>; este sitio del valor de 15&nbsp;h sigue su uso postal concreto — oficinas postales ferroviarias, listas de oficinas y matasellos conmemorativos.",
+    "files": [
+      "15h/posta.html"
+    ],
+    "fr": "La valeur a paru le 7&nbsp;juin 1919 — moins d'un mois après le changement tarifaire du 15&nbsp;mai 1919, qui a ouvert la 2e période tarifaire et porté la taxe pour une carte postale intérieure à exactement 15&nbsp;h. Le nouveau timbre pouvait ainsi, dès le départ, affranchir à lui seul l'envoi le plus courant, la carte postale. Il fut imprimé à partir de trois planches d'origine (planches 1, 2 et 7 — rouge brique et ses nuances), rejointes plus tard par les planches 3 à 6 pour les nuances carmin et vermillon ; le tirage a dépassé 112,5&nbsp;millions d'exemplaires, ce qui en fait l'une des valeurs les plus utilisées de toute l'émission. Un aperçu général des tarifs et taxes postales en vigueur pendant la circulation des timbres du Hradschin se trouve sur la <a href=\"../posta.html#tarify\">page de l'émission</a> ; ce site consacré à la valeur de 15&nbsp;h suit son usage postal spécifique — bureaux ambulants, listes de bureaux de poste et oblitérations commémoratives.",
+    "tag": "span"
+  },
   "25e4487530": {
     "cs": "Odborné filatelistické časopisy",
     "de": "Philatelistische Fachzeitschriften",
@@ -2957,7 +2990,7 @@
     "en": "A local rate — none of the sources used mentions one for Czechoslovakia in 1918–1921; the Austrian practice appears to have been dropped.",
     "es": "Una tarifa local — ninguna de las fuentes utilizadas la menciona para Checoslovaquia en los años 1918–1921; parece que se abandonó la práctica austríaca.",
     "files": [
-      "15h/posta.html"
+      "posta.html"
     ],
     "fr": "Une taxe locale — aucune des sources utilisées ne la mentionne pour la Tchécoslovaquie des années 1918–1921 ; il semble que la pratique autrichienne ait été abandonnée.",
     "tag": "span"
@@ -3928,7 +3961,7 @@
     "en": "<strong>From 1&nbsp;Jan&nbsp;1922</strong> (period V, outside the Hradčany's validity) — letter 250&nbsp;h, postcard 50&nbsp;h, registration +250&nbsp;h.",
     "es": "<strong>desde el 1&nbsp;de enero de&nbsp;1922</strong> (período V, fuera de la validez de los sellos de Hradčany) — carta 250&nbsp;h, tarjeta postal 50&nbsp;h, certificado +250&nbsp;h.",
     "files": [
-      "15h/posta.html"
+      "posta.html"
     ],
     "fr": "<strong>à partir du 1er&nbsp;janvier&nbsp;1922</strong> (période V, hors validité des timbres du Hradschin) — lettre 250&nbsp;h, carte postale 50&nbsp;h, recommandation +250&nbsp;h.",
     "tag": "span"
@@ -4220,7 +4253,7 @@
     "en": "inherited Austrian rates",
     "es": "tarifas austríacas heredadas",
     "files": [
-      "15h/posta.html"
+      "posta.html"
     ],
     "fr": "taxes autrichiennes reprises",
     "tag": "span"
@@ -4380,6 +4413,17 @@
     "fr": "20h planche II",
     "tag": "alt"
   },
+  "3b682fdb7c": {
+    "cs": "Přehled tarifů a poštovních sazeb platných pro emisi Hradčany.",
+    "de": "Überblick über die Tarife und Postgebühren, die für die Hradschin-Ausgabe galten.",
+    "en": "Overview of the tariffs and postal rates in force for the Hradčany issue.",
+    "es": "Panorama de las tarifas y tasas postales vigentes para la emisión de Hradčany.",
+    "files": [
+      "posta.html"
+    ],
+    "fr": "Aperçu des tarifs et taxes postales en vigueur pour l'émission du Hradschin.",
+    "tag": "span"
+  },
   "3b78021dc4": {
     "cs": "Kolega filatelista <strong>Radek Novák</strong> zpracoval přehledná schémata tiskových desek podle Monografie č. 1. Soubor v Excelu je <a href=\"assets/downloads/tiskove-desky.xlsx\">volně ke stažení</a>.",
     "de": "Der Sammlerkollege <strong>Radek Novák</strong> hat übersichtliche Schemata der Druckplatten nach der Monographie Nr. 1 erarbeitet. Die Excel-Datei steht <a href=\"assets/downloads/tiskove-desky.xlsx\">frei zum Herunterladen</a> bereit.",
@@ -4496,6 +4540,17 @@
       "15h/clanky.html"
     ],
     "fr": "Une épreuve du 15h et ce qu’il advint ensuite de la planche",
+    "tag": "span"
+  },
+  "3ce3c9c775": {
+    "cs": "15h — Župní slet sokolský ve Znojmě, 24. 8. 1919 — Hradčany",
+    "de": "15h — Sokol-Bezirkstreffen in Znaim, 24.8.1919 — Hradschin",
+    "en": "15h — Sokol regional rally in Znojmo, 24 Aug 1919 — Hradčany",
+    "es": "15h — Concentración regional del Sokol en Znojmo, 24/8/1919 — Hradčany",
+    "files": [
+      "15h/clanky/15h-slet-znojmo.html"
+    ],
+    "fr": "15h — Rassemblement régional du Sokol à Znojmo, 24/8/1919 — Hradschin",
     "tag": "span"
   },
   "3d3ddb4d5e": {
@@ -5269,7 +5324,7 @@
     "en": "insured letter — a surcharge of 20&nbsp;h per 300&nbsp;K of declared value",
     "es": "carta con valor declarado — recargo de 20&nbsp;h por cada 300&nbsp;K de valor declarado",
     "files": [
-      "15h/posta.html"
+      "posta.html"
     ],
     "fr": "lettre chargée (valeur déclarée) — surtaxe de 20&nbsp;h par 300&nbsp;K de valeur déclarée",
     "tag": "span"
@@ -5280,7 +5335,7 @@
     "en": "The Hradčany stamps went on sale on 18&nbsp;December 1918 (individual values were issued gradually up to 1920) and remained in circulation for some time afterwards — in practice covering four tariff periods. A fifth period began only on 1&nbsp;January 1922, after the issue had already been withdrawn; it is included in the table only for comparison. Rates are in hellers and refer to domestic mail.",
     "es": "Los sellos de Hradčany se pusieron a la venta el 18&nbsp;de diciembre de 1918 (los distintos valores fueron apareciendo progresivamente hasta 1920) y siguieron circulando aún más tiempo después — en la práctica cubrieron así cuatro períodos tarifarios. Un quinto período comenzó recién el 1&nbsp;de enero de 1922, es decir, ya después de su retirada de la circulación; se incluye en la tabla solo a efectos de comparación. Las tarifas están en hellers y se refieren al tráfico postal interior.",
     "files": [
-      "15h/posta.html"
+      "posta.html"
     ],
     "fr": "Les timbres du Hradschin ont été mis en vente le 18&nbsp;décembre 1918 (les différentes valeurs ont paru progressivement jusqu'en 1920) et sont restés en circulation encore plus longtemps — ils ont ainsi couvert en pratique quatre périodes tarifaires. Une cinquième période n'a commencé que le 1er&nbsp;janvier 1922, c'est-à-dire après leur retrait de la circulation ; elle n'est indiquée dans le tableau qu'à titre de comparaison. Les taxes sont exprimées en hellers et concernent le régime intérieur.",
     "tag": "span"
@@ -5357,7 +5412,7 @@
     "en": "<strong>Period II</strong> — letter 50&nbsp;h, each further 20&nbsp;g 30&nbsp;h, registration +50&nbsp;h. To the so-called near-abroad (Germany, Austria, Hungary, Yugoslavia, Poland, Western Ukraine) domestic rates applied instead, i.e. letter 25&nbsp;h plus registration +50&nbsp;h.",
     "es": "<strong>Período II</strong> — carta 50&nbsp;h, cada 20&nbsp;g adicionales 30&nbsp;h, certificado +50&nbsp;h. Al llamado «extranjero cercano» (Alemania, Austria, Hungría, Yugoslavia, Polonia, Ucrania occidental) se aplicaban las tarifas interiores, es decir, carta 25&nbsp;h y certificado +50&nbsp;h.",
     "files": [
-      "15h/posta.html"
+      "posta.html"
     ],
     "fr": "<strong>Période II</strong> — lettre 50&nbsp;h, chaque 20&nbsp;g supplémentaire 30&nbsp;h, recommandation +50&nbsp;h. Pour l'« étranger proche » (Allemagne, Autriche, Hongrie, Yougoslavie, Pologne, Ukraine occidentale), les taxes intérieures s'appliquaient, soit lettre 25&nbsp;h et recommandation +50&nbsp;h.",
     "tag": "span"
@@ -5982,6 +6037,17 @@
     "fr": "Planche et positions",
     "tag": "span"
   },
+  "50075abf82": {
+    "cs": "Hradčany platily v letech 1918–1921 jako běžná provozní známka nově vzniklého Československa a doprovázely tak zemi obdobím rychle se měnících poštovních sazeb — celkem čtyř tarifních období. Studium celistvostí, frankatur a razítek z tohoto období — od běžné korespondence přes vlakové pošty až po příležitostná razítka prvních veřejných akcí republiky — je proto svébytnou a bohatou oblastí poštovní historie. Tato stránka shrnuje obecný rámec: přehled tarifů a sazeb platných v době oběhu Hradčan. Podrobnosti k poštovnímu použití jednotlivých hodnot (např. vlakové pošty, seznamy pošt, zajímavé frankatury) najdete na stránkách věnovaných dané hodnotě — jako první je takto zpracována hodnota 15&nbsp;h.",
+    "de": "Die Hradschin-Marken dienten in den Jahren 1918–1921 als laufende Gebrauchsmarke der neu entstandenen Tschechoslowakei und begleiteten das Land damit durch eine Zeit rasch wechselnder Postgebühren — insgesamt vier Tarifperioden. Das Studium von Belegen, Frankaturen und Stempeln aus dieser Zeit — von der gewöhnlichen Korrespondenz über Bahnpostämter bis zu den Sonderstempeln der ersten öffentlichen Veranstaltungen der jungen Republik — ist daher ein eigenständiges und ergiebiges Gebiet der Postgeschichte. Diese Seite fasst den allgemeinen Rahmen zusammen: einen Überblick über die Tarife und Gebühren, die während des Umlaufs der Hradschin-Marken galten. Einzelheiten zur postalischen Verwendung der einzelnen Werte (z.&nbsp;B. Bahnpostämter, Postamtslisten und interessante Frankaturen) finden Sie auf den Seiten zum jeweiligen Wert — als erster wird der Wert 15&nbsp;h auf diese Weise behandelt.",
+    "en": "The Hradčany stamps served as the everyday definitive issue of the newly founded Czechoslovakia in 1918–1921, accompanying the country through a period of rapidly changing postal rates — four tariff periods in all. Studying covers, frankings and cancellations from this period — from ordinary correspondence through railway post offices to the commemorative postmarks of the young republic's first public events — is therefore a rich field of postal history in its own right. This page sets out the general framework: an overview of the tariffs and rates in force while the Hradčany stamps were current. Details of postal use for individual values (such as railway post offices, post-office lists and interesting frankings) can be found on the pages devoted to each value — the 15&nbsp;h value is the first to be covered in this way.",
+    "es": "Los sellos de Hradčany sirvieron como sello de uso corriente de la recién creada Checoslovaquia entre 1918 y 1921, acompañando al país a través de un período de tarifas postales en rápido cambio — cuatro períodos tarifarios en total. El estudio de las piezas postales, franqueos y matasellos de esa época — desde la correspondencia ordinaria, pasando por las oficinas postales ferroviarias, hasta los matasellos conmemorativos de los primeros actos públicos de la joven república — constituye así un campo propio y rico de la historia postal. Esta página resume el marco general: un panorama de las tarifas y tasas vigentes mientras los sellos de Hradčany estuvieron en circulación. Los detalles sobre el uso postal de cada valor (oficinas postales ferroviarias, listas de oficinas, franqueos interesantes, etc.) se encuentran en las páginas dedicadas a cada valor — el valor de 15&nbsp;h es el primero en tratarse de esta manera.",
+    "files": [
+      "posta.html"
+    ],
+    "fr": "Les timbres du Hradschin ont servi de timbre courant à la Tchécoslovaquie nouvellement créée entre 1918 et 1921, accompagnant le pays à travers une période de tarifs postaux en évolution rapide — quatre périodes tarifaires au total. L'étude des plis, affranchissements et oblitérations de cette époque — du courrier ordinaire aux bureaux ambulants ferroviaires jusqu'aux oblitérations commémoratives des premières manifestations publiques de la jeune république — constitue ainsi un domaine à part entière et riche de l'histoire postale. Cette page présente le cadre général : un aperçu des tarifs et taxes en vigueur pendant la circulation des timbres du Hradschin. Les détails de l'usage postal de chaque valeur (bureaux ambulants, listes de bureaux de poste, affranchissements intéressants, etc.) se trouvent sur les pages consacrées à chaque valeur — la valeur de 15&nbsp;h est la première à être ainsi traitée.",
+    "tag": "span"
+  },
   "501a9af723": {
     "cs": "Kus 6 — Další zřetelný shluk drobných skvrn v obloze vpravo od věží, u květinové ozdoby.",
     "de": "Stück 6 — Ein weiterer deutlicher Fleckenschwarm im Himmel rechts von den Türmen, bei der Blumenverzierung.",
@@ -6348,7 +6414,7 @@
     "en": "postal money order up to 50&nbsp;K — 25&nbsp;h, plus 5&nbsp;h for every further 50&nbsp;K",
     "es": "giro postal hasta 50&nbsp;K — 25&nbsp;h, más 5&nbsp;h por cada 50&nbsp;K adicionales",
     "files": [
-      "15h/posta.html"
+      "posta.html"
     ],
     "fr": "mandat postal jusqu'à 50&nbsp;K — 25&nbsp;h, plus 5&nbsp;h par tranche supplémentaire de 50&nbsp;K",
     "tag": "span"
@@ -6485,7 +6551,7 @@
     "en": "The amount of the express fee in the 4th period (60 or 100&nbsp;h) — see the note above the table.",
     "es": "El importe del recargo urgente en el 4.º período (60 o 100&nbsp;h) — véase la nota sobre la tabla anterior.",
     "files": [
-      "15h/posta.html"
+      "posta.html"
     ],
     "fr": "Le montant de la surtaxe exprès de la 4e période (60 ou 100&nbsp;h) — voir la note ci-dessus au-dessus du tableau.",
     "tag": "span"
@@ -6992,7 +7058,7 @@
     "en": "The most common frankings",
     "es": "Los franqueos más habituales",
     "files": [
-      "15h/posta.html"
+      "posta.html"
     ],
     "fr": "Les affranchissements les plus courants",
     "tag": "span"
@@ -7088,6 +7154,17 @@
       "clanky.html"
     ],
     "fr": "Un 15h non dentelé de la planche VI utilisé postalement — Košice 2, 13. VII. 1920",
+    "tag": "span"
+  },
+  "5c3b4a8da1": {
+    "cs": "Pohlednice se Županským sletem sokolským ve Znojmě, 24.&nbsp;8.&nbsp;1919",
+    "de": "Die Postkarte mit dem Stempel des Sokol-Bezirkstreffens, Znaim, 24.&nbsp;August&nbsp;1919",
+    "en": "The postcard with the Sokol regional rally cancel, Znojmo, 24&nbsp;Aug&nbsp;1919",
+    "es": "La tarjeta postal con el matasellos de la concentración regional del Sokol, Znojmo, 24&nbsp;de agosto&nbsp;de 1919",
+    "files": [
+      "15h/clanky.html"
+    ],
+    "fr": "La carte postale avec l'oblitération du rassemblement régional du Sokol, Znojmo, 24&nbsp;août&nbsp;1919",
     "tag": "span"
   },
   "5c71737488": {
@@ -7625,7 +7702,7 @@
     "en": "Postcard",
     "es": "Tarjeta postal",
     "files": [
-      "15h/posta.html"
+      "posta.html"
     ],
     "fr": "Carte postale",
     "tag": "span"
@@ -7766,7 +7843,7 @@
     "en": "Foreign rates in the 3rd and 4th tariff periods — complete tables have not yet been located.",
     "es": "Las tarifas al extranjero en el 3.º y 4.º período tarifario — todavía no se han podido localizar tablas completas.",
     "files": [
-      "15h/posta.html"
+      "posta.html"
     ],
     "fr": "Les taxes vers l'étranger pour les 3e et 4e périodes tarifaires — des tableaux complets n'ont pas encore pu être trouvés.",
     "tag": "span"
@@ -8308,7 +8385,7 @@
     "en": "Printed matter (up to 50 g)",
     "es": "Impreso (hasta 50 g)",
     "files": [
-      "15h/posta.html"
+      "posta.html"
     ],
     "fr": "Imprimé (jusqu'à 50 g)",
     "tag": "span"
@@ -8629,7 +8706,7 @@
     "en": "Sources disagree on the express fee of the 4th period — 60&nbsp;h (SCP), or 100&nbsp;h (RPSL, effective from 15&nbsp;Oct&nbsp;1920). That date, however, matches the issue date of the 100&nbsp;h stamp rather than necessarily a change in the rate, so the exact moment of the increase remains open.",
     "es": "Las fuentes indican de forma distinta el recargo urgente del 4.º período — 60&nbsp;h (SCP), o 100&nbsp;h (RPSL, vigente desde el 15&nbsp;10&nbsp;1920). Sin embargo, esa fecha coincide con la emisión del sello de 100&nbsp;h y no necesariamente con un cambio de tarifa, por lo que el momento exacto del aumento sigue sin aclararse.",
     "files": [
-      "15h/posta.html"
+      "posta.html"
     ],
     "fr": "Les sources indiquent différemment la surtaxe exprès de la 4e période — 60&nbsp;h (SCP) ou 100&nbsp;h (RPSL, en vigueur à partir du 15&nbsp;10&nbsp;1920). Cette date correspond toutefois à l'émission du timbre de 100&nbsp;h et non nécessairement à un changement de taxe, de sorte que le moment exact de l'augmentation reste incertain.",
     "tag": "span"
@@ -9891,6 +9968,17 @@
     "fr": "Les autres techniques se comportent à l’inverse. En <strong>taille-douce</strong> (gravure), l’encre repose dans les creux de la forme et ressort ensuite du papier en relief. En <strong>offset</strong> et en <strong>lithographie</strong>, la forme est plane, le papier ne se déforme pas du tout et l’impression est lisse. Un timbre sans le moindre relief censé provenir de cette émission mérite donc un second regard.",
     "tag": "span"
   },
+  "8033980e41": {
+    "cs": "\n<h1>Župní slet sokolský ve Znojmě, 24. srpna 1919 — nejstarší příležitostné razítko na Hradčanech</h1>\n\n<p>Mezi doklady poštovního provozu Hradčan zaujímá zvláštní místo jedna pohlednice odeslaná ze Znojma\ndo Štramberku na Moravě. Nese jediné razítko — kruhové příležitostné razítko <strong>ŽUPNÍ SLET SOKOLSKÝ VE\nZNOJMĚ · C.S.P.</strong> s datem <strong>24.&nbsp;VIII.&nbsp;1919</strong>, tedy z prvního dne sletu. Podle\ndosavadní evidence jde o <strong>nejstarší doložené použití československého příležitostného razítka na\nznámkách emise Hradčany</strong>.</p>\n\n<figure><img src=\"../assets/img/15h-slet-znojmo-pohlednice.jpg\" alt=\"Lícní strana pohlednice — Župní slet sokolský ve Znojmě, 24. srpna 1919\" loading=\"lazy\" style=\"max-width:420px\">\n<figcaption>Lícní strana upomínkové pohlednice na Župní slet sokolský ve Znojmě, 24.&nbsp;srpna&nbsp;1919.</figcaption></figure>\n\n<h2>Celistvost a frankatura</h2>\n\n<p>Pohlednice je frankována jedinou známkou <strong>15&nbsp;h cihlově červenou, nezoubkovanou</strong>, určenou\njako pole <strong>73 z&nbsp;tiskové desky&nbsp;II</strong>. Sazba 15&nbsp;h za dopisnici odpovídá\n<a href=\"../posta.html#tarify\">II.&nbsp;tarifnímu období</a> (15.&nbsp;5.&nbsp;1919&nbsp;–&nbsp;14.&nbsp;3.&nbsp;1920),\ndo něhož datum 24.&nbsp;8.&nbsp;1919 spadá. Adresátkou byla slečna Marta Kokršková ve Štramberku.</p>\n\n<figure><img src=\"../assets/img/15h-slet-znojmo-zadni.jpg\" alt=\"Rubová strana pohlednice s frankaturou a razítkem\" loading=\"lazy\" style=\"max-width:640px\">\n<figcaption>Rubová strana: adresní část a frankatura s razítkem ŽUPNÍ SLET SOKOLSKÝ VE ZNOJMĚ, 24.&nbsp;VIII.&nbsp;1919.</figcaption></figure>\n\n<figure><img src=\"../assets/img/15h-slet-znojmo-73-II.jpg\" alt=\"Detail známky ZP 73/II s otiskem razítka\" loading=\"lazy\" style=\"max-width:480px\">\n<figcaption>Detail frankatury: 15&nbsp;h, nezoubkovaná, <strong>ZP&nbsp;73/II</strong>.</figcaption></figure>\n\n<h2>Druhý doložený kus — ZP 57/II, zoubkování A</h2>\n\n<p>Ve sbírce se podařilo dohledat i druhou známku se stejným razítkem — tentokrát samostatnou, bez celistvosti,\nse zoubkováním <strong>A (13¾:13½)</strong> a určenou jako pole <strong>57 z&nbsp;téže tiskové desky&nbsp;II</strong>.\nOtisk razítka je na tomto kusu plně čitelný a potvrzuje text i datum shodně s kusem na pohlednici.</p>\n\n<figure><img src=\"../assets/img/15h-slet-znojmo-57-II.jpg\" alt=\"Samostatná známka ZP 57/II se zoubkováním A a razítkem sletu\" loading=\"lazy\" style=\"max-width:420px\">\n<figcaption>Druhý doložený kus: 15&nbsp;h, zoubkování A, <strong>ZP&nbsp;57/II</strong>.</figcaption></figure>\n\n<p>Dva různé exempláře téže desky, jeden nezoubkovaný a jeden se zoubkováním A, ukazují, že razítko bylo v den\nsletu k dispozici pro oba tehdy současně oběhající stavy archů TD&nbsp;II.</p>\n\n<h2>Razítko samotné</h2>\n\n<p>Příležitostné razítko neslo v horním oblouku text <strong>SOKOLSKÝ SLET VE ZNOJMĚ</strong>, v dolním oblouku\nzkratku <strong>C.S.P.</strong> (Česko-slovenská pošta) a uprostřed přestavitelný datumový můstek s údajem\n<strong>24.&nbsp;VIII.&nbsp;1919</strong>. Dochovala se i fotografie samotného razítkovacího strojku (zrcadlově,\njak je vidět na kovovém/pryžovém typu před otiskem):</p>\n\n<figure><img src=\"../assets/img/15h-slet-znojmo-razitko-samotne.jpg\" alt=\"Fotografie razítkového typu Župní slet sokolský ve Znojmě\" loading=\"lazy\" style=\"max-width:320px\">\n<figcaption>Razítkový typ příležitostného razítka Župní slet sokolský ve Znojmě (zrcadlový pohled).</figcaption></figure>\n\n<h2>Proč je toto razítko první</h2>\n\n<p>Příležitostná razítka se v poválečném Československu začala pravidelně objevovat až v následujících letech;\nrazítko ke znojemskému sletu z <strong>24.&nbsp;srpna&nbsp;1919</strong> předchází — podle dosavadní evidence\nsestavené k Hradčanům — všechna ostatní doložená použití příležitostných razítek na této emisi. Pokud je čtenářům\nznámo starší datované použití na Hradčanech, budeme rádi za upozornění — evidence bude s novými nálezy průběžně\ndoplňována.</p>\n\n<p class=\"author\"><em>1.&nbsp;září&nbsp;2026</em></p>\n",
+    "de": "<h1>Sokol-Bezirkstreffen in Znaim, 24. August 1919 — der älteste Sonderstempel auf der Hradschin-Ausgabe</h1>\n\n<p>Unter den Belegen des Postbetriebs der Hradschin-Ausgabe nimmt eine Postkarte, die von Znaim nach Wagstadt (Štramberk)\nin Mähren gesandt wurde, einen besonderen Platz ein. Sie trägt einen einzigen Stempel — den runden Sonderstempel\n<strong>SOKOLSKÝ SLET VE ZNOJMĚ · C.S.P.</strong> („Sokol-Bezirkstreffen in Znaim“) mit dem Datum\n<strong>24.&nbsp;VIII.&nbsp;1919</strong>, also vom ersten Tag des Treffens. Nach dem bisher zusammengetragenen\nKenntnisstand handelt es sich um die <strong>früheste belegte Verwendung eines tschechoslowakischen Sonderstempels\nauf einer Marke der Hradschin-Ausgabe</strong>.</p>\n\n<figure><img src=\"../assets/img/15h-slet-znojmo-pohlednice.jpg\" alt=\"Vorderseite der Postkarte — Sokol-Bezirkstreffen in Znaim, 24. August 1919\" loading=\"lazy\" style=\"max-width:420px\">\n<figcaption>Die Vorderseite der Erinnerungspostkarte zum Sokol-Bezirkstreffen in Znaim, 24.&nbsp;August&nbsp;1919.</figcaption></figure>\n\n<h2>Der Beleg und seine Frankatur</h2>\n\n<p>Die Postkarte ist mit einer einzigen Marke <strong>15&nbsp;h ziegelrot, ungezähnt</strong> frankiert, zugeordnet zu\n<strong>Feld&nbsp;73 der Druckplatte&nbsp;II</strong>. Die Postkartengebühr von 15&nbsp;h entspricht der\n<a href=\"../posta.html#tarify\">2.&nbsp;Tarifperiode</a> (15.&nbsp;5.&nbsp;1919&nbsp;–&nbsp;14.&nbsp;3.&nbsp;1920), in\ndie das Datum 24.&nbsp;8.&nbsp;1919 fällt. Empfängerin war Fräulein Marta Kokršková in Wagstadt.</p>\n\n<figure><img src=\"../assets/img/15h-slet-znojmo-zadni.jpg\" alt=\"Rückseite der Postkarte mit Frankatur und Stempel\" loading=\"lazy\" style=\"max-width:640px\">\n<figcaption>Die Rückseite: das Adressfeld und die Frankatur mit dem Stempel ŽUPNÍ SLET SOKOLSKÝ VE ZNOJMĚ,\n24.&nbsp;VIII.&nbsp;1919.</figcaption></figure>\n\n<figure><img src=\"../assets/img/15h-slet-znojmo-73-II.jpg\" alt=\"Detail der Marke, Feld 73/II, mit dem Stempelabdruck\" loading=\"lazy\" style=\"max-width:480px\">\n<figcaption>Detail der Frankatur: 15&nbsp;h, ungezähnt, <strong>Feld&nbsp;73/II</strong>.</figcaption></figure>\n\n<h2>Ein zweites belegtes Stück — Feld 57/II, Zähnung A</h2>\n\n<p>In der Sammlung konnte auch eine zweite Marke mit demselben Stempel aufgefunden werden — diesmal ein Einzelstück\nohne Beleg, mit <strong>Zähnung A (13¾:13½)</strong> und zugeordnet zu <strong>Feld&nbsp;57 derselben\nDruckplatte&nbsp;II</strong>. Der Stempelabdruck ist auf diesem Stück voll lesbar und bestätigt Text und Datum\nübereinstimmend mit dem Stück auf der Postkarte.</p>\n\n<figure><img src=\"../assets/img/15h-slet-znojmo-57-II.jpg\" alt=\"Einzelmarke Feld 57/II mit Zähnung A und dem Stempel des Treffens\" loading=\"lazy\" style=\"max-width:420px\">\n<figcaption>Das zweite belegte Stück: 15&nbsp;h, Zähnung A, <strong>Feld&nbsp;57/II</strong>.</figcaption></figure>\n\n<p>Zwei verschiedene Exemplare derselben Platte — eines ungezähnt, eines mit Zähnung A — zeigen, dass der Stempel am\nTag des Treffens für beide damals gleichzeitig im Umlauf befindlichen Zustände der Bogen der Druckplatte&nbsp;II zur\nVerfügung stand.</p>\n\n<h2>Der Stempel selbst</h2>\n\n<p>Der Sonderstempel trug im oberen Bogen den Text <strong>SOKOLSKÝ SLET VE ZNOJMĚ</strong>, im unteren Bogen die\nAbkürzung <strong>C.S.P.</strong> („Tschechoslowakische Post“) und in der Mitte eine verstellbare Datumsbrücke mit der\nAngabe <strong>24.&nbsp;VIII.&nbsp;1919</strong>. Erhalten geblieben ist auch eine Fotografie des Stempelgeräts selbst\n(spiegelverkehrt, wie es am Metall-/Gummityp vor dem Abdruck erscheint):</p>\n\n<figure><img src=\"../assets/img/15h-slet-znojmo-razitko-samotne.jpg\" alt=\"Fotografie des Stempeltyps für das Sokol-Bezirkstreffen in Znaim\" loading=\"lazy\" style=\"max-width:320px\">\n<figcaption>Der Stempeltyp des Sonderstempels zum Sokol-Bezirkstreffen in Znaim (Spiegelansicht).</figcaption></figure>\n\n<h2>Warum dieser Stempel der erste ist</h2>\n\n<p>Sonderstempel wurden bei der tschechoslowakischen Post der Nachkriegszeit erst in den folgenden Jahren zu einer\nregelmäßigen Erscheinung; der Stempel zum Znaimer Treffen vom <strong>24.&nbsp;August&nbsp;1919</strong> geht — nach\ndem bisher zur Hradschin-Ausgabe zusammengetragenen Kenntnisstand — jeder anderen belegten Verwendung eines\nSonderstempels auf dieser Ausgabe voraus. Sollte Lesern eine früher datierte Verwendung auf einer Hradschin-Marke\nbekannt sein, freuen wir uns über einen Hinweis — der Kenntnisstand wird mit neuen Funden laufend ergänzt.</p>\n\n<p class=\"author\"><em>1.&nbsp;September&nbsp;2026</em></p>",
+    "en": "<h1>Sokol regional rally in Znojmo, 24 August 1919 — the earliest commemorative postmark on the Hradčany issue</h1>\n\n<p>Among the records of postal use of the Hradčany issue, one postcard sent from Znojmo to Štramberk in Moravia\nholds a special place. It carries a single cancellation — the circular commemorative postmark\n<strong>SOKOLSKÝ SLET VE ZNOJMĚ · C.S.P.</strong> (\"Sokol regional rally in Znojmo\") dated\n<strong>24&nbsp;August&nbsp;1919</strong>, the first day of the rally. According to the records compiled so far, this\nis the <strong>earliest documented use of a Czechoslovak commemorative postmark on a stamp of the Hradčany\nissue</strong>.</p>\n\n<figure><img src=\"../assets/img/15h-slet-znojmo-pohlednice.jpg\" alt=\"Front of the postcard — Sokol regional rally in Znojmo, 24 August 1919\" loading=\"lazy\" style=\"max-width:420px\">\n<figcaption>The front of the commemorative postcard for the Sokol regional rally in Znojmo, 24&nbsp;August&nbsp;1919.</figcaption></figure>\n\n<h2>The cover and its franking</h2>\n\n<p>The postcard is franked with a single <strong>15&nbsp;h brick red, imperforate</strong> stamp, attributed to\n<strong>field&nbsp;73 of printing plate&nbsp;II</strong>. The 15&nbsp;h postcard rate matches the\n<a href=\"../posta.html#tarify\">2nd tariff period</a> (15&nbsp;May&nbsp;1919&nbsp;–&nbsp;14&nbsp;March&nbsp;1920), which\ncovers the date 24&nbsp;August&nbsp;1919. The addressee was Miss Marta Kokršková in Štramberk.</p>\n\n<figure><img src=\"../assets/img/15h-slet-znojmo-zadni.jpg\" alt=\"Back of the postcard with the franking and cancellation\" loading=\"lazy\" style=\"max-width:640px\">\n<figcaption>The back: the address panel and the franking with the SOKOLSKÝ SLET VE ZNOJMĚ cancel, 24&nbsp;August&nbsp;1919.</figcaption></figure>\n\n<figure><img src=\"../assets/img/15h-slet-znojmo-73-II.jpg\" alt=\"Detail of the stamp, field 73/II, with the cancellation\" loading=\"lazy\" style=\"max-width:480px\">\n<figcaption>Detail of the franking: 15&nbsp;h, imperforate, <strong>field&nbsp;73/II</strong>.</figcaption></figure>\n\n<h2>A second recorded copy — field 57/II, perforation A</h2>\n\n<p>A second stamp with the same cancellation has also been found in the collection — this time a single copy, off\ncover, with <strong>perforation A (13¾:13½)</strong> and attributed to <strong>field&nbsp;57 of the same printing\nplate&nbsp;II</strong>. The strike is fully legible on this copy and confirms the same text and date as the copy on\nthe postcard.</p>\n\n<figure><img src=\"../assets/img/15h-slet-znojmo-57-II.jpg\" alt=\"A separate stamp, field 57/II, with perforation A and the rally cancel\" loading=\"lazy\" style=\"max-width:420px\">\n<figcaption>The second recorded copy: 15&nbsp;h, perforation A, <strong>field&nbsp;57/II</strong>.</figcaption></figure>\n\n<p>Two different copies from the same plate — one imperforate, one perforation A — show that the postmark was\navailable on the day of the rally for both states of the plate&nbsp;II sheets then concurrently in circulation.</p>\n\n<h2>The postmark itself</h2>\n\n<p>The commemorative postmark carried the text <strong>SOKOLSKÝ SLET VE ZNOJMĚ</strong> around the upper arc, the\nabbreviation <strong>C.S.P.</strong> (\"Czecho-Slovak Post\") around the lower arc, and an adjustable date bridge\nreading <strong>24&nbsp;August&nbsp;1919</strong> in the centre. A photograph of the postmarking device itself has\nalso survived (mirrored, as seen on the metal/rubber type before an impression is taken):</p>\n\n<figure><img src=\"../assets/img/15h-slet-znojmo-razitko-samotne.jpg\" alt=\"Photograph of the postmark type for the Sokol regional rally in Znojmo\" loading=\"lazy\" style=\"max-width:320px\">\n<figcaption>The postmark type of the Sokol regional rally in Znojmo commemorative cancel (mirror view).</figcaption></figure>\n\n<h2>Why this postmark comes first</h2>\n\n<p>Commemorative postmarks only became a regular feature of the post-war Czechoslovak post in the following years;\nthe postmark for the Znojmo rally of <strong>24&nbsp;August&nbsp;1919</strong> precedes — according to the records\ncompiled so far for the Hradčany issue — every other documented use of a commemorative postmark on this issue. If\nreaders know of an earlier dated use on a Hradčany stamp, we would be glad to hear of it — the records will be\nupdated as new finds come to light.</p>\n\n<p class=\"author\"><em>1&nbsp;September&nbsp;2026</em></p>",
+    "es": "<h1>Concentración regional del Sokol en Znojmo, 24 de agosto de 1919 — el matasellos conmemorativo más antiguo de la emisión de Hradčany</h1>\n\n<p>Entre los testimonios del uso postal de la emisión de Hradčany, una tarjeta postal enviada desde Znojmo a\nŠtramberk, en Moravia, ocupa un lugar especial. Lleva un único matasellos — el matasellos conmemorativo circular\n<strong>ŽUPNÍ SLET SOKOLSKÝ VE ZNOJMĚ · C.S.P.</strong> (\"Concentración regional del Sokol en Znojmo\"), fechado el\n<strong>24&nbsp;de agosto&nbsp;de 1919</strong>, es decir, el primer día de la concentración. Según los registros\nreunidos hasta ahora, se trata del <strong>uso documentado más antiguo de un matasellos conmemorativo checoslovaco\nsobre un sello de la emisión de Hradčany</strong>.</p>\n\n<figure><img src=\"../assets/img/15h-slet-znojmo-pohlednice.jpg\" alt=\"Anverso de la tarjeta postal — concentración regional del Sokol en Znojmo, 24 de agosto de 1919\" loading=\"lazy\" style=\"max-width:420px\">\n<figcaption>El anverso de la tarjeta postal conmemorativa de la concentración regional del Sokol en Znojmo,\n24&nbsp;de agosto&nbsp;de 1919.</figcaption></figure>\n\n<h2>La pieza postal y su franqueo</h2>\n\n<p>La tarjeta postal está franqueada con un único sello de <strong>15&nbsp;h rojo ladrillo, sin dentar</strong>,\natribuido a la <strong>posición&nbsp;73 de la plancha&nbsp;II</strong>. La tarifa de 15&nbsp;h para una tarjeta\npostal corresponde al <a href=\"../posta.html#tarify\">2.º período tarifario</a>\n(15&nbsp;de mayo&nbsp;de 1919&nbsp;–&nbsp;14&nbsp;de marzo&nbsp;de 1920), en el que se encuadra la fecha del\n24&nbsp;de agosto&nbsp;de 1919. La destinataria fue la señorita Marta Kokršková, en Štramberk.</p>\n\n<figure><img src=\"../assets/img/15h-slet-znojmo-zadni.jpg\" alt=\"Reverso de la tarjeta postal con el franqueo y el matasellos\" loading=\"lazy\" style=\"max-width:640px\">\n<figcaption>El reverso: el panel de dirección y el franqueo con el matasellos ŽUPNÍ SLET SOKOLSKÝ VE ZNOJMĚ,\n24&nbsp;de agosto&nbsp;de 1919.</figcaption></figure>\n\n<figure><img src=\"../assets/img/15h-slet-znojmo-73-II.jpg\" alt=\"Detalle del sello, posición 73/II, con el matasellos\" loading=\"lazy\" style=\"max-width:480px\">\n<figcaption>Detalle del franqueo: 15&nbsp;h, sin dentar, <strong>posición&nbsp;73/II</strong>.</figcaption></figure>\n\n<h2>Un segundo ejemplar registrado — posición 57/II, dentado A</h2>\n\n<p>En la colección también se ha logrado localizar un segundo sello con el mismo matasellos — en este caso un\nejemplar suelto, sin pieza postal, con <strong>dentado A (13¾:13½)</strong> y atribuido a la <strong>posición&nbsp;57\nde la misma plancha&nbsp;II</strong>. La impresión del matasellos es totalmente legible en este ejemplar y confirma\nel mismo texto y la misma fecha que el ejemplar de la tarjeta postal.</p>\n\n<figure><img src=\"../assets/img/15h-slet-znojmo-57-II.jpg\" alt=\"Sello suelto, posición 57/II, con dentado A y el matasellos de la concentración\" loading=\"lazy\" style=\"max-width:420px\">\n<figcaption>El segundo ejemplar registrado: 15&nbsp;h, dentado A, <strong>posición&nbsp;57/II</strong>.</figcaption></figure>\n\n<p>Dos ejemplares distintos de la misma plancha — uno sin dentar y otro con dentado A — muestran que el matasellos\nestaba disponible el día de la concentración para los dos estados de las hojas de la plancha&nbsp;II entonces en\ncirculación simultánea.</p>\n\n<h2>El matasellos en sí</h2>\n\n<p>El matasellos conmemorativo llevaba, en el arco superior, el texto <strong>SOKOLSKÝ SLET VE ZNOJMĚ</strong>, en el\narco inferior la abreviatura <strong>C.S.P.</strong> (\"Correo checoslovaco\") y, en el centro, un puente de fecha\najustable con la indicación <strong>24&nbsp;de agosto&nbsp;de 1919</strong>. También se ha conservado una fotografía\ndel propio aparato de matasellado (en espejo, tal como aparece en el tipo metálico/de goma antes de la\nimpresión):</p>\n\n<figure><img src=\"../assets/img/15h-slet-znojmo-razitko-samotne.jpg\" alt=\"Fotografía del tipo de matasellos de la concentración regional del Sokol en Znojmo\" loading=\"lazy\" style=\"max-width:320px\">\n<figcaption>El tipo del matasellos conmemorativo de la concentración regional del Sokol en Znojmo (vista\nespecular).</figcaption></figure>\n\n<h2>Por qué este matasellos es el primero</h2>\n\n<p>Los matasellos conmemorativos solo se convirtieron en un elemento regular del correo checoslovaco de posguerra en\nlos años siguientes; el matasellos de la concentración de Znojmo del <strong>24&nbsp;de agosto&nbsp;de 1919</strong>\nprecede — según los registros reunidos hasta ahora para la emisión de Hradčany — a cualquier otro uso documentado de\nun matasellos conmemorativo en esta emisión. Si algún lector conoce un uso fechado anteriormente en un sello de\nHradčany, agradeceremos que nos lo comunique — los registros se irán ampliando con los nuevos hallazgos.</p>\n\n<p class=\"author\"><em>1&nbsp;de septiembre&nbsp;de 2026</em></p>",
+    "files": [
+      "15h/clanky/15h-slet-znojmo.html"
+    ],
+    "fr": "<h1>Rassemblement régional du Sokol à Znojmo, 24 août 1919 — la plus ancienne oblitération commémorative sur l'émission du Hradschin</h1>\n\n<p>Parmi les témoignages de l'usage postal de l'émission du Hradschin, une carte postale envoyée de Znojmo à\nŠtramberk, en Moravie, occupe une place particulière. Elle porte une seule oblitération — le cachet commémoratif\ncirculaire <strong>ŽUPNÍ SLET SOKOLSKÝ VE ZNOJMĚ · C.S.P.</strong> (« Rassemblement régional du Sokol à Znojmo »),\ndaté du <strong>24&nbsp;août&nbsp;1919</strong>, soit le premier jour du rassemblement. D'après les relevés effectués\njusqu'à présent, il s'agit du <strong>plus ancien usage documenté d'une oblitération commémorative tchécoslovaque sur\nun timbre de l'émission du Hradschin</strong>.</p>\n\n<figure><img src=\"../assets/img/15h-slet-znojmo-pohlednice.jpg\" alt=\"Recto de la carte postale — rassemblement régional du Sokol à Znojmo, 24 août 1919\" loading=\"lazy\" style=\"max-width:420px\">\n<figcaption>Le recto de la carte postale commémorative du rassemblement régional du Sokol à Znojmo,\n24&nbsp;août&nbsp;1919.</figcaption></figure>\n\n<h2>Le pli et son affranchissement</h2>\n\n<p>La carte postale est affranchie d'un seul timbre <strong>15&nbsp;h rouge brique, non dentelé</strong>, attribué à\nla <strong>position&nbsp;73 de la planche&nbsp;II</strong>. Le tarif de 15&nbsp;h pour une carte postale correspond à\nla <a href=\"../posta.html#tarify\">2e période tarifaire</a> (15&nbsp;mai&nbsp;1919&nbsp;–&nbsp;14&nbsp;mars&nbsp;1920),\ndans laquelle s'inscrit la date du 24&nbsp;août&nbsp;1919. La destinataire était Mademoiselle Marta Kokršková, à\nŠtramberk.</p>\n\n<figure><img src=\"../assets/img/15h-slet-znojmo-zadni.jpg\" alt=\"Verso de la carte postale avec l'affranchissement et l'oblitération\" loading=\"lazy\" style=\"max-width:640px\">\n<figcaption>Le verso : le panneau d'adresse et l'affranchissement avec l'oblitération ŽUPNÍ SLET SOKOLSKÝ VE ZNOJMĚ,\n24&nbsp;août&nbsp;1919.</figcaption></figure>\n\n<figure><img src=\"../assets/img/15h-slet-znojmo-73-II.jpg\" alt=\"Détail du timbre, position 73/II, avec l'oblitération\" loading=\"lazy\" style=\"max-width:480px\">\n<figcaption>Détail de l'affranchissement : 15&nbsp;h, non dentelé, <strong>position&nbsp;73/II</strong>.</figcaption></figure>\n\n<h2>Un second exemplaire répertorié — position 57/II, dentelure A</h2>\n\n<p>Un second timbre portant la même oblitération a également été retrouvé dans la collection — cette fois un\nexemplaire isolé, détaché de tout pli, avec <strong>dentelure A (13¾:13½)</strong> et attribué à la\n<strong>position&nbsp;57 de la même planche&nbsp;II</strong>. L'empreinte de l'oblitération est parfaitement lisible\nsur cet exemplaire et confirme le même texte et la même date que l'exemplaire de la carte postale.</p>\n\n<figure><img src=\"../assets/img/15h-slet-znojmo-57-II.jpg\" alt=\"Timbre isolé, position 57/II, avec dentelure A et l'oblitération du rassemblement\" loading=\"lazy\" style=\"max-width:420px\">\n<figcaption>Le second exemplaire répertorié : 15&nbsp;h, dentelure A, <strong>position&nbsp;57/II</strong>.</figcaption></figure>\n\n<p>Deux exemplaires différents de la même planche — l'un non dentelé, l'autre en dentelure A — montrent que\nl'oblitération était disponible le jour du rassemblement pour les deux états des feuilles de la planche&nbsp;II\nalors simultanément en circulation.</p>\n\n<h2>L'oblitération elle-même</h2>\n\n<p>L'oblitération commémorative portait, sur l'arc supérieur, le texte <strong>SOKOLSKÝ SLET VE ZNOJMĚ</strong>, sur\nl'arc inférieur l'abréviation <strong>C.S.P.</strong> (« Poste tchéco-slovaque ») et, au centre, un pont dateur\nréglable indiquant <strong>24&nbsp;août&nbsp;1919</strong>. Une photographie de l'appareil d'oblitération lui-même a\négalement été conservée (image inversée, telle qu'elle apparaît sur le type métallique/en caoutchouc avant\nl'impression) :</p>\n\n<figure><img src=\"../assets/img/15h-slet-znojmo-razitko-samotne.jpg\" alt=\"Photographie du type d'oblitération du rassemblement régional du Sokol à Znojmo\" loading=\"lazy\" style=\"max-width:320px\">\n<figcaption>Le type de l'oblitération commémorative du rassemblement régional du Sokol à Znojmo (vue en\nmiroir).</figcaption></figure>\n\n<h2>Pourquoi cette oblitération est la première</h2>\n\n<p>Les oblitérations commémoratives ne sont devenues un usage régulier de la poste tchécoslovaque d'après-guerre que\ndans les années suivantes ; l'oblitération du rassemblement de Znojmo du <strong>24&nbsp;août&nbsp;1919</strong>\nprécède — d'après les relevés réunis jusqu'à présent pour l'émission du Hradschin — tout autre usage documenté d'une\noblitération commémorative sur cette émission. Si des lecteurs connaissent un usage daté plus ancien sur un timbre\ndu Hradschin, nous serions heureux d'en être informés — les relevés seront complétés au fil des nouvelles\ndécouvertes.</p>\n\n<p class=\"author\"><em>1er&nbsp;septembre&nbsp;2026</em></p>",
+    "tag": "div"
+  },
   "80508d0d35": {
     "cs": "Kus 10 — V levé části siluety Hradčan.",
     "de": "Stück 10 — Im linken Teil der Hradschin-Silhouette.",
@@ -10800,7 +10888,7 @@
     "en": "outside the Hradčany's validity — for comparison only",
     "es": "fuera de la validez de los sellos de Hradčany — solo a efectos de comparación",
     "files": [
-      "15h/posta.html"
+      "posta.html"
     ],
     "fr": "hors de la validité des timbres du Hradschin — à titre de comparaison seulement",
     "tag": "span"
@@ -10820,7 +10908,7 @@
     "en": "<strong>Period IV</strong> — postcard 40&nbsp;h, letter 60&nbsp;h, registered letter 185&nbsp;h <span style=\"color:var(--muted)\">(the 185&nbsp;h Allegory stamp was issued specifically for this franking)</span>, printed matter 10&nbsp;h",
     "es": "<strong>Período IV</strong> — tarjeta postal 40&nbsp;h, carta 60&nbsp;h, carta certificada 185&nbsp;h <span style=\"color:var(--muted)\">(para este franqueo se emitió también la alegoría de 185&nbsp;h)</span>, impreso 10&nbsp;h",
     "files": [
-      "15h/posta.html"
+      "posta.html"
     ],
     "fr": "<strong>Période IV</strong> — carte postale 40&nbsp;h, lettre 60&nbsp;h, lettre recommandée 185&nbsp;h <span style=\"color:var(--muted)\">(l'allégorie à 185&nbsp;h a d'ailleurs été émise pour cet affranchissement)</span>, imprimé 10&nbsp;h",
     "tag": "span"
@@ -11073,7 +11161,7 @@
     "en": "Extra 20 g",
     "es": "20 g adicionales",
     "files": [
-      "15h/posta.html"
+      "posta.html"
     ],
     "fr": "20 g supplémentaires",
     "tag": "span"
@@ -11277,7 +11365,7 @@
     "en": "<strong>Period II</strong> — postcard 15&nbsp;h, letter 25&nbsp;h, double postcard 30&nbsp;h, registered letter 75&nbsp;h",
     "es": "<strong>Período II</strong> — tarjeta postal 15&nbsp;h, carta 25&nbsp;h, tarjeta postal doble 30&nbsp;h, carta certificada 75&nbsp;h",
     "files": [
-      "15h/posta.html"
+      "posta.html"
     ],
     "fr": "<strong>Période II</strong> — carte postale 15&nbsp;h, lettre 25&nbsp;h, carte postale double 30&nbsp;h, lettre recommandée 75&nbsp;h",
     "tag": "span"
@@ -12084,7 +12172,7 @@
     "en": "The increase over the previous rates averaged 20–50&nbsp;%, and reached 100&nbsp;% for rates left unchanged throughout the war.",
     "es": "El aumento respecto a las tarifas anteriores fue, de media, del 20–50&nbsp;%, y llegó al 100&nbsp;% en las tarifas que no habían cambiado durante toda la guerra.",
     "files": [
-      "15h/posta.html"
+      "posta.html"
     ],
     "fr": "La hausse par rapport aux taxes précédentes s'élevait en moyenne à 20–50&nbsp;%, et jusqu'à 100&nbsp;% pour les taxes restées inchangées pendant toute la guerre.",
     "tag": "span"
@@ -12684,7 +12772,7 @@
     "en": "A contemporary source (Hospodářský list, 1919) also records rates for other kinds of mail valid in the 2nd tariff period:",
     "es": "Una fuente de la época (Hospodářský list, 1919) también recoge tarifas para otros tipos de envíos vigentes en el 2.º período tarifario:",
     "files": [
-      "15h/posta.html"
+      "posta.html"
     ],
     "fr": "Une source de l'époque (Hospodářský list, 1919) mentionne aussi des taxes pour d'autres types d'envois en vigueur pendant la 2e période tarifaire :",
     "tag": "span"
@@ -13177,7 +13265,7 @@
     "en": "Tariffs and postal rates",
     "es": "Tarifas y tasas postales",
     "files": [
-      "15h/posta.html"
+      "posta.html"
     ],
     "fr": "Tarifs et taxes postales",
     "tag": "span"
@@ -13779,7 +13867,7 @@
     "en": "Registered",
     "es": "Certificado",
     "files": [
-      "15h/posta.html"
+      "posta.html"
     ],
     "fr": "Recommandé",
     "tag": "span"
@@ -13858,7 +13946,7 @@
     "en": "Letter up to 20 g",
     "es": "Carta hasta 20 g",
     "files": [
-      "15h/posta.html"
+      "posta.html"
     ],
     "fr": "Lettre jusqu'à 20 g",
     "tag": "span"
@@ -14213,7 +14301,7 @@
     "es": "Período",
     "files": [
       "15h/zkusebni-tisky.html",
-      "15h/posta.html"
+      "posta.html"
     ],
     "fr": "Période",
     "tag": "span"
@@ -15259,7 +15347,7 @@
     "en": "Foreign rates",
     "es": "Tarifas al extranjero",
     "files": [
-      "15h/posta.html"
+      "posta.html"
     ],
     "fr": "Taxes pour l'étranger",
     "tag": "span"
@@ -16058,6 +16146,17 @@
     "fr": "catalogues POFIS et MERKUR ; Filatelistická revue 10–11/1934 (Lešetický)",
     "tag": "span"
   },
+  "c47e6e8aad": {
+    "cs": "Pohlednice odeslaná ze Znojma do Štramberku nese kruhové příležitostné razítko ŽUPNÍ SLET SOKOLSKÝ VE ZNOJMĚ z 24.&nbsp;srpna&nbsp;1919 — podle dosavadní evidence nejstarší doložené použití československého příležitostného razítka na Hradčanech. Frankována je nezoubkovanou 15&nbsp;h (ZP&nbsp;73/II); dohledán byl i druhý kus se zoubkováním A (ZP&nbsp;57/II).",
+    "de": "Eine von Znaim nach Wagstadt gesendete Postkarte trägt den runden Sonderstempel ŽUPNÍ SLET SOKOLSKÝ VE ZNOJMĚ vom 24.&nbsp;August&nbsp;1919 — nach dem bisherigen Kenntnisstand die früheste belegte Verwendung eines tschechoslowakischen Sonderstempels auf der Hradschin-Ausgabe. Frankiert ist sie mit einer ungezähnten 15&nbsp;h (Feld&nbsp;73/II); ein zweites Stück mit Zähnung A (Feld&nbsp;57/II) wurde ebenfalls gefunden.",
+    "en": "A postcard sent from Znojmo to Štramberk carries the circular commemorative postmark for the Sokol regional rally in Znojmo, dated 24&nbsp;August&nbsp;1919 — according to the records so far, the earliest documented use of a Czechoslovak commemorative postmark on the Hradčany issue. It is franked with an imperforate 15&nbsp;h (field&nbsp;73/II); a second copy with perforation A (field&nbsp;57/II) has also been found.",
+    "es": "Una tarjeta postal enviada desde Znojmo a Štramberk lleva el matasellos conmemorativo circular ŽUPNÍ SLET SOKOLSKÝ VE ZNOJMĚ del 24&nbsp;de agosto&nbsp;de 1919 — según los registros hasta ahora, el uso documentado más antiguo de un matasellos conmemorativo checoslovaco sobre la emisión de Hradčany. Está franqueada con un sello de 15&nbsp;h sin dentar (posición&nbsp;73/II); también se ha localizado un segundo ejemplar con dentado A (posición&nbsp;57/II).",
+    "files": [
+      "15h/posta.html"
+    ],
+    "fr": "Une carte postale envoyée de Znojmo à Štramberk porte l'oblitération commémorative circulaire ŽUPNÍ SLET SOKOLSKÝ VE ZNOJMĚ du 24&nbsp;août&nbsp;1919 — d'après les relevés actuels, le plus ancien usage documenté d'une oblitération commémorative tchécoslovaque sur l'émission du Hradschin. Elle est affranchie d'un 15&nbsp;h non dentelé (position&nbsp;73/II) ; un second exemplaire dentelé A (position&nbsp;57/II) a également été retrouvé.",
+    "tag": "span"
+  },
   "c484b3e7cd": {
     "cs": "Bludný kroužek vzniká jedním izolovaným smítkem a je proto malý, ostře ohraničený a leží samostatně v bílé ploše. Závoj naopak vzniká plošným přebytkem barvy na vyvýšené kresbě a vždy na ni navazuje nebo z ní vytéká — nikdy neleží izolovaně a nemá ostrý okraj.",
     "de": "Der wandernde Ring entsteht durch einen einzelnen isolierten Krümel und ist daher klein, scharf begrenzt und liegt allein in einer weißen Fläche. Der Schleier dagegen entsteht durch einen flächendeckenden Farbüberschuss an einem erhabenen Teil der Zeichnung und schließt immer daran an oder fließt daraus hervor — er liegt nie isoliert und hat nie einen scharfen Rand.",
@@ -16461,7 +16560,7 @@
     "en": "<strong>Period I</strong> — letter up to 20&nbsp;g 25&nbsp;h, each further 20&nbsp;g 5&nbsp;h, registration +25&nbsp;h <span style=\"color:var(--muted)\">(another source gives +50&nbsp;h — the sources disagree on this point)</span>",
     "es": "<strong>Período I</strong> — carta hasta 20&nbsp;g 25&nbsp;h, cada 20&nbsp;g adicionales 5&nbsp;h, certificado +25&nbsp;h <span style=\"color:var(--muted)\">(otra fuente indica +50&nbsp;h — las fuentes se contradicen en este punto)</span>",
     "files": [
-      "15h/posta.html"
+      "posta.html"
     ],
     "fr": "<strong>Période I</strong> — lettre jusqu'à 20&nbsp;g 25&nbsp;h, chaque 20&nbsp;g supplémentaire 5&nbsp;h, recommandation +25&nbsp;h <span style=\"color:var(--muted)\">(une autre source indique +50&nbsp;h — les sources se contredisent sur ce point)</span>",
     "tag": "span"
@@ -16569,7 +16668,7 @@
     "en": "Validity",
     "es": "Validez",
     "files": [
-      "15h/posta.html"
+      "posta.html"
     ],
     "fr": "Validité",
     "tag": "span"
@@ -17120,7 +17219,7 @@
     "en": "<strong>Periods III and IV</strong> — the foreign rates could not be reliably established from the sources at hand. RPSL records a reduced rate of 100&nbsp;h to some neighbouring states for 1920–21, and a rate of 25&nbsp;h for printed matter sent abroad.",
     "es": "<strong>Períodos III y IV</strong> — no se ha podido establecer con fiabilidad, a partir de las fuentes disponibles, las tarifas al extranjero. El RPSL indica para 1920–21 una tarifa reducida de 100&nbsp;h a algunos países vecinos y una tarifa de 25&nbsp;h para impresos al extranjero.",
     "files": [
-      "15h/posta.html"
+      "posta.html"
     ],
     "fr": "<strong>Périodes III et IV</strong> — les taxes vers l'étranger n'ont pas pu être établies de façon fiable à partir des sources disponibles. Le RPSL indique pour 1920–21 un tarif réduit de 100&nbsp;h vers certains États voisins et un tarif de 25&nbsp;h pour les imprimés à destination de l'étranger.",
     "tag": "span"
@@ -17240,6 +17339,17 @@
       "15h/index.html"
     ],
     "fr": "Émission",
+    "tag": "span"
+  },
+  "d4cd333cdc": {
+    "cs": "Nejstarší příležitostné razítko — Slet ve Znojmě, 24. 8. 1919",
+    "de": "Der älteste Sonderstempel — das Sokol-Treffen in Znaim, 24.8.1919",
+    "en": "The earliest commemorative postmark — the Znojmo rally, 24 Aug 1919",
+    "es": "El matasellos conmemorativo más antiguo — la concentración de Znojmo, 24/8/1919",
+    "files": [
+      "15h/posta.html"
+    ],
+    "fr": "La plus ancienne oblitération commémorative — le rassemblement de Znojmo, 24/8/1919",
     "tag": "span"
   },
   "d4ef8814a5": {
@@ -17616,6 +17726,17 @@
     "fr": "Sur la base de 6 477 oblitérations lisiblement datées. La séquence montre la production passer des dentelures en lignes D/E/F sur les planches précoces aux dentelures en peigne A/B sur les planches plus tardives.",
     "tag": "span"
   },
+  "d9b46bcb08": {
+    "cs": "Pohlednice ze Znojma do Štramberku s kruhovým příležitostným razítkem Župní slet sokolský ve Znojmě z 24.&nbsp;srpna&nbsp;1919 — podle dosavadní evidence nejstarší doložené použití československého příležitostného razítka na emisi Hradčany. K frankatuře nezoubkovanou 15&nbsp;h (ZP&nbsp;73/II) přidáváme i druhý dohledaný kus se zoubkováním A (ZP&nbsp;57/II) a rozbor razítka samotného.",
+    "de": "Eine Postkarte von Znaim nach Wagstadt mit dem runden Sonderstempel des Sokol-Bezirkstreffens in Znaim vom 24.&nbsp;August&nbsp;1919 — nach dem bisherigen Kenntnisstand die früheste belegte Verwendung eines tschechoslowakischen Sonderstempels auf der Hradschin-Ausgabe. Neben der Frankatur mit einer ungezähnten 15&nbsp;h (Feld&nbsp;73/II) behandeln wir auch ein zweites Stück mit Zähnung A (Feld&nbsp;57/II) sowie den Stempel selbst.",
+    "en": "A postcard from Znojmo to Štramberk bearing the circular commemorative postmark for the Sokol regional rally in Znojmo, dated 24&nbsp;August&nbsp;1919 — according to the records so far, the earliest documented use of a Czechoslovak commemorative postmark on the Hradčany issue. Alongside the franking with an imperforate 15&nbsp;h (field&nbsp;73/II), we also cover a second specimen with perforation A (field&nbsp;57/II) and a look at the postmark itself.",
+    "es": "Una tarjeta postal de Znojmo a Štramberk con el matasellos conmemorativo circular de la concentración regional del Sokol en Znojmo, fechado el 24&nbsp;de agosto&nbsp;de 1919 — según los registros hasta ahora, el uso documentado más antiguo de un matasellos conmemorativo checoslovaco en la emisión de Hradčany. Junto al franqueo con un sello de 15&nbsp;h sin dentar (posición&nbsp;73/II), presentamos también un segundo ejemplar con dentado A (posición&nbsp;57/II) y un análisis del propio matasellos.",
+    "files": [
+      "15h/clanky.html"
+    ],
+    "fr": "Une carte postale de Znojmo à Štramberk portant l'oblitération commémorative circulaire du rassemblement régional du Sokol à Znojmo, datée du 24&nbsp;août&nbsp;1919 — d'après les relevés actuels, le plus ancien usage documenté d'une oblitération commémorative tchécoslovaque sur l'émission du Hradschin. Outre l'affranchissement avec un 15&nbsp;h non dentelé (position&nbsp;73/II), nous présentons aussi un second exemplaire dentelé A (position&nbsp;57/II) et un examen de l'oblitération elle-même.",
+    "tag": "span"
+  },
   "d9da9d317c": {
     "cs": "Výrazný šikmý záhyb od horního okraje k dolnímu. Podél něj je kresba světlejší a obě strany záhybu na sebe nenavazují.",
     "de": "Ausgeprägter schräger Umschlag vom oberen zum unteren Rand. Entlang von ihm ist die Zeichnung heller, und die beiden Seiten des Umschlags setzen sich nicht ineinander fort.",
@@ -17959,7 +18080,40 @@
       "15h/typy.html",
       "15h/vyrobni-vady.html",
       "15h/zkusebni-tisky.html",
-      "15h/zoubkovani.html"
+      "15h/zoubkovani.html",
+      "clanky.html",
+      "ctvrta-kresba.html",
+      "deska-10h-i.html",
+      "deska-10h-ii.html",
+      "deska-120h-ii.html",
+      "deska-20h-ii.html",
+      "deska-25h-i.html",
+      "deska-25h-ii.html",
+      "deska-300h-i.html",
+      "deska-5h-i.html",
+      "deska-5h-ii.html",
+      "deska-5h-vi.html",
+      "deska-5h-viii.html",
+      "deska-60h-ii.html",
+      "druha-kresba.html",
+      "index.html",
+      "ke-stazeni.html",
+      "kniha-navstev.html",
+      "novinky.html",
+      "obloukove-typy.html",
+      "odkazy.html",
+      "pata-kresba.html",
+      "posta.html",
+      "prickove-typy.html",
+      "prvni-kresba.html",
+      "rameckove-typy.html",
+      "shanim.html",
+      "sitemap.html",
+      "spiralove-typy.html",
+      "tiskove-desky.html",
+      "treti-kresba.html",
+      "typy-pate-kresby.html",
+      "znamky-emise.html"
     ],
     "fr": "Usage postal",
     "tag": "span"
@@ -18231,7 +18385,7 @@
     "en": "commercial papers — 5&nbsp;h per 50&nbsp;g, minimum 25&nbsp;h",
     "es": "papeles de negocios — 5&nbsp;h por cada 50&nbsp;g, mínimo 25&nbsp;h",
     "files": [
-      "15h/posta.html"
+      "posta.html"
     ],
     "fr": "papiers d'affaires — 5&nbsp;h par 50&nbsp;g, minimum 25&nbsp;h",
     "tag": "span"
@@ -18291,7 +18445,7 @@
     "en": "samples of merchandise — 5&nbsp;h per 50&nbsp;g, minimum 15&nbsp;h",
     "es": "muestras de mercancías — 5&nbsp;h por cada 50&nbsp;g, mínimo 15&nbsp;h",
     "files": [
-      "15h/posta.html"
+      "posta.html"
     ],
     "fr": "échantillons de marchandises — 5&nbsp;h par 50&nbsp;g, minimum 15&nbsp;h",
     "tag": "span"
@@ -18467,7 +18621,7 @@
     "en": "The end of the Hradčany's postal validity — none of the sources at hand gives an exact date. The end of 1921 is traditionally cited, but this needs verification against POFIS or the Monograph of Czechoslovak Stamps.",
     "es": "El fin de la validez postal de los sellos de Hradčany — ninguna de las fuentes disponibles da una fecha exacta. Tradicionalmente se cita el final de 1921, pero esto debe verificarse en POFIS o en la Monografía de los sellos checoslovacos.",
     "files": [
-      "15h/posta.html"
+      "posta.html"
     ],
     "fr": "La fin de la validité postale des timbres du Hradschin — aucune des sources disponibles n'indique de date exacte. La fin de l'année 1921 est traditionnellement citée, mais cela reste à vérifier dans le POFIS ou la Monographie des timbres tchécoslovaques.",
     "tag": "span"
@@ -19030,6 +19184,17 @@
     "fr": "Hradčany 15h — défauts de fabrication : dentelure, impression et papier.",
     "tag": "meta"
   },
+  "e9e404d6ee": {
+    "cs": "Nejstarší příležitostné razítko na Hradčanech — Slet ve Znojmě, 24. 8. 1919",
+    "de": "Der älteste Sonderstempel auf der Hradschin-Ausgabe — das Sokol-Treffen in Znaim, 24.8.1919",
+    "en": "The earliest commemorative postmark on the Hradčany issue — the Znojmo rally, 24 Aug 1919",
+    "es": "El matasellos conmemorativo más antiguo de la emisión de Hradčany — la concentración de Znojmo, 24/8/1919",
+    "files": [
+      "15h/clanky.html"
+    ],
+    "fr": "La plus ancienne oblitération commémorative sur l'émission du Hradschin — le rassemblement de Znojmo, 24/8/1919",
+    "tag": "span"
+  },
   "e9f8bd00cb": {
     "cs": "Spirálové, příčkové, obloukové a rámečkové typy páté kresby emise Hradčany.",
     "de": "Spiralen-, Quersteg-, Bogen- und Rahmentypen der fünften Zeichnung der Hradschin-Ausgabe.",
@@ -19057,7 +19222,7 @@
     "en": "Special domestic rates (period II)",
     "es": "Tarifas interiores especiales (período II)",
     "files": [
-      "15h/posta.html"
+      "posta.html"
     ],
     "fr": "Taxes intérieures particulières (période II)",
     "tag": "span"
@@ -19284,7 +19449,7 @@
     "en": "<strong>Period I</strong> — postcard 10&nbsp;h, letter 20&nbsp;h, registered letter 45&nbsp;h <span style=\"color:var(--muted)\">(e.g. 3×10&nbsp;h + 3×5&nbsp;h on a registered letter of 19&nbsp;Dec&nbsp;1918)</span>",
     "es": "<strong>Período I</strong> — tarjeta postal 10&nbsp;h, carta 20&nbsp;h, carta certificada 45&nbsp;h <span style=\"color:var(--muted)\">(p.&nbsp;ej. 3×10&nbsp;h + 3×5&nbsp;h en una carta certificada del 19&nbsp;12&nbsp;1918)</span>",
     "files": [
-      "15h/posta.html"
+      "posta.html"
     ],
     "fr": "<strong>Période I</strong> — carte postale 10&nbsp;h, lettre 20&nbsp;h, lettre recommandée 45&nbsp;h <span style=\"color:var(--muted)\">(p.&nbsp;ex. 3×10&nbsp;h + 3×5&nbsp;h sur une lettre recommandée du 19&nbsp;12&nbsp;1918)</span>",
     "tag": "span"
@@ -19784,7 +19949,7 @@
     "en": "Open questions",
     "es": "Cuestiones abiertas",
     "files": [
-      "15h/posta.html"
+      "posta.html"
     ],
     "fr": "Questions ouvertes",
     "tag": "span"
@@ -20095,7 +20260,7 @@
     "en": "from",
     "es": "desde",
     "files": [
-      "15h/posta.html"
+      "posta.html"
     ],
     "fr": "à partir de",
     "tag": "span"
@@ -20106,7 +20271,7 @@
     "en": "<strong>Sources:</strong> SCP – Collecting Czechoslovakia: The Transition Period · RPSL – Czechoslovakia, The Allegory Issues 1920–1926 · Hospodářský list (1919), cited via Bejvávalo.cz · Philaseiten – Tschechoslowakei: Belege bestimmen · Burda Auction 71 – Hradčany covers · CPSGB – Czechout article index · Kunc, Poštovnictví na území německo-rakouských provincií (Czech National Archive) · Infofila – Czechoslovak post 1918–1919 · World Stamps Project. Fuller tables should also be found in Czechout: Feldmann, Changeover dates of postal rates (12/1989); Hutyra, Schedule of postal rates (3/1995); Švejnar, Valuable items … in six tariff periods (9/2005).",
     "es": "<strong>Fuentes:</strong> SCP – Collecting Czechoslovakia: The Transition Period · RPSL – Czechoslovakia, The Allegory Issues 1920–1926 · Hospodářský list (1919), citado según Bejvávalo.cz · Philaseiten – Tschechoslowakei: Belege bestimmen · Burda, subasta 71 – cartas de Hradčany · CPSGB – índice de artículos de Czechout · Kunc, Poštovnictví na území německo-rakouských provincií (Archivo Nacional checo) · Infofila – Correo checoslovaco 1918–1919 · World Stamps Project. En Czechout deberían encontrarse también tablas más completas: Feldmann, Changeover dates of postal rates (12/1989); Hutyra, Schedule of postal rates (3/1995); Švejnar, Valuable items … in six tariff periods (9/2005).",
     "files": [
-      "15h/posta.html"
+      "posta.html"
     ],
     "fr": "<strong>Sources :</strong> SCP – Collecting Czechoslovakia: The Transition Period · RPSL – Czechoslovakia, The Allegory Issues 1920–1926 · Hospodářský list (1919), cité d'après Bejvávalo.cz · Philaseiten – Tschechoslowakei: Belege bestimmen · Burda, vente 71 – lettres du Hradschin · CPSGB – index des articles de Czechout · Kunc, Poštovnictví na území německo-rakouských provincií (Archives nationales tchèques) · Infofila – Poste tchécoslovaque 1918–1919 · World Stamps Project. Des tableaux plus complets devraient également se trouver dans Czechout : Feldmann, Changeover dates of postal rates (12/1989) ; Hutyra, Schedule of postal rates (3/1995) ; Švejnar, Valuable items … in six tariff periods (9/2005).",
     "tag": "span"
@@ -20626,7 +20791,7 @@
     "en": "Express",
     "es": "Urgente",
     "files": [
-      "15h/posta.html"
+      "posta.html"
     ],
     "fr": "Exprès",
     "tag": "span"
