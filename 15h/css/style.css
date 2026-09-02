@@ -218,6 +218,14 @@ a.t7:hover{filter:brightness(1.12);text-decoration:none}
 .tg-card .cell:hover{box-shadow:0 3px 10px rgba(60,30,15,.25)}
 .tg-cap{font-size:.78rem;margin-top:.3rem;line-height:1.35}
 
+/* volná galerie zásilek — karty proměnlivého poměru stran, výška pevná */
+.gallery.loose.pieces{align-items:flex-start}
+.gallery.loose.pieces .tg-card{width:auto}
+.gallery.loose.pieces .cell{height:230px;width:auto;display:inline-flex;background:#faf6f0;align-items:center;justify-content:center;padding:4px}
+.gallery.loose.pieces .cell img{height:100%;width:auto;max-width:none;object-fit:contain;aspect-ratio:auto;display:block}
+.gallery.loose.pieces .tg-cap{max-width:220px;margin-left:auto;margin-right:auto}
+.gallery.loose.pieces .tg-card.pair{position:relative}
+
 /* odkaz zpet na hlavni web emise */
 .site-nav .nav-up{background:rgba(255,255,255,.14);border-radius:5px}
 .site-nav .nav-up:hover{background:rgba(255,255,255,.26)}

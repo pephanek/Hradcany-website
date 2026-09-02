@@ -21351,5 +21351,203 @@
   ],
   "fr": "Nouvel article – <a href=\"15h/clanky/15h-td7-humpolec.html\"><strong>deux timbres de 15 h de la septième planche d'impression sur un même pli</strong></a> (Humpolec, 3&nbsp;août&nbsp;1919, positions&nbsp;9 et&nbsp;19 de la planche&nbsp;VII). La planche VII est la moins documentée des sept planches — les relevés du site ne comptent que 122 exemplaires attribués, couvrant 70 positions —, ce qui fait de cette découverte de deux positions différentes sur un même pli l'un des ajouts les plus significatifs à la documentation de cette planche.",
   "tag": "span"
+ },
+ "818518d0a2": {
+  "cs": "Příklady použití",
+  "en": "Usage examples",
+  "de": "Anwendungsbeispiele",
+  "fr": "Exemples d'utilisation",
+  "es": "Ejemplos de uso",
+  "files": [
+   "15h/zasilky.html"
+  ],
+  "tag": "span"
+ },
+ "c33f2ad6df": {
+  "cs": "→ Galerie příkladů poštovního použití: dopisy, pohlednice a poštovní doklady s frankaturou 15&nbsp;h",
+  "en": "→ Gallery of postal usage examples: envelopes, postcards and postal forms franked with the 15&nbsp;h",
+  "de": "→ Galerie mit Beispielen der postalischen Verwendung: Briefe, Postkarten und Postformulare mit 15&nbsp;h-Frankatur",
+  "fr": "→ Galerie d'exemples d'utilisation postale : lettres, cartes postales et formulaires postaux affranchis en 15&nbsp;h",
+  "es": "→ Galería de ejemplos de uso postal: cartas, tarjetas postales y formularios postales franqueados con 15&nbsp;h",
+  "files": [
+   "15h/zasilky.html"
+  ],
+  "tag": "span"
+ },
+ "8bc822a51d": {
+  "cs": "Emise Hradčany",
+  "en": "The Hradčany issue",
+  "de": "Ausgabe Hradschin",
+  "fr": "Émission Hradčany",
+  "es": "Emisión Hradčany",
+  "files": [
+   "15h/zasilky.html"
+  ],
+  "tag": "span"
+ },
+ "75c3aced47": {
+  "cs": "Příklady poštovního použití",
+  "en": "Usage examples",
+  "de": "Beispiele der postalischen Verwendung",
+  "fr": "Exemples d'utilisation postale",
+  "es": "Ejemplos de uso postal",
+  "files": [
+   "15h/zasilky.html"
+  ],
+  "tag": "span"
+ },
+ "a1c32d712f": {
+  "cs": "Galerie skutečných dopisů, pohlednic a poštovních dokladů frankovaných známkou 15&nbsp;h — jednoduše i v kombinaci s jinými hodnotami, v běžném i neobvyklém provedení. Na rozdíl od podrobných rozborů v <a href=\"clanky.html\">článcích</a> jde tu o rychlý přehled šíře použití této hodnoty; galerie průběžně roste s dalšími přírůstky sbírky. Klikněte na libovolný náhled pro zvětšení.",
+  "en": "A gallery of real letters, postcards and postal forms franked with the 15&nbsp;h stamp — singly and in combination with other values, in ordinary and unusual ways. Unlike the in-depth analyses in the <a href=\"clanky.html\">articles</a>, this is a quick overview of the breadth of the value's use; the gallery keeps growing as the collection does. Click any thumbnail to enlarge.",
+  "de": "Eine Galerie echter Briefe, Postkarten und Postformulare, frankiert mit der 15&nbsp;h-Marke — einzeln und in Kombination mit anderen Werten, in gewöhnlicher und ungewöhnlicher Form. Anders als die ausführlichen Analysen in den <a href=\"clanky.html\">Artikeln</a> bietet dies einen schnellen Überblick über die Bandbreite der Verwendung dieses Werts; die Galerie wächst laufend mit der Sammlung. Klicken Sie auf ein Vorschaubild zum Vergrößern.",
+  "fr": "Une galerie de lettres, cartes postales et formulaires postaux réels affranchis avec le timbre de 15&nbsp;h — seul ou combiné à d'autres valeurs, de façon ordinaire ou inhabituelle. Contrairement aux analyses approfondies des <a href=\"clanky.html\">articles</a>, il s'agit ici d'un aperçu rapide de l'étendue de l'usage de cette valeur ; la galerie s'enrichit continuellement avec la collection. Cliquez sur une vignette pour l'agrandir.",
+  "es": "Una galería de cartas, tarjetas postales y formularios postales reales franqueados con el sello de 15&nbsp;h — solo o combinado con otros valores, de forma habitual o inusual. A diferencia de los análisis detallados de los <a href=\"clanky.html\">artículos</a>, aquí se ofrece una visión rápida de la amplitud de uso de este valor; la galería crece continuamente junto con la colección. Haga clic en cualquier miniatura para ampliarla.",
+  "files": [
+   "15h/zasilky.html"
+  ],
+  "tag": "span"
+ },
+ "fdf6e909d7": {
+  "cs": "Dopisy",
+  "en": "Envelopes",
+  "de": "Briefe",
+  "fr": "Lettres",
+  "es": "Cartas",
+  "files": [
+   "15h/zasilky.html"
+  ],
+  "tag": "span"
+ },
+ "5f03296bdc": {
+  "cs": "Pohlednice",
+  "en": "Postcards",
+  "de": "Postkarten",
+  "fr": "Cartes postales",
+  "es": "Tarjetas postales",
+  "files": [
+   "15h/zasilky.html"
+  ],
+  "tag": "span"
+ },
+ "ab0edb06b7": {
+  "cs": "Poštovní doklady",
+  "en": "Postal forms",
+  "de": "Postformulare",
+  "fr": "Formulaires postaux",
+  "es": "Formularios postales",
+  "files": [
+   "15h/zasilky.html"
+  ],
+  "tag": "span"
+ },
+ "564387d40a": {
+  "cs": "Podací lístky, poukázky a průvodky — formuláře doprovázející peněžní a balíkové zásilky, často s neobvyklou kombinovanou frankaturou.",
+  "en": "Dispatch notes, money orders and parcel cards — forms accompanying cash and parcel items, often with an unusual combination franking.",
+  "de": "Aufgabescheine, Zahlkarten und Paketkarten — Formulare, die Geld- und Paketsendungen begleiten, oft mit einer ungewöhnlichen Mischfrankatur.",
+  "fr": "Bulletins de dépôt, mandats et bulletins d'expédition — formulaires accompagnant les envois d'argent et de colis, souvent avec un affranchissement combiné inhabituel.",
+  "es": "Resguardos de imposición, giros y boletines de expedición — formularios que acompañan envíos de dinero y paquetes, a menudo con un franqueo combinado poco habitual.",
+  "files": [
+   "15h/zasilky.html"
+  ],
+  "tag": "span"
+ },
+ "a4b4c00eeb": {
+  "cs": "vlastní sbírka",
+  "en": "own collection",
+  "de": "eigene Sammlung",
+  "fr": "collection personnelle",
+  "es": "colección propia",
+  "files": [
+   "15h/zasilky.html"
+  ],
+  "tag": "span"
+ },
+ "053519a069": {
+  "cs": "Příklady poštovního použití — Hradčany 15h",
+  "en": "Usage examples — 15h Hradčany",
+  "de": "Anwendungsbeispiele — Hradschin 15h",
+  "fr": "Exemples d'utilisation — Hradčany 15h",
+  "es": "Ejemplos de uso — Hradčany 15h",
+  "files": [
+   "15h/zasilky.html"
+  ],
+  "tag": "span"
+ },
+ "d38796a317": {
+  "cs": "Hradčany 15h (POFIS 7) — galerie příkladů poštovního použití: dopisy, pohlednice, poštovní doklady. / Gallery of postal usage examples of the 15h Hradčany stamp.",
+  "en": "Hradčany 15h (POFIS 7) — gallery of postal usage examples: envelopes, postcards, postal forms.",
+  "de": "Hradschin 15h (POFIS 7) — Galerie mit Beispielen der postalischen Verwendung: Briefe, Postkarten, Postformulare.",
+  "fr": "Hradčany 15h (POFIS 7) — galerie d'exemples d'utilisation postale : lettres, cartes postales, formulaires postaux.",
+  "es": "Hradčany 15h (POFIS 7) — galería de ejemplos de uso postal: cartas, tarjetas postales, formularios postales.",
+  "files": [
+   "15h/zasilky.html"
+  ],
+  "tag": "span"
+ },
+ "bb3cc6ef38": {
+  "cs": "<span class=\"badge type\">kombinovaná frankatura</span>",
+  "en": "<span class=\"badge type\">combination franking</span>",
+  "de": "<span class=\"badge type\">kombinierte Frankatur</span>",
+  "fr": "<span class=\"badge type\">affranchissement combiné</span>",
+  "es": "<span class=\"badge type\">franqueo combinado</span>",
+  "files": [
+   "15h/zasilky.html"
+  ],
+  "tag": "span"
+ },
+ "d67e5cb664": {
+  "cs": "<span class=\"badge type\">pečetní známka</span>",
+  "en": "<span class=\"badge type\">sealing stamp</span>",
+  "de": "<span class=\"badge type\">Verschlussmarke</span>",
+  "fr": "<span class=\"badge type\">timbre de fermeture</span>",
+  "es": "<span class=\"badge type\">sello de cierre</span>",
+  "files": [
+   "15h/zasilky.html"
+  ],
+  "tag": "span"
+ },
+ "b55d514df1": {
+  "cs": "<span class=\"badge type\">vícenásobná frankatura</span>",
+  "en": "<span class=\"badge type\">multiple franking</span>",
+  "de": "<span class=\"badge type\">Mehrfachfrankatur</span>",
+  "fr": "<span class=\"badge type\">affranchissement multiple</span>",
+  "es": "<span class=\"badge type\">franqueo múltiple</span>",
+  "files": [
+   "15h/zasilky.html"
+  ],
+  "tag": "span"
+ },
+ "76334f8405": {
+  "cs": "<span class=\"badge type\">neobvyklé umístění</span>",
+  "en": "<span class=\"badge type\">unusual placement</span>",
+  "de": "<span class=\"badge type\">ungewöhnliche Platzierung</span>",
+  "fr": "<span class=\"badge type\">position inhabituelle</span>",
+  "es": "<span class=\"badge type\">colocación inusual</span>",
+  "files": [
+   "15h/zasilky.html"
+  ],
+  "tag": "span"
+ },
+ "41fc1a65b4": {
+  "cs": "<span class=\"badge rare\">časné použití</span>",
+  "en": "<span class=\"badge rare\">early use</span>",
+  "de": "<span class=\"badge rare\">frühe Verwendung</span>",
+  "fr": "<span class=\"badge rare\">utilisation précoce</span>",
+  "es": "<span class=\"badge rare\">uso temprano</span>",
+  "files": [
+   "15h/zasilky.html"
+  ],
+  "tag": "span"
+ },
+ "3ed330517a": {
+  "cs": "<span class=\"badge type\">nezoubkovaná</span>",
+  "en": "<span class=\"badge type\">imperforate</span>",
+  "de": "<span class=\"badge type\">ungezähnt</span>",
+  "fr": "<span class=\"badge type\">non dentelé</span>",
+  "es": "<span class=\"badge type\">sin dentar</span>",
+  "files": [
+   "15h/zasilky.html"
+  ],
+  "tag": "span"
  }
 }
