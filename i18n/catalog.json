@@ -278,6 +278,13 @@
   "fr": "D 1–2",
   "tag": "span"
  },
+ "03a480d9de": {
+  "cs": "ZP 9 a 19 / TD VII · nezoubkované",
+  "de": "Felder 9 und 19 / Platte VII · ungezähnt",
+  "en": "fields 9 and 19 / plate VII · imperforate",
+  "es": "campos 9 y 19 / plancha VII · sin dentar",
+  "fr": "champs 9 et 19 / planche VII · non dentelés"
+ },
  "03a896b532": {
   "cs": "katalogových odstínů",
   "de": "Katalog-Farbtöne",
@@ -1447,6 +1454,17 @@
   "fr": "gris argenté",
   "tag": "span"
  },
+ "12cea0df70": {
+  "cs": "Je to obtížnější, než by se čekalo, protože <strong>500 h má tentýž obraz Hradčan</strong> jako 15 h — liší se hodnotou v oválu a ozdobami rámu. Oba otisky se tedy z větší části překrývají a splývají v jednu rozmazanou plochu. Prozradí je až <strong>ozdoby</strong>: v obloze nad hradem, kde patnáctihaléřová kresba nechává papír světlý, se objevují soustředné spirály, které v ní nemají co dělat. Druhý otisk je navíc slabší a mimo soutisk, takže ani nesedí na rám.",
+  "de": "Das ist schwieriger, als man erwarten würde, denn die <strong>500 h trägt dasselbe Hradschin-Bild</strong> wie die 15h — sie unterscheidet sich im Wert im Oval und in den Rahmenornamenten. Beide Abdrucke decken sich also größtenteils und verschmelzen zu einer verwischten Fläche. Verraten wird es erst durch die <strong>Ornamente</strong>: im Himmel über der Burg, wo die Zeichnung der 15h das Papier hell lässt, erscheinen konzentrische Spiralen, die dort nichts zu suchen haben. Der zweite Abdruck ist zudem schwächer und außer Passer, sodass er auch nicht zum Rahmen passt.",
+  "en": "This is harder than one might expect, because the <strong>500 h carries the same view of Hradčany</strong> as the 15h — it differs in the value in the oval and in the ornaments of the frame. The two impressions therefore largely coincide and merge into one blurred surface. It is the <strong>ornaments</strong> that give it away: in the sky above the castle, where the 15h design leaves the paper light, concentric spirals appear that have no business being there. The second impression is also fainter and out of register, so it does not line up with the frame either.",
+  "es": "Es más difícil de lo que cabría esperar, porque el <strong>500 h lleva la misma vista de Hradčany</strong> que los 15 h — se diferencia por el valor en el óvalo y por los ornamentos del marco. Ambas impresiones se solapan, pues, en gran parte y se funden en una superficie borrosa. Son los <strong>ornamentos</strong> los que lo delatan: en el cielo sobre el castillo, donde el dibujo de los 15 h deja el papel claro, aparecen espirales concéntricas que nada tienen que hacer allí. La segunda impresión es además más débil y está fuera de registro, de modo que tampoco coincide con el marco.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "C’est plus difficile qu’on ne le croirait, car le <strong>500 h porte la même vue de Hradčany</strong> que le 15 h — il en diffère par la valeur dans l’ovale et par les ornements du cadre. Les deux impressions se recouvrent donc en grande partie et se fondent en une surface floue. Ce sont les <strong>ornements</strong> qui trahissent l’affaire : dans le ciel au-dessus du château, là où le dessin du 15 h laisse le papier clair, apparaissent des spirales concentriques qui n’ont rien à y faire. La seconde impression est en outre plus faible et hors repérage, si bien qu’elle ne coïncide pas non plus avec le cadre.",
+  "tag": "span"
+ },
  "13562efad9": {
   "cs": "Kus s hustým razítkem; v obloze nad hradem přesto prosvítá několik drobných skvrn.",
   "de": "Ein Stück mit dichtem Stempel; im Himmel über der Burg schimmern dennoch einige kleine Flecken durch.",
@@ -1567,6 +1585,13 @@
   ],
   "fr": "Bien des récits circulent autour des premiers timbres tchécoslovaques et, à force d’être répétés, se sont écartés des faits. Plus de cent ans ont passé depuis leur naissance — voici, résumé, ce qui est attesté.",
   "tag": "span"
+ },
+ "14b04f0b7f": {
+  "cs": "<strong>15h</strong> — <a href=\"15h/mapa.html\"><strong>Mapa razítek</strong></a> doplněna o Rynoltice a Mikulovice na desce III a o vlakovou poštu 113 Broumov–Choceň; opravena poloha Práchně. Mezi <a href=\"15h/posta.html\"><strong>poštovně použité nezoubkované známky desek 5 a 6</strong></a> přibyl kus z Košic 2 (pole 29/V, 26.&nbsp;VI.&nbsp;1920), vrstva jich má nyní třináct. <a href=\"15h/statistiky.html\"><strong>Statistiky</strong></a> aktualizovány na 6&nbsp;525 datovaných razítek.",
+  "de": "<strong>15h</strong> — Die <a href=\"15h/mapa.html\"><strong>Stempelkarte</strong></a> wurde um Rynoltice und Mikulovice auf Platte III sowie um die Bahnpost 113 Broumov–Choceň ergänzt; die Lage von Prácheň wurde korrigiert. Zu den <a href=\"15h/posta.html\"><strong>postalisch verwendeten ungezähnten Marken der Platten 5 und 6</strong></a> kam ein Stück aus Košice 2 (Feld 29/V, 26.&nbsp;VI.&nbsp;1920) hinzu; es sind nun dreizehn. Die <a href=\"15h/statistiky.html\"><strong>Statistiken</strong></a> wurden auf 6&nbsp;525 datierte Stempel aktualisiert.",
+  "en": "<strong>15h</strong> — The <a href=\"15h/mapa.html\"><strong>cancellation map</strong></a> gains Rynoltice and Mikulovice on plate III and the travelling post office 113 Broumov–Choceň; the position of Prácheň has been corrected. A copy from Košice 2 (field 29/V, 26&nbsp;June&nbsp;1920) has been added to the <a href=\"15h/posta.html\"><strong>postally used imperforate stamps of plates 5 and 6</strong></a>, which now number thirteen. The <a href=\"15h/statistiky.html\"><strong>statistics</strong></a> have been updated to 6&nbsp;525 dated cancellations.",
+  "es": "<strong>15h</strong> — El <a href=\"15h/mapa.html\"><strong>mapa de matasellos</strong></a> incorpora Rynoltice y Mikulovice en la plancha III y la ambulancia postal 113 Broumov–Choceň; se ha corregido la posición de Prácheň. Un ejemplar de Košice 2 (campo 29/V, 26&nbsp;de&nbsp;junio&nbsp;de&nbsp;1920) se suma a los <a href=\"15h/posta.html\"><strong>sellos sin dentar de las planchas 5 y 6 con uso postal</strong></a>, que ahora son trece. Las <a href=\"15h/statistiky.html\"><strong>estadísticas</strong></a> se actualizan a 6&nbsp;525 matasellos fechados.",
+  "fr": "<strong>15h</strong> — La <a href=\"15h/mapa.html\"><strong>carte des oblitérations</strong></a> s'enrichit de Rynoltice et Mikulovice sur la planche III et de la poste ambulante 113 Broumov–Choceň ; la position de Prácheň a été corrigée. Un exemplaire de Košice 2 (champ 29/V, 26&nbsp;juin&nbsp;1920) rejoint les <a href=\"15h/posta.html\"><strong>timbres non dentelés des planches 5 et 6 ayant voyagé</strong></a>, désormais au nombre de treize. Les <a href=\"15h/statistiky.html\"><strong>statistiques</strong></a> passent à 6&nbsp;525 oblitérations datées."
  },
  "14de90c497": {
   "cs": "Celistvost: Poklad za „babku“",
@@ -1789,6 +1814,17 @@
    "novinky.html"
   ],
   "fr": "Nouvelle entrée dans le fichier : une pièce en <strong>dentelure E</strong> (planche&nbsp;II) avec une oblitération datée du <strong>10&nbsp;mars&nbsp;1920</strong> ; le bureau de poste n’est pas lisible. Les <a href=\"15h/statistiky.html\"><strong>statistiques</strong></a> ont été mises à jour (6&nbsp;474 oblitérations datées).",
+  "tag": "span"
+ },
+ "188035f7d6": {
+  "cs": "Makulatura je papír, který se při tisku znehodnotil a nikdy neměl opustit tiskárnu. Vzniká hlavně při <strong>rozjezdu stroje</strong>, než se seřídí přítlak a nanášení barvy. Jednou znehodnocený arch už ale nebyl k ničemu jinému než k dalšímu zkoušení — a právě to je na tomto kusu vidět.",
+  "de": "Makulatur ist Papier, das beim Druck verdorben wurde und die Druckerei nie hätte verlassen sollen. Sie entsteht vor allem beim <strong>Anfahren der Maschine</strong>, ehe Druck und Farbauftrag eingestellt sind. Ein einmal verdorbener Bogen taugte allerdings zu nichts anderem mehr als zu weiteren Versuchen — und genau das ist an diesem Stück zu sehen.",
+  "en": "Waste is paper spoiled during printing that was never meant to leave the works. It arises mainly while the press is being <strong>run up</strong>, before the pressure and the inking are set. Once spoiled, however, a sheet was good for nothing but further trials — and that is exactly what this piece shows.",
+  "es": "La maculatura es papel estropeado durante la impresión que nunca debió salir del taller. Surge sobre todo al <strong>arrancar la máquina</strong>, antes de ajustar la presión y la entintación. Pero un pliego ya estropeado no servía para otra cosa que para seguir probando — y eso es justamente lo que muestra esta pieza.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "La macule est du papier gâté à l’impression, qui n’aurait jamais dû quitter l’imprimerie. Elle naît surtout au <strong>démarrage de la presse</strong>, avant que la pression et l’encrage ne soient réglés. Une fois gâtée, la feuille ne servait cependant plus qu’à de nouveaux essais — et c’est précisément ce que montre cette pièce.",
   "tag": "span"
  },
  "18a4811555": {
@@ -2338,6 +2374,17 @@
   "fr": "10,3&nbsp;%",
   "tag": "num"
  },
+ "20f85375c1": {
+  "cs": "<strong>Makulatura není katalogová varianta.</strong> Nevydávala se, nemá poštovní platnost a její cena je dokumentární — ukazuje výrobu ve chvíli, kdy ještě nebyla v pořádku, a v tomto případě i to, že se tytéž archy používaly ke zkoušení několika desek za sebou. U nabízených kusů je proto namístě ptát se po původu.",
+  "de": "<strong>Makulatur ist keine Katalogvariante.</strong> Sie wurde nicht ausgegeben, hat keine postalische Gültigkeit, und ihr Wert ist dokumentarisch — sie zeigt die Produktion in einem Augenblick, in dem sie noch nicht in Ordnung war, und in diesem Fall auch, dass dieselben Bogen zum Erproben mehrerer Platten nacheinander dienten. Bei angebotenen Stücken ist deshalb die Frage nach der Herkunft angebracht.",
+  "en": "<strong>Waste is not a catalogue variety.</strong> It was not issued, has no postal validity, and its value is documentary — it shows production at a moment when it was not yet right and, in this case, that the same sheets were used to try one plate after another. With pieces offered for sale it is therefore worth asking about provenance.",
+  "es": "<strong>La maculatura no es una variedad de catálogo.</strong> No se emitió, carece de validez postal y su valor es documental — muestra la producción en un momento en que aún no estaba a punto y, en este caso, también que los mismos pliegos servían para probar varias planchas una tras otra. En las piezas ofrecidas a la venta conviene por ello preguntar por la procedencia.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "<strong>La macule n’est pas une variété de catalogue.</strong> Elle n’a pas été émise, n’a aucune validité postale et sa valeur est documentaire — elle montre la production à un moment où elle n’était pas encore au point et, dans ce cas, que les mêmes feuilles servaient à essayer plusieurs planches l’une après l’autre. Pour les pièces proposées à la vente, il est donc légitime de s’enquérir de la provenance.",
+  "tag": "span"
+ },
  "2105b6444e": {
   "cs": "10h VI. TD",
   "de": "10h Platte VI",
@@ -2878,6 +2925,17 @@
   "fr": "Hradčany 15h (POFIS 7) — site spécialisé : planches d’impression, nuances, types, dentelures, statistiques.",
   "tag": "meta"
  },
+ "2728ddfd27": {
+  "cs": "ZT 3 — Modrý zkusmý tisk, nezoubkovaný — <strong>známkové pole 6</strong>. Odstín je chladnější a papír bělejší než u modrého zkusmého tisku ZP 96/I výše.",
+  "de": "ZT 3 — Blauer Probedruck, geschnitten — <strong>Bogenfeld 6</strong>. Der Ton ist kühler und das Papier weißer als beim blauen Probedruck des Feldes 96/I oben.",
+  "en": "ZT 3 — A blue proof, imperforate — <strong>sheet position 6</strong>. The shade is cooler and the paper whiter than on the blue proof of field 96/I above.",
+  "es": "ZT 3 — Prueba azul, sin dentar — <strong>casilla 6</strong>. El tono es más frío y el papel más blanco que en la prueba azul de la casilla 96/I de arriba.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "ZT 3 — Essai bleu, non dentelé — <strong>case 6</strong>. La nuance est plus froide et le papier plus blanc que sur l’essai bleu de la case 96/I ci-dessus.",
+  "tag": "cap"
+ },
  "273642f924": {
   "cs": "Prasklá TD",
   "de": "Plattensprung",
@@ -3002,6 +3060,28 @@
   "files": [],
   "fr": "25h planche VI",
   "tag": "alt"
+ },
+ "28b54fff52": {
+  "cs": "Pro studium desek jsou tyto otisky cenné právě proto, že jsou <strong>čisté</strong> — nezoubkované, nerazítkované a tištěné pečlivěji než produkce. Kresba je na nich čitelná do posledního tahu, takže se dá porovnávat s produkčními známkami stejného známkového pole.",
+  "de": "Für das Studium der Druckplatten sind diese Abzüge gerade deshalb wertvoll, weil sie <strong>sauber</strong> sind — geschnitten, ungestempelt und sorgfältiger gedruckt als die Auflage. Die Zeichnung ist auf ihnen bis zum letzten Strich lesbar, sodass sie sich mit Auflagemarken desselben Bogenfeldes vergleichen lässt.",
+  "en": "For the study of the plates these impressions are valuable precisely because they are <strong>clean</strong> — imperforate, uncancelled and printed more carefully than the production run. The design is legible down to the last stroke, so it can be compared with production stamps of the same sheet position.",
+  "es": "Para el estudio de las planchas estas impresiones son valiosas precisamente porque están <strong>limpias</strong> — sin dentar, sin matasellar e impresas con más cuidado que la tirada. El dibujo es legible hasta el último trazo, de modo que puede compararse con sellos de producción de la misma casilla.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "Pour l’étude des planches, ces tirages sont précieux justement parce qu’ils sont <strong>propres</strong> — non dentelés, non oblitérés et imprimés plus soigneusement que la production. Le dessin y est lisible jusqu’au dernier trait, de sorte qu’on peut le comparer aux timbres de production de la même case.",
+  "tag": "span"
+ },
+ "28bb4caa6e": {
+  "cs": "ZT 4 — Červený zkusmý tisk na nažloutlém papíře, nezoubkovaný — <strong>známkové pole 70</strong>.",
+  "de": "ZT 4 — Roter Probedruck auf gelblichem Papier, geschnitten — <strong>Bogenfeld 70</strong>.",
+  "en": "ZT 4 — A red proof on yellowish paper, imperforate — <strong>sheet position 70</strong>.",
+  "es": "ZT 4 — Prueba roja sobre papel amarillento, sin dentar — <strong>casilla 70</strong>.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "ZT 4 — Essai rouge sur papier jaunâtre, non dentelé — <strong>case 70</strong>.",
+  "tag": "cap"
  },
  "28cc01619a": {
   "cs": "<strong>3. listopadu</strong> odevzdal Mucha návrhy s Hradčany, s husitou, se sokolem a s dívkou v kroji. První hradčanské známky — <strong>5 h světle zelená a 10 h červená</strong> — vyšly <strong>18. prosince 1918</strong> a ten den se stal pamětním dnem československé filatelie. Hodnoty pak nevycházely popořadě, ale napřeskáčku; poslední, 30 h světle fialová, až <strong>12. dubna 1920</strong>.",
@@ -3653,6 +3733,17 @@
   "fr": "25h / planche II",
   "tag": "span"
  },
+ "306b5c16c0": {
+  "cs": "<strong>Makulatura není katalogová varianta.</strong> Nevydávala se, nemá poštovní platnost a její cena je dokumentární — ukazuje, jak vypadá tisk mimo nastavení. U nabízených kusů je proto namístě ptát se po původu: bez něj nelze odlišit makulaturní arch od běžné známky se silně slitým tiskem.",
+  "de": "<strong>Makulatur ist keine Katalogvariante.</strong> Sie wurde nicht ausgegeben, hat keine postalische Gültigkeit, und ihr Wert ist dokumentarisch — sie zeigt, wie Druck außerhalb seiner Einstellung aussieht. Bei angebotenen Stücken ist deshalb die Frage nach der Herkunft angebracht: ohne sie lässt sich ein Makulaturbogen nicht von einer gewöhnlichen Marke mit stark verlaufenem Druck unterscheiden.",
+  "en": "<strong>Waste is not a catalogue variety.</strong> It was not issued, has no postal validity, and its value is documentary — it shows what printing looks like outside its settings. With pieces offered for sale it is therefore worth asking about provenance: without it, a waste sheet cannot be told from an ordinary stamp with a heavily blurred print.",
+  "es": "<strong>La maculatura no es una variedad de catálogo.</strong> No se emitió, carece de validez postal y su valor es documental — muestra cómo es la impresión fuera de su ajuste. En las piezas ofrecidas a la venta conviene por ello preguntar por la procedencia: sin ella no puede distinguirse un pliego de maculatura de un sello corriente con la impresión muy empastada.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "<strong>La macule n’est pas une variété de catalogue.</strong> Elle n’a pas été émise, n’a aucune validité postale et sa valeur est documentaire — elle montre à quoi ressemble l’impression hors réglage. Pour les pièces proposées à la vente, il est donc légitime de s’enquérir de la provenance : sans elle, une feuille de macule ne se distingue pas d’un timbre ordinaire à l’impression fortement empâtée.",
+  "tag": "span"
+ },
  "30bb3c03e4": {
   "cs": "Vráska prochází vodorovně středem kresby a u levého okraje se stáčí vzhůru.",
   "de": "Die Falte verläuft waagerecht durch die Mitte der Zeichnung und biegt am linken Rand nach oben ab.",
@@ -3850,6 +3941,17 @@
   "fr": "Graphiques interactifs issus de l’analyse de 21 341 timbres.",
   "tag": "span"
  },
+ "3245aa8299": {
+  "cs": "ZT 2 — Sytě černý zkusmý tisk na bílém papíře, nezoubkovaný — nejostřejší otisk sestavy; drží i nejjemnější rytinu šrafování oblohy.",
+  "de": "ZT 2 — Tiefschwarzer Probedruck auf weißem Papier, geschnitten — der schärfste Abzug der Gruppe; er hält selbst die feinste Gravur der Himmelsschraffur.",
+  "en": "ZT 2 — A deep black proof on white paper, imperforate — the sharpest impression of the group; it holds even the finest engraving of the sky hatching.",
+  "es": "ZT 2 — Prueba de negro intenso sobre papel blanco, sin dentar — la impresión más nítida del grupo; conserva incluso el grabado más fino del rayado del cielo.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "ZT 2 — Essai d’un noir profond sur papier blanc, non dentelé — le tirage le plus net du groupe ; il retient jusqu’à la gravure la plus fine des hachures du ciel.",
+  "tag": "cap"
+ },
  "328588222a": {
   "cs": "Pokud je tato úvaha správná, nebyla by „karmínová“ samostatným tiskovým odstínem, ale teplem\n  druhotně změněnou rumělkovou. Karmínové kusy je proto namístě posuzovat opatrně — zejména u nepoužitých exemplářů\n  s deklarovaným odstínem 7c doporučuji srovnání s věrohodně doloženým materiálem. Uvítám názory i materiál kolegů,\n  které by tuto hypotézu potvrdily, nebo vyvrátily\n  (<a href=\"mailto:pepa.matousek@gmail.com\">pepa.matousek@gmail.com</a>).",
   "de": "Trifft diese Überlegung zu, wäre „Karmin“ kein eigenständiger Druckfarbton, sondern durch Wärme sekundär veränderter Zinnober. Karminfarbene Stücke sind daher vorsichtig zu beurteilen — insbesondere bei ungebrauchten Exemplaren mit angegebenem Farbton 7c empfehle ich den Vergleich mit glaubwürdig belegtem Material. Über Meinungen und Material von Kollegen, die diese Hypothese bestätigen oder widerlegen, freue ich mich (<a href=\"mailto:pepa.matousek@gmail.com\">pepa.matousek@gmail.com</a>).",
@@ -3985,6 +4087,17 @@
   "files": [],
   "fr": "cadre endommagé",
   "tag": "js"
+ },
+ "340723f2ed": {
+  "cs": "ZT 1 — Hnědočerný zkusmý tisk na nažloutlém papíře, nezoubkovaný.",
+  "de": "ZT 1 — Braunschwarzer Probedruck auf gelblichem Papier, geschnitten.",
+  "en": "ZT 1 — A brown-black proof on yellowish paper, imperforate.",
+  "es": "ZT 1 — Prueba pardo negruzca sobre papel amarillento, sin dentar.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "ZT 1 — Essai brun-noir sur papier jaunâtre, non dentelé.",
+  "tag": "cap"
  },
  "344c8d263f": {
   "cs": "<span class=\"badge flaw\">skvrna / závoj</span>",
@@ -4576,6 +4689,13 @@
   ],
   "fr": "Pourquoi c’est un avantage pour le collectionneur",
   "tag": "span"
+ },
+ "39f21ef781": {
+  "cs": "<span class=\"badge rare\">poštovně použitá nezoubkovaná z TD VI</span>",
+  "de": "<span class=\"badge rare\">postalisch verwendet, ungezähnt, Platte VI</span>",
+  "en": "<span class=\"badge rare\">postally used imperforate from plate VI</span>",
+  "es": "<span class=\"badge rare\">sin dentar con uso postal, plancha VI</span>",
+  "fr": "<span class=\"badge rare\">non dentelé ayant voyagé, planche VI</span>"
  },
  "39fccd67e3": {
   "cs": "Vzorek 2 — chybějící svislé zoubkování",
@@ -5312,6 +5432,17 @@
   "fr": "Reconstitution de toute la <strong>huitième planche d’impression</strong> de la valeur 5h — les cent positions dans l’ordre où elles se trouvent dans la feuille. Le survol de la souris affine l’aperçu jusqu’à la pleine résolution ; un clic ouvre la position en plein écran.",
   "tag": "span"
  },
+ "42724d304d": {
+  "cs": "Modrý zkusmý tisk, nezoubkovaný — <strong>známkové pole 6</strong>. Odstín je chladnější a papír bělejší než u modrého zkusmého tisku ZP 96/I výše.",
+  "de": "Blauer Probedruck, geschnitten — <strong>Bogenfeld 6</strong>. Der Ton ist kühler und das Papier weißer als beim blauen Probedruck des Feldes 96/I oben.",
+  "en": "A blue proof, imperforate — <strong>sheet position 6</strong>. The shade is cooler and the paper whiter than on the blue proof of field 96/I above.",
+  "es": "Prueba azul, sin dentar — <strong>casilla 6</strong>. El tono es más frío y el papel más blanco que en la prueba azul de la casilla 96/I de arriba.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "Essai bleu, non dentelé — <strong>case 6</strong>. La nuance est plus froide et le papier plus blanc que sur l’essai bleu de la case 96/I ci-dessus.",
+  "tag": "span"
+ },
  "430a81fe28": {
   "cs": "Do papíru se už při jeho výrobě dostal cizí objekt — úlomek dřeva, kousek kůry nebo neprovařené vlákno, které přežilo rozvlákňování. Sběratelé pro něj mají dvě jména podle tvaru: protáhlé třísce se říká <strong>dřívko</strong>, drobné kompaktní částici <strong>smítko</strong>. Objekt zůstal zalisovaný v tloušťce archu a známka ho nese dodnes.",
   "de": "Schon bei seiner Herstellung geriet in das Papier ein Fremdkörper — ein Holzsplitter, ein Stück Rinde oder eine nicht aufgeschlossene Faser, die den Mahlvorgang überstanden hat. Sammler haben dafür je nach Form zwei Namen: Ein länglicher Span heißt <strong>Holzsplitter</strong>, ein kleines kompaktes Teilchen <strong>Stäubchen</strong>. Der Fremdkörper blieb in der Dicke des Bogens eingepresst, und die Marke trägt ihn bis heute.",
@@ -5464,6 +5595,17 @@
    "shanim.html"
   ],
   "fr": "17 positions manquantes au total pour les autres valeurs.",
+  "tag": "span"
+ },
+ "43f09cb92a": {
+  "cs": "Čím se liší od slitého tisku",
+  "de": "Worin sie sich vom verlaufenen Druck unterscheidet",
+  "en": "How it differs from a blurred print",
+  "es": "En qué se diferencia de la impresión empastada",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "En quoi elle diffère d’une impression empâtée",
   "tag": "span"
  },
  "440c4e9f55": {
@@ -5970,12 +6112,34 @@
   "fr": "5h — planche VIII",
   "tag": "span"
  },
+ "48d7de9c07": {
+  "cs": "Kliknutím se ukázka zvětší. Známkové pole je uvedeno tam, kde se je podařilo spolehlivě určit porovnáním s rekonstruovanou <a href=\"galerie.html\">první tiskovou deskou</a>; u ostatních kusů zůstává otevřené.",
+  "de": "Ein Klick vergrößert das Stück. Das Bogenfeld ist dort angegeben, wo es sich durch Vergleich mit der rekonstruierten <a href=\"galerie.html\">ersten Druckplatte</a> zuverlässig bestimmen ließ; bei den übrigen Stücken bleibt es offen.",
+  "en": "Click a specimen to enlarge it. The sheet position is given where it could be determined reliably by comparison with the reconstructed <a href=\"galerie.html\">first printing plate</a>; on the remaining pieces it stays open.",
+  "es": "Al hacer clic la pieza se amplía. La casilla se indica allí donde pudo determinarse con fiabilidad comparándola con la <a href=\"galerie.html\">primera plancha</a> reconstruida; en las demás piezas queda abierta.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "Un clic agrandit la pièce. La case est indiquée là où elle a pu être déterminée de façon fiable par comparaison avec la <a href=\"galerie.html\">première planche</a> reconstituée ; sur les autres pièces, elle reste ouverte.",
+  "tag": "span"
+ },
  "48d9256384": {
   "cs": "ZP 10 / TD I · nezoubkovaná",
   "de": "Feld 10 / Platte I · ungezähnt",
   "en": "field 10 / plate I · imperforate",
   "es": "campo 10 / plancha I · sin dentar",
   "fr": "champ 10 / planche I · non dentelé"
+ },
+ "49083c21a1": {
+  "cs": "Makulaturní tisk 15h — kresba je utopená v barvě: šrafování svahu je zalité, obloha zaplněná a písmo nápisu se stahuje. Otisk je přitom po celé ploše, nejde tedy o vadu jednoho místa.",
+  "de": "Makulaturdruck der 15h — die Zeichnung ist in Farbe ertrunken: die Schraffur des Hangs ist zugelaufen, der Himmel zugefüllt und die Schrift der Inschrift zieht sich zu. Der Abdruck ist dabei auf der ganzen Fläche so, es handelt sich also nicht um einen Fehler an einer Stelle.",
+  "en": "A waste print of the 15h — the design is drowned in ink: the hatching of the hillside is flooded, the sky filled in and the letters of the inscription are closing up. The impression is like this over the whole area, so this is not a flaw confined to one spot.",
+  "es": "Impresión de maculatura de los 15 h — el dibujo está ahogado en tinta: el rayado de la ladera queda empastado, el cielo relleno y las letras de la inscripción se cierran. La impresión es así en toda la superficie, no se trata pues de un defecto en un solo punto.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "Tirage de macule de la 15 h — le dessin est noyé d’encre : les hachures du coteau sont empâtées, le ciel comblé et les lettres de l’inscription se referment. L’impression est ainsi sur toute la surface : il ne s’agit donc pas d’un défaut localisé.",
+  "tag": "span"
  },
  "491b4a82f9": {
   "cs": "Dřívko a smítko — cizí objekt v papíru",
@@ -6297,6 +6461,17 @@
    "15h/vyrobni-vady.html"
   ],
   "fr": "Fort décalage vers le haut ; le long du bord supérieur, on voit une trace de l’impression du timbre voisin.",
+  "tag": "span"
+ },
+ "4dd626c6af": {
+  "cs": "<a href=\"vyrobni-vady.html#tisk\">Slitý tisk</a> je jediná známka s přebytkem barvy na jinak řádném archu. <a href=\"vyrobni-vady.html#dvojity-tisk\">Dvojitý tisk</a> je druhý otisk <em>téže</em> formy, jen posunutý. Tady je druhý otisk z <strong>úplně jiné tiskové desky, a dokonce jiné hodnoty</strong> — to se na archu určeném k vydání stát nemůže. Právě tahle kombinace je nejjistější známkou toho, že šlo o makulaturu: s papírem, který už byl odepsaný, se dalo zkoušet cokoli.",
+  "de": "Ein <a href=\"vyrobni-vady.html#tisk\">verlaufener Druck</a> ist eine einzelne Marke mit Farbüberschuss auf einem sonst ordentlichen Bogen. Ein <a href=\"vyrobni-vady.html#dvojity-tisk\">Doppeldruck</a> ist ein zweiter Abdruck <em>derselben</em> Form, nur verschoben. Hier stammt der zweite Abdruck von einer <strong>völlig anderen Druckplatte, und sogar eines anderen Wertes</strong> — das kann auf einem zur Ausgabe bestimmten Bogen nicht geschehen. Gerade diese Kombination ist das sicherste Zeichen dafür, dass es sich um Makulatur handelte: mit bereits abgeschriebenem Papier ließ sich alles erproben.",
+  "en": "A <a href=\"vyrobni-vady.html#tisk\">blurred print</a> is a single stamp with excess ink on an otherwise proper sheet. A <a href=\"vyrobni-vady.html#dvojity-tisk\">double print</a> is a second impression of the <em>same</em> forme, merely displaced. Here the second impression comes from <strong>an entirely different plate, and of a different value</strong> — something that cannot happen on a sheet meant for issue. That combination is the surest sign that this was waste: with paper already written off, anything could be tried.",
+  "es": "La <a href=\"vyrobni-vady.html#tisk\">impresión empastada</a> es un solo sello con exceso de tinta en un pliego por lo demás correcto. La <a href=\"vyrobni-vady.html#dvojity-tisk\">doble impresión</a> es una segunda impresión de la <em>misma</em> forma, solo desplazada. Aquí la segunda impresión procede de una <strong>plancha completamente distinta, e incluso de otro valor</strong> — algo que no puede ocurrir en un pliego destinado a la emisión. Precisamente esa combinación es la señal más segura de que se trataba de maculatura: con papel ya dado por perdido podía probarse cualquier cosa.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "Une <a href=\"vyrobni-vady.html#tisk\">impression empâtée</a> est un timbre isolé avec un excès d’encre sur une feuille par ailleurs correcte. Une <a href=\"vyrobni-vady.html#dvojity-tisk\">double impression</a> est un second tirage de la <em>même</em> forme, simplement décalé. Ici, la seconde impression provient d’une <strong>planche tout à fait différente, et même d’une autre valeur</strong> — ce qui ne peut pas arriver sur une feuille destinée à l’émission. C’est précisément cette combinaison qui est le signe le plus sûr qu’il s’agissait de macule : sur un papier déjà passé par pertes et profits, on pouvait tout essayer.",
   "tag": "span"
  },
  "4df6deb300": {
@@ -6627,6 +6802,17 @@
    "deska-5h-vi.html"
   ],
   "fr": "5h — planche d’impression VI",
+  "tag": "span"
+ },
+ "51d900369c": {
+  "cs": "Červený tisk na <strong>narůžovělém papíře</strong>, nezoubkovaný — <strong>známkové pole 90/IV</strong>; zkouška podkladu, ne barvy.",
+  "de": "Roter Druck auf <strong>rosafarbenem Papier</strong>, geschnitten — <strong>Bogenfeld 90/IV</strong>; eine Probe des Papiers, nicht der Farbe.",
+  "en": "A red print on <strong>pinkish paper</strong>, imperforate — <strong>sheet position 90/IV</strong>; a trial of the stock, not of the ink.",
+  "es": "Impresión roja sobre <strong>papel rosado</strong>, sin dentar — <strong>casilla 90/IV</strong>; una prueba del soporte, no de la tinta.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "Tirage rouge sur <strong>papier rosé</strong>, non dentelé — <strong>case 90/IV</strong> ; un essai du support, non de l’encre.",
   "tag": "span"
  },
  "520636e570": {
@@ -7040,6 +7226,13 @@
   "files": [],
   "fr": "25h planche III",
   "tag": "alt"
+ },
+ "561f32107e": {
+  "cs": "ZP 34 / TD VI · nezoubkovaná",
+  "de": "Feld 34 / Platte VI · ungezähnt",
+  "en": "field 34 / plate VI · imperforate",
+  "es": "campo 34 / plancha VI · sin dentar",
+  "fr": "champ 34 / planche VI · non dentelé"
  },
  "562dbea9b4": {
   "cs": "Velký bílý nápis na barevném podkladu, bez keře a slunce; kresba chrámu je větší.",
@@ -7954,6 +8147,17 @@
   "fr": "Cartes postales",
   "tag": "span"
  },
+ "5f2d0bbbc1": {
+  "cs": "Kliknutím se ukázka zvětší. U všech kusů je známkové pole i tisková deska určeno porovnáním s <a href=\"galerie.html\">rekonstruovanými deskami</a>. Stojí za pozornost, že sestava nepochází jen z první desky: jsou v ní kusy z <strong>desky I, II i IV</strong>, zkoušelo se tedy i v pozdější fázi výroby, ne pouze před jejím začátkem.",
+  "de": "Ein Klick vergrößert das Stück. Bei allen Stücken sind Bogenfeld und Druckplatte durch Vergleich mit den <a href=\"galerie.html\">rekonstruierten Platten</a> bestimmt. Bemerkenswert ist, dass die Gruppe nicht nur von der ersten Platte stammt: sie enthält Stücke der <strong>Platten I, II und IV</strong>, es wurde also auch in einer späteren Phase der Produktion probeweise gedruckt, nicht nur vor ihrem Beginn.",
+  "en": "Click a specimen to enlarge it. For every piece the sheet position and the plate have been determined by comparison with the <a href=\"galerie.html\">reconstructed plates</a>. It is worth noting that the group does not come from the first plate alone: it contains pieces from <strong>plates I, II and IV</strong>, so trials were pulled at a later stage of production too, not only before it began.",
+  "es": "Al hacer clic la pieza se amplía. En todas las piezas la casilla y la plancha se han determinado por comparación con las <a href=\"galerie.html\">planchas reconstruidas</a>. Es notable que el grupo no procede solo de la primera plancha: contiene piezas de las <strong>planchas I, II y IV</strong>, de modo que también se tiraron pruebas en una fase posterior de la producción, no únicamente antes de su comienzo.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "Un clic agrandit la pièce. Pour chaque pièce, la case et la planche ont été déterminées par comparaison avec les <a href=\"galerie.html\">planches reconstituées</a>. Il est notable que le groupe ne provient pas de la seule première planche : il contient des pièces des <strong>planches I, II et IV</strong> ; on a donc aussi tiré des essais à un stade plus tardif de la production, et pas seulement avant son début.",
+  "tag": "span"
+ },
  "5f5d908dfb": {
   "cs": "Datovaná razítka v čase (VI 1919 – IV 1921)",
   "de": "Datierte Stempel im Zeitverlauf (VI 1919 – IV 1921)",
@@ -8049,6 +8253,17 @@
    "ctvrta-kresba.html"
   ],
   "fr": "60h jaune",
+  "tag": "span"
+ },
+ "5ff5f03758": {
+  "cs": "Kresba 15h pochází ze <strong>známkového pole 46 čtvrté tiskové desky</strong>. Přes ni ale leží ještě druhý, slabší otisk — a ten nepatří patnáctihaléřové známce: na témž archu se zkoušela <strong>tisková deska hodnoty 500 h</strong> téže emise. Arch tedy prošel strojem dvakrát, pokaždé s jinou formou.",
+  "de": "Die Zeichnung der 15h stammt vom <strong>Bogenfeld 46 der vierten Druckplatte</strong>. Darüber liegt jedoch noch ein zweiter, schwächerer Abdruck — und der gehört nicht zur Fünfzehnheller-Marke: auf demselben Bogen wurde die <strong>Druckplatte des Wertes 500 h</strong> derselben Ausgabe erprobt. Der Bogen lief also zweimal durch die Maschine, jedes Mal mit einer anderen Form.",
+  "en": "The 15h design comes from <strong>sheet position 46 of the fourth plate</strong>. Over it, however, lies a second, fainter impression — and that one does not belong to the 15h: the <strong>printing plate of the 500 h value</strong> of the same issue was being tried on the very same sheet. The sheet therefore went through the press twice, each time with a different forme.",
+  "es": "El dibujo de los 15 h procede de la <strong>casilla 46 de la cuarta plancha</strong>. Sobre él se halla, sin embargo, una segunda impresión más débil — y esa no pertenece al sello de 15 h: en el mismo pliego se estaba probando la <strong>plancha del valor de 500 h</strong> de la misma emisión. El pliego pasó, pues, dos veces por la prensa, cada vez con una forma distinta.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "Le dessin de la 15 h provient de la <strong>case 46 de la quatrième planche</strong>. Par-dessus se trouve pourtant une seconde impression, plus faible — et celle-ci n’appartient pas au timbre à 15 h : sur la même feuille on essayait la <strong>planche du 500 h</strong> de la même émission. La feuille est donc passée deux fois sous presse, chaque fois avec une forme différente.",
   "tag": "span"
  },
  "5ffdab6c1a": {
@@ -9008,6 +9223,17 @@
   "fr": "Voici précisément les timbres (images de référence des positions) qui sont mentionnés sur la page",
   "tag": "span"
  },
+ "6bf4b314a5": {
+  "cs": "ZT 4 — Červený zkusmý tisk na nažloutlém papíře, nezoubkovaný — <strong>známkové pole 70/I</strong>.",
+  "de": "ZT 4 — Roter Probedruck auf gelblichem Papier, geschnitten — <strong>Bogenfeld 70/I</strong>.",
+  "en": "ZT 4 — A red proof on yellowish paper, imperforate — <strong>sheet position 70/I</strong>.",
+  "es": "ZT 4 — Prueba roja sobre papel amarillento, sin dentar — <strong>casilla 70/I</strong>.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "ZT 4 — Essai rouge sur papier jaunâtre, non dentelé — <strong>case 70/I</strong>.",
+  "tag": "cap"
+ },
  "6bfb080221": {
   "cs": "<tspan x=\"117\" y=\"38\">hřebenové — čistý roh</tspan>",
   "de": "<tspan x=\"117\" y=\"38\">Kamm — saubere Ecke</tspan>",
@@ -9314,6 +9540,17 @@
   "fr": "Reconstitution de toute la <strong>deuxième planche d’impression</strong> de la valeur 25h — les cent positions dans l’ordre où elles se trouvent dans la feuille. Le survol de la souris affine l’aperçu jusqu’à la pleine résolution ; un clic ouvre la position en plein écran.",
   "tag": "span"
  },
+ "70cccc7937": {
+  "cs": "Hnědočerný zkusmý tisk na nažloutlém papíře, nezoubkovaný — <strong>známkové pole 7/II</strong>.",
+  "de": "Braunschwarzer Probedruck auf gelblichem Papier, geschnitten — <strong>Bogenfeld 7/II</strong>.",
+  "en": "A brown-black proof on yellowish paper, imperforate — <strong>sheet position 7/II</strong>.",
+  "es": "Prueba pardo negruzca sobre papel amarillento, sin dentar — <strong>casilla 7/II</strong>.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "Essai brun-noir sur papier jaunâtre, non dentelé — <strong>case 7/II</strong>.",
+  "tag": "span"
+ },
  "70f8f6efaa": {
   "cs": "A 4",
   "de": "A 4",
@@ -9457,6 +9694,17 @@
    "15h/statistiky.html"
   ],
   "fr": "Répartition distincte de 413 pièces en dentelure B provenant des planches I–II : <strong>planche I 105 pièces (25,4 %)</strong>, <strong>planche II 308 pièces (74,6 %)</strong> — la planche II l’emporte donc nettement en dentelure B.",
+  "tag": "span"
+ },
+ "718b3ffb6d": {
+  "cs": "Detail oblohy (zesílený kontrast). Tam, kde 15h nechává papír světlý, prosvítají soustředné spirálové ozdoby, které v kresbě patnáctihaléřové známky nikde nejsou — jsou z rámu hodnoty 500 h.",
+  "de": "Detail des Himmels (verstärkter Kontrast). Dort, wo die 15h das Papier hell lässt, scheinen konzentrische Spiralornamente durch, die es in der Zeichnung der Fünfzehnheller-Marke nirgends gibt — sie stammen vom Rahmen des Wertes 500 h.",
+  "en": "Detail of the sky (contrast enhanced). Where the 15h leaves the paper light, concentric spiral ornaments show through that occur nowhere in the 15h design — they come from the frame of the 500 h value.",
+  "es": "Detalle del cielo (contraste realzado). Allí donde los 15 h dejan el papel claro se traslucen ornamentos en espiral concéntricos que no existen en ninguna parte del dibujo de los 15 h — proceden del marco del valor de 500 h.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "Détail du ciel (contraste renforcé). Là où la 15 h laisse le papier clair transparaissent des ornements en spirale concentriques qui n’existent nulle part dans le dessin du 15 h — ils proviennent du cadre du 500 h.",
   "tag": "span"
  },
  "71acd8f845": {
@@ -9837,6 +10085,17 @@
   "fr": "Recherche",
   "tag": "span"
  },
+ "75462e5e2d": {
+  "cs": "Než se rozhodlo, v jaké barvě a na jakém papíře se bude tisknout, otiskla se táž forma několikrát nanečisto. Následující kusy jsou z takové řady: stejná kresba, pokaždé jiná barva nebo jiný podklad. Vedle černé a hnědočerné je tu modrá i několik odstínů červené a jeden otisk na narůžovělém papíře.",
+  "de": "Bevor entschieden wurde, in welcher Farbe und auf welchem Papier gedruckt werden sollte, wurde dieselbe Form mehrmals probeweise abgezogen. Die folgenden Stücke stammen aus einer solchen Reihe: dieselbe Zeichnung, jedes Mal eine andere Farbe oder ein anderer Untergrund. Neben Schwarz und Braunschwarz gibt es hier Blau, mehrere Rottöne und einen Abzug auf rosafarbenem Papier.",
+  "en": "Before it was decided in what colour and on what paper the stamp would be printed, the same forme was pulled several times as a trial. The pieces below come from such a series: the same design, each time in a different colour or on a different stock. Besides black and brown-black there is a blue, several shades of red, and one impression on pinkish paper.",
+  "es": "Antes de decidir en qué color y sobre qué papel se imprimiría, la misma forma se tiró varias veces a modo de prueba. Las piezas siguientes proceden de una serie así: el mismo dibujo, cada vez en otro color o sobre otro soporte. Junto al negro y al pardo negruzco hay un azul, varios tonos de rojo y una impresión sobre papel rosado.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "Avant que ne soit décidé dans quelle couleur et sur quel papier on imprimerait, la même forme a été tirée plusieurs fois à l’essai. Les pièces ci-dessous proviennent d’une telle série : le même dessin, chaque fois dans une autre couleur ou sur un autre support. À côté du noir et du brun-noir, on y trouve un bleu, plusieurs nuances de rouge et un tirage sur papier rosé.",
+  "tag": "span"
+ },
  "756227e7ff": {
   "cs": "Mapa stránek — Hradčany 15h",
   "de": "Sitemap — Hradschin 15h",
@@ -10038,6 +10297,17 @@
   "fr": "NOV 1919",
   "tag": "month"
  },
+ "77214c0bbd": {
+  "cs": "Červenooranžový odstín. Na rozdíl od ostatních kusů sestavy je <strong>zoubkovaný</strong>.",
+  "de": "Rotoranger Ton. Im Unterschied zu den übrigen Stücken der Gruppe ist er <strong>gezähnt</strong>.",
+  "en": "A red-orange shade. Unlike the other pieces in the group it is <strong>perforated</strong>.",
+  "es": "Tono rojo anaranjado. A diferencia de las demás piezas del grupo, está <strong>dentada</strong>.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "Nuance rouge orangé. À la différence des autres pièces du groupe, elle est <strong>dentelée</strong>.",
+  "tag": "span"
+ },
  "77326f3b86": {
   "cs": "Vynechaná perforace",
   "de": "Fehlende Zähnung",
@@ -10092,6 +10362,17 @@
    "pata-kresba.html"
   ],
   "fr": "carmin / rouge carmin",
+  "tag": "span"
+ },
+ "777de516db": {
+  "cs": "Barevné zkusmé tisky",
+  "de": "Farbprobedrucke",
+  "en": "Colour trials",
+  "es": "Pruebas de color",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "Essais de couleur",
   "tag": "span"
  },
  "77d073adc1": {
@@ -10240,6 +10521,17 @@
    "15h/zkusebni-tisky.html"
   ],
   "fr": "couché, lisse et blanc ; face au papier grossier du tirage courant, il retient un dessin bien plus fin",
+  "tag": "span"
+ },
+ "7a18883eb9": {
+  "cs": "Makulatura je papír, který se při tisku znehodnotil a nikdy neměl opustit tiskárnu. Vzniká hlavně při <strong>rozjezdu stroje</strong>, než se seřídí přítlak a nanášení barvy: první archy jsou buď sotva znatelné, nebo naopak utopené v barvě. Tyto archy se odkládaly stranou a měly se zničit; co se z nich dochovalo, ukazuje výrobu ve chvíli, kdy ještě nebyla v pořádku.",
+  "de": "Makulatur ist Papier, das beim Druck verdorben wurde und die Druckerei nie hätte verlassen sollen. Sie entsteht vor allem beim <strong>Anfahren der Maschine</strong>, ehe Druck und Farbauftrag eingestellt sind: die ersten Bogen sind entweder kaum zu erkennen oder im Gegenteil in Farbe ertrunken. Solche Bogen wurden beiseitegelegt und sollten vernichtet werden; was von ihnen erhalten blieb, zeigt die Produktion in einem Augenblick, in dem sie noch nicht in Ordnung war.",
+  "en": "Waste is paper spoiled during printing that was never meant to leave the works. It arises mainly while the press is being <strong>run up</strong>, before the pressure and the inking are set: the first sheets are either barely visible or, on the contrary, drowned in ink. Such sheets were put aside and were meant to be destroyed; what survives of them shows production at a moment when it was not yet right.",
+  "es": "La maculatura es papel estropeado durante la impresión que nunca debió salir del taller. Surge sobre todo al <strong>arrancar la máquina</strong>, antes de ajustar la presión y la entintación: los primeros pliegos son o bien apenas perceptibles o, al contrario, ahogados en tinta. Esos pliegos se apartaban y debían destruirse; lo que se conserva de ellos muestra la producción en un momento en que aún no estaba a punto.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "La macule est du papier gâté à l’impression, qui n’aurait jamais dû quitter l’imprimerie. Elle naît surtout au <strong>démarrage de la presse</strong>, avant que la pression et l’encrage ne soient réglés : les premières feuilles sont soit à peine perceptibles, soit au contraire noyées d’encre. Ces feuilles étaient mises de côté et devaient être détruites ; ce qui en subsiste montre la production à un moment où elle n’était pas encore au point.",
   "tag": "span"
  },
  "7a55089db7": {
@@ -10653,6 +10945,17 @@
   "files": [],
   "fr": "30h planche III",
   "tag": "alt"
+ },
+ "7fc5ce6ef0": {
+  "cs": "Sytě černý zkusmý tisk na bílém papíře, nezoubkovaný — nejostřejší otisk sestavy; drží i nejjemnější rytinu šrafování oblohy.",
+  "de": "Tiefschwarzer Probedruck auf weißem Papier, geschnitten — der schärfste Abzug der Gruppe; er hält selbst die feinste Gravur der Himmelsschraffur.",
+  "en": "A deep black proof on white paper, imperforate — the sharpest impression of the group; it holds even the finest engraving of the sky hatching.",
+  "es": "Prueba de negro intenso sobre papel blanco, sin dentar — la impresión más nítida del grupo; conserva incluso el grabado más fino del rayado del cielo.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "Essai d’un noir profond sur papier blanc, non dentelé — le tirage le plus net du groupe ; il retient jusqu’à la gravure la plus fine des hachures du ciel.",
+  "tag": "span"
  },
  "7fe1fafe2b": {
   "cs": "Ostatní techniky se chovají opačně. U <strong>hlubotisku</strong> (rytiny) leží barva v prohlubních formy a z papíru pak vystupuje jako reliéf nahoru. U <strong>ofsetu</strong> a <strong>litografie</strong> je forma plochá, papír se nedeformuje vůbec a tisk je hladký. Známka bez jakéhokoli reliéfu, která má být z této emise, si tedy zaslouží druhý pohled.",
@@ -11166,6 +11469,17 @@
   ],
   "fr": "Usages attestés les plus précoces",
   "tag": "span"
+ },
+ "84b4dcc953": {
+  "cs": "ZT 6 — Červenooranžový odstín — <strong>známkové pole 40/II</strong>. Na rozdíl od ostatních kusů sestavy je <strong>zoubkovaný</strong>.",
+  "de": "ZT 6 — Rotoranger Ton — <strong>Bogenfeld 40/II</strong>. Im Unterschied zu den übrigen Stücken der Gruppe ist er <strong>gezähnt</strong>.",
+  "en": "ZT 6 — A red-orange shade — <strong>sheet position 40/II</strong>. Unlike the other pieces in the group it is <strong>perforated</strong>.",
+  "es": "ZT 6 — Tono rojo anaranjado — <strong>casilla 40/II</strong>. A diferencia de las demás piezas del grupo, está <strong>dentada</strong>.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "ZT 6 — Nuance rouge orangé — <strong>case 40/II</strong>. À la différence des autres pièces du groupe, elle est <strong>dentelée</strong>.",
+  "tag": "cap"
  },
  "84d4861d6f": {
   "cs": "Beroun · 24. XI. 1919",
@@ -12929,6 +13243,17 @@
   "fr": "Tirage : non dentelés 4&nbsp;540&nbsp;000 · Dentelure : – · Date d’émission : 22.&nbsp;4.&nbsp;1919 · <a href=\"clanky/zavoje-a-skvrny.html\">Voile sur la position 97</a> · <a href=\"assets/downloads/tiskove-desky.xlsx\">Schémas des planches</a>",
   "tag": "span"
  },
+ "974a87066f": {
+  "cs": "Hnědočerný zkusmý tisk na nažloutlém papíře, nezoubkovaný.",
+  "de": "Braunschwarzer Probedruck auf gelblichem Papier, geschnitten.",
+  "en": "A brown-black proof on yellowish paper, imperforate.",
+  "es": "Prueba pardo negruzca sobre papel amarillento, sin dentar.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "Essai brun-noir sur papier jaunâtre, non dentelé.",
+  "tag": "span"
+ },
  "9768e004f4": {
   "cs": "Vývoj po skupinách",
   "de": "Entwicklung nach Gruppen",
@@ -13037,6 +13362,17 @@
   "fr": "Les types du cinquième dessin sur le 15h",
   "tag": "span"
  },
+ "989e3af309": {
+  "cs": "ZT 6 — Červenooranžový odstín. Na rozdíl od ostatních kusů sestavy je <strong>zoubkovaný</strong>.",
+  "de": "ZT 6 — Rotoranger Ton. Im Unterschied zu den übrigen Stücken der Gruppe ist er <strong>gezähnt</strong>.",
+  "en": "ZT 6 — A red-orange shade. Unlike the other pieces in the group it is <strong>perforated</strong>.",
+  "es": "ZT 6 — Tono rojo anaranjado. A diferencia de las demás piezas del grupo, está <strong>dentada</strong>.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "ZT 6 — Nuance rouge orangé. À la différence des autres pièces du groupe, elle est <strong>dentelée</strong>.",
+  "tag": "cap"
+ },
  "98a4e389db": {
   "cs": "zkušební tisk 15h, ZP 96 první tiskové desky / proof of the 15h, field 96 of plate I",
   "de": "Probedruck des 15h, Feld 96 der ersten Druckplatte",
@@ -13045,6 +13381,17 @@
   "files": [],
   "fr": "Épreuve du 15h, position 96 de la première planche",
   "tag": "cap"
+ },
+ "98add3f5f5": {
+  "cs": "Makulaturní tisk",
+  "de": "Makulaturdruck",
+  "en": "Waste print",
+  "es": "Impresión de maculatura",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "Tirage de macule",
+  "tag": "span"
  },
  "9902d381a0": {
   "cs": "3.",
@@ -13330,6 +13677,17 @@
    "15h/vyrobni-vady.html"
   ],
   "fr": "Les timbres de l’émission ont été imprimés sur papier humidifié. Une feuille humide est molle et ondule facilement, et si elle n’entrait pas parfaitement tendue dans la machine, elle se repliait sous la pression et un pli restait à l’endroit du repli. L’impression se faisait alors sur une surface froissée : au creux même du pli, l’encre n’atteignait pas le papier, et une fois la feuille dépliée, le dessin se trouve « étiré ». Sur le timbre achevé, on voit donc une bande claire sans impression dont les deux côtés ne se raccordent pas — le dessin est à cet endroit interrompu et décalé.",
+  "tag": "span"
+ },
+ "9b6359a5f3": {
+  "cs": "Makulaturní tisk 15h, známkové pole 46/IV. Kresba působí zalitě — jednak přebytkem barvy, jednak proto, že přes ni leží druhý otisk z jiné formy.",
+  "de": "Makulaturdruck der 15h, Bogenfeld 46/IV. Die Zeichnung wirkt zugelaufen — teils durch Farbüberschuss, teils weil ein zweiter Abdruck einer anderen Form darüberliegt.",
+  "en": "A waste print of the 15h, sheet position 46/IV. The design looks flooded — partly from excess ink, partly because a second impression from another forme lies across it.",
+  "es": "Impresión de maculatura de los 15 h, casilla 46/IV. El dibujo parece empastado — en parte por exceso de tinta, en parte porque sobre él se superpone una segunda impresión de otra forma.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "Tirage de macule de la 15 h, case 46/IV. Le dessin paraît empâté — en partie par excès d’encre, en partie parce qu’une seconde impression d’une autre forme le recouvre.",
   "tag": "span"
  },
  "9b63cbd285": {
@@ -13687,6 +14045,13 @@
   "files": [],
   "fr": "Reconstitution de la planche II du 5h de l’émission Hradčany.",
   "tag": "meta"
+ },
+ "9e1c539ae3": {
+  "cs": "ZP 34 / TD VI · nezoubkovaná · 5h",
+  "de": "Feld 34 / Platte VI · ungezähnt · die 5h",
+  "en": "field 34 / plate VI · imperforate · the 5h",
+  "es": "campo 34 / plancha VI · sin dentar · el 5h",
+  "fr": "champ 34 / planche VI · non dentelé · le 5h"
  },
  "9e1c6a174e": {
   "cs": "Rekonstrukce celé <strong>druhá tiskové desky</strong> hodnoty 20h — všech sto známkových polí v pořadí, v jakém leží v archu. Najetím myší se náhled zaostří na plné rozlišení, kliknutím se pole otevře přes celou obrazovku.",
@@ -14512,6 +14877,17 @@
   "files": [],
   "fr": "5h planche IV",
   "tag": "alt"
+ },
+ "a72e394d38": {
+  "cs": "Modrý zkusmý tisk, nezoubkovaný — <strong>známkové pole 6/I</strong>. Odstín je chladnější a papír bělejší než u modrého zkusmého tisku ZP 96/I výše.",
+  "de": "Blauer Probedruck, geschnitten — <strong>Bogenfeld 6/I</strong>. Der Ton ist kühler und das Papier weißer als beim blauen Probedruck des Feldes 96/I oben.",
+  "en": "A blue proof, imperforate — <strong>sheet position 6/I</strong>. The shade is cooler and the paper whiter than on the blue proof of field 96/I above.",
+  "es": "Prueba azul, sin dentar — <strong>casilla 6/I</strong>. El tono es más frío y el papel más blanco que en la prueba azul de la casilla 96/I de arriba.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "Essai bleu, non dentelé — <strong>case 6/I</strong>. La nuance est plus froide et le papier plus blanc que sur l’essai bleu de la case 96/I ci-dessus.",
+  "tag": "span"
  },
  "a740a7197b": {
   "cs": "nezoubkovaný arch, 10×10 polí",
@@ -15343,6 +15719,17 @@
   "es": "ambulancia postal 113: Broumov–Choceň · 9. V. 1920",
   "fr": "poste ambulante 113 : Broumov–Choceň · 9. V. 1920"
  },
+ "b0decac290": {
+  "cs": "Jak cizí otisk poznat",
+  "de": "Wie man den fremden Abdruck erkennt",
+  "en": "How to spot the foreign impression",
+  "es": "Cómo reconocer la impresión ajena",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "Comment repérer l’impression étrangère",
+  "tag": "span"
+ },
  "b16c507a03": {
   "cs": "Vodorovné a svislé linky vznikají <strong>nezávisle na sobě</strong>, takže se v rozích nesejdou — díry se míjejí, zdvojují nebo v rohu chybí.",
   "de": "Waagerechte und senkrechte Linien entstehen <strong>unabhängig voneinander</strong>, sodass sie sich in den Ecken nicht treffen — die Löcher gehen aneinander vorbei, verdoppeln sich oder fehlen in der Ecke.",
@@ -15646,6 +16033,17 @@
   "fr": "Entre l’épreuve et la production, <strong>le dessin de cette position a été retouché</strong>. Il ne s’agit donc pas seulement d’une différence de netteté : la forme a encore été modifiée entre les deux empreintes. Deux changements sont attestés.",
   "tag": "span"
  },
+ "b4936b71f3": {
+  "cs": "Červený zkusmý tisk na nažloutlém papíře, nezoubkovaný — <strong>známkové pole 70/I</strong>.",
+  "de": "Roter Probedruck auf gelblichem Papier, geschnitten — <strong>Bogenfeld 70/I</strong>.",
+  "en": "A red proof on yellowish paper, imperforate — <strong>sheet position 70/I</strong>.",
+  "es": "Prueba roja sobre papel amarillento, sin dentar — <strong>casilla 70/I</strong>.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "Essai rouge sur papier jaunâtre, non dentelé — <strong>case 70/I</strong>.",
+  "tag": "span"
+ },
  "b49b0be7c4": {
   "cs": "Kus 28 — Přetisk DOPLATIT 40 h. Silný posun doleva a nahoru — vlevo zůstal proužek sousední známky, vpravo je kresba naříznuta.",
   "de": "Stück 28 — Aufdruck DOPLATIT 40 h. Starke Verschiebung nach links und nach oben — links blieb ein Streifen der Nachbarmarke stehen, rechts ist die Zeichnung angeschnitten.",
@@ -15895,6 +16293,17 @@
    "index.html"
   ],
   "fr": "Ouvrir le site de la valeur 15h &#8594;",
+  "tag": "span"
+ },
+ "b71813105e": {
+  "cs": "Makulaturní tisk 15h, <strong>známkové pole 46/IV</strong> — kresba je utopená v barvě: šrafování svahu je zalité, obloha zaplněná a písmo nápisu se stahuje. Otisk je přitom po celé ploše, nejde tedy o vadu jednoho místa.",
+  "de": "Makulaturdruck der 15h, <strong>Bogenfeld 46/IV</strong> — die Zeichnung ist in Farbe ertrunken: die Schraffur des Hangs ist zugelaufen, der Himmel zugefüllt und die Schrift der Inschrift zieht sich zu. Der Abdruck ist dabei auf der ganzen Fläche so, es handelt sich also nicht um einen Fehler an einer Stelle.",
+  "en": "A waste print of the 15h, <strong>sheet position 46/IV</strong> — the design is drowned in ink: the hatching of the hillside is flooded, the sky filled in and the letters of the inscription are closing up. The impression is like this over the whole area, so this is not a flaw confined to one spot.",
+  "es": "Impresión de maculatura de los 15 h, <strong>casilla 46/IV</strong> — el dibujo está ahogado en tinta: el rayado de la ladera queda empastado, el cielo relleno y las letras de la inscripción se cierran. La impresión es así en toda la superficie, no se trata pues de un defecto en un solo punto.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "Tirage de macule de la 15 h, <strong>case 46/IV</strong> — le dessin est noyé d’encre : les hachures du coteau sont empâtées, le ciel comblé et les lettres de l’inscription se referment. L’impression est ainsi sur toute la surface : il ne s’agit donc pas d’un défaut localisé.",
   "tag": "span"
  },
  "b7201bd299": {
@@ -16155,6 +16564,17 @@
   "files": [],
   "fr": "5h planche VI",
   "tag": "alt"
+ },
+ "ba17eafda9": {
+  "cs": "Čím se liší od slitého a dvojitého tisku",
+  "de": "Worin sie sich vom verlaufenen und vom Doppeldruck unterscheidet",
+  "en": "How it differs from a blurred and from a double print",
+  "es": "En qué se diferencia de la impresión empastada y de la doble impresión",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "En quoi elle diffère d’une impression empâtée et d’une double impression",
+  "tag": "span"
  },
  "ba23e13feb": {
   "cs": "\n<h1>15h – prasklá tisková deska na 11/II</h1>\n\n<p><em>Doplněno 24. 6. 2017</em></p>\n<p>Praskliny na tiskové desce se u několika hodnot této emise vyskytují zejména u krajových známkových polí, kde je\nriziko mechanického poškození přirozeně větší. Při rekonstrukci první a druhé tiskové desky 15h hodnoty (POFIS č. 7)\njsem narazil na velmi zajímavý příklad prasklé tiskové desky.</p>\n<p>Výrazná prasklina levého horního rohu se vyskytuje <strong>na 11. známkovém poli 2. tiskové desky</strong>.\nDomnívám se, že vznikla poškozením tiskové desky při pravidelném čištění. Výskyt známek s tímto poškozením je\nz mého pohledu vzácný.</p>\n<figure><img src=\"../assets/img/11192-15h-11-2-bez.png\" alt=\"11. ZP z II. TD – nezoubkovaná, bez výskytu praskliny\" loading=\"lazy\" style=\"max-width:340px\"><figcaption>11. ZP z II. TD – nezoubkovaná, bez výskytu praskliny</figcaption></figure>\n<figure><img src=\"../assets/img/11186-15h-11-2-perf-F.png\" alt=\"11. ZP z II. TD – řádkové zoubkování 13¾ : 11½ (F), s prasklinou\" loading=\"lazy\" style=\"max-width:340px\"><figcaption>11. ZP z II. TD – řádkové zoubkování 13¾ : 11½ (F), s prasklinou</figcaption></figure>\n<figure><img src=\"../assets/img/01872-15h-11-II-strihana.jpg\" alt=\"11. ZP z II. TD – nezoubkovaná, s prasklinou\" loading=\"lazy\" style=\"max-width:340px\"><figcaption>11. ZP z II. TD – nezoubkovaná, s prasklinou</figcaption></figure>\n<figure><img src=\"../assets/img/01873-15h-11-II-zoubkovana-A.jpg\" alt=\"11. ZP z II. TD – hřebenové zoubkování 13¾ : 13½ (A), s prasklinou\" loading=\"lazy\" style=\"max-width:340px\"><figcaption>11. ZP z II. TD – hřebenové zoubkování 13¾ : 13½ (A), s prasklinou</figcaption></figure>\n<figure><img src=\"../assets/img/01926-hradcany-praskle-tiskove-desky-_-2357a6.jpg\" alt=\"11. ZP z II. TD – hřebenové zoubkování 11¾ (B), s prasklinou (ze sbírky p. Jaroslava Michalíka)\" loading=\"lazy\" style=\"max-width:340px\"><figcaption>11. ZP z II. TD – hřebenové zoubkování 11¾ (B), s prasklinou (ze sbírky p. Jaroslava Michalíka)</figcaption></figure>\n<figure><img src=\"../assets/img/01930-Praskl-roh-1.jpg\" alt=\"11. ZP z II. TD – zoubkování B, s prasklinou, v šestibloku (ze sbírky p. Jaroslava Michalíka)\" loading=\"lazy\" style=\"max-width:480px\"><figcaption>11. ZP z II. TD – zoubkování B, s prasklinou, v šestibloku (ze sbírky p. Jaroslava Michalíka)</figcaption></figure>\n<figure><img src=\"../assets/img/11253-15h-11-2-zkusmy-tisk.png\" alt=\"11. ZP z II. TD – zkusmý tisk ve vzácném řádkovém zoubkování 13¾ (C), s prasklinou ve fázi 3\" loading=\"lazy\" style=\"max-width:340px\"><figcaption>11. ZP z II. TD – zkusmý tisk ve vzácném řádkovém zoubkování 13¾ (C), s prasklinou ve fázi 3</figcaption></figure>\n<h3>Jak k prasklině mohlo dojít</h3>\n<div class=\"tf-fig\"><svg class=\"tf-svg\" viewBox=\"0 0 640 190\" role=\"img\" aria-labelledby=\"tfTitleC\"><defs><marker id=\"tfArrow\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0 L10 5 L0 10 z\" fill=\"#8a7668\"/></marker></defs><title id=\"tfTitleC\">Jak mohla vzniknout praskla deska</title>\n<rect class=\"tf-forme\" x=\"60\" y=\"60\" width=\"90\" height=\"90\" rx=\"3\"/><rect class=\"tf-frame\" x=\"72\" y=\"72\" width=\"66\" height=\"66\" rx=\"2\"/><rect class=\"tf-object\" x=\"30\" y=\"42\" width=\"55\" height=\"16\" rx=\"3\" transform=\"rotate(-28 57 50)\"/><path class=\"tf-lead\" d=\"M 45 36 A 30 14 0 0 1 85 36\"/><text class=\"tf-cap mid\" x=\"105\" y=\"172\">a) čištění formy</text>\n<path class=\"tf-arrow\" d=\"M 200 105 L 225 105\"/>\n<rect class=\"tf-forme\" x=\"275\" y=\"60\" width=\"90\" height=\"90\" rx=\"3\"/><rect class=\"tf-frame\" x=\"287\" y=\"72\" width=\"66\" height=\"66\" rx=\"2\"/><path class=\"tf-crack\" d=\"M 275 60 L 287 74 L 282 82 L 293 92\"/><text class=\"tf-cap mid\" x=\"320\" y=\"172\">b) vlásečnicová trhlina</text>\n<path class=\"tf-arrow\" d=\"M 415 105 L 440 105\"/>\n<rect class=\"tf-forme\" x=\"490\" y=\"60\" width=\"90\" height=\"90\" rx=\"3\"/><rect class=\"tf-frame\" x=\"502\" y=\"72\" width=\"66\" height=\"66\" rx=\"2\"/><path class=\"tf-crack thick\" d=\"M 490 62 L 505 78 L 499 87 L 512 98 L 506 108\"/><path class=\"tf-forme\" d=\"M 490 60 L 504 60 L 490 74 Z\"/><text class=\"tf-cap mid\" x=\"535\" y=\"172\">c) trhlina se plní barvou a roste</text>\n</svg></div>\n<p>Čištění desky namáhá nejvíc exponované hrany a rohy pole, kde nejsnáz vznikne vlásečnicová trhlina. Při dalším tisku se do ní dostává barva — otiskne se jako čára navíc — a tlak lisu ji při každém průchodu o něco rozšíří. Proto prasklina v čase roste, jak ukazují fáze níže.</p>\n<h2>Vývoj praskliny</h2>\n<p>Prasklina se vyvíjela postupně, jak je patrné z obrázků jednotlivých fází:</p>\n<div class=\"imgrow\"><img src=\"../assets/img/11191-15h-11-2-E.png\" alt=\"\" loading=\"lazy\"><img src=\"../assets/img/11188-15h-11-2-B.png\" alt=\"\" loading=\"lazy\"><img src=\"../assets/img/11189-15h-11-2-C.png\" alt=\"\" loading=\"lazy\"><img src=\"../assets/img/11187-15h-11-2-A.png\" alt=\"\" loading=\"lazy\"><img src=\"../assets/img/11190-15h-11-2-D.png\" alt=\"\" loading=\"lazy\"></div>\n<p class=\"imgcap\">Fáze 0 – neporušená TD · Fáze 1 – slabá deformace · Fáze 2 – TD vykazuje prasklinu · Fáze 3 – prasklina se zvětšuje · Fáze 4 – konečná fáze</p>\n<div class=\"table-wrap\"><table class=\"phase-table\"><caption>15h 11/II — výskyt fází praskliny v jednotlivých zoubkováních</caption><tr><th>Zoubkování</th><th>Fáze 0<br><small>neporušená TD</small></th><th>Fáze 1<br><small>TD ještě není prasklá, ale vykazuje deformaci</small></th><th>Fáze 2<br><small>TD vykazuje prasklinu</small></th><th>Fáze 3<br><small>prasklina se zvětšuje</small></th><th>Fáze 4<br><small>konečná fáze praskliny</small></th></tr><tr><td><strong>nezoubkovaná</strong></td><td><span class=\"chk\">&#10003;</span></td><td><span class=\"chk\">&#10003;</span></td><td></td><td><span class=\"chk\">&#10003;</span></td><td><span class=\"chk\">&#10003;</span></td></tr><tr><td><strong>A</strong></td><td><span class=\"chk\">&#10003;</span></td><td><span class=\"chk\">&#10003;</span></td><td></td><td></td><td><span class=\"chk\">&#10003;</span></td></tr><tr><td><strong>B</strong></td><td></td><td></td><td></td><td></td><td><span class=\"chk\">&#10003;</span></td></tr><tr><td><strong>C</strong></td><td><span class=\"chk\">&#10003;</span></td><td><span class=\"chk\">&#10003;</span></td><td></td><td></td><td></td></tr><tr><td><strong>D</strong></td><td><span class=\"chk\">&#10003;</span></td><td><span class=\"chk\">&#10003;</span></td><td><span class=\"chk\">&#10003;</span></td><td></td><td></td></tr><tr><td><strong>E</strong></td><td><span class=\"chk\">&#10003;</span></td><td><span class=\"chk\">&#10003;</span></td><td></td><td></td><td></td></tr><tr><td><strong>F</strong></td><td><span class=\"chk\">&#10003;</span></td><td><span class=\"chk\">&#10003;</span></td><td><span class=\"chk\">&#10003;</span></td><td></td><td></td></tr></table></div>\n<p><strong>Doplnění:</strong> na serveru infofila.cz publikoval k této problematice zajímavý článek kolega Jaroslav\nMichalík: <a href=\"https://www.infofila.cz/hradcany-praskle-tiskove-desky-r-2-c-5312\" target=\"_blank\" rel=\"noopener\">\ninfofila.cz – Hradčany: prasklé tiskové desky</a>.</p>\n<p class=\"author\"><em>Josef Matoušek (30. 12. 2014, doplněno 24. 6. 2017)</em></p>\n",
@@ -16436,6 +16856,17 @@
   "fr": "Choisissez une position (1–100) et comparez son aspect sur les sept planches d’impression côte à côte — exactement comme on détermine la planche d’un timbre donné. Les images sont recalées sur le cadre rouge du dessin, de sorte que les détails se trouvent au même endroit sur toutes les planches. En survolant une image, le dessin est agrandi (2,6×) et la loupe suit le curseur ; le commutateur « Aperçus XL » agrandit toute la grille et un clic ouvre la pleine résolution.",
   "tag": "span"
  },
+ "bc151f187d": {
+  "cs": "ZT 2 — Sytě černý zkusmý tisk na bílém papíře, nezoubkovaný — <strong>známkové pole 40/I</strong>. Nejostřejší otisk sestavy; drží i nejjemnější rytinu šrafování oblohy.",
+  "de": "ZT 2 — Tiefschwarzer Probedruck auf weißem Papier, geschnitten — <strong>Bogenfeld 40/I</strong>. Der schärfste Abzug der Gruppe; er hält selbst die feinste Gravur der Himmelsschraffur.",
+  "en": "ZT 2 — A deep black proof on white paper, imperforate — <strong>sheet position 40/I</strong>. The sharpest impression of the group; it holds even the finest engraving of the sky hatching.",
+  "es": "ZT 2 — Prueba de negro intenso sobre papel blanco, sin dentar — <strong>casilla 40/I</strong>. La impresión más nítida del grupo; conserva incluso el grabado más fino del rayado del cielo.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "ZT 2 — Essai d’un noir profond sur papier blanc, non dentelé — <strong>case 40/I</strong>. Le tirage le plus net du groupe ; il retient jusqu’à la gravure la plus fine des hachures du ciel.",
+  "tag": "cap"
+ },
  "bc35a4ea90": {
   "cs": "60h – žlutooranžová",
   "de": "60h – gelborange",
@@ -16570,6 +17001,24 @@
   ],
   "fr": "vert / vert jaune",
   "tag": "span"
+ },
+ "bd7ba83cfd": {
+  "cs": "ZT 3 — Modrý zkusmý tisk, nezoubkovaný — <strong>známkové pole 6/I</strong>. Odstín je chladnější a papír bělejší než u modrého zkusmého tisku ZP 96/I výše.",
+  "de": "ZT 3 — Blauer Probedruck, geschnitten — <strong>Bogenfeld 6/I</strong>. Der Ton ist kühler und das Papier weißer als beim blauen Probedruck des Feldes 96/I oben.",
+  "en": "ZT 3 — A blue proof, imperforate — <strong>sheet position 6/I</strong>. The shade is cooler and the paper whiter than on the blue proof of field 96/I above.",
+  "es": "ZT 3 — Prueba azul, sin dentar — <strong>casilla 6/I</strong>. El tono es más frío y el papel más blanco que en la prueba azul de la casilla 96/I de arriba.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "ZT 3 — Essai bleu, non dentelé — <strong>case 6/I</strong>. La nuance est plus froide et le papier plus blanc que sur l’essai bleu de la case 96/I ci-dessus.",
+  "tag": "cap"
+ },
+ "bd9433745e": {
+  "cs": "Košice 2 &middot; 13.&nbsp;VII.&nbsp;1920",
+  "de": "Košice 2 &middot; 13.&nbsp;VII.&nbsp;1920",
+  "en": "Košice 2 &middot; 13.&nbsp;VII.&nbsp;1920",
+  "es": "Košice 2 &middot; 13.&nbsp;VII.&nbsp;1920",
+  "fr": "Košice 2 &middot; 13.&nbsp;VII.&nbsp;1920"
  },
  "bd9addcef4": {
   "cs": "určených známek",
@@ -16866,6 +17315,13 @@
   ],
   "fr": "La numérotation des positions dans la feuille",
   "tag": "span"
+ },
+ "c080f70d3e": {
+  "cs": "<span class=\"badge rare\">pečetní známka</span>",
+  "de": "<span class=\"badge rare\">Verschlussmarke</span>",
+  "en": "<span class=\"badge rare\">sealing stamp</span>",
+  "es": "<span class=\"badge rare\">sello de cierre</span>",
+  "fr": "<span class=\"badge rare\">timbre de fermeture</span>"
  },
  "c08f3b9954": {
   "cs": "černofialová",
@@ -18462,6 +18918,17 @@
   "fr": "1000h planche II",
   "tag": "alt"
  },
+ "d3ee3965e9": {
+  "cs": "ZT 7 — Červený tisk na <strong>narůžovělém papíře</strong>, nezoubkovaný — zkouška podkladu, ne barvy.",
+  "de": "ZT 7 — Roter Druck auf <strong>rosafarbenem Papier</strong>, geschnitten — eine Probe des Papiers, nicht der Farbe.",
+  "en": "ZT 7 — A red print on <strong>pinkish paper</strong>, imperforate — a trial of the stock, not of the ink.",
+  "es": "ZT 7 — Impresión roja sobre <strong>papel rosado</strong>, sin dentar — una prueba del soporte, no de la tinta.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "ZT 7 — Tirage rouge sur <strong>papier rosé</strong>, non dentelé — un essai du support, non de l’encre.",
+  "tag": "cap"
+ },
  "d4087f818e": {
   "cs": "<strong>15h</strong> — Nové přírůstky v evidenci: vodorovný pár se <strong>zoubkováním H</strong> (Turnov, 15.&nbsp;III.&nbsp;1920) – <strong>dosud nejranější doložené použití zoubkování H</strong> – dva kusy zoubkování E – <strong>Hoštka/Gastorf</strong> (31.&nbsp;XII.&nbsp;1919, nová pošta v evidenci E) a <strong>Česká Lípa/Böhm. Leipa</strong> (IX.&nbsp;1919) a osm <strong>neperforovaných známek z TD&nbsp;V a TD&nbsp;VI</strong> s razítky Košice, Plešivec, Lučenec, Brezovka a Malý Lipník. Aktualizovány <a href=\"15h/statistiky.html\"><strong>statistiky</strong></a> (6&nbsp;416 datovaných razítek) i <a href=\"15h/mapa.html\"><strong>mapa razítek</strong></a>.",
   "de": "<strong>15h</strong> — Neuzugänge in der Erfassung: ein waagerechtes Paar mit <strong>Zähnung H</strong> (Turnov, 15.&nbsp;März&nbsp;1920) – <strong>die bislang früheste belegte Verwendung der Zähnung H</strong> – zwei Stücke mit Zähnung E, <strong>Hoštka/Gastorf</strong> (31.&nbsp;Dezember&nbsp;1919, ein in der E-Erfassung neues Postamt) und <strong>Česká Lípa/Böhm. Leipa</strong> (September&nbsp;1919), sowie acht <strong>geschnittene Marken der Platten V und VI</strong> mit den Stempeln Košice, Plešivec, Lučenec, Brezovka und Malý Lipník. Die <a href=\"15h/statistiky.html\"><strong>Statistiken</strong></a> (6&nbsp;416 datierte Stempel) und die <a href=\"15h/mapa.html\"><strong>Stempelkarte</strong></a> wurden aktualisiert.",
@@ -18630,6 +19097,17 @@
   "fr": "En préparation.",
   "tag": "span"
  },
+ "d55e4c02a1": {
+  "cs": "Červený zkusmý tisk na nažloutlém papíře, nezoubkovaný — <strong>známkové pole 70</strong>.",
+  "de": "Roter Probedruck auf gelblichem Papier, geschnitten — <strong>Bogenfeld 70</strong>.",
+  "en": "A red proof on yellowish paper, imperforate — <strong>sheet position 70</strong>.",
+  "es": "Prueba roja sobre papel amarillento, sin dentar — <strong>casilla 70</strong>.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "Essai rouge sur papier jaunâtre, non dentelé — <strong>case 70</strong>.",
+  "tag": "span"
+ },
  "d55fc67b15": {
   "cs": "Kus 7 — Vodorovně vystředěná známka, ale obě vodorovné řady leží těsně u rámečku — mezi nimi je nezvykle málo místa.",
   "de": "Stück 7 — Waagerecht zentrierte Marke, aber beide waagerechten Reihen liegen dicht am Rahmen — dazwischen ist ungewöhnlich wenig Platz.",
@@ -18742,6 +19220,13 @@
   ],
   "fr": "→ une tache nette sans encre",
   "tag": "span"
+ },
+ "d739ae2831": {
+  "cs": "Humpolec &middot; 3.&nbsp;VIII.&nbsp;1919",
+  "de": "Humpolec &middot; 3.&nbsp;VIII.&nbsp;1919",
+  "en": "Humpolec &middot; 3.&nbsp;VIII.&nbsp;1919",
+  "es": "Humpolec &middot; 3.&nbsp;VIII.&nbsp;1919",
+  "fr": "Humpolec &middot; 3.&nbsp;VIII.&nbsp;1919"
  },
  "d73bacb9de": {
   "cs": "Skupina",
@@ -18960,6 +19445,17 @@
   "es": "Ejemplar 3 — Sello con un matasellos denso; el límite lo delata una separación horizontal a la altura de las torres, más legible en la parte derecha del sello.",
   "files": [],
   "fr": "Pièce 3 — Exemplaire à oblitération dense ; la limite se trahit par une séparation horizontale à la hauteur des tours, surtout lisible dans la partie droite du timbre.",
+  "tag": "cap"
+ },
+ "d9342675cb": {
+  "cs": "ZT 1 — Hnědočerný zkusmý tisk na nažloutlém papíře, nezoubkovaný — <strong>známkové pole 7/II</strong>.",
+  "de": "ZT 1 — Braunschwarzer Probedruck auf gelblichem Papier, geschnitten — <strong>Bogenfeld 7/II</strong>.",
+  "en": "ZT 1 — A brown-black proof on yellowish paper, imperforate — <strong>sheet position 7/II</strong>.",
+  "es": "ZT 1 — Prueba pardo negruzca sobre papel amarillento, sin dentar — <strong>casilla 7/II</strong>.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "ZT 1 — Essai brun-noir sur papier jaunâtre, non dentelé — <strong>case 7/II</strong>.",
   "tag": "cap"
  },
  "d94e5d24a0": {
@@ -19637,6 +20133,17 @@
   "fr": "Composée et mixte — en quoi elles diffèrent",
   "tag": "span"
  },
+ "de9ae1563e": {
+  "cs": "Slitý tisk je jednotlivá známka s přebytkem barvy, která se dostala do oběhu — je to <a href=\"vyrobni-vady.html#tisk\">výrobní vada</a> na jinak řádném archu. Makulatura je celý arch odložený jako zmetek: přeplnění barvou u ní není výjimka, ale stav, kvůli kterému se tiskl nanečisto. Hranice mezi obojím není ostrá a rozhoduje především původ kusu, ne jeho vzhled.",
+  "de": "Ein verlaufener Druck ist eine einzelne Marke mit Farbüberschuss, die in den Umlauf gelangte — ein <a href=\"vyrobni-vady.html#tisk\">Herstellungsfehler</a> auf einem sonst ordentlichen Bogen. Makulatur ist ein ganzer als Ausschuss beiseitegelegter Bogen: die Überfüllung mit Farbe ist bei ihr keine Ausnahme, sondern gerade der Zustand, dessentwegen probeweise gedruckt wurde. Die Grenze zwischen beiden ist nicht scharf, und es entscheidet vor allem die Herkunft des Stückes, nicht sein Aussehen.",
+  "en": "A blurred print is an individual stamp with excess ink that reached circulation — a <a href=\"vyrobni-vady.html#tisk\">production flaw</a> on an otherwise proper sheet. Waste is a whole sheet set aside as spoilage: over-inking is not an exception on it but the very state that made it a trial pull. The boundary between the two is not sharp, and it is the provenance of the piece rather than its appearance that decides.",
+  "es": "La impresión empastada es un sello suelto con exceso de tinta que llegó a circular — un <a href=\"vyrobni-vady.html#tisk\">defecto de fabricación</a> en un pliego por lo demás correcto. La maculatura es un pliego entero apartado como desecho: el exceso de tinta no es en ella una excepción, sino el estado mismo por el que se tiró a modo de prueba. El límite entre ambos no es nítido y decide sobre todo la procedencia de la pieza, no su aspecto.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "Une impression empâtée est un timbre isolé avec un excès d’encre qui est parvenu dans la circulation — un <a href=\"vyrobni-vady.html#tisk\">défaut de fabrication</a> sur une feuille par ailleurs correcte. La macule est une feuille entière mise au rebut : l’excès d’encre n’y est pas une exception mais l’état même qui a fait de ce tirage un essai. La limite entre les deux n’est pas nette, et c’est surtout la provenance de la pièce, non son aspect, qui tranche.",
+  "tag": "span"
+ },
  "dec3ca9a5e": {
   "cs": "obchodní papíry — 5&nbsp;h za každých 50&nbsp;g, nejméně 25&nbsp;h",
   "de": "Geschäftspapiere — 5&nbsp;h je 50&nbsp;g, mindestens 25&nbsp;h",
@@ -19872,6 +20379,17 @@
   ],
   "fr": "Une feuille de Hradčany se compose de <strong>100 positions</strong>, chacune portant son numéro. Certaines valeurs ont été imprimées à partir de plusieurs planches d’impression ; un timbre se désigne donc par le couple <strong>position/planche</strong> — <strong>37/III</strong>, par exemple, est la 37e position de la troisième planche.",
   "tag": "span"
+ },
+ "e31a4068b5": {
+  "cs": "ZT 7 — Červený tisk na <strong>narůžovělém papíře</strong>, nezoubkovaný — <strong>známkové pole 90/IV</strong>; zkouška podkladu, ne barvy.",
+  "de": "ZT 7 — Roter Druck auf <strong>rosafarbenem Papier</strong>, geschnitten — <strong>Bogenfeld 90/IV</strong>; eine Probe des Papiers, nicht der Farbe.",
+  "en": "ZT 7 — A red print on <strong>pinkish paper</strong>, imperforate — <strong>sheet position 90/IV</strong>; a trial of the stock, not of the ink.",
+  "es": "ZT 7 — Impresión roja sobre <strong>papel rosado</strong>, sin dentar — <strong>casilla 90/IV</strong>; una prueba del soporte, no de la tinta.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "ZT 7 — Tirage rouge sur <strong>papier rosé</strong>, non dentelé — <strong>case 90/IV</strong> ; un essai du support, non de l’encre.",
+  "tag": "cap"
  },
  "e31d5c37cc": {
   "cs": "H 1–2",
@@ -20473,6 +20991,17 @@
   "fr": "2e",
   "tag": "ui"
  },
+ "e99587e569": {
+  "cs": "Červenooranžový odstín — <strong>známkové pole 40/II</strong>. Na rozdíl od ostatních kusů sestavy je <strong>zoubkovaný</strong>.",
+  "de": "Rotoranger Ton — <strong>Bogenfeld 40/II</strong>. Im Unterschied zu den übrigen Stücken der Gruppe ist er <strong>gezähnt</strong>.",
+  "en": "A red-orange shade — <strong>sheet position 40/II</strong>. Unlike the other pieces in the group it is <strong>perforated</strong>.",
+  "es": "Tono rojo anaranjado — <strong>casilla 40/II</strong>. A diferencia de las demás piezas del grupo, está <strong>dentada</strong>.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "Nuance rouge orangé — <strong>case 40/II</strong>. À la différence des autres pièces du groupe, elle est <strong>dentelée</strong>.",
+  "tag": "span"
+ },
  "e9b92c9c84": {
   "cs": "Hradčany 15h — výrobní vady: vady perforace, tisku a papíru. / Production flaws of the 15h Hradčany: perforation, printing and paper.",
   "de": "Hradschin 15h — Herstellungsfehler: Zähnung, Druck und Papier.",
@@ -20739,6 +21268,17 @@
    "15h/vyrobni-vady.html"
   ],
   "fr": "<strong>Moyen</strong> — la perforation mord dans le cadre ou le traverse. Le dessin est atteint, mais rien du timbre voisin n’est encore présent.",
+  "tag": "span"
+ },
+ "ec71d04e8c": {
+  "cs": "Sytě černý zkusmý tisk na bílém papíře, nezoubkovaný — <strong>známkové pole 40/I</strong>. Nejostřejší otisk sestavy; drží i nejjemnější rytinu šrafování oblohy.",
+  "de": "Tiefschwarzer Probedruck auf weißem Papier, geschnitten — <strong>Bogenfeld 40/I</strong>. Der schärfste Abzug der Gruppe; er hält selbst die feinste Gravur der Himmelsschraffur.",
+  "en": "A deep black proof on white paper, imperforate — <strong>sheet position 40/I</strong>. The sharpest impression of the group; it holds even the finest engraving of the sky hatching.",
+  "es": "Prueba de negro intenso sobre papel blanco, sin dentar — <strong>casilla 40/I</strong>. La impresión más nítida del grupo; conserva incluso el grabado más fino del rayado del cielo.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "Essai d’un noir profond sur papier blanc, non dentelé — <strong>case 40/I</strong>. Le tirage le plus net du groupe ; il retient jusqu’à la gravure la plus fine des hachures du ciel.",
   "tag": "span"
  },
  "ec940bcb85": {
@@ -21889,6 +22429,13 @@
   "fr": "Couleurs et nuances — Hradčany 15h",
   "tag": "attr"
  },
+ "fac4452479": {
+  "cs": "<span class=\"badge rare\">nejvzácnější deska — TD VII</span>",
+  "de": "<span class=\"badge rare\">seltenste Platte — Platte VII</span>",
+  "en": "<span class=\"badge rare\">rarest plate — plate VII</span>",
+  "es": "<span class=\"badge rare\">plancha más rara — plancha VII</span>",
+  "fr": "<span class=\"badge rare\">planche la plus rare — planche VII</span>"
+ },
  "fae7b7d5fb": {
   "cs": "Rekonstrukce celé <strong>druhá tiskové desky</strong> hodnoty 5h — všech sto známkových polí v pořadí, v jakém leží v archu. Najetím myší se náhled zaostří na plné rozlišení, kliknutím se pole otevře přes celou obrazovku.",
   "de": "Rekonstruktion der gesamten <strong>zweiten Druckplatte</strong> des Wertes 5h — alle hundert Markenfelder in der Reihenfolge, in der sie im Bogen liegen. Beim Überfahren mit der Maus schärft sich die Vorschau auf volle Auflösung, mit einem Klick öffnet sich das Feld im Vollbild.",
@@ -22234,6 +22781,13 @@
   "fr": "H — 13¾:10¾ ligne",
   "tag": "span"
  },
+ "fe3f0193a4": {
+  "cs": "<strong>15h</strong> — Stránka <a href=\"15h/zasilky.html\"><strong>Příklady poštovního použití</strong></a> nově uvádí u každé celistvosti úplné určení: známkové pole a tiskovou desku každé 15&nbsp;h, zoubkování, doprovodné známky, místo a datum odeslání, tarifní období i typ frankatury. Přibyly dvě položky, ke kterým už na webu byly samostatné články — dopis s <a href=\"15h/clanky/15h-td7-humpolec.html\"><strong>poli 9 a 19 z nejvzácnější tiskové desky VII</strong></a> (Humpolec, 3.&nbsp;VIII.&nbsp;1919) a <a href=\"15h/clanky/15h-neperforovana-td6.html\"><strong>poštovně použitá nezoubkovaná 15h z desky VI</strong></a> (Košice 2, 13.&nbsp;VII.&nbsp;1920). Celkem sedmnáct celistvostí.",
+  "de": "<strong>15h</strong> — Die Seite <a href=\"15h/zasilky.html\"><strong>Beispiele postalischer Verwendung</strong></a> nennt nun zu jedem Beleg die vollständige Bestimmung: Feld und Druckplatte jeder 15&nbsp;h, die Zähnung, die Beifrankaturen, Aufgabeort und -datum, die Tarifperiode sowie die Frankaturart. Zwei Belege sind hinzugekommen, zu denen es bereits eigene Artikel gab — ein Brief mit <a href=\"15h/clanky/15h-td7-humpolec.html\"><strong>den Feldern 9 und 19 der seltensten Platte VII</strong></a> (Humpolec, 3.&nbsp;VIII.&nbsp;1919) und eine <a href=\"15h/clanky/15h-neperforovana-td6.html\"><strong>postalisch verwendete ungezähnte 15h der Platte VI</strong></a> (Košice 2, 13.&nbsp;VII.&nbsp;1920). Insgesamt siebzehn Belege.",
+  "en": "<strong>15h</strong> — The <a href=\"15h/zasilky.html\"><strong>Postal use examples</strong></a> page now gives a full attribution for every cover: the sheet position and printing plate of each 15&nbsp;h, the perforation, the accompanying stamps, the place and date of posting, the tariff period and the type of franking. Two items have been added that already had articles of their own — a letter bearing <a href=\"15h/clanky/15h-td7-humpolec.html\"><strong>fields 9 and 19 of the rarest plate VII</strong></a> (Humpolec, 3&nbsp;August&nbsp;1919) and a <a href=\"15h/clanky/15h-neperforovana-td6.html\"><strong>postally used imperforate 15h from plate VI</strong></a> (Košice 2, 13&nbsp;July&nbsp;1920). Seventeen covers in all.",
+  "es": "<strong>15h</strong> — La página <a href=\"15h/zasilky.html\"><strong>Ejemplos de uso postal</strong></a> indica ahora para cada pieza la atribución completa: el campo y la plancha de cada 15&nbsp;h, el dentado, los sellos acompañantes, el lugar y la fecha de imposición, el período tarifario y el tipo de franqueo. Se han añadido dos piezas que ya tenían artículo propio — una carta con <a href=\"15h/clanky/15h-td7-humpolec.html\"><strong>los campos 9 y 19 de la plancha VII, la más rara</strong></a> (Humpolec, 3&nbsp;de&nbsp;agosto&nbsp;de&nbsp;1919) y un <a href=\"15h/clanky/15h-neperforovana-td6.html\"><strong>15h sin dentar de la plancha VI con uso postal</strong></a> (Košice 2, 13&nbsp;de&nbsp;julio&nbsp;de&nbsp;1920). Diecisiete piezas en total.",
+  "fr": "<strong>15h</strong> — La page <a href=\"15h/zasilky.html\"><strong>Exemples d'usage postal</strong></a> indique désormais pour chaque pli l'attribution complète : le champ et la planche de chaque 15&nbsp;h, la dentelure, les timbres d'accompagnement, le lieu et la date de dépôt, la période tarifaire et le type d'affranchissement. Deux pièces s'y ajoutent, qui faisaient déjà l'objet d'articles — une lettre portant <a href=\"15h/clanky/15h-td7-humpolec.html\"><strong>les champs 9 et 19 de la planche VII, la plus rare</strong></a> (Humpolec, 3&nbsp;août&nbsp;1919) et un <a href=\"15h/clanky/15h-neperforovana-td6.html\"><strong>15h non dentelé de la planche VI ayant voyagé</strong></a> (Košice 2, 13&nbsp;juillet&nbsp;1920). Dix-sept pièces au total."
+ },
  "fe516cf634": {
   "cs": "120h stříbřitě šedá",
   "de": "120h silbergrau",
@@ -22396,6 +22950,17 @@
   "fr": "21. 3. 2015, mis à jour le 17. 11. 2015",
   "tag": "span"
  },
+ "ff9716c971": {
+  "cs": "Červený tisk na <strong>narůžovělém papíře</strong>, nezoubkovaný — zkouška podkladu, ne barvy.",
+  "de": "Roter Druck auf <strong>rosafarbenem Papier</strong>, geschnitten — eine Probe des Papiers, nicht der Farbe.",
+  "en": "A red print on <strong>pinkish paper</strong>, imperforate — a trial of the stock, not of the ink.",
+  "es": "Impresión roja sobre <strong>papel rosado</strong>, sin dentar — una prueba del soporte, no de la tinta.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "Tirage rouge sur <strong>papier rosé</strong>, non dentelé — un essai du support, non de l’encre.",
+  "tag": "span"
+ },
  "ffbc5123f9": {
   "cs": "Obsahuje malý barevný nápis na bílém podkladu, slunce a keř. Druhá kresba byla použita pro tisk těchto hodnot emise Hradčany: 100h, 200h, 400h.",
   "de": "Enthält eine kleine farbige Aufschrift auf weißem Grund, Sonne und Strauch. Die zweite Zeichnung wurde für den Druck dieser Werte der Ausgabe Hradschin verwendet: 100h, 200h, 400h.",
@@ -22428,247 +22993,5 @@
   ],
   "fr": "25,7&nbsp;%",
   "tag": "num"
- },
- "777de516db": {
-  "cs": "Barevné zkusmé tisky",
-  "de": "Farbprobedrucke",
-  "en": "Colour trials",
-  "es": "Pruebas de color",
-  "files": [
-   "15h/zkusebni-tisky.html"
-  ],
-  "fr": "Essais de couleur",
-  "tag": "span"
- },
- "75462e5e2d": {
-  "cs": "Než se rozhodlo, v jaké barvě a na jakém papíře se bude tisknout, otiskla se táž forma několikrát nanečisto. Následující kusy jsou z takové řady: stejná kresba, pokaždé jiná barva nebo jiný podklad. Vedle černé a hnědočerné je tu modrá i několik odstínů červené a jeden otisk na narůžovělém papíře.",
-  "de": "Bevor entschieden wurde, in welcher Farbe und auf welchem Papier gedruckt werden sollte, wurde dieselbe Form mehrmals probeweise abgezogen. Die folgenden Stücke stammen aus einer solchen Reihe: dieselbe Zeichnung, jedes Mal eine andere Farbe oder ein anderer Untergrund. Neben Schwarz und Braunschwarz gibt es hier Blau, mehrere Rottöne und einen Abzug auf rosafarbenem Papier.",
-  "en": "Before it was decided in what colour and on what paper the stamp would be printed, the same forme was pulled several times as a trial. The pieces below come from such a series: the same design, each time in a different colour or on a different stock. Besides black and brown-black there is a blue, several shades of red, and one impression on pinkish paper.",
-  "es": "Antes de decidir en qué color y sobre qué papel se imprimiría, la misma forma se tiró varias veces a modo de prueba. Las piezas siguientes proceden de una serie así: el mismo dibujo, cada vez en otro color o sobre otro soporte. Junto al negro y al pardo negruzco hay un azul, varios tonos de rojo y una impresión sobre papel rosado.",
-  "files": [
-   "15h/zkusebni-tisky.html"
-  ],
-  "fr": "Avant que ne soit décidé dans quelle couleur et sur quel papier on imprimerait, la même forme a été tirée plusieurs fois à l’essai. Les pièces ci-dessous proviennent d’une telle série : le même dessin, chaque fois dans une autre couleur ou sur un autre support. À côté du noir et du brun-noir, on y trouve un bleu, plusieurs nuances de rouge et un tirage sur papier rosé.",
-  "tag": "span"
- },
- "28b54fff52": {
-  "cs": "Pro studium desek jsou tyto otisky cenné právě proto, že jsou <strong>čisté</strong> — nezoubkované, nerazítkované a tištěné pečlivěji než produkce. Kresba je na nich čitelná do posledního tahu, takže se dá porovnávat s produkčními známkami stejného známkového pole.",
-  "de": "Für das Studium der Druckplatten sind diese Abzüge gerade deshalb wertvoll, weil sie <strong>sauber</strong> sind — geschnitten, ungestempelt und sorgfältiger gedruckt als die Auflage. Die Zeichnung ist auf ihnen bis zum letzten Strich lesbar, sodass sie sich mit Auflagemarken desselben Bogenfeldes vergleichen lässt.",
-  "en": "For the study of the plates these impressions are valuable precisely because they are <strong>clean</strong> — imperforate, uncancelled and printed more carefully than the production run. The design is legible down to the last stroke, so it can be compared with production stamps of the same sheet position.",
-  "es": "Para el estudio de las planchas estas impresiones son valiosas precisamente porque están <strong>limpias</strong> — sin dentar, sin matasellar e impresas con más cuidado que la tirada. El dibujo es legible hasta el último trazo, de modo que puede compararse con sellos de producción de la misma casilla.",
-  "files": [
-   "15h/zkusebni-tisky.html"
-  ],
-  "fr": "Pour l’étude des planches, ces tirages sont précieux justement parce qu’ils sont <strong>propres</strong> — non dentelés, non oblitérés et imprimés plus soigneusement que la production. Le dessin y est lisible jusqu’au dernier trait, de sorte qu’on peut le comparer aux timbres de production de la même case.",
-  "tag": "span"
- },
- "974a87066f": {
-  "cs": "Hnědočerný zkusmý tisk na nažloutlém papíře, nezoubkovaný.",
-  "de": "Braunschwarzer Probedruck auf gelblichem Papier, geschnitten.",
-  "en": "A brown-black proof on yellowish paper, imperforate.",
-  "es": "Prueba pardo negruzca sobre papel amarillento, sin dentar.",
-  "files": [
-   "15h/zkusebni-tisky.html"
-  ],
-  "fr": "Essai brun-noir sur papier jaunâtre, non dentelé.",
-  "tag": "span"
- },
- "340723f2ed": {
-  "cs": "ZT 1 — Hnědočerný zkusmý tisk na nažloutlém papíře, nezoubkovaný.",
-  "de": "ZT 1 — Braunschwarzer Probedruck auf gelblichem Papier, geschnitten.",
-  "en": "ZT 1 — A brown-black proof on yellowish paper, imperforate.",
-  "es": "ZT 1 — Prueba pardo negruzca sobre papel amarillento, sin dentar.",
-  "files": [
-   "15h/zkusebni-tisky.html"
-  ],
-  "fr": "ZT 1 — Essai brun-noir sur papier jaunâtre, non dentelé.",
-  "tag": "cap"
- },
- "7fc5ce6ef0": {
-  "cs": "Sytě černý zkusmý tisk na bílém papíře, nezoubkovaný — nejostřejší otisk sestavy; drží i nejjemnější rytinu šrafování oblohy.",
-  "de": "Tiefschwarzer Probedruck auf weißem Papier, geschnitten — der schärfste Abzug der Gruppe; er hält selbst die feinste Gravur der Himmelsschraffur.",
-  "en": "A deep black proof on white paper, imperforate — the sharpest impression of the group; it holds even the finest engraving of the sky hatching.",
-  "es": "Prueba de negro intenso sobre papel blanco, sin dentar — la impresión más nítida del grupo; conserva incluso el grabado más fino del rayado del cielo.",
-  "files": [
-   "15h/zkusebni-tisky.html"
-  ],
-  "fr": "Essai d’un noir profond sur papier blanc, non dentelé — le tirage le plus net du groupe ; il retient jusqu’à la gravure la plus fine des hachures du ciel.",
-  "tag": "span"
- },
- "3245aa8299": {
-  "cs": "ZT 2 — Sytě černý zkusmý tisk na bílém papíře, nezoubkovaný — nejostřejší otisk sestavy; drží i nejjemnější rytinu šrafování oblohy.",
-  "de": "ZT 2 — Tiefschwarzer Probedruck auf weißem Papier, geschnitten — der schärfste Abzug der Gruppe; er hält selbst die feinste Gravur der Himmelsschraffur.",
-  "en": "ZT 2 — A deep black proof on white paper, imperforate — the sharpest impression of the group; it holds even the finest engraving of the sky hatching.",
-  "es": "ZT 2 — Prueba de negro intenso sobre papel blanco, sin dentar — la impresión más nítida del grupo; conserva incluso el grabado más fino del rayado del cielo.",
-  "files": [
-   "15h/zkusebni-tisky.html"
-  ],
-  "fr": "ZT 2 — Essai d’un noir profond sur papier blanc, non dentelé — le tirage le plus net du groupe ; il retient jusqu’à la gravure la plus fine des hachures du ciel.",
-  "tag": "cap"
- },
- "42724d304d": {
-  "cs": "Modrý zkusmý tisk, nezoubkovaný — <strong>známkové pole 6</strong>. Odstín je chladnější a papír bělejší než u modrého zkusmého tisku ZP 96/I výše.",
-  "de": "Blauer Probedruck, geschnitten — <strong>Bogenfeld 6</strong>. Der Ton ist kühler und das Papier weißer als beim blauen Probedruck des Feldes 96/I oben.",
-  "en": "A blue proof, imperforate — <strong>sheet position 6</strong>. The shade is cooler and the paper whiter than on the blue proof of field 96/I above.",
-  "es": "Prueba azul, sin dentar — <strong>casilla 6</strong>. El tono es más frío y el papel más blanco que en la prueba azul de la casilla 96/I de arriba.",
-  "files": [
-   "15h/zkusebni-tisky.html"
-  ],
-  "fr": "Essai bleu, non dentelé — <strong>case 6</strong>. La nuance est plus froide et le papier plus blanc que sur l’essai bleu de la case 96/I ci-dessus.",
-  "tag": "span"
- },
- "2728ddfd27": {
-  "cs": "ZT 3 — Modrý zkusmý tisk, nezoubkovaný — <strong>známkové pole 6</strong>. Odstín je chladnější a papír bělejší než u modrého zkusmého tisku ZP 96/I výše.",
-  "de": "ZT 3 — Blauer Probedruck, geschnitten — <strong>Bogenfeld 6</strong>. Der Ton ist kühler und das Papier weißer als beim blauen Probedruck des Feldes 96/I oben.",
-  "en": "ZT 3 — A blue proof, imperforate — <strong>sheet position 6</strong>. The shade is cooler and the paper whiter than on the blue proof of field 96/I above.",
-  "es": "ZT 3 — Prueba azul, sin dentar — <strong>casilla 6</strong>. El tono es más frío y el papel más blanco que en la prueba azul de la casilla 96/I de arriba.",
-  "files": [
-   "15h/zkusebni-tisky.html"
-  ],
-  "fr": "ZT 3 — Essai bleu, non dentelé — <strong>case 6</strong>. La nuance est plus froide et le papier plus blanc que sur l’essai bleu de la case 96/I ci-dessus.",
-  "tag": "cap"
- },
- "d55e4c02a1": {
-  "cs": "Červený zkusmý tisk na nažloutlém papíře, nezoubkovaný — <strong>známkové pole 70</strong>.",
-  "de": "Roter Probedruck auf gelblichem Papier, geschnitten — <strong>Bogenfeld 70</strong>.",
-  "en": "A red proof on yellowish paper, imperforate — <strong>sheet position 70</strong>.",
-  "es": "Prueba roja sobre papel amarillento, sin dentar — <strong>casilla 70</strong>.",
-  "files": [
-   "15h/zkusebni-tisky.html"
-  ],
-  "fr": "Essai rouge sur papier jaunâtre, non dentelé — <strong>case 70</strong>.",
-  "tag": "span"
- },
- "28bb4caa6e": {
-  "cs": "ZT 4 — Červený zkusmý tisk na nažloutlém papíře, nezoubkovaný — <strong>známkové pole 70</strong>.",
-  "de": "ZT 4 — Roter Probedruck auf gelblichem Papier, geschnitten — <strong>Bogenfeld 70</strong>.",
-  "en": "ZT 4 — A red proof on yellowish paper, imperforate — <strong>sheet position 70</strong>.",
-  "es": "ZT 4 — Prueba roja sobre papel amarillento, sin dentar — <strong>casilla 70</strong>.",
-  "files": [
-   "15h/zkusebni-tisky.html"
-  ],
-  "fr": "ZT 4 — Essai rouge sur papier jaunâtre, non dentelé — <strong>case 70</strong>.",
-  "tag": "cap"
- },
- "77214c0bbd": {
-  "cs": "Červenooranžový odstín. Na rozdíl od ostatních kusů sestavy je <strong>zoubkovaný</strong>.",
-  "de": "Rotoranger Ton. Im Unterschied zu den übrigen Stücken der Gruppe ist er <strong>gezähnt</strong>.",
-  "en": "A red-orange shade. Unlike the other pieces in the group it is <strong>perforated</strong>.",
-  "es": "Tono rojo anaranjado. A diferencia de las demás piezas del grupo, está <strong>dentada</strong>.",
-  "files": [
-   "15h/zkusebni-tisky.html"
-  ],
-  "fr": "Nuance rouge orangé. À la différence des autres pièces du groupe, elle est <strong>dentelée</strong>.",
-  "tag": "span"
- },
- "989e3af309": {
-  "cs": "ZT 6 — Červenooranžový odstín. Na rozdíl od ostatních kusů sestavy je <strong>zoubkovaný</strong>.",
-  "de": "ZT 6 — Rotoranger Ton. Im Unterschied zu den übrigen Stücken der Gruppe ist er <strong>gezähnt</strong>.",
-  "en": "ZT 6 — A red-orange shade. Unlike the other pieces in the group it is <strong>perforated</strong>.",
-  "es": "ZT 6 — Tono rojo anaranjado. A diferencia de las demás piezas del grupo, está <strong>dentada</strong>.",
-  "files": [
-   "15h/zkusebni-tisky.html"
-  ],
-  "fr": "ZT 6 — Nuance rouge orangé. À la différence des autres pièces du groupe, elle est <strong>dentelée</strong>.",
-  "tag": "cap"
- },
- "ff9716c971": {
-  "cs": "Červený tisk na <strong>narůžovělém papíře</strong>, nezoubkovaný — zkouška podkladu, ne barvy.",
-  "de": "Roter Druck auf <strong>rosafarbenem Papier</strong>, geschnitten — eine Probe des Papiers, nicht der Farbe.",
-  "en": "A red print on <strong>pinkish paper</strong>, imperforate — a trial of the stock, not of the ink.",
-  "es": "Impresión roja sobre <strong>papel rosado</strong>, sin dentar — una prueba del soporte, no de la tinta.",
-  "files": [
-   "15h/zkusebni-tisky.html"
-  ],
-  "fr": "Tirage rouge sur <strong>papier rosé</strong>, non dentelé — un essai du support, non de l’encre.",
-  "tag": "span"
- },
- "d3ee3965e9": {
-  "cs": "ZT 7 — Červený tisk na <strong>narůžovělém papíře</strong>, nezoubkovaný — zkouška podkladu, ne barvy.",
-  "de": "ZT 7 — Roter Druck auf <strong>rosafarbenem Papier</strong>, geschnitten — eine Probe des Papiers, nicht der Farbe.",
-  "en": "ZT 7 — A red print on <strong>pinkish paper</strong>, imperforate — a trial of the stock, not of the ink.",
-  "es": "ZT 7 — Impresión roja sobre <strong>papel rosado</strong>, sin dentar — una prueba del soporte, no de la tinta.",
-  "files": [
-   "15h/zkusebni-tisky.html"
-  ],
-  "fr": "ZT 7 — Tirage rouge sur <strong>papier rosé</strong>, non dentelé — un essai du support, non de l’encre.",
-  "tag": "cap"
- },
- "48d7de9c07": {
-  "cs": "Kliknutím se ukázka zvětší. Známkové pole je uvedeno tam, kde se je podařilo spolehlivě určit porovnáním s rekonstruovanou <a href=\"galerie.html\">první tiskovou deskou</a>; u ostatních kusů zůstává otevřené.",
-  "de": "Ein Klick vergrößert das Stück. Das Bogenfeld ist dort angegeben, wo es sich durch Vergleich mit der rekonstruierten <a href=\"galerie.html\">ersten Druckplatte</a> zuverlässig bestimmen ließ; bei den übrigen Stücken bleibt es offen.",
-  "en": "Click a specimen to enlarge it. The sheet position is given where it could be determined reliably by comparison with the reconstructed <a href=\"galerie.html\">first printing plate</a>; on the remaining pieces it stays open.",
-  "es": "Al hacer clic la pieza se amplía. La casilla se indica allí donde pudo determinarse con fiabilidad comparándola con la <a href=\"galerie.html\">primera plancha</a> reconstruida; en las demás piezas queda abierta.",
-  "files": [
-   "15h/zkusebni-tisky.html"
-  ],
-  "fr": "Un clic agrandit la pièce. La case est indiquée là où elle a pu être déterminée de façon fiable par comparaison avec la <a href=\"galerie.html\">première planche</a> reconstituée ; sur les autres pièces, elle reste ouverte.",
-  "tag": "span"
- },
- "98add3f5f5": {
-  "cs": "Makulaturní tisk",
-  "de": "Makulaturdruck",
-  "en": "Waste print",
-  "es": "Impresión de maculatura",
-  "files": [
-   "15h/zkusebni-tisky.html"
-  ],
-  "fr": "Tirage de macule",
-  "tag": "span"
- },
- "7a18883eb9": {
-  "cs": "Makulatura je papír, který se při tisku znehodnotil a nikdy neměl opustit tiskárnu. Vzniká hlavně při <strong>rozjezdu stroje</strong>, než se seřídí přítlak a nanášení barvy: první archy jsou buď sotva znatelné, nebo naopak utopené v barvě. Tyto archy se odkládaly stranou a měly se zničit; co se z nich dochovalo, ukazuje výrobu ve chvíli, kdy ještě nebyla v pořádku.",
-  "de": "Makulatur ist Papier, das beim Druck verdorben wurde und die Druckerei nie hätte verlassen sollen. Sie entsteht vor allem beim <strong>Anfahren der Maschine</strong>, ehe Druck und Farbauftrag eingestellt sind: die ersten Bogen sind entweder kaum zu erkennen oder im Gegenteil in Farbe ertrunken. Solche Bogen wurden beiseitegelegt und sollten vernichtet werden; was von ihnen erhalten blieb, zeigt die Produktion in einem Augenblick, in dem sie noch nicht in Ordnung war.",
-  "en": "Waste is paper spoiled during printing that was never meant to leave the works. It arises mainly while the press is being <strong>run up</strong>, before the pressure and the inking are set: the first sheets are either barely visible or, on the contrary, drowned in ink. Such sheets were put aside and were meant to be destroyed; what survives of them shows production at a moment when it was not yet right.",
-  "es": "La maculatura es papel estropeado durante la impresión que nunca debió salir del taller. Surge sobre todo al <strong>arrancar la máquina</strong>, antes de ajustar la presión y la entintación: los primeros pliegos son o bien apenas perceptibles o, al contrario, ahogados en tinta. Esos pliegos se apartaban y debían destruirse; lo que se conserva de ellos muestra la producción en un momento en que aún no estaba a punto.",
-  "files": [
-   "15h/zkusebni-tisky.html"
-  ],
-  "fr": "La macule est du papier gâté à l’impression, qui n’aurait jamais dû quitter l’imprimerie. Elle naît surtout au <strong>démarrage de la presse</strong>, avant que la pression et l’encrage ne soient réglés : les premières feuilles sont soit à peine perceptibles, soit au contraire noyées d’encre. Ces feuilles étaient mises de côté et devaient être détruites ; ce qui en subsiste montre la production à un moment où elle n’était pas encore au point.",
-  "tag": "span"
- },
- "49083c21a1": {
-  "cs": "Makulaturní tisk 15h — kresba je utopená v barvě: šrafování svahu je zalité, obloha zaplněná a písmo nápisu se stahuje. Otisk je přitom po celé ploše, nejde tedy o vadu jednoho místa.",
-  "de": "Makulaturdruck der 15h — die Zeichnung ist in Farbe ertrunken: die Schraffur des Hangs ist zugelaufen, der Himmel zugefüllt und die Schrift der Inschrift zieht sich zu. Der Abdruck ist dabei auf der ganzen Fläche so, es handelt sich also nicht um einen Fehler an einer Stelle.",
-  "en": "A waste print of the 15h — the design is drowned in ink: the hatching of the hillside is flooded, the sky filled in and the letters of the inscription are closing up. The impression is like this over the whole area, so this is not a flaw confined to one spot.",
-  "es": "Impresión de maculatura de los 15 h — el dibujo está ahogado en tinta: el rayado de la ladera queda empastado, el cielo relleno y las letras de la inscripción se cierran. La impresión es así en toda la superficie, no se trata pues de un defecto en un solo punto.",
-  "files": [
-   "15h/zkusebni-tisky.html"
-  ],
-  "fr": "Tirage de macule de la 15 h — le dessin est noyé d’encre : les hachures du coteau sont empâtées, le ciel comblé et les lettres de l’inscription se referment. L’impression est ainsi sur toute la surface : il ne s’agit donc pas d’un défaut localisé.",
-  "tag": "span"
- },
- "43f09cb92a": {
-  "cs": "Čím se liší od slitého tisku",
-  "de": "Worin sie sich vom verlaufenen Druck unterscheidet",
-  "en": "How it differs from a blurred print",
-  "es": "En qué se diferencia de la impresión empastada",
-  "files": [
-   "15h/zkusebni-tisky.html"
-  ],
-  "fr": "En quoi elle diffère d’une impression empâtée",
-  "tag": "span"
- },
- "de9ae1563e": {
-  "cs": "Slitý tisk je jednotlivá známka s přebytkem barvy, která se dostala do oběhu — je to <a href=\"vyrobni-vady.html#tisk\">výrobní vada</a> na jinak řádném archu. Makulatura je celý arch odložený jako zmetek: přeplnění barvou u ní není výjimka, ale stav, kvůli kterému se tiskl nanečisto. Hranice mezi obojím není ostrá a rozhoduje především původ kusu, ne jeho vzhled.",
-  "de": "Ein verlaufener Druck ist eine einzelne Marke mit Farbüberschuss, die in den Umlauf gelangte — ein <a href=\"vyrobni-vady.html#tisk\">Herstellungsfehler</a> auf einem sonst ordentlichen Bogen. Makulatur ist ein ganzer als Ausschuss beiseitegelegter Bogen: die Überfüllung mit Farbe ist bei ihr keine Ausnahme, sondern gerade der Zustand, dessentwegen probeweise gedruckt wurde. Die Grenze zwischen beiden ist nicht scharf, und es entscheidet vor allem die Herkunft des Stückes, nicht sein Aussehen.",
-  "en": "A blurred print is an individual stamp with excess ink that reached circulation — a <a href=\"vyrobni-vady.html#tisk\">production flaw</a> on an otherwise proper sheet. Waste is a whole sheet set aside as spoilage: over-inking is not an exception on it but the very state that made it a trial pull. The boundary between the two is not sharp, and it is the provenance of the piece rather than its appearance that decides.",
-  "es": "La impresión empastada es un sello suelto con exceso de tinta que llegó a circular — un <a href=\"vyrobni-vady.html#tisk\">defecto de fabricación</a> en un pliego por lo demás correcto. La maculatura es un pliego entero apartado como desecho: el exceso de tinta no es en ella una excepción, sino el estado mismo por el que se tiró a modo de prueba. El límite entre ambos no es nítido y decide sobre todo la procedencia de la pieza, no su aspecto.",
-  "files": [
-   "15h/zkusebni-tisky.html"
-  ],
-  "fr": "Une impression empâtée est un timbre isolé avec un excès d’encre qui est parvenu dans la circulation — un <a href=\"vyrobni-vady.html#tisk\">défaut de fabrication</a> sur une feuille par ailleurs correcte. La macule est une feuille entière mise au rebut : l’excès d’encre n’y est pas une exception mais l’état même qui a fait de ce tirage un essai. La limite entre les deux n’est pas nette, et c’est surtout la provenance de la pièce, non son aspect, qui tranche.",
-  "tag": "span"
- },
- "306b5c16c0": {
-  "cs": "<strong>Makulatura není katalogová varianta.</strong> Nevydávala se, nemá poštovní platnost a její cena je dokumentární — ukazuje, jak vypadá tisk mimo nastavení. U nabízených kusů je proto namístě ptát se po původu: bez něj nelze odlišit makulaturní arch od běžné známky se silně slitým tiskem.",
-  "de": "<strong>Makulatur ist keine Katalogvariante.</strong> Sie wurde nicht ausgegeben, hat keine postalische Gültigkeit, und ihr Wert ist dokumentarisch — sie zeigt, wie Druck außerhalb seiner Einstellung aussieht. Bei angebotenen Stücken ist deshalb die Frage nach der Herkunft angebracht: ohne sie lässt sich ein Makulaturbogen nicht von einer gewöhnlichen Marke mit stark verlaufenem Druck unterscheiden.",
-  "en": "<strong>Waste is not a catalogue variety.</strong> It was not issued, has no postal validity, and its value is documentary — it shows what printing looks like outside its settings. With pieces offered for sale it is therefore worth asking about provenance: without it, a waste sheet cannot be told from an ordinary stamp with a heavily blurred print.",
-  "es": "<strong>La maculatura no es una variedad de catálogo.</strong> No se emitió, carece de validez postal y su valor es documental — muestra cómo es la impresión fuera de su ajuste. En las piezas ofrecidas a la venta conviene por ello preguntar por la procedencia: sin ella no puede distinguirse un pliego de maculatura de un sello corriente con la impresión muy empastada.",
-  "files": [
-   "15h/zkusebni-tisky.html"
-  ],
-  "fr": "<strong>La macule n’est pas une variété de catalogue.</strong> Elle n’a pas été émise, n’a aucune validité postale et sa valeur est documentaire — elle montre à quoi ressemble l’impression hors réglage. Pour les pièces proposées à la vente, il est donc légitime de s’enquérir de la provenance : sans elle, une feuille de macule ne se distingue pas d’un timbre ordinaire à l’impression fortement empâtée.",
-  "tag": "span"
  }
 }
