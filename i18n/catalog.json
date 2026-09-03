@@ -21549,5 +21549,71 @@
    "15h/zasilky.html"
   ],
   "tag": "span"
+ },
+ "c2a0b75e6a": {
+  "cs": "líc",
+  "en": "front",
+  "de": "Vorderseite",
+  "fr": "recto",
+  "es": "anverso",
+  "tag": "span",
+  "files": [
+   "15h/zasilky.html"
+  ]
+ },
+ "0eb10e9f96": {
+  "cs": "rub",
+  "en": "back",
+  "de": "Rückseite",
+  "fr": "verso",
+  "es": "reverso",
+  "tag": "span",
+  "files": [
+   "15h/zasilky.html"
+  ]
+ },
+ "031ef6e8ab": {
+  "cs": "<span class=\"badge tariff\">I. období</span>",
+  "en": "<span class=\"badge tariff\">Period I</span>",
+  "de": "<span class=\"badge tariff\">I. Periode</span>",
+  "fr": "<span class=\"badge tariff\">Période I</span>",
+  "es": "<span class=\"badge tariff\">Período I</span>",
+  "tag": "span",
+  "files": [
+   "15h/zasilky.html"
+  ]
+ },
+ "f3d116be01": {
+  "cs": "<span class=\"badge tariff\">II. období</span>",
+  "en": "<span class=\"badge tariff\">Period II</span>",
+  "de": "<span class=\"badge tariff\">II. Periode</span>",
+  "fr": "<span class=\"badge tariff\">Période II</span>",
+  "es": "<span class=\"badge tariff\">Período II</span>",
+  "tag": "span",
+  "files": [
+   "15h/zasilky.html"
+  ]
+ },
+ "029965d95c": {
+  "cs": "<span class=\"badge tariff\">III. období</span>",
+  "en": "<span class=\"badge tariff\">Period III</span>",
+  "de": "<span class=\"badge tariff\">III. Periode</span>",
+  "fr": "<span class=\"badge tariff\">Période III</span>",
+  "es": "<span class=\"badge tariff\">Período III</span>",
+  "tag": "span",
+  "files": [
+   "15h/zasilky.html"
+  ]
+ },
+ "4725985418": {
+  "cs": "<span class=\"badge tariff\">IV. období</span>",
+  "en": "<span class=\"badge tariff\">Period IV</span>",
+  "de": "<span class=\"badge tariff\">IV. Periode</span>",
+  "fr": "<span class=\"badge tariff\">Période IV</span>",
+  "es": "<span class=\"badge tariff\">Período IV</span>",
+  "tag": "span",
+  "files": [
+   "15h/zasilky.html"
+  ]
  }
 }
