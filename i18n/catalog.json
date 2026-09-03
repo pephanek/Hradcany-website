@@ -1,4 +1,15 @@
 {
+ "000af1a434": {
+  "cs": "<strong>Obě vady se dochovají jen na známkách s lepem.</strong> Odmočením použité známky zmizí lep a s ním i kresba na něm; proto se tisk i obtisk na lepu vyskytují prakticky výhradně na nepoužitých kusech a nálepka nebo nešetrné čištění je mohou nenávratně poškodit.",
+  "de": "<strong>Beide Fehler bleiben nur auf Marken mit Gummierung erhalten.</strong> Beim Abweichen einer gebrauchten Marke verschwindet der Gummi und mit ihm die Zeichnung darauf; Druck wie Abklatsch auf der Gummierung kommen deshalb praktisch nur auf ungebrauchten Stücken vor, und ein Falz oder unvorsichtiges Reinigen kann sie unwiederbringlich beschädigen.",
+  "en": "<strong>Both flaws survive only on stamps that still have their gum.</strong> Soaking a used stamp removes the gum and with it the design on it; a print or a set-off on the gum therefore occurs almost exclusively on unused copies, and a hinge or careless cleaning can damage it beyond repair.",
+  "es": "<strong>Ambos defectos solo se conservan en sellos que mantienen la goma.</strong> Al remojar un sello usado desaparece la goma y con ella el dibujo que lleva; por eso la impresión y el calco sobre la goma se dan casi exclusivamente en ejemplares nuevos, y una charnela o una limpieza descuidada pueden dañarlos de forma irreparable.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "<strong>Les deux défauts ne subsistent que sur des timbres ayant conservé leur gomme.</strong> Le trempage d’un timbre oblitéré emporte la gomme et avec elle le dessin qui s’y trouve ; l’impression comme le décalque sur la gomme ne se rencontrent donc pratiquement que sur des exemplaires neufs, et une charnière ou un nettoyage imprudent peuvent les abîmer irrémédiablement.",
+  "tag": "span"
+ },
  "00193d0dc5": {
   "cs": "Nové přírůstky v evidenci: vodorovný pár se <strong>zoubkováním H</strong> (Turnov, 15.&nbsp;III.&nbsp;1920) – <strong>dosud nejranější doložené použití zoubkování H</strong> – dva kusy zoubkování E – <strong>Hoštka/Gastorf</strong> (31.&nbsp;XII.&nbsp;1919, nová pošta v evidenci E) a <strong>Česká Lípa/Böhm. Leipa</strong> (IX.&nbsp;1919) a osm <strong>neperforovaných známek z TD&nbsp;V a TD&nbsp;VI</strong> s razítky Košice, Plešivec, Lučenec, Brezovka a Malý Lipník. Aktualizovány <a href=\"15h/statistiky.html\"><strong>statistiky</strong></a> (6&nbsp;416 datovaných razítek) i <a href=\"15h/mapa.html\"><strong>mapa razítek</strong></a>.",
   "de": "Neuzugänge in der Erfassung: ein waagerechtes Paar mit <strong>Zähnung H</strong> (Turnov, 15.&nbsp;März&nbsp;1920) – <strong>die bislang früheste belegte Verwendung der Zähnung H</strong> – zwei Stücke mit Zähnung E, <strong>Hoštka/Gastorf</strong> (31.&nbsp;Dezember&nbsp;1919, ein in der E-Erfassung neues Postamt) und <strong>Česká Lípa/Böhm. Leipa</strong> (September&nbsp;1919), sowie acht <strong>geschnittene Marken der Platten V und VI</strong> mit den Stempeln Košice, Plešivec, Lučenec, Brezovka und Malý Lipník. Die <a href=\"15h/statistiky.html\"><strong>Statistiken</strong></a> (6&nbsp;416 datierte Stempel) und die <a href=\"15h/mapa.html\"><strong>Stempelkarte</strong></a> wurden aktualisiert.",
@@ -217,6 +228,17 @@
   "files": [],
   "fr": "30h planche II",
   "tag": "alt"
+ },
+ "02f5deac1c": {
+  "cs": "Dvojitý tisk. Druhý otisk leží jen o zlomek milimetru vedle prvního, ale je znát na každé lince — nejlépe na nápisu a na hodnotovém oválu.",
+  "de": "Doppeldruck. Der zweite Abdruck liegt nur um Bruchteile eines Millimeters neben dem ersten, ist aber an jeder Linie zu erkennen — am besten an der Inschrift und am Wertoval.",
+  "en": "Double print. The second impression lies only a fraction of a millimetre from the first, yet it shows on every line — best on the inscription and the value oval.",
+  "es": "Doble impresión. La segunda impresión queda a solo una fracción de milímetro de la primera, pero se nota en cada línea — sobre todo en la inscripción y en el óvalo del valor.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Double impression. La seconde impression n’est qu’à une fraction de millimètre de la première, et pourtant elle se voit sur chaque trait — au mieux sur l’inscription et sur l’ovale de valeur.",
+  "tag": "span"
  },
  "031ef6e8ab": {
   "cs": "<span class=\"badge tariff\">I. období</span>",
@@ -1844,6 +1866,17 @@
   "fr": "80h olive",
   "tag": "span"
  },
+ "1a502edeed": {
+  "cs": "Rohový kus s okrajem archu a kontrolním číslem 9. Šikmý druhý otisk přebíhá přes okraj, tedy přes papír, na kterém nemá být vůbec žádný tisk.",
+  "de": "Eckstück mit Bogenrand und der Kontrollnummer 9. Der schräge zweite Abdruck läuft über den Rand, also über Papier, auf dem überhaupt kein Druck stehen darf.",
+  "en": "A corner piece with the sheet margin and control number 9. The slanted second impression runs across the margin — across paper that should carry no print at all.",
+  "es": "Pieza de esquina con borde de pliego y número de control 9. La segunda impresión oblicua cruza el borde, es decir, papel que no debe llevar impresión alguna.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Pièce de coin avec bord de feuille et numéro de contrôle 9. La seconde impression oblique traverse la marge, c’est-à-dire un papier qui ne doit porter aucune impression.",
+  "tag": "span"
+ },
  "1a61d7961c": {
   "cs": "Detail hranice (kus 4) — nahoře čistý otisk, dole rozmazaný a zdvojený. Předěl je rovný a běží i přes boční okraje.",
   "de": "Detail der Grenze (Stück 4) — oben ein sauberer Abdruck, unten ein verwischter und verdoppelter. Die Trennlinie ist gerade und läuft auch über die seitlichen Ränder.",
@@ -2700,6 +2733,17 @@
   "fr": "La plupart de ces variations vaudraient aujourd’hui la mise au rebut et la feuille n’arriverait jamais en circulation. En 1919, on imprimait dans des conditions provisoires, dans la hâte et avec ce qu’on avait sous la main — et les feuilles achevées partaient aux guichets telles qu’elles sortaient. C’est pourquoi le matériel disponible est si abondant qu’il peut être étudié statistiquement, et non pas seulement pièce unique par pièce unique.",
   "tag": "span"
  },
+ "25478d6ee8": {
+  "cs": "Kus 2 — Obtisk na lepu. Kresba je zrcadlově obrácená — přenesla se z čerstvě potištěného archu, který ležel pod ním.",
+  "de": "Stück 2 — Abklatsch auf der Gummierung. Die Zeichnung ist seitenverkehrt — sie übertrug sich von einem frisch bedruckten Bogen, der darunter lag.",
+  "en": "Item 2 — Set-off on the gum. The design is mirrored — it transferred from a freshly printed sheet lying beneath.",
+  "es": "Ejemplar 2 — Calco sobre la goma. El dibujo está invertido como en un espejo — se transfirió desde un pliego recién impreso que estaba debajo.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Pièce 2 — Décalque sur la gomme. Le dessin est inversé comme dans un miroir — il s’est transféré depuis une feuille fraîchement imprimée posée dessous.",
+  "tag": "cap"
+ },
  "257954db9f": {
   "cs": "B (TD 1–2)",
   "de": "B (Platten 1–2)",
@@ -3050,6 +3094,17 @@
    "15h/zkusebni-tisky.html"
   ],
   "fr": "Entre l’épreuve et la production, <strong>le dessin de cette position a été retouché</strong>. Il ne s’agit donc pas seulement d’une différence de netteté : la forme a encore été modifiée entre les deux empreintes. Deux changements sont attestés.",
+  "tag": "span"
+ },
+ "2a54988fdf": {
+  "cs": "Proč to není částečně zdvojený tisk",
+  "de": "Warum das kein teilweise verdoppelter Druck ist",
+  "en": "Why this is not a partly doubled print",
+  "es": "Por qué no es una impresión parcialmente duplicada",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Pourquoi ce n’est pas une impression partiellement dédoublée",
   "tag": "span"
  },
  "2a92592dc2": {
@@ -3443,6 +3498,13 @@
   "fr": "Articles",
   "tag": "span"
  },
+ "2ee2e4222d": {
+  "cs": "<span class=\"badge type\">barevná frankatura</span>",
+  "de": "<span class=\"badge type\">Buntfrankatur</span>",
+  "en": "<span class=\"badge type\">colour franking</span>",
+  "es": "<span class=\"badge type\">franqueo multicolor</span>",
+  "fr": "<span class=\"badge type\">affranchissement multicolore</span>"
+ },
  "2ef78deacb": {
   "cs": "Totéž místo na zdravém tisku (medián)",
   "de": "Dieselbe Stelle auf einem gesunden Druck (Median)",
@@ -3633,6 +3695,17 @@
   "fr": "Numérotation des positions",
   "tag": "cap"
  },
+ "30fa7f04cc": {
+  "cs": "Kus 1 — Dvojitý tisk. Druhý otisk leží jen o zlomek milimetru vedle prvního, ale je znát na každé lince — nejlépe na nápisu a na hodnotovém oválu.",
+  "de": "Stück 1 — Doppeldruck. Der zweite Abdruck liegt nur um Bruchteile eines Millimeters neben dem ersten, ist aber an jeder Linie zu erkennen — am besten an der Inschrift und am Wertoval.",
+  "en": "Item 1 — Double print. The second impression lies only a fraction of a millimetre from the first, yet it shows on every line — best on the inscription and the value oval.",
+  "es": "Ejemplar 1 — Doble impresión. La segunda impresión queda a solo una fracción de milímetro de la primera, pero se nota en cada línea — sobre todo en la inscripción y en el óvalo del valor.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Pièce 1 — Double impression. La seconde impression n’est qu’à une fraction de millimètre de la première, et pourtant elle se voit sur chaque trait — au mieux sur l’inscription et sur l’ovale de valeur.",
+  "tag": "cap"
+ },
  "31043ecc2a": {
   "cs": "15h cihlově červená — dvojitá perforace na obou svislých stranách",
   "de": "15h ziegelrot — Doppelzähnung an beiden senkrechten Seiten",
@@ -3698,6 +3771,17 @@
    "15h/vyrobni-vady.html"
   ],
   "fr": "Il manque <strong>les deux dentelures horizontales</strong> : les côtés supérieur et inférieur ont été séparés aux ciseaux, les côtés verticaux ont une dentelure normale. Que la coupe soit passée entre deux timbres, le bord inférieur le trahit — on y voit encore un fragment du cadre du timbre voisin. Deux rangées horizontales consécutives ont donc été omises, ce qui, avec un perforateur en ligne, signifie que la feuille est passée deux fois de suite sans frappe.",
+  "tag": "span"
+ },
+ "3171eff1e0": {
+  "cs": "U <a href=\"#zdvojeny-tisk\">částečně zdvojeného tisku</a> je zdvojená jen <strong>část</strong> známky a přechod k čistému otisku je rovná hranice — pod archem tam leželo cizí těleso, které jeho část nadzvedlo. Tady žádná hranice není: zdvojená je celá kresba až do rohů rámu, protože arch dostal celý druhý otisk.",
+  "de": "Beim <a href=\"#zdvojeny-tisk\">teilweise verdoppelten Druck</a> ist nur ein <strong>Teil</strong> der Marke verdoppelt, und der Übergang zum sauberen Abdruck ist eine gerade Grenze — dort lag unter dem Bogen ein Fremdkörper, der einen Teil davon anhob. Hier gibt es keine Grenze: verdoppelt ist die ganze Zeichnung bis in die Rahmenecken, denn der Bogen erhielt einen vollständigen zweiten Abdruck.",
+  "en": "In a <a href=\"#zdvojeny-tisk\">partly doubled print</a> only <strong>part</strong> of the stamp is doubled and the change to the clean impression is a straight boundary — a foreign body under the sheet lifted that part of it. Here there is no boundary: the whole design is doubled right into the corners of the frame, because the sheet received a complete second impression.",
+  "es": "En la <a href=\"#zdvojeny-tisk\">impresión parcialmente duplicada</a> solo está duplicada una <strong>parte</strong> del sello y el paso a la impresión limpia es un límite recto — allí, bajo el pliego, había un cuerpo extraño que levantó una parte. Aquí no hay ningún límite: está duplicado todo el dibujo hasta las esquinas del marco, porque el pliego recibió una segunda impresión completa.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Dans une <a href=\"#zdvojeny-tisk\">impression partiellement dédoublée</a>, seule une <strong>partie</strong> du timbre est dédoublée et le passage à l’impression nette est une limite rectiligne — un corps étranger sous la feuille en avait soulevé une partie. Ici il n’y a aucune limite : tout le dessin est dédoublé jusque dans les angles du cadre, car la feuille a reçu une seconde impression complète.",
   "tag": "span"
  },
  "31760c8ee1": {
@@ -4586,6 +4670,13 @@
   "fr": "Éclaircies sur la planche I — évolution sur une position",
   "tag": "span"
  },
+ "3ac254127c": {
+  "cs": "<span class=\"badge rare\">dvě nevydané známky na jedné průvodce</span>",
+  "de": "<span class=\"badge rare\">zwei nicht verausgabte Marken auf einer Paketkarte</span>",
+  "en": "<span class=\"badge rare\">two unissued stamps on one dispatch note</span>",
+  "es": "<span class=\"badge rare\">dos sellos no emitidos en un mismo boletín de expedición</span>",
+  "fr": "<span class=\"badge rare\">deux timbres non émis sur un même bulletin d'expédition</span>"
+ },
  "3ae11c0544": {
   "cs": "<h1>Bílá skvrna na 97/1 u 300h hodnoty</h1>\n\n<p>Jedním z nejznámějších závojů v emisi Hradčany je závoj na <strong>97. známkovém poli</strong> první a jediné\ntiskové desky <strong>300h</strong> hodnoty (POFIS č. 23). Jedná se o tzv. „vidličku“ směřující od levé holubice\ndo prostoru pod chrámem sv. Víta.</p>\n<p>Za povšimnutí stojí i desková vada, kterou první Monografie neuvádí, v písmenu „L“ ve slově „Slovenská“ –\npísmeno L je spojené bílou skvrnou s rámem pod ním.</p>\n<figure><img src=\"../15h/assets/img/07426-97-II-zavoj-ne.jpg\" alt=\"Známka bez závoje\" loading=\"lazy\" style=\"max-width:340px\"><figcaption>Známka bez závoje</figcaption></figure>\n<figure><img src=\"../15h/assets/img/07425-97-II-zavoj.jpg\" alt=\"Známka se závojem („vidlička“)\" loading=\"lazy\" style=\"max-width:340px\"><figcaption>Známka se závojem („vidlička“)</figcaption></figure>\n<p>Vývoj této výrobní vady:</p>\n<div class=\"imgrow\"><img src=\"../15h/assets/img/07428-97-1a.jpg\" alt=\"\" loading=\"lazy\"><img src=\"../15h/assets/img/07429-97-1b.jpg\" alt=\"\" loading=\"lazy\"><img src=\"../15h/assets/img/07430-97-1c.jpg\" alt=\"\" loading=\"lazy\"><img src=\"../15h/assets/img/07431-97-1d.jpg\" alt=\"\" loading=\"lazy\"><img src=\"../15h/assets/img/07432-97-1e.jpg\" alt=\"\" loading=\"lazy\"></div>\n<p class=\"author\"><em>Josef Matoušek (14. 11. 2015)</em></p>",
   "de": "<h1>Weißer Fleck auf 97/1 beim Wert 300h</h1>\n\n<p>Einer der bekanntesten Schleier der Ausgabe Hradschin ist der Schleier auf dem <strong>97. Markenfeld</strong> der ersten und einzigen Druckplatte des Wertes <strong>300h</strong> (POFIS Nr. 23). Es handelt sich um die sogenannte „Gabel“, die von der linken Taube in den Raum unter dem St.-Veits-Dom verläuft.</p>\n<p>Beachtenswert ist auch ein Plattenfehler, den die erste Monographie nicht führt, im Buchstaben „L“ im Wort „Slovenská“ – der Buchstabe L ist durch einen weißen Fleck mit dem Rahmen darunter verbunden.</p>\n<figure><img src=\"../15h/assets/img/07426-97-II-zavoj-ne.jpg\" alt=\"Marke ohne Schleier\" loading=\"lazy\" style=\"max-width:340px\"><figcaption>Marke ohne Schleier</figcaption></figure>\n<figure><img src=\"../15h/assets/img/07425-97-II-zavoj.jpg\" alt=\"Marke mit Schleier („Gabel“)\" loading=\"lazy\" style=\"max-width:340px\"><figcaption>Marke mit Schleier („Gabel“)</figcaption></figure>\n<p>Entwicklung dieses Herstellungsfehlers:</p>\n<div class=\"imgrow\"><img src=\"../15h/assets/img/07428-97-1a.jpg\" alt=\"\" loading=\"lazy\"><img src=\"../15h/assets/img/07429-97-1b.jpg\" alt=\"\" loading=\"lazy\"><img src=\"../15h/assets/img/07430-97-1c.jpg\" alt=\"\" loading=\"lazy\"><img src=\"../15h/assets/img/07431-97-1d.jpg\" alt=\"\" loading=\"lazy\"><img src=\"../15h/assets/img/07432-97-1e.jpg\" alt=\"\" loading=\"lazy\"></div>\n<p class=\"author\"><em>Josef Matoušek (14. November 2015)</em></p>",
@@ -4839,6 +4930,17 @@
   "fr": "OCT 1919",
   "tag": "month"
  },
+ "3dc67fceab": {
+  "cs": "Obtisk: týž nápis je zrcadlově obrácený.",
+  "de": "Abklatsch: dieselbe Inschrift ist seitenverkehrt.",
+  "en": "Set-off: the same inscription is mirrored.",
+  "es": "Calco: la misma inscripción aparece invertida como en un espejo.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Décalque : la même inscription est inversée comme dans un miroir.",
+  "tag": "span"
+ },
  "3de3ceef04": {
   "cs": "Kde na webu",
   "de": "Wo auf der Website",
@@ -5016,6 +5118,17 @@
    "15h/zoubkovani.html"
   ],
   "fr": "11&frac12; : 13&frac34; en ligne",
+  "tag": "span"
+ },
+ "3fd9e40575": {
+  "cs": "Zkouška zrcadlem",
+  "de": "Die Spiegelprobe",
+  "en": "The mirror test",
+  "es": "La prueba del espejo",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Le test du miroir",
   "tag": "span"
  },
  "40526d4ae6": {
@@ -5437,6 +5550,17 @@
   "fr": "500h brun",
   "tag": "span"
  },
+ "45130dbea8": {
+  "cs": "Proč to není prosvítající tisk z líce",
+  "de": "Warum das kein durchscheinender Druck von der Vorderseite ist",
+  "en": "Why this is not the face print showing through",
+  "es": "Por qué no es la impresión del anverso que transparenta",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Pourquoi ce n’est pas l’impression du recto qui transparaît",
+  "tag": "span"
+ },
  "453c4ff3e9": {
   "cs": "Jak knihtisk pracuje, jaké odchylky plodí a proč je to pro sběratele spíš dar než potíž, rozebírá stránka <a href=\"15h/knihtisk.html\">Knihtisk</a> na webu 15h. Technický popis výroby tiskových desek vychází z <em>Monografie československých známek č. 1</em>.",
   "de": "Wie der Buchdruck arbeitet, welche Abweichungen er hervorbringt und warum das für den Sammler eher ein Geschenk als ein Ärgernis ist, behandelt die Seite <a href=\"15h/knihtisk.html\">Buchdruck</a> auf der 15h-Website. Die technische Beschreibung der Herstellung der Druckplatten geht auf die <em>Monographie der tschechoslowakischen Briefmarken Nr. 1</em> zurück.",
@@ -5458,6 +5582,17 @@
   ],
   "fr": "10h — planche I",
   "tag": "span"
+ },
+ "45728743df": {
+  "cs": "Kus 3 — Rohový kus s okrajem archu a kontrolním číslem 9. Šikmý druhý otisk přebíhá přes okraj, tedy přes papír, na kterém nemá být vůbec žádný tisk.",
+  "de": "Stück 3 — Eckstück mit Bogenrand und der Kontrollnummer 9. Der schräge zweite Abdruck läuft über den Rand, also über Papier, auf dem überhaupt kein Druck stehen darf.",
+  "en": "Item 3 — A corner piece with the sheet margin and control number 9. The slanted second impression runs across the margin — across paper that should carry no print at all.",
+  "es": "Ejemplar 3 — Pieza de esquina con borde de pliego y número de control 9. La segunda impresión oblicua cruza el borde, es decir, papel que no debe llevar impresión alguna.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Pièce 3 — Pièce de coin avec bord de feuille et numéro de contrôle 9. La seconde impression oblique traverse la marge, c’est-à-dire un papier qui ne doit porter aucune impression.",
+  "tag": "cap"
  },
  "457c2baaa7": {
   "cs": "Kresba",
@@ -5835,6 +5970,13 @@
   "fr": "5h — planche VIII",
   "tag": "span"
  },
+ "48d9256384": {
+  "cs": "ZP 10 / TD I · nezoubkovaná",
+  "de": "Feld 10 / Platte I · ungezähnt",
+  "en": "field 10 / plate I · imperforate",
+  "es": "campo 10 / plancha I · sin dentar",
+  "fr": "champ 10 / planche I · non dentelé"
+ },
  "491b4a82f9": {
   "cs": "Dřívko a smítko — cizí objekt v papíru",
   "de": "Holzsplitter und Stäubchen — ein Fremdkörper im Papier",
@@ -6063,6 +6205,13 @@
   ],
   "fr": "violet bleu / violet clair",
   "tag": "span"
+ },
+ "4c4adfed79": {
+  "cs": "Podrobný statistický rozbor hodnoty 15h vychází z vlastní evidence: <strong>21 353 určených známek</strong>, z toho <strong>6 525 s čitelně datovaným razítkem</strong> (stav 4. 9. 2026). Zdrojem jsou listy „Stats 15h“ a „Usage Stats 15h“ evidenčního sešitu.",
+  "de": "Die ausführliche statistische Auswertung der 15h beruht auf der eigenen Erfassung: <strong>21 353 bestimmte Marken</strong>, davon <strong>6 525 mit lesbar datiertem Stempel</strong> (Stand 4. 9. 2026). Quelle sind die Blätter „Stats 15h“ und „Usage Stats 15h“ der Erfassungsdatei.",
+  "en": "The detailed statistical analysis of the 15h is based on the author’s records: <strong>21,353 attributed stamps</strong>, of which <strong>6,525 carry a legibly dated cancellation</strong> (as of 4 September 2026). The source is the “Stats 15h” and “Usage Stats 15h” sheets of the record workbook.",
+  "es": "El análisis estadístico detallado del 15h se basa en los registros propios: <strong>21 353 sellos atribuidos</strong>, de los cuales <strong>6 525 con matasellos legiblemente fechado</strong> (a 4 de septiembre de 2026). La fuente son las hojas «Stats 15h» y «Usage Stats 15h» del libro de registros.",
+  "fr": "L’analyse statistique détaillée du 15h repose sur les relevés de l’auteur : <strong>21 353 timbres attribués</strong>, dont <strong>6 525 avec une oblitération lisiblement datée</strong> (état au 4 septembre 2026). La source est constituée des feuilles « Stats 15h » et « Usage Stats 15h » du classeur de relevés."
  },
  "4c95bf1425": {
   "cs": "400h tmavě fialová",
@@ -6298,6 +6447,17 @@
   ],
   "fr": "<h1>Un 15h non dentelé de la planche VI utilisé postalement — Košice 2, 13. VII. 1920</h1>\n\n<p>Une carte postale affranchie de deux Hradčany — un 15 h rouge brique et un 5 h vert clair — paraît\nà première vue anodine. L’oblitération <strong>KOŠICE 2 * Č.S.P.</strong> à la date lisible\n<strong>13.&nbsp;VII.&nbsp;1920</strong> annule pourtant un timbre qui mérite l’attention :\nle 15h est <strong>non dentelé</strong> et, comme l’a montré la détermination de la planche et de la position, il provient de la\n<strong>6e&nbsp;planche d’impression</strong>. La carte est conservée entière ; les illustrations ci-dessous ne sont que des détails de son affranchissement.</p>\n\n<p>La date du <strong>13&nbsp;juillet&nbsp;1920</strong> se situe dans la <a href=\"../posta.html#tarify\">période tarifaire&nbsp;III</a>\n(15&nbsp;mars – 31&nbsp;juillet&nbsp;1920), durant laquelle le tarif intérieur pour une carte postale était de 20&nbsp;h.\nL'affranchissement de 15&nbsp;h&nbsp;+&nbsp;5&nbsp;h&nbsp;=&nbsp;20&nbsp;h correspond exactement à ce tarif — il s'agit donc\nd'une carte postale correctement affranchie juste avant la fin de la période&nbsp;III, moins de trois semaines avant le\npassage au tarif nettement plus élevé de la période&nbsp;IV (carte postale à 40&nbsp;h à partir du 1er&nbsp;août&nbsp;1920).</p>\n\n<figure><img src=\"../assets/img/15h-td6-imperf-kosice-frankatura.jpg\" alt=\"détail de l’affranchissement de la carte postale — 15h et 5h, oblitération Košice 2\" loading=\"lazy\" style=\"max-width:640px\">\n<figcaption>Détail de l’affranchissement de la carte postale : 15 h non dentelé (planche VI) + 5 h, oblitération KOŠICE 2, 13. VII. 1920. Le 5h voisin recouvre le bord droit du 15h.</figcaption></figure>\n\n<p>Les feuilles de 15h non dentelées sont couramment attestées pour les planches d’impression 1 et 2. Un timbre non\ndentelé utilisé postalement provenant de la <strong>planche&nbsp;5 ou de la planche&nbsp;6 est en revanche d’une occurrence rare</strong> — et c’est précisément une telle pièce\nqui a pu être attestée ici, avec une date d’usage complète.</p>\n\n<h2>Détermination de la planche et de la position</h2>\n\n<p>Le timbre a été déterminé en combinant la comparaison informatique avec une bibliothèque de référence de timbres usagés\n(plus de 11&nbsp;000 exemplaires enregistrés des sept planches) et la méthode classique : le classificateur de planches\na d’abord désigné la planche&nbsp;VI (avec une probabilité de 0,99), puis le modèle de position au sein de la planche a désigné la\n<strong>position&nbsp;34</strong>. La détermination a été confirmée par des défauts ponctuels — la constellation de points dans le ciel\nà droite de la cathédrale et le point caractéristique juste à gauche de la pointe de la sixième tourelle.</p>\n\n<figure><img src=\"../assets/img/15h-td6-imperf-kosice-detail.jpg\" alt=\"dessin du timbre, tracé mis en évidence\" loading=\"lazy\" style=\"max-width:520px\">\n<figcaption>Le dessin du timbre après suppression de l’oblitération. En bas à gauche, dans la marge de feuille, la signature MUCHA.</figcaption></figure>\n\n<figure><img src=\"../assets/img/15h-td6-imperf-kosice-vezicky.jpg\" alt=\"comparaison de la zone des tourelles\" loading=\"lazy\" style=\"max-width:640px\">\n<figcaption>La zone des tourelles : à gauche la pièce décrite ici, à droite un timbre de référence de la position 34/VI — le même point à la pointe de la sixième tourelle.</figcaption></figure>\n\n<p>Une curiosité de cet affranchissement : le timbre à 5h collé recouvre le bord droit du 15h — environ un sixième de\nla largeur du dessin n’était donc pas visible lors de la détermination. En bas subsiste la marge de feuille avec la signature MUCHA.</p>\n\n<p class=\"author\"><em>26 juillet 2026</em></p>",
   "tag": "div"
+ },
+ "4f3cdc93f5": {
+  "cs": "Okraj archu s kontrolním číslem 9 a šikmým druhým otiskem. Na okraji nemá být žádná kresba — je to nejjistější doklad dalšího průchodu strojem.",
+  "de": "Der Bogenrand mit der Kontrollnummer 9 und dem schrägen zweiten Abdruck. Auf den Rand gehört keinerlei Zeichnung — das ist der sicherste Beleg für einen weiteren Maschinendurchgang.",
+  "en": "The sheet margin with control number 9 and the slanted second impression. No design belongs on the margin — the surest proof of another pass through the press.",
+  "es": "El borde del pliego con el número de control 9 y la segunda impresión oblicua. En el borde no debe haber dibujo alguno — es la prueba más segura de otro paso por la prensa.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Le bord de feuille avec le numéro de contrôle 9 et la seconde impression oblique. Aucun dessin n’a sa place sur la marge — c’est la preuve la plus sûre d’un nouveau passage sous presse.",
+  "tag": "span"
  },
  "4f50f1b3e4": {
   "cs": "30. 4. 2016",
@@ -7273,6 +7433,13 @@
   "fr": "Planche d’impression VI — galerie — Hradčany 15h",
   "tag": "attr"
  },
+ "59c294887a": {
+  "cs": "ZP 29 / TD V · nezoubkovaná · 10h nezoubkovaná Pofis 6",
+  "de": "Feld 29 / Platte V · ungezähnt · ungezähnte 10h Pofis 6",
+  "en": "field 29 / plate V · imperforate · imperforate 10h Pofis 6",
+  "es": "campo 29 / plancha V · sin dentar · 10h sin dentar Pofis 6",
+  "fr": "champ 29 / planche V · non dentelé · 10h non dentelé Pofis 6"
+ },
  "59c2e6d8f6": {
   "cs": "Galerie — tisková deska III",
   "de": "Galerie — Druckplatte III",
@@ -7452,6 +7619,17 @@
   "fr": "3 (planches 1,2,7)",
   "tag": "label"
  },
+ "5bf591fb53": {
+  "cs": "Tisk na lepu je <strong>přímý otisk formy</strong>, a proto se čte správně, zleva doprava, stejně jako na líci. Obtisk je <strong>přenos z jiného archu</strong>, tedy otisk otisku, a proto je <strong>zrcadlově obrácený</strong>. Pomáhá i sytost: přímý tisk má plnou barvu a drží i nejjemnější rytinu, kdežto obtisk je bledší a měkčí, protože se přenášel jen zbytek nezaschlé barvy.",
+  "de": "Ein Druck auf der Gummierung ist ein <strong>direkter Abdruck der Form</strong> und liest sich deshalb richtig, von links nach rechts, genau wie auf der Vorderseite. Ein Abklatsch ist eine <strong>Übertragung von einem anderen Bogen</strong>, also ein Abdruck des Abdrucks, und ist deshalb <strong>seitenverkehrt</strong>. Auch die Sättigung hilft: der direkte Druck hat volle Farbe und hält selbst die feinste Gravur, der Abklatsch dagegen ist blasser und weicher, weil nur der Rest noch nicht getrockneter Farbe übertragen wurde.",
+  "en": "A print on the gum is a <strong>direct impression of the forme</strong>, and so it reads the right way round, left to right, just as on the face. A set-off is a <strong>transfer from another sheet</strong> — an impression of an impression — and is therefore <strong>mirrored</strong>. Saturation helps too: a direct print has full colour and holds even the finest engraving, whereas a set-off is paler and softer, because only the ink that had not yet dried was transferred.",
+  "es": "La impresión sobre la goma es una <strong>impresión directa de la forma</strong> y por eso se lee correctamente, de izquierda a derecha, igual que en el anverso. El calco es una <strong>transferencia desde otro pliego</strong>, es decir, la huella de una huella, y por eso aparece <strong>invertido como en un espejo</strong>. También ayuda la saturación: la impresión directa tiene color pleno y conserva hasta el grabado más fino, mientras que el calco es más pálido y blando, porque solo se transfirió el resto de tinta sin secar.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Une impression sur la gomme est un <strong>tirage direct de la forme</strong> et se lit donc dans le bon sens, de gauche à droite, comme au recto. Un décalque est un <strong>transfert depuis une autre feuille</strong>, donc l’empreinte d’une empreinte, et il est par conséquent <strong>inversé comme dans un miroir</strong>. La saturation aide aussi : l’impression directe a la couleur pleine et retient jusqu’à la gravure la plus fine, alors que le décalque est plus pâle et plus mou, car seul le reste d’encre non séchée s’est transféré.",
+  "tag": "span"
+ },
  "5bfad76fdf": {
   "cs": "120h VII. TD",
   "de": "120h Platte VII",
@@ -7627,6 +7805,17 @@
    "15h/zkusebni-tisky.html"
   ],
   "fr": "À gauche l’épreuve, à droite la même position 96/I issue du tirage courant. Les deux images sont alignées sur le cadre du dessin et à la même échelle.",
+  "tag": "span"
+ },
+ "5dfd082106": {
+  "cs": "Vícenásobný tisk. Otisky jsou posunuté o velký kus a pootočené, takže do rámu zasahují části sousedních známek a nápis POŠTA se objevuje dvakrát v různé výšce.",
+  "de": "Mehrfachdruck. Die Abdrucke sind weit verschoben und verdreht, sodass Teile der Nachbarmarken in den Rahmen ragen und die Inschrift POŠTA zweimal in unterschiedlicher Höhe erscheint.",
+  "en": "Multiple print. The impressions are displaced by a long way and rotated, so parts of neighbouring stamps reach inside the frame and the word POŠTA appears twice at different heights.",
+  "es": "Impresión múltiple. Las impresiones están muy desplazadas y giradas, de modo que partes de los sellos vecinos entran en el marco y la inscripción POŠTA aparece dos veces a distinta altura.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Impression multiple. Les impressions sont largement décalées et pivotées, si bien que des fragments des timbres voisins pénètrent dans le cadre et que l’inscription POŠTA apparaît deux fois à des hauteurs différentes.",
   "tag": "span"
  },
  "5e02a5119a": {
@@ -8012,6 +8201,17 @@
   "fr": "En deux ans, l’émission a connu cinq dessins — du premier, provisoire, au cinquième, le plus abouti. Je suis curieux de savoir lequel plaît le plus aux collectionneurs. Choisissez-en un et votez ; les résultats s’affichent aussitôt.",
   "tag": "ui"
  },
+ "619256c55f": {
+  "cs": "Obtisk na lepu. Kresba je zrcadlově obrácená — přenesla se z čerstvě potištěného archu, který ležel pod ním.",
+  "de": "Abklatsch auf der Gummierung. Die Zeichnung ist seitenverkehrt — sie übertrug sich von einem frisch bedruckten Bogen, der darunter lag.",
+  "en": "Set-off on the gum. The design is mirrored — it transferred from a freshly printed sheet lying beneath.",
+  "es": "Calco sobre la goma. El dibujo está invertido como en un espejo — se transfirió desde un pliego recién impreso que estaba debajo.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Décalque sur la gomme. Le dessin est inversé comme dans un miroir — il s’est transféré depuis une feuille fraîchement imprimée posée dessous.",
+  "tag": "span"
+ },
  "61ac75a8bf": {
   "cs": "Zvýrazněná pole",
   "de": "Hervorgehobene Felder",
@@ -8051,6 +8251,17 @@
   ],
   "fr": "<h1>15h – planche d’impression fissurée sur 11/II</h1>\n\n<p><em>Complété le 24 juin 2017</em></p>\n<p>Les fissures de la planche d’impression apparaissent, pour plusieurs valeurs de cette émission, surtout aux positions\nmarginales, où le risque d’endommagement mécanique est naturellement plus grand. En reconstituant la première et la\ndeuxième planche d’impression de la valeur 15h (POFIS n° 7), je suis tombé sur un exemple très intéressant de planche\nd’impression fissurée.</p>\n<p>Une fissure marquée du coin supérieur gauche apparaît <strong>à la 11e position de la 2e planche d’impression</strong>.\nJ’estime qu’elle est née d’un endommagement de la planche d’impression lors du nettoyage régulier. La présence de timbres\nportant cet endommagement est, de mon point de vue, rare.</p>\n<figure><img src=\"../assets/img/11192-15h-11-2-bez.png\" alt=\"Position 11 de la planche II – non dentelé, sans la fissure\" loading=\"lazy\" style=\"max-width:340px\"><figcaption>Position 11 de la planche II – non dentelé, sans la fissure</figcaption></figure>\n<figure><img src=\"../assets/img/11186-15h-11-2-perf-F.png\" alt=\"Position 11 de la planche II – dentelure en ligne 13¾ : 11½ (F), avec la fissure\" loading=\"lazy\" style=\"max-width:340px\"><figcaption>Position 11 de la planche II – dentelure en ligne 13¾ : 11½ (F), avec la fissure</figcaption></figure>\n<figure><img src=\"../assets/img/01872-15h-11-II-strihana.jpg\" alt=\"Position 11 de la planche II – non dentelé, avec la fissure\" loading=\"lazy\" style=\"max-width:340px\"><figcaption>Position 11 de la planche II – non dentelé, avec la fissure</figcaption></figure>\n<figure><img src=\"../assets/img/01873-15h-11-II-zoubkovana-A.jpg\" alt=\"Position 11 de la planche II – dentelure en peigne 13¾ : 13½ (A), avec la fissure\" loading=\"lazy\" style=\"max-width:340px\"><figcaption>Position 11 de la planche II – dentelure en peigne 13¾ : 13½ (A), avec la fissure</figcaption></figure>\n<figure><img src=\"../assets/img/01926-hradcany-praskle-tiskove-desky-_-2357a6.jpg\" alt=\"Position 11 de la planche II – dentelure en peigne 11¾ (B), avec la fissure (collection de M. Jaroslav Michalík)\" loading=\"lazy\" style=\"max-width:340px\"><figcaption>Position 11 de la planche II – dentelure en peigne 11¾ (B), avec la fissure (collection de M. Jaroslav Michalík)</figcaption></figure>\n<figure><img src=\"../assets/img/01930-Praskl-roh-1.jpg\" alt=\"Position 11 de la planche II – dentelure B, avec la fissure, en bloc de six (collection de M. Jaroslav Michalík)\" loading=\"lazy\" style=\"max-width:480px\"><figcaption>Position 11 de la planche II – dentelure B, avec la fissure, en bloc de six (collection de M. Jaroslav Michalík)</figcaption></figure>\n<figure><img src=\"../assets/img/11253-15h-11-2-zkusmy-tisk.png\" alt=\"Position 11 de la planche II – épreuve dans la rare dentelure en ligne 13¾ (C), fissure en phase 3\" loading=\"lazy\" style=\"max-width:340px\"><figcaption>Position 11 de la planche II – épreuve dans la rare dentelure en ligne 13¾ (C), fissure en phase 3</figcaption></figure>\n<h2>Évolution de la fissure</h2>\n<p>La fissure s’est développée progressivement, comme le montrent les images des différentes phases :</p>\n<div class=\"imgrow\"><img src=\"../assets/img/11191-15h-11-2-E.png\" alt=\"\" loading=\"lazy\"><img src=\"../assets/img/11188-15h-11-2-B.png\" alt=\"\" loading=\"lazy\"><img src=\"../assets/img/11189-15h-11-2-C.png\" alt=\"\" loading=\"lazy\"><img src=\"../assets/img/11187-15h-11-2-A.png\" alt=\"\" loading=\"lazy\"><img src=\"../assets/img/11190-15h-11-2-D.png\" alt=\"\" loading=\"lazy\"></div>\n<p class=\"imgcap\">Phase 0 – planche intacte · Phase 1 – légère déformation · Phase 2 – la planche présente une fissure · Phase 3 – la fissure s’agrandit · Phase 4 – phase finale</p>\n<div class=\"table-wrap\"><table class=\"phase-table\"><caption>15h 11/II — présence des phases de la fissure dans les différentes dentelures</caption><tr><th>Dentelure</th><th>Phase 0<br><small>planche intacte</small></th><th>Phase 1<br><small>la planche n’est pas encore fissurée, mais présente une déformation</small></th><th>Phase 2<br><small>la planche présente la fissure</small></th><th>Phase 3<br><small>la fissure s’agrandit</small></th><th>Phase 4<br><small>phase finale de la fissure</small></th></tr><tr><td><strong>non dentelé</strong></td><td><span class=\"chk\">&#10003;</span></td><td><span class=\"chk\">&#10003;</span></td><td></td><td><span class=\"chk\">&#10003;</span></td><td><span class=\"chk\">&#10003;</span></td></tr><tr><td><strong>A</strong></td><td><span class=\"chk\">&#10003;</span></td><td><span class=\"chk\">&#10003;</span></td><td></td><td></td><td><span class=\"chk\">&#10003;</span></td></tr><tr><td><strong>B</strong></td><td></td><td></td><td></td><td></td><td><span class=\"chk\">&#10003;</span></td></tr><tr><td><strong>C</strong></td><td><span class=\"chk\">&#10003;</span></td><td><span class=\"chk\">&#10003;</span></td><td></td><td></td><td></td></tr><tr><td><strong>D</strong></td><td><span class=\"chk\">&#10003;</span></td><td><span class=\"chk\">&#10003;</span></td><td><span class=\"chk\">&#10003;</span></td><td></td><td></td></tr><tr><td><strong>E</strong></td><td><span class=\"chk\">&#10003;</span></td><td><span class=\"chk\">&#10003;</span></td><td></td><td></td><td></td></tr><tr><td><strong>F</strong></td><td><span class=\"chk\">&#10003;</span></td><td><span class=\"chk\">&#10003;</span></td><td><span class=\"chk\">&#10003;</span></td><td></td><td></td></tr></table></div>\n<p><strong>Complément :</strong> le collègue Jaroslav Michalík a publié sur le serveur infofila.cz un article intéressant\nsur ce sujet : <a href=\"https://www.infofila.cz/hradcany-praskle-tiskove-desky-r-2-c-5312\" target=\"_blank\" rel=\"noopener\">\ninfofila.cz – Hradčany : planches d’impression fissurées</a>.</p>\n<p class=\"author\"><em>Josef Matoušek (30 décembre 2014, complété le 24 juin 2017)</em></p>",
   "tag": "div"
+ },
+ "6260d4537c": {
+  "cs": "Arch prošel strojem podruhé: buď se po prvním zdvihu nevyjmul, nebo se do stroje vrátil znovu. Mezi oběma otisky se posunul — o zlomek milimetru, když jen povolilo uložení, nebo o celý kus, když se arch založil úplně jinak. Protože tiskne táž forma, jsou obě kresby <strong>naprosto totožné</strong> co do velikosti i detailu; liší se jen polohou. To je také důvod, proč se dvojitý tisk pozná spolehlivě: posun má všude stejný směr a stejnou velikost.",
+  "de": "Der Bogen lief ein zweites Mal durch die Maschine: entweder wurde er nach dem ersten Hub nicht entnommen, oder er kam erneut hinein. Zwischen beiden Abdrucken verschob er sich — um Bruchteile eines Millimeters, wenn nur die Passung nachgab, oder um ein ganzes Stück, wenn der Bogen völlig anders angelegt wurde. Da dieselbe Form druckt, sind beide Zeichnungen in Größe und Detail <strong>vollkommen identisch</strong>; sie unterscheiden sich nur in der Lage. Deshalb ist ein Doppeldruck auch sicher zu erkennen: die Verschiebung hat überall dieselbe Richtung und dieselbe Größe.",
+  "en": "The sheet went through the press a second time: either it was not taken out after the first stroke, or it was fed back in. Between the two impressions it moved — by a fraction of a millimetre when the register merely slipped, or by a long way when the sheet was laid in quite differently. Because the same forme does the printing, the two images are <strong>exactly identical</strong> in size and in detail; they differ only in position. That is also why a double print can be recognised reliably: the displacement has the same direction and the same size everywhere.",
+  "es": "El pliego pasó por la prensa una segunda vez: o no se retiró tras el primer golpe, o volvió a entrar en la máquina. Entre ambas impresiones se desplazó — una fracción de milímetro cuando solo cedió el registro, o un buen trecho cuando el pliego se colocó de forma muy distinta. Como imprime la misma forma, ambos dibujos son <strong>absolutamente idénticos</strong> en tamaño y detalle; solo difieren en la posición. Por eso también la doble impresión se reconoce con seguridad: el desplazamiento tiene en todas partes la misma dirección y el mismo tamaño.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "La feuille est passée une seconde fois sous presse : soit elle n’a pas été retirée après le premier coup, soit elle y est revenue. Entre les deux impressions elle a bougé — d’une fraction de millimètre lorsque le repérage a simplement glissé, ou d’une bonne distance lorsque la feuille a été posée tout autrement. Comme c’est la même forme qui imprime, les deux images sont <strong>parfaitement identiques</strong> en taille et en détail ; elles ne diffèrent que par la position. C’est aussi pourquoi une double impression se reconnaît à coup sûr : le décalage a partout la même direction et la même grandeur.",
+  "tag": "span"
  },
  "62643ced37": {
   "cs": "Dopisnice",
@@ -8536,6 +8747,17 @@
    "15h/tiskove-desky.html"
   ],
   "fr": "Type dominant",
+  "tag": "span"
+ },
+ "66c492a982": {
+  "cs": "Na tenkém papíru je z rubu vidět i řádný tisk z líce. Prosvítající kresba je ale bledá a rozplizlá, leží <strong>přesně proti</strong> kresbě na líci a mizí, díváme-li se na známku proti světlu z druhé strany. Tisk i obtisk na lepu leží <strong>na povrchu</strong>, mají vlastní ostrost a s lícem se nekryjí.",
+  "de": "Auf dünnem Papier ist von der Rückseite auch der reguläre Druck der Vorderseite zu sehen. Das durchscheinende Bild ist aber blass und verwaschen, liegt <strong>genau gegenüber</strong> der Zeichnung der Vorderseite und verschwindet, wenn man die Marke von der anderen Seite gegen das Licht hält. Druck und Abklatsch auf der Gummierung liegen <strong>auf der Oberfläche</strong>, haben eigene Schärfe und decken sich nicht mit der Vorderseite.",
+  "en": "On thin paper even a proper face print shows through from the back. But a show-through image is pale and diffuse, lies <strong>exactly opposite</strong> the design on the face, and disappears when the stamp is viewed against the light from the other side. A print or a set-off on the gum lies <strong>on the surface</strong>, has a sharpness of its own and does not register with the face.",
+  "es": "En papel fino, desde el reverso se ve también la impresión normal del anverso. Pero la imagen que transparenta es pálida y difusa, queda <strong>exactamente enfrente</strong> del dibujo del anverso y desaparece al mirar el sello a contraluz desde el otro lado. Tanto la impresión como el calco sobre la goma están <strong>en la superficie</strong>, tienen nitidez propia y no coinciden con el anverso.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Sur un papier mince, l’impression régulière du recto se voit aussi depuis le verso. Mais l’image qui transparaît est pâle et diffuse, se trouve <strong>exactement en regard</strong> du dessin du recto et disparaît lorsqu’on regarde le timbre à contre-jour depuis l’autre côté. L’impression comme le décalque sur la gomme reposent <strong>en surface</strong>, ont leur propre netteté et ne se superposent pas au recto.",
   "tag": "span"
  },
  "66cdab1c9e": {
@@ -10726,6 +10948,17 @@
   "fr": "Pièce 10 — Fort décalage oblique vers la gauche et vers le haut — à droite comme en bas la perforation passe au ras du cadre.",
   "tag": "cap"
  },
+ "82b35c84f3": {
+  "cs": "Na kusu s <strong>okrajem archu</strong> je to vidět nejlépe: přebytečný otisk leží na papíru, kde nemá být žádná kresba, hned vedle kontrolního čísla.",
+  "de": "Am besten zeigt es sich an einem Stück mit <strong>Bogenrand</strong>: der überzählige Abdruck liegt auf Papier, auf dem keinerlei Zeichnung stehen darf, direkt neben der Kontrollnummer.",
+  "en": "On a piece with the <strong>sheet margin</strong> it shows best of all: the surplus impression lies on paper that should carry no design at all, right beside the control number.",
+  "es": "Donde mejor se ve es en una pieza con <strong>borde de pliego</strong>: la impresión sobrante queda sobre papel que no debe llevar dibujo alguno, justo al lado del número de control.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "C’est sur une pièce avec <strong>bord de feuille</strong> que cela se voit le mieux : l’impression surnuméraire se trouve sur un papier qui ne doit porter aucun dessin, juste à côté du numéro de contrôle.",
+  "tag": "span"
+ },
  "82c26ea764": {
   "cs": "Typy",
   "de": "Typen",
@@ -11709,6 +11942,17 @@
   "fr": "violet brun",
   "tag": "span"
  },
+ "8c78728400": {
+  "cs": "Zdvojení na nápisu a na hodnotovém oválu — každá linka má svého slabšího dvojníka posunutého stejným směrem.",
+  "de": "Die Verdopplung an der Inschrift und am Wertoval — jede Linie hat ihren schwächeren, in dieselbe Richtung verschobenen Doppelgänger.",
+  "en": "The doubling on the inscription and the value oval — every line has its fainter twin, displaced in the same direction.",
+  "es": "La duplicación en la inscripción y en el óvalo del valor — cada línea tiene su doble más débil, desplazado en la misma dirección.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Le dédoublement sur l’inscription et sur l’ovale de valeur — chaque trait a son sosie plus pâle, décalé dans la même direction.",
+  "tag": "span"
+ },
  "8c8153e0b7": {
   "cs": "Dalších 20 g",
   "de": "Weitere 20 g",
@@ -11791,6 +12035,17 @@
    "druha-kresba.html"
   ],
   "fr": "200h bleu foncé",
+  "tag": "span"
+ },
+ "8d6206c2b1": {
+  "cs": "Dvojitý a vícenásobný tisk",
+  "de": "Doppeldruck und Mehrfachdruck",
+  "en": "Double and multiple print",
+  "es": "Doble impresión e impresión múltiple",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Double impression et impression multiple",
   "tag": "span"
  },
  "8d67605586": {
@@ -12312,6 +12567,17 @@
   "fr": "Galerie — planche d’impression I",
   "tag": "span"
  },
+ "944c13497e": {
+  "cs": "<strong>Vícenásobný tisk</strong> — posun o milimetry až o celou šířku známky, často s pootočením. Do rámu jedné známky pak zasahují části sousedních známek a nápis POŠTA se objeví dvakrát v různé výšce.",
+  "de": "<strong>Mehrfachdruck</strong> — eine Verschiebung von Millimetern bis zu einer ganzen Markenbreite, oft mit Verdrehung. In den Rahmen einer Marke ragen dann Teile der Nachbarmarken, und die Inschrift POŠTA erscheint zweimal in unterschiedlicher Höhe.",
+  "en": "<strong>Multiple print</strong> — a displacement of millimetres up to a whole stamp width, often with a rotation. Parts of neighbouring stamps then reach inside one stamp’s frame and the word POŠTA appears twice at different heights.",
+  "es": "<strong>Impresión múltiple</strong> — un desplazamiento de milímetros hasta el ancho entero del sello, a menudo con giro. Partes de los sellos vecinos entran entonces en el marco de un solo sello y la inscripción POŠTA aparece dos veces a distinta altura.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "<strong>Impression multiple</strong> — un décalage de quelques millimètres jusqu’à toute la largeur du timbre, souvent avec une rotation. Des fragments des timbres voisins pénètrent alors dans le cadre d’un seul timbre et l’inscription POŠTA apparaît deux fois à des hauteurs différentes.",
+  "tag": "span"
+ },
  "9466dec886": {
   "cs": "Celý arch zkušebního tisku 15h v černé barvě. V dolní části archu jsou vytištěna kontrolní čísla.",
   "de": "Vollständiger Bogen des Probedrucks der 15h in Schwarz. Im unteren Teil des Bogens sind die Kontrollzahlen aufgedruckt.",
@@ -12799,6 +13065,17 @@
   "files": [],
   "fr": "Hradčany — types de spirale du cinquième dessin.",
   "tag": "meta"
+ },
+ "9935c3aabc": {
+  "cs": "Proč to není obtisk",
+  "de": "Warum das kein Abklatsch ist",
+  "en": "Why this is not a set-off",
+  "es": "Por qué no es un calco",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Pourquoi ce n’est pas un décalque",
+  "tag": "span"
  },
  "993c14222f": {
   "cs": "Na konkrétní dotazy ke sbírce nebo k výměně raději pište přímo na <a href=\"mailto:pepa.matousek@gmail.com\">pepa.matousek@gmail.com</a>. Odkazy ve vzkazech nejsou povolené — je to nejúčinnější obrana proti spamu.",
@@ -13433,6 +13710,13 @@
   "fr": "Planches 1–2",
   "tag": "span"
  },
+ "9ebfd679d5": {
+  "cs": "<span class=\"badge type\">smíšená frankatura</span>",
+  "de": "<span class=\"badge type\">Mischfrankatur</span>",
+  "en": "<span class=\"badge type\">mixed franking</span>",
+  "es": "<span class=\"badge type\">franqueo mixto</span>",
+  "fr": "<span class=\"badge type\">affranchissement mixte</span>"
+ },
  "9f34171811": {
   "cs": "Otevřené spirály; poškozený rám na ZP 60.",
   "de": "Offene Spiralen; beschädigter Rahmen auf Feld 60.",
@@ -13680,6 +13964,17 @@
   "files": [],
   "fr": "20h planche I",
   "tag": "alt"
+ },
+ "a1b9beafa8": {
+  "cs": "Tisk na lepu. Kresba je na lepové straně a čte se správně — arch šel do stroje obrácenou stranou.",
+  "de": "Druck auf der Gummierung. Die Zeichnung liegt auf der Gummiseite und liest sich richtig — der Bogen kam verkehrt herum in die Maschine.",
+  "en": "Print on the gum. The design is on the gummed side and reads the right way round — the sheet went into the press the wrong way up.",
+  "es": "Impresión sobre la goma. El dibujo está en la cara engomada y se lee correctamente — el pliego entró en la prensa del revés.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Impression sur la gomme. Le dessin est du côté gommé et se lit dans le bon sens — la feuille est entrée dans la presse à l’envers.",
+  "tag": "span"
  },
  "a1c32d712f": {
   "cs": "Galerie skutečných dopisů, pohlednic a poštovních dokladů frankovaných známkou 15&nbsp;h — jednoduše i v kombinaci s jinými hodnotami, v běžném i neobvyklém provedení. Na rozdíl od podrobných rozborů v <a href=\"clanky.html\">článcích</a> jde tu o rychlý přehled šíře použití této hodnoty; galerie průběžně roste s dalšími přírůstky sbírky. Klikněte na libovolný náhled pro zvětšení.",
@@ -14176,6 +14471,17 @@
    "treti-kresba.html"
   ],
   "fr": "Tirage : non dentelés 27&nbsp;314&nbsp;000 · Dentelure : – · Date d’émission : 27.&nbsp;2.&nbsp;1919 · <a href=\"assets/downloads/tiskove-desky.xlsx\">Schémas des planches</a>",
+  "tag": "span"
+ },
+ "a6df979cab": {
+  "cs": "<strong>Pozor na záměnu s rozmazaným otiskem.</strong> Pohnul-li se arch pod tlakem, kresba se rozmázne do šmouhy, ale druhý obrys nevznikne. U dvojitého tisku je posunutá kopie <em>úplná</em> — má vlastní ostré linky a všude stejný odstup od té první.",
+  "de": "<strong>Vorsicht vor der Verwechslung mit einem verwischten Abdruck.</strong> Bewegte sich der Bogen unter dem Druck, verwischt die Zeichnung zu einem Schlieren, aber eine zweite Kontur entsteht nicht. Beim Doppeldruck ist die verschobene Kopie <em>vollständig</em> — sie hat eigene scharfe Linien und überall denselben Abstand zur ersten.",
+  "en": "<strong>Beware of confusion with a smeared impression.</strong> If the sheet moved under pressure the design smears into a streak, but no second outline appears. In a double print the displaced copy is <em>complete</em> — it has sharp lines of its own and the same offset from the first everywhere.",
+  "es": "<strong>Cuidado con confundirlo con una impresión corrida.</strong> Si el pliego se movió bajo la presión, el dibujo se corre en un borrón, pero no surge un segundo contorno. En la doble impresión la copia desplazada es <em>completa</em> — tiene líneas nítidas propias y en todas partes la misma separación respecto a la primera.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "<strong>Attention à la confusion avec une impression maculée.</strong> Si la feuille a bougé sous la pression, le dessin s’étire en traînée, mais aucun second contour n’apparaît. Dans une double impression, la copie décalée est <em>complète</em> — elle a ses propres traits nets et partout le même écart avec la première.",
   "tag": "span"
  },
  "a709e586ac": {
@@ -15017,6 +15323,17 @@
    "15h/statistiky.html"
   ],
   "fr": "C 5–6",
+  "tag": "span"
+ },
+ "b09bbcc667": {
+  "cs": "<strong>Tisk na lepu</strong> znamená, že arch šel do stroje obrácenou stranou a forma se otiskla přímo na lep. Že je to vůbec možné, samo o sobě dokládá, že se papír <strong>gumoval ještě před tiskem</strong>. <strong>Obtisk</strong> vzniká jinak: čerstvě potištěné archy se naskládaly na sebe dřív, než barva zaschla, a mokrá kresba se přenesla na lep archu, který ležel na ní.",
+  "de": "<strong>Druck auf der Gummierung</strong> bedeutet, dass der Bogen verkehrt herum in die Maschine kam und die Form direkt auf den Gummi druckte. Dass dies überhaupt möglich ist, belegt für sich genommen, dass das Papier <strong>schon vor dem Druck gummiert wurde</strong>. Ein <strong>Abklatsch</strong> entsteht anders: frisch bedruckte Bogen wurden gestapelt, bevor die Farbe getrocknet war, und die nasse Zeichnung übertrug sich auf die Gummierung des darüberliegenden Bogens.",
+  "en": "A <strong>print on the gum</strong> means the sheet went into the press the wrong way up and the forme printed straight onto the gum. That this is possible at all is in itself evidence that the paper was <strong>gummed before printing</strong>. A <strong>set-off</strong> arises differently: freshly printed sheets were stacked before the ink had dried, and the wet design transferred onto the gum of the sheet lying on top of it.",
+  "es": "La <strong>impresión sobre la goma</strong> significa que el pliego entró en la prensa del revés y la forma imprimió directamente sobre la goma. Que ello sea siquiera posible demuestra por sí solo que el papel se <strong>engomaba antes de imprimir</strong>. El <strong>calco</strong> surge de otro modo: los pliegos recién impresos se apilaron antes de que secara la tinta y el dibujo húmedo se transfirió a la goma del pliego que descansaba encima.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Une <strong>impression sur la gomme</strong> signifie que la feuille est entrée dans la presse à l’envers et que la forme a imprimé directement sur la gomme. Que cela soit seulement possible prouve déjà que le papier était <strong>gommé avant l’impression</strong>. Un <strong>décalque</strong> naît autrement : des feuilles fraîchement imprimées ont été empilées avant que l’encre ne sèche, et le dessin humide s’est transféré sur la gomme de la feuille posée dessus.",
   "tag": "span"
  },
  "b0a00bebf9": {
@@ -15989,6 +16306,17 @@
   "fr": "Planche d’impression III — toutes les positions",
   "tag": "span"
  },
+ "bb1c6070e5": {
+  "cs": "Kus 2 — Vícenásobný tisk. Otisky jsou posunuté o velký kus a pootočené, takže do rámu zasahují části sousedních známek a nápis POŠTA se objevuje dvakrát v různé výšce.",
+  "de": "Stück 2 — Mehrfachdruck. Die Abdrucke sind weit verschoben und verdreht, sodass Teile der Nachbarmarken in den Rahmen ragen und die Inschrift POŠTA zweimal in unterschiedlicher Höhe erscheint.",
+  "en": "Item 2 — Multiple print. The impressions are displaced by a long way and rotated, so parts of neighbouring stamps reach inside the frame and the word POŠTA appears twice at different heights.",
+  "es": "Ejemplar 2 — Impresión múltiple. Las impresiones están muy desplazadas y giradas, de modo que partes de los sellos vecinos entran en el marco y la inscripción POŠTA aparece dos veces a distinta altura.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Pièce 2 — Impression multiple. Les impressions sont largement décalées et pivotées, si bien que des fragments des timbres voisins pénètrent dans le cadre et que l’inscription POŠTA apparaît deux fois à des hauteurs différentes.",
+  "tag": "cap"
+ },
  "bb1cd501f2": {
   "cs": "10h tmavě zelená",
   "de": "10h dunkelgrün",
@@ -16262,6 +16590,13 @@
   "files": [],
   "fr": "100h planche VII",
   "tag": "alt"
+ },
+ "be2e627ae1": {
+  "cs": "ZP 29 / TD V · nezoubkovaná · 10h nezoubkovaná Pofis 6, 100h nezoubkovaná",
+  "de": "Feld 29 / Platte V · ungezähnt · ungezähnte 10h Pofis 6, ungezähnte 100h",
+  "en": "field 29 / plate V · imperforate · imperforate 10h Pofis 6, imperforate 100h",
+  "es": "campo 29 / plancha V · sin dentar · 10h sin dentar Pofis 6, 100h sin dentar",
+  "fr": "champ 29 / planche V · non dentelé · 10h non dentelé Pofis 6, 100h non dentelé"
  },
  "be32f4d60c": {
   "cs": "\n<h1>Župní slet sokolský ve Znojmě, 24. srpna 1919 — nejstarší příležitostné razítko na Hradčanech</h1>\n\n<p>Mezi doklady poštovního provozu Hradčan zaujímá zvláštní místo jedna pohlednice odeslaná ze Znojma\ndo Štramberku na Moravě. Nese jediné razítko — kruhové příležitostné razítko <strong>ŽUPNÍ SLET SOKOLSKÝ VE\nZNOJMĚ · C.S.P.</strong> s datem <strong>24.&nbsp;VIII.&nbsp;1919</strong>, tedy z prvního dne sletu. Podle\ndosavadní evidence jde o <strong>nejstarší doložené použití československého příležitostného razítka na\nznámkách emise Hradčany</strong>.</p>\n\n<figure><img src=\"../assets/img/15h-slet-znojmo-pohlednice.jpg\" alt=\"Lícní strana pohlednice — Župní slet sokolský ve Znojmě, 24. srpna 1919\" loading=\"lazy\" style=\"max-width:420px\">\n<figcaption>Lícní strana upomínkové pohlednice na Župní slet sokolský ve Znojmě, 24.&nbsp;srpna&nbsp;1919.</figcaption></figure>\n\n<h2>Celistvost a frankatura</h2>\n\n<p>Pohlednice je frankována jedinou známkou <strong>15&nbsp;h cihlově červenou, nezoubkovanou</strong>, určenou\njako pole <strong>73 z&nbsp;tiskové desky&nbsp;II</strong>. Sazba 15&nbsp;h za dopisnici odpovídá\n<a href=\"../posta.html#tarify\">II.&nbsp;tarifnímu období</a> (15.&nbsp;5.&nbsp;1919&nbsp;–&nbsp;14.&nbsp;3.&nbsp;1920),\ndo něhož datum 24.&nbsp;8.&nbsp;1919 spadá. Adresátkou byla slečna Marta Kokršková ve Štramberku.</p>\n\n<figure><img src=\"../assets/img/15h-slet-znojmo-zadni.jpg\" alt=\"Rubová strana pohlednice s frankaturou a razítkem\" loading=\"lazy\" style=\"max-width:640px\">\n<figcaption>Rubová strana: adresní část a frankatura s razítkem ŽUPNÍ SLET SOKOLSKÝ VE ZNOJMĚ, 24.&nbsp;VIII.&nbsp;1919.</figcaption></figure>\n\n<figure><img src=\"../assets/img/15h-slet-znojmo-73-II.jpg\" alt=\"Detail známky ZP 73/II s otiskem razítka\" loading=\"lazy\" style=\"max-width:480px\">\n<figcaption>Detail frankatury: 15&nbsp;h, nezoubkovaná, <strong>ZP&nbsp;73/II</strong>.</figcaption></figure>\n\n<h2>Druhý doložený kus — ZP 57/II, zoubkování A</h2>\n\n<p>Ve sbírce se podařilo dohledat i druhou známku se stejným razítkem — tentokrát samostatnou, bez celistvosti,\nse zoubkováním <strong>A (13¾:13½)</strong> a určenou jako pole <strong>57 z&nbsp;téže tiskové desky&nbsp;II</strong>.\nOtisk razítka je na tomto kusu plně čitelný a potvrzuje text i datum shodně s kusem na pohlednici.</p>\n\n<figure><img src=\"../assets/img/15h-slet-znojmo-57-II.jpg\" alt=\"Samostatná známka ZP 57/II se zoubkováním A a razítkem sletu\" loading=\"lazy\" style=\"max-width:420px\">\n<figcaption>Druhý doložený kus: 15&nbsp;h, zoubkování A, <strong>ZP&nbsp;57/II</strong>.</figcaption></figure>\n\n<p>Dva různé exempláře téže desky, jeden nezoubkovaný a jeden se zoubkováním A, ukazují, že razítko bylo v den\nsletu k dispozici pro oba tehdy současně oběhající stavy archů TD&nbsp;II.</p>\n\n<h2>Třetí doložený kus — celistvost do Německého Brodu, ZP 76/I</h2>\n\n<p>Ke stejnému razítku se podařilo dohledat i třetí celistvost — pohlednici zaslanou rovněž ze Znojma,\nadresovanou paní E. Vodičkové do Německého Brodu (vila Klementka). Frankována je 15&nbsp;h cihlově červenou,\nnezoubkovanou, kterou automatické rozpoznávání tiskových desek (na základě knihovny 15h k5) určilo jako\n<strong>pole 76 tiskové desky&nbsp;I</strong> s výraznou převahou nad ostatními kandidáty (pravděpodobnost 0,68\nproti nejvýše 0,04–0,11 u všech ostatních desek a polí) — jde tak o první doložený kus s tímto razítkem z jiné\ndesky než&nbsp;II. Kvůli silnému otisku razítka přes návrh nebylo možné určení zcela potvrdit okem podle\nkatalogových odlišovacích znaků; přesto jde vzhledem k rozdílu pravděpodobností o spolehlivý odhad.</p>\n\n<figure><img src=\"../assets/img/15h-slet-znojmo-nembrod-zadni.jpg\" alt=\"Zadní strana pohlednice do Německého Brodu s frankaturou a razítkem\" loading=\"lazy\" style=\"max-width:640px\">\n<figcaption>Rubová strana pohlednice do Německého Brodu: adresní část, frankatura 15&nbsp;h (ZP&nbsp;76/I) a sokolská\nnálepka, obojí s razítkem ŽUPNÍ SLET SOKOLSKÝ VE ZNOJMĚ, 24.&nbsp;VIII.&nbsp;1919.</figcaption></figure>\n\n<p>Zajímavostí této celistvosti je, že vedle poštovní známky nese i zelenou nepoštovní sletovou nálepku\n<strong>SLET ZNOJMO</strong> s motivem sokola (s vlastním předtištěným datem 8.&nbsp;VIII.&nbsp;1919) — a obě byly\nna pohlednici svázány týmž příležitostným razítkem z 24.&nbsp;VIII.&nbsp;1919. Doklad tak ukazuje, že se razítkem\npříležitostně opatřovaly i soukromé sokolské nálepky, nejen platné výplatní známky.</p>\n\n<figure><img src=\"../assets/img/15h-slet-znojmo-76-I.jpg\" alt=\"Detail známky ZP 76/I s otiskem razítka\" loading=\"lazy\" style=\"max-width:420px\">\n<figcaption>Detail frankatury: 15&nbsp;h, nezoubkovaná, <strong>ZP&nbsp;76/I</strong>.</figcaption></figure>\n\n<h2>Proč je toto razítko první</h2>\n\n<p>Příležitostné razítko neslo v horním oblouku text <strong>SOKOLSKÝ SLET VE ZNOJMĚ</strong>, v dolním oblouku\nzkratku <strong>C.S.P.</strong> (Česko-slovenská pošta) a uprostřed přestavitelný datumový můstek s údajem\n<strong>24.&nbsp;VIII.&nbsp;1919</strong>. Dochovala se i fotografie samotného razítkovacího strojku (zrcadlově,\njak je vidět na kovovém/pryžovém typu před otiskem):</p>\n\n<figure><img src=\"../assets/img/15h-slet-znojmo-razitko-samotne.jpg\" alt=\"Fotografie razítkového typu Župní slet sokolský ve Znojmě\" loading=\"lazy\" style=\"max-width:320px\">\n<figcaption>Razítkový typ příležitostného razítka Župní slet sokolský ve Znojmě (zrcadlový pohled).</figcaption></figure>\n\n<p>Příležitostná razítka se v poválečném Československu začala pravidelně objevovat až v následujících letech;\nrazítko ke znojemskému sletu z <strong>24.&nbsp;srpna&nbsp;1919</strong> předchází — podle dosavadní evidence\nsestavené k Hradčanům — všechna ostatní doložená použití příležitostných razítek na této emisi. Se třemi dosud dohledanými kusy — dvěma z tiskové desky&nbsp;II a jedním z desky&nbsp;I — je navíc zřejmé, že\npošta ve Znojmě měla ten den k dispozici zásobu 15&nbsp;h z více než jedné desky. Pokud je čtenářům\nznámo starší datované použití na Hradčanech, budeme rádi za upozornění — evidence bude s novými nálezy průběžně\ndoplňována.</p>\n\n<p class=\"author\"><em>1.&nbsp;září&nbsp;2026</em></p>\n",
@@ -17201,6 +17536,28 @@
   "fr": "100h planche I",
   "tag": "alt"
  },
+ "c7b27e5a74": {
+  "cs": "Stupně",
+  "de": "Abstufungen",
+  "en": "Degrees",
+  "es": "Grados",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Degrés",
+  "tag": "span"
+ },
+ "c7ba505659": {
+  "cs": "Tisk a obtisk na lepu",
+  "de": "Druck und Abklatsch auf der Gummierung",
+  "en": "Print and set-off on the gum",
+  "es": "Impresión y calco sobre la goma",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Impression et décalque sur la gomme",
+  "tag": "span"
+ },
  "c7cb605c45": {
   "cs": "5h světle zelená – skvrna na 46/1 („hrozen“) — Sbírám Hradčany",
   "de": "5h hellgrün – Fleck auf 46/1 („Traube“) — Hradschin sammeln",
@@ -17542,6 +17899,17 @@
    "15h/vyrobni-vady.html"
   ],
   "fr": "« Anneaux errants »",
+  "tag": "span"
+ },
+ "cb55e9a06d": {
+  "cs": "<strong>Dvojitý tisk</strong> — posun v řádu desetin milimetru. Kresba na první pohled vypadá jen rozmazaně; teprve zblízka je vidět, že každá linka, písmeno i obrys oválu má slabšího dvojníka.",
+  "de": "<strong>Doppeldruck</strong> — eine Verschiebung im Bereich von Zehntelmillimetern. Auf den ersten Blick wirkt die Zeichnung nur verwischt; erst aus der Nähe zeigt sich, dass jede Linie, jeder Buchstabe und die Kontur des Ovals einen schwächeren Doppelgänger hat.",
+  "en": "<strong>Double print</strong> — a displacement of tenths of a millimetre. At first glance the design merely looks blurred; only close up is it clear that every line, letter and outline of the oval has a fainter twin.",
+  "es": "<strong>Doble impresión</strong> — un desplazamiento del orden de décimas de milímetro. A primera vista el dibujo solo parece borroso; solo de cerca se ve que cada línea, cada letra y el contorno del óvalo tienen un doble más débil.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "<strong>Double impression</strong> — un décalage de l’ordre du dixième de millimètre. Au premier coup d’œil le dessin paraît seulement flou ; ce n’est que de près que l’on voit que chaque trait, chaque lettre et le contour de l’ovale ont un sosie plus pâle.",
   "tag": "span"
  },
  "cb9906a65a": {
@@ -18116,6 +18484,13 @@
   "fr": "Ci-dessous les positions sur lesquelles se rencontrent les types à arc.",
   "tag": "span"
  },
+ "d414c8a75e": {
+  "cs": "<span class=\"badge rare\">vzácný hnědočervený odstín</span>",
+  "de": "<span class=\"badge rare\">seltener braunroter Farbton</span>",
+  "en": "<span class=\"badge rare\">rare brown-red shade</span>",
+  "es": "<span class=\"badge rare\">tono rojo pardo raro</span>",
+  "fr": "<span class=\"badge rare\">nuance rouge-brun rare</span>"
+ },
  "d41d50212d": {
   "cs": "50h modrá",
   "de": "50h blau",
@@ -18567,6 +18942,17 @@
   "fr": "Découverte : un 15h non dentelé de la planche VI utilisé postalement",
   "tag": "span"
  },
+ "d8bf4d22f7": {
+  "cs": "U těchto kusů dostal arch víc než jeden otisk. Celá kresba je vytištěná dvakrát — jednou slabě posunutá, takže má každá linka svého dvojníka, jindy posunutá o velký kus a pootočená, takže se do jedné známky vejdou části několika otisků najednou.",
+  "de": "Bei diesen Stücken erhielt der Bogen mehr als einen Abdruck. Die ganze Zeichnung ist zweimal gedruckt — einmal nur leicht verschoben, sodass jede Linie ihren Doppelgänger hat, ein andermal weit verschoben und verdreht, sodass in einer einzigen Marke Teile mehrerer Abdrucke Platz finden.",
+  "en": "On these copies the sheet received more than one impression. The whole design is printed twice — once only slightly displaced, so that every line has its twin, and elsewhere displaced by a long way and rotated, so that parts of several impressions end up inside a single stamp.",
+  "es": "En estos ejemplares el pliego recibió más de una impresión. Todo el dibujo está impreso dos veces — unas veces apenas desplazado, de modo que cada línea tiene su doble, otras desplazado mucho y girado, de modo que en un solo sello caben partes de varias impresiones.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Sur ces pièces, la feuille a reçu plus d’une impression. Tout le dessin est imprimé deux fois — tantôt à peine décalé, si bien que chaque trait a son sosie, tantôt décalé d’une bonne distance et pivoté, si bien qu’un seul timbre contient des fragments de plusieurs impressions.",
+  "tag": "span"
+ },
  "d9330ebbc5": {
   "cs": "Kus 3 — Kus s hustým razítkem; hranici prozrazuje vodorovný předěl ve výši věží, nejlépe čitelný v pravé části známky.",
   "de": "Stück 3 — Mit kräftigem Stempel; die Grenze verrät eine waagerechte Trennlinie in Höhe der Türme, am besten im rechten Teil der Marke lesbar.",
@@ -18977,6 +19363,17 @@
    "znamky-emise.html"
   ],
   "fr": "Usage postal",
+  "tag": "span"
+ },
+ "dc8cc82ccc": {
+  "cs": "<a href=\"#tisk-na-lepu\">Obtisk</a> je přenos čerstvé barvy z jiného archu: leží na lepové straně a je <strong>zrcadlově obrácený</strong>. Oba otisky dvojitého tisku jsou na líci a oba se čtou správně.",
+  "de": "Ein <a href=\"#tisk-na-lepu\">Abklatsch</a> ist die Übertragung frischer Farbe von einem anderen Bogen: er liegt auf der Gummiseite und ist <strong>seitenverkehrt</strong>. Beide Abdrucke eines Doppeldrucks liegen auf der Vorderseite und beide lesen sich richtig.",
+  "en": "A <a href=\"#tisk-na-lepu\">set-off</a> is a transfer of fresh ink from another sheet: it lies on the gummed side and is <strong>mirrored</strong>. Both impressions of a double print are on the face and both read the right way round.",
+  "es": "Un <a href=\"#tisk-na-lepu\">calco</a> es la transferencia de tinta fresca desde otro pliego: está en la cara engomada y aparece <strong>invertido como en un espejo</strong>. Las dos impresiones de una doble impresión están en el anverso y ambas se leen correctamente.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Un <a href=\"#tisk-na-lepu\">décalque</a> est le transfert d’encre fraîche depuis une autre feuille : il se trouve du côté gommé et il est <strong>inversé comme dans un miroir</strong>. Les deux impressions d’une double impression sont au recto et se lisent toutes deux dans le bon sens.",
   "tag": "span"
  },
  "dc9d5a8801": {
@@ -19988,6 +20385,17 @@
    "novinky.html"
   ],
   "fr": "La page <a href=\"15h/vyrobni-vady.html\"><strong>Défauts de fabrication</strong></a> propose désormais une vue d’ensemble complète des défauts d’impression et de papier : <strong>Impression partiellement doublée</strong> (5 pièces), <strong>Anneaux errants</strong> (14 pièces), <strong>Voiles</strong> (19 pièces) et <strong>Taches blanches</strong> (4 pièces) dans la section Défauts d’impression ; <strong>Pli de papier</strong> (24 pièces) et <strong>Éclats de bois dans le papier</strong> (3 pièces) dans la section Défauts du papier. Sous <a href=\"15h/vyrobni-vady.html#deska\"><strong>Endommagement de la planche d’impression</strong></a>, les deux articles – la planche fissurée à 11/II et le cadre endommagé à 60/VI – figurent désormais directement sur la page au lieu d’un simple lien. Le sommaire en haut de page mène directement à chaque sous-catégorie, et la <a href=\"15h/mapa.html\"><strong>carte des oblitérations</strong></a>, désormais corrigée, affiche correctement les lieux même sous les filtres de planches individuels, et pas seulement sous « plusieurs groupes ».",
+  "tag": "span"
+ },
+ "e8b6e3679e": {
+  "cs": "Tisk na lepu: nápis POŠTA se čte zleva doprava.",
+  "de": "Druck auf der Gummierung: die Inschrift POŠTA liest sich von links nach rechts.",
+  "en": "Print on the gum: POŠTA reads left to right.",
+  "es": "Impresión sobre la goma: la inscripción POŠTA se lee de izquierda a derecha.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Impression sur la gomme : l’inscription POŠTA se lit de gauche à droite.",
   "tag": "span"
  },
  "e8b7b87e59": {
@@ -21076,6 +21484,13 @@
   "fr": "1 · Retouche de la spirale — de Is à IIs",
   "tag": "span"
  },
+ "f59bd7d481": {
+  "cs": "<span class=\"badge type\">společná frankatura</span>",
+  "de": "<span class=\"badge type\">Gemeinschaftsfrankatur</span>",
+  "en": "<span class=\"badge type\">joint franking</span>",
+  "es": "<span class=\"badge type\">franqueo conjunto</span>",
+  "fr": "<span class=\"badge type\">affranchissement conjoint</span>"
+ },
  "f5b18ad640": {
   "cs": "Velmi vzácná — jen 57 kusů z 21 341 určených známek (0,27 %); nejvzácnější deska hodnoty 15h.",
   "de": "Sehr selten — nur 57 Stück von 21 341 bestimmten Marken (0,27 %); die seltenste Platte des Wertes 15h.",
@@ -21143,6 +21558,13 @@
   ],
   "fr": "Voiles — excès d’encre",
   "tag": "span"
+ },
+ "f6a942613f": {
+  "cs": "A 1–2",
+  "de": "A Platten 1–2",
+  "en": "A plates 1–2",
+  "es": "A planchas 1–2",
+  "fr": "A planches 1–2"
  },
  "f6c42288da": {
   "cs": "ZP 96/I — modrý zkusmý tisk na křídovém papíře",
@@ -21388,6 +21810,17 @@
    "15h/vyrobni-vady.html"
   ],
   "fr": "Impression localement affaiblie, voire absente, provenant d’un endroit endommagé ou encrassé de la planche. Traité sur une page distincte —",
+  "tag": "span"
+ },
+ "f94903b0f4": {
+  "cs": "Na rubu známky, tedy na lepu, je celá kresba. Vypadá to jako jedna vada, ale jsou to dvě různé — a rozezná je jediný pohled na nápis.",
+  "de": "Auf der Rückseite der Marke, also auf der Gummierung, steht die ganze Zeichnung. Es sieht nach einem Fehler aus, doch es sind zwei verschiedene — und ein einziger Blick auf die Inschrift unterscheidet sie.",
+  "en": "The back of the stamp, the gummed side, carries the whole design. It looks like a single flaw, but it is two different ones — and a single glance at the inscription tells them apart.",
+  "es": "En el reverso del sello, es decir, sobre la goma, está todo el dibujo. Parece un solo defecto, pero son dos distintos — y una sola mirada a la inscripción los distingue.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Au verso du timbre, c’est-à-dire sur la gomme, se trouve tout le dessin. Cela ressemble à un seul défaut, mais il y en a deux — et un seul coup d’œil à l’inscription les distingue.",
   "tag": "span"
  },
  "f965fba2b5": {
@@ -21974,358 +22407,6 @@
   "fr": "Comporte une petite inscription de couleur sur fond blanc, un soleil et un buisson. Le deuxième dessin a servi à imprimer les valeurs suivantes de l’émission Hradčany : 100h, 200h, 400h.",
   "tag": "span"
  },
- "ffde7c7e68": {
-  "cs": "25,7&nbsp;%",
-  "de": "25,7&nbsp;%",
-  "en": "25.7&nbsp;%",
-  "es": "25,7&nbsp;%",
-  "files": [
-   "15h/statistiky.html"
-  ],
-  "fr": "25,7&nbsp;%",
-  "tag": "num"
- },
- "8d6206c2b1": {
-  "cs": "Dvojitý a vícenásobný tisk",
-  "de": "Doppeldruck und Mehrfachdruck",
-  "en": "Double and multiple print",
-  "es": "Doble impresión e impresión múltiple",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ],
-  "fr": "Double impression et impression multiple",
-  "tag": "span"
- },
- "d8bf4d22f7": {
-  "cs": "U těchto kusů dostal arch víc než jeden otisk. Celá kresba je vytištěná dvakrát — jednou slabě posunutá, takže má každá linka svého dvojníka, jindy posunutá o velký kus a pootočená, takže se do jedné známky vejdou části několika otisků najednou.",
-  "de": "Bei diesen Stücken erhielt der Bogen mehr als einen Abdruck. Die ganze Zeichnung ist zweimal gedruckt — einmal nur leicht verschoben, sodass jede Linie ihren Doppelgänger hat, ein andermal weit verschoben und verdreht, sodass in einer einzigen Marke Teile mehrerer Abdrucke Platz finden.",
-  "en": "On these copies the sheet received more than one impression. The whole design is printed twice — once only slightly displaced, so that every line has its twin, and elsewhere displaced by a long way and rotated, so that parts of several impressions end up inside a single stamp.",
-  "es": "En estos ejemplares el pliego recibió más de una impresión. Todo el dibujo está impreso dos veces — unas veces apenas desplazado, de modo que cada línea tiene su doble, otras desplazado mucho y girado, de modo que en un solo sello caben partes de varias impresiones.",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ],
-  "fr": "Sur ces pièces, la feuille a reçu plus d’une impression. Tout le dessin est imprimé deux fois — tantôt à peine décalé, si bien que chaque trait a son sosie, tantôt décalé d’une bonne distance et pivoté, si bien qu’un seul timbre contient des fragments de plusieurs impressions.",
-  "tag": "span"
- },
- "6260d4537c": {
-  "cs": "Arch prošel strojem podruhé: buď se po prvním zdvihu nevyjmul, nebo se do stroje vrátil znovu. Mezi oběma otisky se posunul — o zlomek milimetru, když jen povolilo uložení, nebo o celý kus, když se arch založil úplně jinak. Protože tiskne táž forma, jsou obě kresby <strong>naprosto totožné</strong> co do velikosti i detailu; liší se jen polohou. To je také důvod, proč se dvojitý tisk pozná spolehlivě: posun má všude stejný směr a stejnou velikost.",
-  "de": "Der Bogen lief ein zweites Mal durch die Maschine: entweder wurde er nach dem ersten Hub nicht entnommen, oder er kam erneut hinein. Zwischen beiden Abdrucken verschob er sich — um Bruchteile eines Millimeters, wenn nur die Passung nachgab, oder um ein ganzes Stück, wenn der Bogen völlig anders angelegt wurde. Da dieselbe Form druckt, sind beide Zeichnungen in Größe und Detail <strong>vollkommen identisch</strong>; sie unterscheiden sich nur in der Lage. Deshalb ist ein Doppeldruck auch sicher zu erkennen: die Verschiebung hat überall dieselbe Richtung und dieselbe Größe.",
-  "en": "The sheet went through the press a second time: either it was not taken out after the first stroke, or it was fed back in. Between the two impressions it moved — by a fraction of a millimetre when the register merely slipped, or by a long way when the sheet was laid in quite differently. Because the same forme does the printing, the two images are <strong>exactly identical</strong> in size and in detail; they differ only in position. That is also why a double print can be recognised reliably: the displacement has the same direction and the same size everywhere.",
-  "es": "El pliego pasó por la prensa una segunda vez: o no se retiró tras el primer golpe, o volvió a entrar en la máquina. Entre ambas impresiones se desplazó — una fracción de milímetro cuando solo cedió el registro, o un buen trecho cuando el pliego se colocó de forma muy distinta. Como imprime la misma forma, ambos dibujos son <strong>absolutamente idénticos</strong> en tamaño y detalle; solo difieren en la posición. Por eso también la doble impresión se reconoce con seguridad: el desplazamiento tiene en todas partes la misma dirección y el mismo tamaño.",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ],
-  "fr": "La feuille est passée une seconde fois sous presse : soit elle n’a pas été retirée après le premier coup, soit elle y est revenue. Entre les deux impressions elle a bougé — d’une fraction de millimètre lorsque le repérage a simplement glissé, ou d’une bonne distance lorsque la feuille a été posée tout autrement. Comme c’est la même forme qui imprime, les deux images sont <strong>parfaitement identiques</strong> en taille et en détail ; elles ne diffèrent que par la position. C’est aussi pourquoi une double impression se reconnaît à coup sûr : le décalage a partout la même direction et la même grandeur.",
-  "tag": "span"
- },
- "c7b27e5a74": {
-  "cs": "Stupně",
-  "de": "Abstufungen",
-  "en": "Degrees",
-  "es": "Grados",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ],
-  "fr": "Degrés",
-  "tag": "span"
- },
- "cb55e9a06d": {
-  "cs": "<strong>Dvojitý tisk</strong> — posun v řádu desetin milimetru. Kresba na první pohled vypadá jen rozmazaně; teprve zblízka je vidět, že každá linka, písmeno i obrys oválu má slabšího dvojníka.",
-  "de": "<strong>Doppeldruck</strong> — eine Verschiebung im Bereich von Zehntelmillimetern. Auf den ersten Blick wirkt die Zeichnung nur verwischt; erst aus der Nähe zeigt sich, dass jede Linie, jeder Buchstabe und die Kontur des Ovals einen schwächeren Doppelgänger hat.",
-  "en": "<strong>Double print</strong> — a displacement of tenths of a millimetre. At first glance the design merely looks blurred; only close up is it clear that every line, letter and outline of the oval has a fainter twin.",
-  "es": "<strong>Doble impresión</strong> — un desplazamiento del orden de décimas de milímetro. A primera vista el dibujo solo parece borroso; solo de cerca se ve que cada línea, cada letra y el contorno del óvalo tienen un doble más débil.",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ],
-  "fr": "<strong>Double impression</strong> — un décalage de l’ordre du dixième de millimètre. Au premier coup d’œil le dessin paraît seulement flou ; ce n’est que de près que l’on voit que chaque trait, chaque lettre et le contour de l’ovale ont un sosie plus pâle.",
-  "tag": "span"
- },
- "944c13497e": {
-  "cs": "<strong>Vícenásobný tisk</strong> — posun o milimetry až o celou šířku známky, často s pootočením. Do rámu jedné známky pak zasahují části sousedních známek a nápis POŠTA se objeví dvakrát v různé výšce.",
-  "de": "<strong>Mehrfachdruck</strong> — eine Verschiebung von Millimetern bis zu einer ganzen Markenbreite, oft mit Verdrehung. In den Rahmen einer Marke ragen dann Teile der Nachbarmarken, und die Inschrift POŠTA erscheint zweimal in unterschiedlicher Höhe.",
-  "en": "<strong>Multiple print</strong> — a displacement of millimetres up to a whole stamp width, often with a rotation. Parts of neighbouring stamps then reach inside one stamp’s frame and the word POŠTA appears twice at different heights.",
-  "es": "<strong>Impresión múltiple</strong> — un desplazamiento de milímetros hasta el ancho entero del sello, a menudo con giro. Partes de los sellos vecinos entran entonces en el marco de un solo sello y la inscripción POŠTA aparece dos veces a distinta altura.",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ],
-  "fr": "<strong>Impression multiple</strong> — un décalage de quelques millimètres jusqu’à toute la largeur du timbre, souvent avec une rotation. Des fragments des timbres voisins pénètrent alors dans le cadre d’un seul timbre et l’inscription POŠTA apparaît deux fois à des hauteurs différentes.",
-  "tag": "span"
- },
- "82b35c84f3": {
-  "cs": "Na kusu s <strong>okrajem archu</strong> je to vidět nejlépe: přebytečný otisk leží na papíru, kde nemá být žádná kresba, hned vedle kontrolního čísla.",
-  "de": "Am besten zeigt es sich an einem Stück mit <strong>Bogenrand</strong>: der überzählige Abdruck liegt auf Papier, auf dem keinerlei Zeichnung stehen darf, direkt neben der Kontrollnummer.",
-  "en": "On a piece with the <strong>sheet margin</strong> it shows best of all: the surplus impression lies on paper that should carry no design at all, right beside the control number.",
-  "es": "Donde mejor se ve es en una pieza con <strong>borde de pliego</strong>: la impresión sobrante queda sobre papel que no debe llevar dibujo alguno, justo al lado del número de control.",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ],
-  "fr": "C’est sur une pièce avec <strong>bord de feuille</strong> que cela se voit le mieux : l’impression surnuméraire se trouve sur un papier qui ne doit porter aucun dessin, juste à côté du numéro de contrôle.",
-  "tag": "span"
- },
- "2a54988fdf": {
-  "cs": "Proč to není částečně zdvojený tisk",
-  "de": "Warum das kein teilweise verdoppelter Druck ist",
-  "en": "Why this is not a partly doubled print",
-  "es": "Por qué no es una impresión parcialmente duplicada",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ],
-  "fr": "Pourquoi ce n’est pas une impression partiellement dédoublée",
-  "tag": "span"
- },
- "3171eff1e0": {
-  "cs": "U <a href=\"#zdvojeny-tisk\">částečně zdvojeného tisku</a> je zdvojená jen <strong>část</strong> známky a přechod k čistému otisku je rovná hranice — pod archem tam leželo cizí těleso, které jeho část nadzvedlo. Tady žádná hranice není: zdvojená je celá kresba až do rohů rámu, protože arch dostal celý druhý otisk.",
-  "de": "Beim <a href=\"#zdvojeny-tisk\">teilweise verdoppelten Druck</a> ist nur ein <strong>Teil</strong> der Marke verdoppelt, und der Übergang zum sauberen Abdruck ist eine gerade Grenze — dort lag unter dem Bogen ein Fremdkörper, der einen Teil davon anhob. Hier gibt es keine Grenze: verdoppelt ist die ganze Zeichnung bis in die Rahmenecken, denn der Bogen erhielt einen vollständigen zweiten Abdruck.",
-  "en": "In a <a href=\"#zdvojeny-tisk\">partly doubled print</a> only <strong>part</strong> of the stamp is doubled and the change to the clean impression is a straight boundary — a foreign body under the sheet lifted that part of it. Here there is no boundary: the whole design is doubled right into the corners of the frame, because the sheet received a complete second impression.",
-  "es": "En la <a href=\"#zdvojeny-tisk\">impresión parcialmente duplicada</a> solo está duplicada una <strong>parte</strong> del sello y el paso a la impresión limpia es un límite recto — allí, bajo el pliego, había un cuerpo extraño que levantó una parte. Aquí no hay ningún límite: está duplicado todo el dibujo hasta las esquinas del marco, porque el pliego recibió una segunda impresión completa.",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ],
-  "fr": "Dans une <a href=\"#zdvojeny-tisk\">impression partiellement dédoublée</a>, seule une <strong>partie</strong> du timbre est dédoublée et le passage à l’impression nette est une limite rectiligne — un corps étranger sous la feuille en avait soulevé une partie. Ici il n’y a aucune limite : tout le dessin est dédoublé jusque dans les angles du cadre, car la feuille a reçu une seconde impression complète.",
-  "tag": "span"
- },
- "9935c3aabc": {
-  "cs": "Proč to není obtisk",
-  "de": "Warum das kein Abklatsch ist",
-  "en": "Why this is not a set-off",
-  "es": "Por qué no es un calco",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ],
-  "fr": "Pourquoi ce n’est pas un décalque",
-  "tag": "span"
- },
- "dc8cc82ccc": {
-  "cs": "<a href=\"#tisk-na-lepu\">Obtisk</a> je přenos čerstvé barvy z jiného archu: leží na lepové straně a je <strong>zrcadlově obrácený</strong>. Oba otisky dvojitého tisku jsou na líci a oba se čtou správně.",
-  "de": "Ein <a href=\"#tisk-na-lepu\">Abklatsch</a> ist die Übertragung frischer Farbe von einem anderen Bogen: er liegt auf der Gummiseite und ist <strong>seitenverkehrt</strong>. Beide Abdrucke eines Doppeldrucks liegen auf der Vorderseite und beide lesen sich richtig.",
-  "en": "A <a href=\"#tisk-na-lepu\">set-off</a> is a transfer of fresh ink from another sheet: it lies on the gummed side and is <strong>mirrored</strong>. Both impressions of a double print are on the face and both read the right way round.",
-  "es": "Un <a href=\"#tisk-na-lepu\">calco</a> es la transferencia de tinta fresca desde otro pliego: está en la cara engomada y aparece <strong>invertido como en un espejo</strong>. Las dos impresiones de una doble impresión están en el anverso y ambas se leen correctamente.",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ],
-  "fr": "Un <a href=\"#tisk-na-lepu\">décalque</a> est le transfert d’encre fraîche depuis une autre feuille : il se trouve du côté gommé et il est <strong>inversé comme dans un miroir</strong>. Les deux impressions d’une double impression sont au recto et se lisent toutes deux dans le bon sens.",
-  "tag": "span"
- },
- "8c78728400": {
-  "cs": "Zdvojení na nápisu a na hodnotovém oválu — každá linka má svého slabšího dvojníka posunutého stejným směrem.",
-  "de": "Die Verdopplung an der Inschrift und am Wertoval — jede Linie hat ihren schwächeren, in dieselbe Richtung verschobenen Doppelgänger.",
-  "en": "The doubling on the inscription and the value oval — every line has its fainter twin, displaced in the same direction.",
-  "es": "La duplicación en la inscripción y en el óvalo del valor — cada línea tiene su doble más débil, desplazado en la misma dirección.",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ],
-  "fr": "Le dédoublement sur l’inscription et sur l’ovale de valeur — chaque trait a son sosie plus pâle, décalé dans la même direction.",
-  "tag": "span"
- },
- "4f3cdc93f5": {
-  "cs": "Okraj archu s kontrolním číslem 9 a šikmým druhým otiskem. Na okraji nemá být žádná kresba — je to nejjistější doklad dalšího průchodu strojem.",
-  "de": "Der Bogenrand mit der Kontrollnummer 9 und dem schrägen zweiten Abdruck. Auf den Rand gehört keinerlei Zeichnung — das ist der sicherste Beleg für einen weiteren Maschinendurchgang.",
-  "en": "The sheet margin with control number 9 and the slanted second impression. No design belongs on the margin — the surest proof of another pass through the press.",
-  "es": "El borde del pliego con el número de control 9 y la segunda impresión oblicua. En el borde no debe haber dibujo alguno — es la prueba más segura de otro paso por la prensa.",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ],
-  "fr": "Le bord de feuille avec le numéro de contrôle 9 et la seconde impression oblique. Aucun dessin n’a sa place sur la marge — c’est la preuve la plus sûre d’un nouveau passage sous presse.",
-  "tag": "span"
- },
- "a6df979cab": {
-  "cs": "<strong>Pozor na záměnu s rozmazaným otiskem.</strong> Pohnul-li se arch pod tlakem, kresba se rozmázne do šmouhy, ale druhý obrys nevznikne. U dvojitého tisku je posunutá kopie <em>úplná</em> — má vlastní ostré linky a všude stejný odstup od té první.",
-  "de": "<strong>Vorsicht vor der Verwechslung mit einem verwischten Abdruck.</strong> Bewegte sich der Bogen unter dem Druck, verwischt die Zeichnung zu einem Schlieren, aber eine zweite Kontur entsteht nicht. Beim Doppeldruck ist die verschobene Kopie <em>vollständig</em> — sie hat eigene scharfe Linien und überall denselben Abstand zur ersten.",
-  "en": "<strong>Beware of confusion with a smeared impression.</strong> If the sheet moved under pressure the design smears into a streak, but no second outline appears. In a double print the displaced copy is <em>complete</em> — it has sharp lines of its own and the same offset from the first everywhere.",
-  "es": "<strong>Cuidado con confundirlo con una impresión corrida.</strong> Si el pliego se movió bajo la presión, el dibujo se corre en un borrón, pero no surge un segundo contorno. En la doble impresión la copia desplazada es <em>completa</em> — tiene líneas nítidas propias y en todas partes la misma separación respecto a la primera.",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ],
-  "fr": "<strong>Attention à la confusion avec une impression maculée.</strong> Si la feuille a bougé sous la pression, le dessin s’étire en traînée, mais aucun second contour n’apparaît. Dans une double impression, la copie décalée est <em>complète</em> — elle a ses propres traits nets et partout le même écart avec la première.",
-  "tag": "span"
- },
- "02f5deac1c": {
-  "cs": "Dvojitý tisk. Druhý otisk leží jen o zlomek milimetru vedle prvního, ale je znát na každé lince — nejlépe na nápisu a na hodnotovém oválu.",
-  "de": "Doppeldruck. Der zweite Abdruck liegt nur um Bruchteile eines Millimeters neben dem ersten, ist aber an jeder Linie zu erkennen — am besten an der Inschrift und am Wertoval.",
-  "en": "Double print. The second impression lies only a fraction of a millimetre from the first, yet it shows on every line — best on the inscription and the value oval.",
-  "es": "Doble impresión. La segunda impresión queda a solo una fracción de milímetro de la primera, pero se nota en cada línea — sobre todo en la inscripción y en el óvalo del valor.",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ],
-  "fr": "Double impression. La seconde impression n’est qu’à une fraction de millimètre de la première, et pourtant elle se voit sur chaque trait — au mieux sur l’inscription et sur l’ovale de valeur.",
-  "tag": "span"
- },
- "30fa7f04cc": {
-  "cs": "Kus 1 — Dvojitý tisk. Druhý otisk leží jen o zlomek milimetru vedle prvního, ale je znát na každé lince — nejlépe na nápisu a na hodnotovém oválu.",
-  "de": "Stück 1 — Doppeldruck. Der zweite Abdruck liegt nur um Bruchteile eines Millimeters neben dem ersten, ist aber an jeder Linie zu erkennen — am besten an der Inschrift und am Wertoval.",
-  "en": "Item 1 — Double print. The second impression lies only a fraction of a millimetre from the first, yet it shows on every line — best on the inscription and the value oval.",
-  "es": "Ejemplar 1 — Doble impresión. La segunda impresión queda a solo una fracción de milímetro de la primera, pero se nota en cada línea — sobre todo en la inscripción y en el óvalo del valor.",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ],
-  "fr": "Pièce 1 — Double impression. La seconde impression n’est qu’à une fraction de millimètre de la première, et pourtant elle se voit sur chaque trait — au mieux sur l’inscription et sur l’ovale de valeur.",
-  "tag": "cap"
- },
- "5dfd082106": {
-  "cs": "Vícenásobný tisk. Otisky jsou posunuté o velký kus a pootočené, takže do rámu zasahují části sousedních známek a nápis POŠTA se objevuje dvakrát v různé výšce.",
-  "de": "Mehrfachdruck. Die Abdrucke sind weit verschoben und verdreht, sodass Teile der Nachbarmarken in den Rahmen ragen und die Inschrift POŠTA zweimal in unterschiedlicher Höhe erscheint.",
-  "en": "Multiple print. The impressions are displaced by a long way and rotated, so parts of neighbouring stamps reach inside the frame and the word POŠTA appears twice at different heights.",
-  "es": "Impresión múltiple. Las impresiones están muy desplazadas y giradas, de modo que partes de los sellos vecinos entran en el marco y la inscripción POŠTA aparece dos veces a distinta altura.",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ],
-  "fr": "Impression multiple. Les impressions sont largement décalées et pivotées, si bien que des fragments des timbres voisins pénètrent dans le cadre et que l’inscription POŠTA apparaît deux fois à des hauteurs différentes.",
-  "tag": "span"
- },
- "bb1c6070e5": {
-  "cs": "Kus 2 — Vícenásobný tisk. Otisky jsou posunuté o velký kus a pootočené, takže do rámu zasahují části sousedních známek a nápis POŠTA se objevuje dvakrát v různé výšce.",
-  "de": "Stück 2 — Mehrfachdruck. Die Abdrucke sind weit verschoben und verdreht, sodass Teile der Nachbarmarken in den Rahmen ragen und die Inschrift POŠTA zweimal in unterschiedlicher Höhe erscheint.",
-  "en": "Item 2 — Multiple print. The impressions are displaced by a long way and rotated, so parts of neighbouring stamps reach inside the frame and the word POŠTA appears twice at different heights.",
-  "es": "Ejemplar 2 — Impresión múltiple. Las impresiones están muy desplazadas y giradas, de modo que partes de los sellos vecinos entran en el marco y la inscripción POŠTA aparece dos veces a distinta altura.",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ],
-  "fr": "Pièce 2 — Impression multiple. Les impressions sont largement décalées et pivotées, si bien que des fragments des timbres voisins pénètrent dans le cadre et que l’inscription POŠTA apparaît deux fois à des hauteurs différentes.",
-  "tag": "cap"
- },
- "1a502edeed": {
-  "cs": "Rohový kus s okrajem archu a kontrolním číslem 9. Šikmý druhý otisk přebíhá přes okraj, tedy přes papír, na kterém nemá být vůbec žádný tisk.",
-  "de": "Eckstück mit Bogenrand und der Kontrollnummer 9. Der schräge zweite Abdruck läuft über den Rand, also über Papier, auf dem überhaupt kein Druck stehen darf.",
-  "en": "A corner piece with the sheet margin and control number 9. The slanted second impression runs across the margin — across paper that should carry no print at all.",
-  "es": "Pieza de esquina con borde de pliego y número de control 9. La segunda impresión oblicua cruza el borde, es decir, papel que no debe llevar impresión alguna.",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ],
-  "fr": "Pièce de coin avec bord de feuille et numéro de contrôle 9. La seconde impression oblique traverse la marge, c’est-à-dire un papier qui ne doit porter aucune impression.",
-  "tag": "span"
- },
- "45728743df": {
-  "cs": "Kus 3 — Rohový kus s okrajem archu a kontrolním číslem 9. Šikmý druhý otisk přebíhá přes okraj, tedy přes papír, na kterém nemá být vůbec žádný tisk.",
-  "de": "Stück 3 — Eckstück mit Bogenrand und der Kontrollnummer 9. Der schräge zweite Abdruck läuft über den Rand, also über Papier, auf dem überhaupt kein Druck stehen darf.",
-  "en": "Item 3 — A corner piece with the sheet margin and control number 9. The slanted second impression runs across the margin — across paper that should carry no print at all.",
-  "es": "Ejemplar 3 — Pieza de esquina con borde de pliego y número de control 9. La segunda impresión oblicua cruza el borde, es decir, papel que no debe llevar impresión alguna.",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ],
-  "fr": "Pièce 3 — Pièce de coin avec bord de feuille et numéro de contrôle 9. La seconde impression oblique traverse la marge, c’est-à-dire un papier qui ne doit porter aucune impression.",
-  "tag": "cap"
- },
- "c7ba505659": {
-  "cs": "Tisk a obtisk na lepu",
-  "de": "Druck und Abklatsch auf der Gummierung",
-  "en": "Print and set-off on the gum",
-  "es": "Impresión y calco sobre la goma",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ],
-  "fr": "Impression et décalque sur la gomme",
-  "tag": "span"
- },
- "f94903b0f4": {
-  "cs": "Na rubu známky, tedy na lepu, je celá kresba. Vypadá to jako jedna vada, ale jsou to dvě různé — a rozezná je jediný pohled na nápis.",
-  "de": "Auf der Rückseite der Marke, also auf der Gummierung, steht die ganze Zeichnung. Es sieht nach einem Fehler aus, doch es sind zwei verschiedene — und ein einziger Blick auf die Inschrift unterscheidet sie.",
-  "en": "The back of the stamp, the gummed side, carries the whole design. It looks like a single flaw, but it is two different ones — and a single glance at the inscription tells them apart.",
-  "es": "En el reverso del sello, es decir, sobre la goma, está todo el dibujo. Parece un solo defecto, pero son dos distintos — y una sola mirada a la inscripción los distingue.",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ],
-  "fr": "Au verso du timbre, c’est-à-dire sur la gomme, se trouve tout le dessin. Cela ressemble à un seul défaut, mais il y en a deux — et un seul coup d’œil à l’inscription les distingue.",
-  "tag": "span"
- },
- "b09bbcc667": {
-  "cs": "<strong>Tisk na lepu</strong> znamená, že arch šel do stroje obrácenou stranou a forma se otiskla přímo na lep. Že je to vůbec možné, samo o sobě dokládá, že se papír <strong>gumoval ještě před tiskem</strong>. <strong>Obtisk</strong> vzniká jinak: čerstvě potištěné archy se naskládaly na sebe dřív, než barva zaschla, a mokrá kresba se přenesla na lep archu, který ležel na ní.",
-  "de": "<strong>Druck auf der Gummierung</strong> bedeutet, dass der Bogen verkehrt herum in die Maschine kam und die Form direkt auf den Gummi druckte. Dass dies überhaupt möglich ist, belegt für sich genommen, dass das Papier <strong>schon vor dem Druck gummiert wurde</strong>. Ein <strong>Abklatsch</strong> entsteht anders: frisch bedruckte Bogen wurden gestapelt, bevor die Farbe getrocknet war, und die nasse Zeichnung übertrug sich auf die Gummierung des darüberliegenden Bogens.",
-  "en": "A <strong>print on the gum</strong> means the sheet went into the press the wrong way up and the forme printed straight onto the gum. That this is possible at all is in itself evidence that the paper was <strong>gummed before printing</strong>. A <strong>set-off</strong> arises differently: freshly printed sheets were stacked before the ink had dried, and the wet design transferred onto the gum of the sheet lying on top of it.",
-  "es": "La <strong>impresión sobre la goma</strong> significa que el pliego entró en la prensa del revés y la forma imprimió directamente sobre la goma. Que ello sea siquiera posible demuestra por sí solo que el papel se <strong>engomaba antes de imprimir</strong>. El <strong>calco</strong> surge de otro modo: los pliegos recién impresos se apilaron antes de que secara la tinta y el dibujo húmedo se transfirió a la goma del pliego que descansaba encima.",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ],
-  "fr": "Une <strong>impression sur la gomme</strong> signifie que la feuille est entrée dans la presse à l’envers et que la forme a imprimé directement sur la gomme. Que cela soit seulement possible prouve déjà que le papier était <strong>gommé avant l’impression</strong>. Un <strong>décalque</strong> naît autrement : des feuilles fraîchement imprimées ont été empilées avant que l’encre ne sèche, et le dessin humide s’est transféré sur la gomme de la feuille posée dessus.",
-  "tag": "span"
- },
- "3fd9e40575": {
-  "cs": "Zkouška zrcadlem",
-  "de": "Die Spiegelprobe",
-  "en": "The mirror test",
-  "es": "La prueba del espejo",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ],
-  "fr": "Le test du miroir",
-  "tag": "span"
- },
- "5bf591fb53": {
-  "cs": "Tisk na lepu je <strong>přímý otisk formy</strong>, a proto se čte správně, zleva doprava, stejně jako na líci. Obtisk je <strong>přenos z jiného archu</strong>, tedy otisk otisku, a proto je <strong>zrcadlově obrácený</strong>. Pomáhá i sytost: přímý tisk má plnou barvu a drží i nejjemnější rytinu, kdežto obtisk je bledší a měkčí, protože se přenášel jen zbytek nezaschlé barvy.",
-  "de": "Ein Druck auf der Gummierung ist ein <strong>direkter Abdruck der Form</strong> und liest sich deshalb richtig, von links nach rechts, genau wie auf der Vorderseite. Ein Abklatsch ist eine <strong>Übertragung von einem anderen Bogen</strong>, also ein Abdruck des Abdrucks, und ist deshalb <strong>seitenverkehrt</strong>. Auch die Sättigung hilft: der direkte Druck hat volle Farbe und hält selbst die feinste Gravur, der Abklatsch dagegen ist blasser und weicher, weil nur der Rest noch nicht getrockneter Farbe übertragen wurde.",
-  "en": "A print on the gum is a <strong>direct impression of the forme</strong>, and so it reads the right way round, left to right, just as on the face. A set-off is a <strong>transfer from another sheet</strong> — an impression of an impression — and is therefore <strong>mirrored</strong>. Saturation helps too: a direct print has full colour and holds even the finest engraving, whereas a set-off is paler and softer, because only the ink that had not yet dried was transferred.",
-  "es": "La impresión sobre la goma es una <strong>impresión directa de la forma</strong> y por eso se lee correctamente, de izquierda a derecha, igual que en el anverso. El calco es una <strong>transferencia desde otro pliego</strong>, es decir, la huella de una huella, y por eso aparece <strong>invertido como en un espejo</strong>. También ayuda la saturación: la impresión directa tiene color pleno y conserva hasta el grabado más fino, mientras que el calco es más pálido y blando, porque solo se transfirió el resto de tinta sin secar.",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ],
-  "fr": "Une impression sur la gomme est un <strong>tirage direct de la forme</strong> et se lit donc dans le bon sens, de gauche à droite, comme au recto. Un décalque est un <strong>transfert depuis une autre feuille</strong>, donc l’empreinte d’une empreinte, et il est par conséquent <strong>inversé comme dans un miroir</strong>. La saturation aide aussi : l’impression directe a la couleur pleine et retient jusqu’à la gravure la plus fine, alors que le décalque est plus pâle et plus mou, car seul le reste d’encre non séchée s’est transféré.",
-  "tag": "span"
- },
- "e8b6e3679e": {
-  "cs": "Tisk na lepu: nápis POŠTA se čte zleva doprava.",
-  "de": "Druck auf der Gummierung: die Inschrift POŠTA liest sich von links nach rechts.",
-  "en": "Print on the gum: POŠTA reads left to right.",
-  "es": "Impresión sobre la goma: la inscripción POŠTA se lee de izquierda a derecha.",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ],
-  "fr": "Impression sur la gomme : l’inscription POŠTA se lit de gauche à droite.",
-  "tag": "span"
- },
- "3dc67fceab": {
-  "cs": "Obtisk: týž nápis je zrcadlově obrácený.",
-  "de": "Abklatsch: dieselbe Inschrift ist seitenverkehrt.",
-  "en": "Set-off: the same inscription is mirrored.",
-  "es": "Calco: la misma inscripción aparece invertida como en un espejo.",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ],
-  "fr": "Décalque : la même inscription est inversée comme dans un miroir.",
-  "tag": "span"
- },
- "45130dbea8": {
-  "cs": "Proč to není prosvítající tisk z líce",
-  "de": "Warum das kein durchscheinender Druck von der Vorderseite ist",
-  "en": "Why this is not the face print showing through",
-  "es": "Por qué no es la impresión del anverso que transparenta",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ],
-  "fr": "Pourquoi ce n’est pas l’impression du recto qui transparaît",
-  "tag": "span"
- },
- "66c492a982": {
-  "cs": "Na tenkém papíru je z rubu vidět i řádný tisk z líce. Prosvítající kresba je ale bledá a rozplizlá, leží <strong>přesně proti</strong> kresbě na líci a mizí, díváme-li se na známku proti světlu z druhé strany. Tisk i obtisk na lepu leží <strong>na povrchu</strong>, mají vlastní ostrost a s lícem se nekryjí.",
-  "de": "Auf dünnem Papier ist von der Rückseite auch der reguläre Druck der Vorderseite zu sehen. Das durchscheinende Bild ist aber blass und verwaschen, liegt <strong>genau gegenüber</strong> der Zeichnung der Vorderseite und verschwindet, wenn man die Marke von der anderen Seite gegen das Licht hält. Druck und Abklatsch auf der Gummierung liegen <strong>auf der Oberfläche</strong>, haben eigene Schärfe und decken sich nicht mit der Vorderseite.",
-  "en": "On thin paper even a proper face print shows through from the back. But a show-through image is pale and diffuse, lies <strong>exactly opposite</strong> the design on the face, and disappears when the stamp is viewed against the light from the other side. A print or a set-off on the gum lies <strong>on the surface</strong>, has a sharpness of its own and does not register with the face.",
-  "es": "En papel fino, desde el reverso se ve también la impresión normal del anverso. Pero la imagen que transparenta es pálida y difusa, queda <strong>exactamente enfrente</strong> del dibujo del anverso y desaparece al mirar el sello a contraluz desde el otro lado. Tanto la impresión como el calco sobre la goma están <strong>en la superficie</strong>, tienen nitidez propia y no coinciden con el anverso.",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ],
-  "fr": "Sur un papier mince, l’impression régulière du recto se voit aussi depuis le verso. Mais l’image qui transparaît est pâle et diffuse, se trouve <strong>exactement en regard</strong> du dessin du recto et disparaît lorsqu’on regarde le timbre à contre-jour depuis l’autre côté. L’impression comme le décalque sur la gomme reposent <strong>en surface</strong>, ont leur propre netteté et ne se superposent pas au recto.",
-  "tag": "span"
- },
- "000af1a434": {
-  "cs": "<strong>Obě vady se dochovají jen na známkách s lepem.</strong> Odmočením použité známky zmizí lep a s ním i kresba na něm; proto se tisk i obtisk na lepu vyskytují prakticky výhradně na nepoužitých kusech a nálepka nebo nešetrné čištění je mohou nenávratně poškodit.",
-  "de": "<strong>Beide Fehler bleiben nur auf Marken mit Gummierung erhalten.</strong> Beim Abweichen einer gebrauchten Marke verschwindet der Gummi und mit ihm die Zeichnung darauf; Druck wie Abklatsch auf der Gummierung kommen deshalb praktisch nur auf ungebrauchten Stücken vor, und ein Falz oder unvorsichtiges Reinigen kann sie unwiederbringlich beschädigen.",
-  "en": "<strong>Both flaws survive only on stamps that still have their gum.</strong> Soaking a used stamp removes the gum and with it the design on it; a print or a set-off on the gum therefore occurs almost exclusively on unused copies, and a hinge or careless cleaning can damage it beyond repair.",
-  "es": "<strong>Ambos defectos solo se conservan en sellos que mantienen la goma.</strong> Al remojar un sello usado desaparece la goma y con ella el dibujo que lleva; por eso la impresión y el calco sobre la goma se dan casi exclusivamente en ejemplares nuevos, y una charnela o una limpieza descuidada pueden dañarlos de forma irreparable.",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ],
-  "fr": "<strong>Les deux défauts ne subsistent que sur des timbres ayant conservé leur gomme.</strong> Le trempage d’un timbre oblitéré emporte la gomme et avec elle le dessin qui s’y trouve ; l’impression comme le décalque sur la gomme ne se rencontrent donc pratiquement que sur des exemplaires neufs, et une charnière ou un nettoyage imprudent peuvent les abîmer irrémédiablement.",
-  "tag": "span"
- },
- "a1b9beafa8": {
-  "cs": "Tisk na lepu. Kresba je na lepové straně a čte se správně — arch šel do stroje obrácenou stranou.",
-  "de": "Druck auf der Gummierung. Die Zeichnung liegt auf der Gummiseite und liest sich richtig — der Bogen kam verkehrt herum in die Maschine.",
-  "en": "Print on the gum. The design is on the gummed side and reads the right way round — the sheet went into the press the wrong way up.",
-  "es": "Impresión sobre la goma. El dibujo está en la cara engomada y se lee correctamente — el pliego entró en la prensa del revés.",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ],
-  "fr": "Impression sur la gomme. Le dessin est du côté gommé et se lit dans le bon sens — la feuille est entrée dans la presse à l’envers.",
-  "tag": "span"
- },
  "ffd822d8a4": {
   "cs": "Kus 1 — Tisk na lepu. Kresba je na lepové straně a čte se správně — arch šel do stroje obrácenou stranou.",
   "de": "Stück 1 — Druck auf der Gummierung. Die Zeichnung liegt auf der Gummiseite und liest sich richtig — der Bogen kam verkehrt herum in die Maschine.",
@@ -22337,26 +22418,257 @@
   "fr": "Pièce 1 — Impression sur la gomme. Le dessin est du côté gommé et se lit dans le bon sens — la feuille est entrée dans la presse à l’envers.",
   "tag": "cap"
  },
- "619256c55f": {
-  "cs": "Obtisk na lepu. Kresba je zrcadlově obrácená — přenesla se z čerstvě potištěného archu, který ležel pod ním.",
-  "de": "Abklatsch auf der Gummierung. Die Zeichnung ist seitenverkehrt — sie übertrug sich von einem frisch bedruckten Bogen, der darunter lag.",
-  "en": "Set-off on the gum. The design is mirrored — it transferred from a freshly printed sheet lying beneath.",
-  "es": "Calco sobre la goma. El dibujo está invertido como en un espejo — se transfirió desde un pliego recién impreso que estaba debajo.",
+ "ffde7c7e68": {
+  "cs": "25,7&nbsp;%",
+  "de": "25,7&nbsp;%",
+  "en": "25.7&nbsp;%",
+  "es": "25,7&nbsp;%",
   "files": [
-   "15h/vyrobni-vady.html"
+   "15h/statistiky.html"
   ],
-  "fr": "Décalque sur la gomme. Le dessin est inversé comme dans un miroir — il s’est transféré depuis une feuille fraîchement imprimée posée dessous.",
+  "fr": "25,7&nbsp;%",
+  "tag": "num"
+ },
+ "777de516db": {
+  "cs": "Barevné zkusmé tisky",
+  "de": "Farbprobedrucke",
+  "en": "Colour trials",
+  "es": "Pruebas de color",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "Essais de couleur",
   "tag": "span"
  },
- "25478d6ee8": {
-  "cs": "Kus 2 — Obtisk na lepu. Kresba je zrcadlově obrácená — přenesla se z čerstvě potištěného archu, který ležel pod ním.",
-  "de": "Stück 2 — Abklatsch auf der Gummierung. Die Zeichnung ist seitenverkehrt — sie übertrug sich von einem frisch bedruckten Bogen, der darunter lag.",
-  "en": "Item 2 — Set-off on the gum. The design is mirrored — it transferred from a freshly printed sheet lying beneath.",
-  "es": "Ejemplar 2 — Calco sobre la goma. El dibujo está invertido como en un espejo — se transfirió desde un pliego recién impreso que estaba debajo.",
+ "75462e5e2d": {
+  "cs": "Než se rozhodlo, v jaké barvě a na jakém papíře se bude tisknout, otiskla se táž forma několikrát nanečisto. Následující kusy jsou z takové řady: stejná kresba, pokaždé jiná barva nebo jiný podklad. Vedle černé a hnědočerné je tu modrá i několik odstínů červené a jeden otisk na narůžovělém papíře.",
+  "de": "Bevor entschieden wurde, in welcher Farbe und auf welchem Papier gedruckt werden sollte, wurde dieselbe Form mehrmals probeweise abgezogen. Die folgenden Stücke stammen aus einer solchen Reihe: dieselbe Zeichnung, jedes Mal eine andere Farbe oder ein anderer Untergrund. Neben Schwarz und Braunschwarz gibt es hier Blau, mehrere Rottöne und einen Abzug auf rosafarbenem Papier.",
+  "en": "Before it was decided in what colour and on what paper the stamp would be printed, the same forme was pulled several times as a trial. The pieces below come from such a series: the same design, each time in a different colour or on a different stock. Besides black and brown-black there is a blue, several shades of red, and one impression on pinkish paper.",
+  "es": "Antes de decidir en qué color y sobre qué papel se imprimiría, la misma forma se tiró varias veces a modo de prueba. Las piezas siguientes proceden de una serie así: el mismo dibujo, cada vez en otro color o sobre otro soporte. Junto al negro y al pardo negruzco hay un azul, varios tonos de rojo y una impresión sobre papel rosado.",
   "files": [
-   "15h/vyrobni-vady.html"
+   "15h/zkusebni-tisky.html"
   ],
-  "fr": "Pièce 2 — Décalque sur la gomme. Le dessin est inversé comme dans un miroir — il s’est transféré depuis une feuille fraîchement imprimée posée dessous.",
+  "fr": "Avant que ne soit décidé dans quelle couleur et sur quel papier on imprimerait, la même forme a été tirée plusieurs fois à l’essai. Les pièces ci-dessous proviennent d’une telle série : le même dessin, chaque fois dans une autre couleur ou sur un autre support. À côté du noir et du brun-noir, on y trouve un bleu, plusieurs nuances de rouge et un tirage sur papier rosé.",
+  "tag": "span"
+ },
+ "28b54fff52": {
+  "cs": "Pro studium desek jsou tyto otisky cenné právě proto, že jsou <strong>čisté</strong> — nezoubkované, nerazítkované a tištěné pečlivěji než produkce. Kresba je na nich čitelná do posledního tahu, takže se dá porovnávat s produkčními známkami stejného známkového pole.",
+  "de": "Für das Studium der Druckplatten sind diese Abzüge gerade deshalb wertvoll, weil sie <strong>sauber</strong> sind — geschnitten, ungestempelt und sorgfältiger gedruckt als die Auflage. Die Zeichnung ist auf ihnen bis zum letzten Strich lesbar, sodass sie sich mit Auflagemarken desselben Bogenfeldes vergleichen lässt.",
+  "en": "For the study of the plates these impressions are valuable precisely because they are <strong>clean</strong> — imperforate, uncancelled and printed more carefully than the production run. The design is legible down to the last stroke, so it can be compared with production stamps of the same sheet position.",
+  "es": "Para el estudio de las planchas estas impresiones son valiosas precisamente porque están <strong>limpias</strong> — sin dentar, sin matasellar e impresas con más cuidado que la tirada. El dibujo es legible hasta el último trazo, de modo que puede compararse con sellos de producción de la misma casilla.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "Pour l’étude des planches, ces tirages sont précieux justement parce qu’ils sont <strong>propres</strong> — non dentelés, non oblitérés et imprimés plus soigneusement que la production. Le dessin y est lisible jusqu’au dernier trait, de sorte qu’on peut le comparer aux timbres de production de la même case.",
+  "tag": "span"
+ },
+ "974a87066f": {
+  "cs": "Hnědočerný zkusmý tisk na nažloutlém papíře, nezoubkovaný.",
+  "de": "Braunschwarzer Probedruck auf gelblichem Papier, geschnitten.",
+  "en": "A brown-black proof on yellowish paper, imperforate.",
+  "es": "Prueba pardo negruzca sobre papel amarillento, sin dentar.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "Essai brun-noir sur papier jaunâtre, non dentelé.",
+  "tag": "span"
+ },
+ "340723f2ed": {
+  "cs": "ZT 1 — Hnědočerný zkusmý tisk na nažloutlém papíře, nezoubkovaný.",
+  "de": "ZT 1 — Braunschwarzer Probedruck auf gelblichem Papier, geschnitten.",
+  "en": "ZT 1 — A brown-black proof on yellowish paper, imperforate.",
+  "es": "ZT 1 — Prueba pardo negruzca sobre papel amarillento, sin dentar.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "ZT 1 — Essai brun-noir sur papier jaunâtre, non dentelé.",
   "tag": "cap"
+ },
+ "7fc5ce6ef0": {
+  "cs": "Sytě černý zkusmý tisk na bílém papíře, nezoubkovaný — nejostřejší otisk sestavy; drží i nejjemnější rytinu šrafování oblohy.",
+  "de": "Tiefschwarzer Probedruck auf weißem Papier, geschnitten — der schärfste Abzug der Gruppe; er hält selbst die feinste Gravur der Himmelsschraffur.",
+  "en": "A deep black proof on white paper, imperforate — the sharpest impression of the group; it holds even the finest engraving of the sky hatching.",
+  "es": "Prueba de negro intenso sobre papel blanco, sin dentar — la impresión más nítida del grupo; conserva incluso el grabado más fino del rayado del cielo.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "Essai d’un noir profond sur papier blanc, non dentelé — le tirage le plus net du groupe ; il retient jusqu’à la gravure la plus fine des hachures du ciel.",
+  "tag": "span"
+ },
+ "3245aa8299": {
+  "cs": "ZT 2 — Sytě černý zkusmý tisk na bílém papíře, nezoubkovaný — nejostřejší otisk sestavy; drží i nejjemnější rytinu šrafování oblohy.",
+  "de": "ZT 2 — Tiefschwarzer Probedruck auf weißem Papier, geschnitten — der schärfste Abzug der Gruppe; er hält selbst die feinste Gravur der Himmelsschraffur.",
+  "en": "ZT 2 — A deep black proof on white paper, imperforate — the sharpest impression of the group; it holds even the finest engraving of the sky hatching.",
+  "es": "ZT 2 — Prueba de negro intenso sobre papel blanco, sin dentar — la impresión más nítida del grupo; conserva incluso el grabado más fino del rayado del cielo.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "ZT 2 — Essai d’un noir profond sur papier blanc, non dentelé — le tirage le plus net du groupe ; il retient jusqu’à la gravure la plus fine des hachures du ciel.",
+  "tag": "cap"
+ },
+ "42724d304d": {
+  "cs": "Modrý zkusmý tisk, nezoubkovaný — <strong>známkové pole 6</strong>. Odstín je chladnější a papír bělejší než u modrého zkusmého tisku ZP 96/I výše.",
+  "de": "Blauer Probedruck, geschnitten — <strong>Bogenfeld 6</strong>. Der Ton ist kühler und das Papier weißer als beim blauen Probedruck des Feldes 96/I oben.",
+  "en": "A blue proof, imperforate — <strong>sheet position 6</strong>. The shade is cooler and the paper whiter than on the blue proof of field 96/I above.",
+  "es": "Prueba azul, sin dentar — <strong>casilla 6</strong>. El tono es más frío y el papel más blanco que en la prueba azul de la casilla 96/I de arriba.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "Essai bleu, non dentelé — <strong>case 6</strong>. La nuance est plus froide et le papier plus blanc que sur l’essai bleu de la case 96/I ci-dessus.",
+  "tag": "span"
+ },
+ "2728ddfd27": {
+  "cs": "ZT 3 — Modrý zkusmý tisk, nezoubkovaný — <strong>známkové pole 6</strong>. Odstín je chladnější a papír bělejší než u modrého zkusmého tisku ZP 96/I výše.",
+  "de": "ZT 3 — Blauer Probedruck, geschnitten — <strong>Bogenfeld 6</strong>. Der Ton ist kühler und das Papier weißer als beim blauen Probedruck des Feldes 96/I oben.",
+  "en": "ZT 3 — A blue proof, imperforate — <strong>sheet position 6</strong>. The shade is cooler and the paper whiter than on the blue proof of field 96/I above.",
+  "es": "ZT 3 — Prueba azul, sin dentar — <strong>casilla 6</strong>. El tono es más frío y el papel más blanco que en la prueba azul de la casilla 96/I de arriba.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "ZT 3 — Essai bleu, non dentelé — <strong>case 6</strong>. La nuance est plus froide et le papier plus blanc que sur l’essai bleu de la case 96/I ci-dessus.",
+  "tag": "cap"
+ },
+ "d55e4c02a1": {
+  "cs": "Červený zkusmý tisk na nažloutlém papíře, nezoubkovaný — <strong>známkové pole 70</strong>.",
+  "de": "Roter Probedruck auf gelblichem Papier, geschnitten — <strong>Bogenfeld 70</strong>.",
+  "en": "A red proof on yellowish paper, imperforate — <strong>sheet position 70</strong>.",
+  "es": "Prueba roja sobre papel amarillento, sin dentar — <strong>casilla 70</strong>.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "Essai rouge sur papier jaunâtre, non dentelé — <strong>case 70</strong>.",
+  "tag": "span"
+ },
+ "28bb4caa6e": {
+  "cs": "ZT 4 — Červený zkusmý tisk na nažloutlém papíře, nezoubkovaný — <strong>známkové pole 70</strong>.",
+  "de": "ZT 4 — Roter Probedruck auf gelblichem Papier, geschnitten — <strong>Bogenfeld 70</strong>.",
+  "en": "ZT 4 — A red proof on yellowish paper, imperforate — <strong>sheet position 70</strong>.",
+  "es": "ZT 4 — Prueba roja sobre papel amarillento, sin dentar — <strong>casilla 70</strong>.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "ZT 4 — Essai rouge sur papier jaunâtre, non dentelé — <strong>case 70</strong>.",
+  "tag": "cap"
+ },
+ "77214c0bbd": {
+  "cs": "Červenooranžový odstín. Na rozdíl od ostatních kusů sestavy je <strong>zoubkovaný</strong>.",
+  "de": "Rotoranger Ton. Im Unterschied zu den übrigen Stücken der Gruppe ist er <strong>gezähnt</strong>.",
+  "en": "A red-orange shade. Unlike the other pieces in the group it is <strong>perforated</strong>.",
+  "es": "Tono rojo anaranjado. A diferencia de las demás piezas del grupo, está <strong>dentada</strong>.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "Nuance rouge orangé. À la différence des autres pièces du groupe, elle est <strong>dentelée</strong>.",
+  "tag": "span"
+ },
+ "989e3af309": {
+  "cs": "ZT 6 — Červenooranžový odstín. Na rozdíl od ostatních kusů sestavy je <strong>zoubkovaný</strong>.",
+  "de": "ZT 6 — Rotoranger Ton. Im Unterschied zu den übrigen Stücken der Gruppe ist er <strong>gezähnt</strong>.",
+  "en": "ZT 6 — A red-orange shade. Unlike the other pieces in the group it is <strong>perforated</strong>.",
+  "es": "ZT 6 — Tono rojo anaranjado. A diferencia de las demás piezas del grupo, está <strong>dentada</strong>.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "ZT 6 — Nuance rouge orangé. À la différence des autres pièces du groupe, elle est <strong>dentelée</strong>.",
+  "tag": "cap"
+ },
+ "ff9716c971": {
+  "cs": "Červený tisk na <strong>narůžovělém papíře</strong>, nezoubkovaný — zkouška podkladu, ne barvy.",
+  "de": "Roter Druck auf <strong>rosafarbenem Papier</strong>, geschnitten — eine Probe des Papiers, nicht der Farbe.",
+  "en": "A red print on <strong>pinkish paper</strong>, imperforate — a trial of the stock, not of the ink.",
+  "es": "Impresión roja sobre <strong>papel rosado</strong>, sin dentar — una prueba del soporte, no de la tinta.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "Tirage rouge sur <strong>papier rosé</strong>, non dentelé — un essai du support, non de l’encre.",
+  "tag": "span"
+ },
+ "d3ee3965e9": {
+  "cs": "ZT 7 — Červený tisk na <strong>narůžovělém papíře</strong>, nezoubkovaný — zkouška podkladu, ne barvy.",
+  "de": "ZT 7 — Roter Druck auf <strong>rosafarbenem Papier</strong>, geschnitten — eine Probe des Papiers, nicht der Farbe.",
+  "en": "ZT 7 — A red print on <strong>pinkish paper</strong>, imperforate — a trial of the stock, not of the ink.",
+  "es": "ZT 7 — Impresión roja sobre <strong>papel rosado</strong>, sin dentar — una prueba del soporte, no de la tinta.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "ZT 7 — Tirage rouge sur <strong>papier rosé</strong>, non dentelé — un essai du support, non de l’encre.",
+  "tag": "cap"
+ },
+ "48d7de9c07": {
+  "cs": "Kliknutím se ukázka zvětší. Známkové pole je uvedeno tam, kde se je podařilo spolehlivě určit porovnáním s rekonstruovanou <a href=\"galerie.html\">první tiskovou deskou</a>; u ostatních kusů zůstává otevřené.",
+  "de": "Ein Klick vergrößert das Stück. Das Bogenfeld ist dort angegeben, wo es sich durch Vergleich mit der rekonstruierten <a href=\"galerie.html\">ersten Druckplatte</a> zuverlässig bestimmen ließ; bei den übrigen Stücken bleibt es offen.",
+  "en": "Click a specimen to enlarge it. The sheet position is given where it could be determined reliably by comparison with the reconstructed <a href=\"galerie.html\">first printing plate</a>; on the remaining pieces it stays open.",
+  "es": "Al hacer clic la pieza se amplía. La casilla se indica allí donde pudo determinarse con fiabilidad comparándola con la <a href=\"galerie.html\">primera plancha</a> reconstruida; en las demás piezas queda abierta.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "Un clic agrandit la pièce. La case est indiquée là où elle a pu être déterminée de façon fiable par comparaison avec la <a href=\"galerie.html\">première planche</a> reconstituée ; sur les autres pièces, elle reste ouverte.",
+  "tag": "span"
+ },
+ "98add3f5f5": {
+  "cs": "Makulaturní tisk",
+  "de": "Makulaturdruck",
+  "en": "Waste print",
+  "es": "Impresión de maculatura",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "Tirage de macule",
+  "tag": "span"
+ },
+ "7a18883eb9": {
+  "cs": "Makulatura je papír, který se při tisku znehodnotil a nikdy neměl opustit tiskárnu. Vzniká hlavně při <strong>rozjezdu stroje</strong>, než se seřídí přítlak a nanášení barvy: první archy jsou buď sotva znatelné, nebo naopak utopené v barvě. Tyto archy se odkládaly stranou a měly se zničit; co se z nich dochovalo, ukazuje výrobu ve chvíli, kdy ještě nebyla v pořádku.",
+  "de": "Makulatur ist Papier, das beim Druck verdorben wurde und die Druckerei nie hätte verlassen sollen. Sie entsteht vor allem beim <strong>Anfahren der Maschine</strong>, ehe Druck und Farbauftrag eingestellt sind: die ersten Bogen sind entweder kaum zu erkennen oder im Gegenteil in Farbe ertrunken. Solche Bogen wurden beiseitegelegt und sollten vernichtet werden; was von ihnen erhalten blieb, zeigt die Produktion in einem Augenblick, in dem sie noch nicht in Ordnung war.",
+  "en": "Waste is paper spoiled during printing that was never meant to leave the works. It arises mainly while the press is being <strong>run up</strong>, before the pressure and the inking are set: the first sheets are either barely visible or, on the contrary, drowned in ink. Such sheets were put aside and were meant to be destroyed; what survives of them shows production at a moment when it was not yet right.",
+  "es": "La maculatura es papel estropeado durante la impresión que nunca debió salir del taller. Surge sobre todo al <strong>arrancar la máquina</strong>, antes de ajustar la presión y la entintación: los primeros pliegos son o bien apenas perceptibles o, al contrario, ahogados en tinta. Esos pliegos se apartaban y debían destruirse; lo que se conserva de ellos muestra la producción en un momento en que aún no estaba a punto.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "La macule est du papier gâté à l’impression, qui n’aurait jamais dû quitter l’imprimerie. Elle naît surtout au <strong>démarrage de la presse</strong>, avant que la pression et l’encrage ne soient réglés : les premières feuilles sont soit à peine perceptibles, soit au contraire noyées d’encre. Ces feuilles étaient mises de côté et devaient être détruites ; ce qui en subsiste montre la production à un moment où elle n’était pas encore au point.",
+  "tag": "span"
+ },
+ "49083c21a1": {
+  "cs": "Makulaturní tisk 15h — kresba je utopená v barvě: šrafování svahu je zalité, obloha zaplněná a písmo nápisu se stahuje. Otisk je přitom po celé ploše, nejde tedy o vadu jednoho místa.",
+  "de": "Makulaturdruck der 15h — die Zeichnung ist in Farbe ertrunken: die Schraffur des Hangs ist zugelaufen, der Himmel zugefüllt und die Schrift der Inschrift zieht sich zu. Der Abdruck ist dabei auf der ganzen Fläche so, es handelt sich also nicht um einen Fehler an einer Stelle.",
+  "en": "A waste print of the 15h — the design is drowned in ink: the hatching of the hillside is flooded, the sky filled in and the letters of the inscription are closing up. The impression is like this over the whole area, so this is not a flaw confined to one spot.",
+  "es": "Impresión de maculatura de los 15 h — el dibujo está ahogado en tinta: el rayado de la ladera queda empastado, el cielo relleno y las letras de la inscripción se cierran. La impresión es así en toda la superficie, no se trata pues de un defecto en un solo punto.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "Tirage de macule de la 15 h — le dessin est noyé d’encre : les hachures du coteau sont empâtées, le ciel comblé et les lettres de l’inscription se referment. L’impression est ainsi sur toute la surface : il ne s’agit donc pas d’un défaut localisé.",
+  "tag": "span"
+ },
+ "43f09cb92a": {
+  "cs": "Čím se liší od slitého tisku",
+  "de": "Worin sie sich vom verlaufenen Druck unterscheidet",
+  "en": "How it differs from a blurred print",
+  "es": "En qué se diferencia de la impresión empastada",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "En quoi elle diffère d’une impression empâtée",
+  "tag": "span"
+ },
+ "de9ae1563e": {
+  "cs": "Slitý tisk je jednotlivá známka s přebytkem barvy, která se dostala do oběhu — je to <a href=\"vyrobni-vady.html#tisk\">výrobní vada</a> na jinak řádném archu. Makulatura je celý arch odložený jako zmetek: přeplnění barvou u ní není výjimka, ale stav, kvůli kterému se tiskl nanečisto. Hranice mezi obojím není ostrá a rozhoduje především původ kusu, ne jeho vzhled.",
+  "de": "Ein verlaufener Druck ist eine einzelne Marke mit Farbüberschuss, die in den Umlauf gelangte — ein <a href=\"vyrobni-vady.html#tisk\">Herstellungsfehler</a> auf einem sonst ordentlichen Bogen. Makulatur ist ein ganzer als Ausschuss beiseitegelegter Bogen: die Überfüllung mit Farbe ist bei ihr keine Ausnahme, sondern gerade der Zustand, dessentwegen probeweise gedruckt wurde. Die Grenze zwischen beiden ist nicht scharf, und es entscheidet vor allem die Herkunft des Stückes, nicht sein Aussehen.",
+  "en": "A blurred print is an individual stamp with excess ink that reached circulation — a <a href=\"vyrobni-vady.html#tisk\">production flaw</a> on an otherwise proper sheet. Waste is a whole sheet set aside as spoilage: over-inking is not an exception on it but the very state that made it a trial pull. The boundary between the two is not sharp, and it is the provenance of the piece rather than its appearance that decides.",
+  "es": "La impresión empastada es un sello suelto con exceso de tinta que llegó a circular — un <a href=\"vyrobni-vady.html#tisk\">defecto de fabricación</a> en un pliego por lo demás correcto. La maculatura es un pliego entero apartado como desecho: el exceso de tinta no es en ella una excepción, sino el estado mismo por el que se tiró a modo de prueba. El límite entre ambos no es nítido y decide sobre todo la procedencia de la pieza, no su aspecto.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "Une impression empâtée est un timbre isolé avec un excès d’encre qui est parvenu dans la circulation — un <a href=\"vyrobni-vady.html#tisk\">défaut de fabrication</a> sur une feuille par ailleurs correcte. La macule est une feuille entière mise au rebut : l’excès d’encre n’y est pas une exception mais l’état même qui a fait de ce tirage un essai. La limite entre les deux n’est pas nette, et c’est surtout la provenance de la pièce, non son aspect, qui tranche.",
+  "tag": "span"
+ },
+ "306b5c16c0": {
+  "cs": "<strong>Makulatura není katalogová varianta.</strong> Nevydávala se, nemá poštovní platnost a její cena je dokumentární — ukazuje, jak vypadá tisk mimo nastavení. U nabízených kusů je proto namístě ptát se po původu: bez něj nelze odlišit makulaturní arch od běžné známky se silně slitým tiskem.",
+  "de": "<strong>Makulatur ist keine Katalogvariante.</strong> Sie wurde nicht ausgegeben, hat keine postalische Gültigkeit, und ihr Wert ist dokumentarisch — sie zeigt, wie Druck außerhalb seiner Einstellung aussieht. Bei angebotenen Stücken ist deshalb die Frage nach der Herkunft angebracht: ohne sie lässt sich ein Makulaturbogen nicht von einer gewöhnlichen Marke mit stark verlaufenem Druck unterscheiden.",
+  "en": "<strong>Waste is not a catalogue variety.</strong> It was not issued, has no postal validity, and its value is documentary — it shows what printing looks like outside its settings. With pieces offered for sale it is therefore worth asking about provenance: without it, a waste sheet cannot be told from an ordinary stamp with a heavily blurred print.",
+  "es": "<strong>La maculatura no es una variedad de catálogo.</strong> No se emitió, carece de validez postal y su valor es documental — muestra cómo es la impresión fuera de su ajuste. En las piezas ofrecidas a la venta conviene por ello preguntar por la procedencia: sin ella no puede distinguirse un pliego de maculatura de un sello corriente con la impresión muy empastada.",
+  "files": [
+   "15h/zkusebni-tisky.html"
+  ],
+  "fr": "<strong>La macule n’est pas une variété de catalogue.</strong> Elle n’a pas été émise, n’a aucune validité postale et sa valeur est documentaire — elle montre à quoi ressemble l’impression hors réglage. Pour les pièces proposées à la vente, il est donc légitime de s’enquérir de la provenance : sans elle, une feuille de macule ne se distingue pas d’un timbre ordinaire à l’impression fortement empâtée.",
+  "tag": "span"
  }
 }
