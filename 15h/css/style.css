@@ -227,6 +227,7 @@ a.t7:hover{filter:brightness(1.12);text-decoration:none}
 .badge.tariff{background:#eaf1f7;border-color:#c3d6e3;color:#33587a}
 .gallery.loose.pieces .itemref{display:inline-block;font-size:.7rem;font-weight:600;color:var(--muted);background:#f0ece4;border-radius:4px;padding:0 .35rem;margin:0 0 .2rem}
 .gallery.loose.pieces .meta{display:block;font-size:.75rem;color:var(--muted);margin:.15rem 0 .3rem}
+.gallery.loose.pieces .zp{display:block;font-size:.75rem;line-height:1.35;color:#7a5c3e;background:#faf6ef;border-left:2px solid #d9c7ad;padding:.15rem .4rem;margin:0 0 .35rem;border-radius:0 3px 3px 0}
 
 /* odkaz zpet na hlavni web emise */
 .site-nav .nav-up{background:rgba(255,255,255,.14);border-radius:5px}
