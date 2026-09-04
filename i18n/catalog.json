@@ -612,6 +612,17 @@
   "fr": "Détail du bord supérieur — une coupe lisse, sans un seul trou",
   "tag": "span"
  },
+ "07dfc21446": {
+  "cs": "UV 366 nm (modrá trubice)",
+  "de": "UV 366 nm (blaue Röhre)",
+  "en": "UV 366 nm (blue tube)",
+  "es": "UV 366 nm (tubo azul)",
+  "files": [
+   "15h/barvy.html"
+  ],
+  "fr": "UV 366 nm (tube bleu)",
+  "tag": "span"
+ },
  "07f672458e": {
   "cs": "ZP 23 / TD I",
   "de": "Feld 23 / Platte I",
@@ -1057,6 +1068,17 @@
    "15h/zoubkovani.html"
   ],
   "fr": "Monographie des timbres tchécoslovaques n° 1 · reconstitutions et statistiques personnelles",
+  "tag": "span"
+ },
+ "0c761a9019": {
+  "cs": "velmi světle (bledě) červená",
+  "de": "sehr blasses Rot",
+  "en": "very pale red",
+  "es": "rojo muy pálido",
+  "files": [
+   "15h/barvy.html"
+  ],
+  "fr": "rouge très pâle",
   "tag": "span"
  },
  "0c8ed7a5ae": {
@@ -1586,13 +1608,6 @@
   "fr": "Bien des récits circulent autour des premiers timbres tchécoslovaques et, à force d’être répétés, se sont écartés des faits. Plus de cent ans ont passé depuis leur naissance — voici, résumé, ce qui est attesté.",
   "tag": "span"
  },
- "14b04f0b7f": {
-  "cs": "<strong>15h</strong> — <a href=\"15h/mapa.html\"><strong>Mapa razítek</strong></a> doplněna o Rynoltice a Mikulovice na desce III a o vlakovou poštu 113 Broumov–Choceň; opravena poloha Práchně. Mezi <a href=\"15h/posta.html\"><strong>poštovně použité nezoubkované známky desek 5 a 6</strong></a> přibyl kus z Košic 2 (pole 29/V, 26.&nbsp;VI.&nbsp;1920), vrstva jich má nyní třináct. <a href=\"15h/statistiky.html\"><strong>Statistiky</strong></a> aktualizovány na 6&nbsp;525 datovaných razítek.",
-  "de": "<strong>15h</strong> — Die <a href=\"15h/mapa.html\"><strong>Stempelkarte</strong></a> wurde um Rynoltice und Mikulovice auf Platte III sowie um die Bahnpost 113 Broumov–Choceň ergänzt; die Lage von Prácheň wurde korrigiert. Zu den <a href=\"15h/posta.html\"><strong>postalisch verwendeten ungezähnten Marken der Platten 5 und 6</strong></a> kam ein Stück aus Košice 2 (Feld 29/V, 26.&nbsp;VI.&nbsp;1920) hinzu; es sind nun dreizehn. Die <a href=\"15h/statistiky.html\"><strong>Statistiken</strong></a> wurden auf 6&nbsp;525 datierte Stempel aktualisiert.",
-  "en": "<strong>15h</strong> — The <a href=\"15h/mapa.html\"><strong>cancellation map</strong></a> gains Rynoltice and Mikulovice on plate III and the travelling post office 113 Broumov–Choceň; the position of Prácheň has been corrected. A copy from Košice 2 (field 29/V, 26&nbsp;June&nbsp;1920) has been added to the <a href=\"15h/posta.html\"><strong>postally used imperforate stamps of plates 5 and 6</strong></a>, which now number thirteen. The <a href=\"15h/statistiky.html\"><strong>statistics</strong></a> have been updated to 6&nbsp;525 dated cancellations.",
-  "es": "<strong>15h</strong> — El <a href=\"15h/mapa.html\"><strong>mapa de matasellos</strong></a> incorpora Rynoltice y Mikulovice en la plancha III y la ambulancia postal 113 Broumov–Choceň; se ha corregido la posición de Prácheň. Un ejemplar de Košice 2 (campo 29/V, 26&nbsp;de&nbsp;junio&nbsp;de&nbsp;1920) se suma a los <a href=\"15h/posta.html\"><strong>sellos sin dentar de las planchas 5 y 6 con uso postal</strong></a>, que ahora son trece. Las <a href=\"15h/statistiky.html\"><strong>estadísticas</strong></a> se actualizan a 6&nbsp;525 matasellos fechados.",
-  "fr": "<strong>15h</strong> — La <a href=\"15h/mapa.html\"><strong>carte des oblitérations</strong></a> s'enrichit de Rynoltice et Mikulovice sur la planche III et de la poste ambulante 113 Broumov–Choceň ; la position de Prácheň a été corrigée. Un exemplaire de Košice 2 (champ 29/V, 26&nbsp;juin&nbsp;1920) rejoint les <a href=\"15h/posta.html\"><strong>timbres non dentelés des planches 5 et 6 ayant voyagé</strong></a>, désormais au nombre de treize. Les <a href=\"15h/statistiky.html\"><strong>statistiques</strong></a> passent à 6&nbsp;525 oblitérations datées."
- },
  "14de90c497": {
   "cs": "Celistvost: Poklad za „babku“",
   "de": "Beleg: Ein Schatz für „einen Pappenstiel“",
@@ -1653,6 +1668,17 @@
    "15h/statistiky.html"
   ],
   "fr": "Chaque groupe séparément — un clic sur une entrée de la légende la masque ou l’affiche.",
+  "tag": "span"
+ },
+ "160c19bbd3": {
+  "cs": "světle fialová nebo hnědofialová",
+  "de": "hellviolett oder braunviolett",
+  "en": "light violet or brownish violet",
+  "es": "violeta claro o violeta parduzco",
+  "files": [
+   "15h/barvy.html"
+  ],
+  "fr": "violet clair ou violet brunâtre",
   "tag": "span"
  },
  "161b3ef70e": {
@@ -1772,6 +1798,17 @@
    "15h/shanim.html"
   ],
   "fr": "Planches d’impression I–II — positions manquantes",
+  "tag": "span"
+ },
+ "180fc4272b": {
+  "cs": "Beneš proto prošel tisíce známek pod ultrafialovou lampou a každý kus posuzoval <strong>ve třech pohledech zároveň</strong>: v denním světle, v UV záření o vlnové délce <strong>366 nm</strong> (modrá trubice) a <strong>254 nm</strong> (čirá trubice). Výsledkem je přehled sedmi pozorovaných skupin.",
+  "de": "Beneš prüfte daher Tausende von Marken unter einer Ultraviolettlampe und beurteilte jedes Stück <strong>in drei Ansichten zugleich</strong>: bei Tageslicht, unter UV-Strahlung der Wellenlänge <strong>366 nm</strong> (blaue Röhre) und <strong>254 nm</strong> (klare Röhre). Das Ergebnis ist eine Übersicht von sieben beobachteten Gruppen.",
+  "en": "Beneš therefore examined thousands of stamps under an ultraviolet lamp, judging each one <strong>in three views at once</strong>: in daylight, under UV at <strong>366 nm</strong> (blue tube) and at <strong>254 nm</strong> (clear tube). The result is a survey of seven observed groups.",
+  "es": "Beneš examinó por ello miles de sellos bajo una lámpara ultravioleta, juzgando cada ejemplar <strong>en tres vistas a la vez</strong>: a la luz del día, bajo radiación UV de <strong>366 nm</strong> (tubo azul) y de <strong>254 nm</strong> (tubo transparente). El resultado es un cuadro de siete grupos observados.",
+  "files": [
+   "15h/barvy.html"
+  ],
+  "fr": "Beneš a donc examiné des milliers de timbres sous une lampe à ultraviolets, jugeant chaque exemplaire <strong>selon trois vues à la fois</strong> : à la lumière du jour, sous un rayonnement UV de <strong>366 nm</strong> (tube bleu) et de <strong>254 nm</strong> (tube clair). Il en résulte un relevé de sept groupes observés.",
   "tag": "span"
  },
  "1837efa5a8": {
@@ -2310,6 +2347,17 @@
   "fr": "<h1>15h – cadre endommagé sur 60/VI</h1>\n\n<p>La valeur 15h de l’émission Hradčany compte parmi les plus appréciées pour sa variabilité – tant celle des nuances,\nqui font toujours l’objet de discussions sérieuses, que celle du nombre de planches d’impression et des mesures de dentelure.</p>\n<p>Ceux qui se sont occupés de la reconstitution ou de l’étude des planches d’impression du 15h, ou qui s’intéressent aux\ndéfauts de planche, ont pu remarquer un objet intéressant sur le bord droit du cadre du dessin, à la\n<strong>position 60 de la VIe planche d’impression</strong>.\nLa Monographie des timbres tchécoslovaques n° 1 décrit cette position comme portant un défaut de planche retenu –\nprécisément à cause de cet objet.</p>\n<p>Au cours des reconstitutions, j’ai constaté que cet objet évolue. Voici à quoi ressemble 60/VI sur une épreuve dont\nles bords ne sont pas encore façonnés (l’une des premières épreuves de la planche) :</p>\n<figure><img src=\"../assets/img/11185-15h-60-VI-ZT.png\" alt=\"60/VI sur une épreuve – excroissance en forme de point sur le bord droit du cadre (type I)\" loading=\"lazy\" style=\"max-width:340px\"><figcaption>60/VI sur une épreuve – excroissance en forme de point sur le bord droit du cadre (type I)</figcaption></figure>\n<figure><img src=\"../assets/img/11180-15h-60-VI-1.png\" alt=\"Timbre réel portant le défaut d’origine — type I (excroissance)\" loading=\"lazy\" style=\"max-width:340px\"><figcaption>Timbre réel portant le défaut d’origine — type I (excroissance)</figcaption></figure>\n<p>Pendant l’impression, et surtout lors de l’entretien des planches d’impression (nettoyage ?), un endommagement a pu\nse produire, qui a déformé l’excroissance d’origine avec des conséquences nettement visibles :</p>\n<figure><img src=\"../assets/img/11181-15h-60-VI-2.png\" alt=\"Timbre au cadre ébréché — type II\" loading=\"lazy\" style=\"max-width:340px\"><figcaption>Timbre au cadre ébréché — type II</figcaption></figure>\n<p><strong>Nous distinguons donc deux types :</strong> la variante du cadre avec l’excroissance d’origine est désignée <strong>type I</strong>, la variante au cadre ébréché (déformé) <strong>type II</strong>.</p>\n<p>Les exemplaires disponibles ne laissent voir aucune extension ultérieure du défaut – bien que la VIe planche ait servi à imprimer un grand nombre de feuilles et qu’elle ait été très usée vers la fin. La présence des deux types dans mon matériel est résumée dans le tableau suivant :</p>\n<div class=\"table-wrap\"><table class=\"phase-table\"><caption>15h 60/VI — présence des types selon la dentelure (28 pièces attestées)</caption><tr><th>Dentelure</th><th>Type I (excroissance)</th><th>Type II (cadre ébréché)</th><th>Total</th></tr><tr><td><strong>A (13&frac34;:13&frac12;)</strong></td><td class='num'>2 (100&nbsp;%)</td><td class='num'>0 (0&nbsp;%)</td><td class='num'>2</td></tr><tr><td><strong>B (11&frac34;)</strong></td><td class='num'>3 (20&nbsp;%)</td><td class='num'>12 (80&nbsp;%)</td><td class='num'>15</td></tr><tr><td><strong>C (13&frac34;)</strong></td><td class='num'>9 (82&nbsp;%)</td><td class='num'>2 (18&nbsp;%)</td><td class='num'>11</td></tr><tr><td><strong>Total</strong></td><td class='num'><strong>14 (50&nbsp;%)</strong></td><td class='num'><strong>14 (50&nbsp;%)</strong></td><td class='num'><strong>28</strong></td></tr></table></div>\n<p>Le type I (l’excroissance) est le seul attesté en dentelure A et prédomine nettement en dentelure en ligne C (82 %). À l’inverse, en dentelure en peigne B, c’est le type II au cadre ébréché qui domine (80 %). Ces proportions différentes selon les dentelures suggèrent que les feuilles présentant les deux états de la planche sont arrivées à la perforation dans un ordre variable. Au total, le rapport entre les deux types est exactement de 1:1 (14:14) — il ne s’agit donc pas d’un défaut rare.</p>\n<p>Détail de la zone dans les deux variantes :</p>\n<div class=\"imgrow\"><img src=\"../assets/img/11183-15h-60-VI-detail1.png\" alt=\"\" loading=\"lazy\"><img src=\"../assets/img/11184-15h-60-VI-detail2.png\" alt=\"\" loading=\"lazy\"></div>\n<p class=\"author\"><em>Josef Matoušek (28 octobre 2016)</em></p>",
   "tag": "div"
  },
+ "200d398eef": {
+  "cs": "Rozlišování odstínů pod UV lampou",
+  "de": "Unterscheidung der Farbtöne unter der UV-Lampe",
+  "en": "Telling the shades apart under a UV lamp",
+  "es": "Distinguir los matices bajo la lámpara UV",
+  "files": [
+   "15h/barvy.html"
+  ],
+  "fr": "Distinguer les nuances sous la lampe UV",
+  "tag": "span"
+ },
  "204abf8871": {
   "cs": "5h tmavě modrozelená",
   "de": "5h dunkelblaugrün",
@@ -2822,6 +2870,17 @@
    "odkazy.html"
   ],
   "fr": "Revues philatéliques spécialisées",
+  "tag": "span"
+ },
+ "25e546acfa": {
+  "cs": "UV 254 nm (čirá trubice)",
+  "de": "UV 254 nm (klare Röhre)",
+  "en": "UV 254 nm (clear tube)",
+  "es": "UV 254 nm (tubo transparente)",
+  "files": [
+   "15h/barvy.html"
+  ],
+  "fr": "UV 254 nm (tube clair)",
   "tag": "span"
  },
  "25fbc1f258": {
@@ -6370,13 +6429,6 @@
   "fr": "violet bleu / violet clair",
   "tag": "span"
  },
- "4c4adfed79": {
-  "cs": "Podrobný statistický rozbor hodnoty 15h vychází z vlastní evidence: <strong>21 353 určených známek</strong>, z toho <strong>6 525 s čitelně datovaným razítkem</strong> (stav 4. 9. 2026). Zdrojem jsou listy „Stats 15h“ a „Usage Stats 15h“ evidenčního sešitu.",
-  "de": "Die ausführliche statistische Auswertung der 15h beruht auf der eigenen Erfassung: <strong>21 353 bestimmte Marken</strong>, davon <strong>6 525 mit lesbar datiertem Stempel</strong> (Stand 4. 9. 2026). Quelle sind die Blätter „Stats 15h“ und „Usage Stats 15h“ der Erfassungsdatei.",
-  "en": "The detailed statistical analysis of the 15h is based on the author’s records: <strong>21,353 attributed stamps</strong>, of which <strong>6,525 carry a legibly dated cancellation</strong> (as of 4 September 2026). The source is the “Stats 15h” and “Usage Stats 15h” sheets of the record workbook.",
-  "es": "El análisis estadístico detallado del 15h se basa en los registros propios: <strong>21 353 sellos atribuidos</strong>, de los cuales <strong>6 525 con matasellos legiblemente fechado</strong> (a 4 de septiembre de 2026). La fuente son las hojas «Stats 15h» y «Usage Stats 15h» del libro de registros.",
-  "fr": "L’analyse statistique détaillée du 15h repose sur les relevés de l’auteur : <strong>21 353 timbres attribués</strong>, dont <strong>6 525 avec une oblitération lisiblement datée</strong> (état au 4 septembre 2026). La source est constituée des feuilles « Stats 15h » et « Usage Stats 15h » du classeur de relevés."
- },
  "4c95bf1425": {
   "cs": "400h tmavě fialová",
   "de": "400h dunkelviolett",
@@ -6988,6 +7040,17 @@
    "15h/mapa-stranek.html"
   ],
   "fr": "Comparateur de positions",
+  "tag": "span"
+ },
+ "537923d4af": {
+  "cs": "karmínová <sup>7</sup>",
+  "de": "karminrot <sup>7</sup>",
+  "en": "carmine <sup>7</sup>",
+  "es": "carmín <sup>7</sup>",
+  "files": [
+   "15h/barvy.html"
+  ],
+  "fr": "carmin <sup>7</sup>",
   "tag": "span"
  },
  "5398f19b4a": {
@@ -8022,6 +8085,17 @@
   "fr": "position 93 / planche VII",
   "tag": "span"
  },
+ "5e2e48df0d": {
+  "cs": "fialová <sup>10</sup>",
+  "de": "violett <sup>10</sup>",
+  "en": "violet <sup>10</sup>",
+  "es": "violeta <sup>10</sup>",
+  "files": [
+   "15h/barvy.html"
+  ],
+  "fr": "violet <sup>10</sup>",
+  "tag": "span"
+ },
  "5e3a84258b": {
   "cs": "15h — tisková deska VII: stav všech 100 polí",
   "de": "15h — Druckplatte VII: Stand aller 100 Felder",
@@ -8254,6 +8328,13 @@
   ],
   "fr": "60h jaune",
   "tag": "span"
+ },
+ "5fe70c180d": {
+  "cs": "<strong>15h</strong> — Doplněny stránky o tisku. Ve <a href=\"15h/zkusebni-tisky.html#barevne\"><strong>Zkusmých tiscích</strong></a> přibyla sekce barevných otisků: táž kresba nanečisto v černé, hnědočerné, modré a několika odstínech červené, jeden na narůžovělém papíře. Protože jsou nezoubkované a nerazítkované, je na nich kresba čitelná do posledního tahu — a dá se porovnat s produkční známkou téhož známkového pole. Do <a href=\"15h/vyrobni-vady.html\"><strong>Výrobních vad</strong></a> přibyly dvě kapitoly: <a href=\"15h/vyrobni-vady.html#dvojity-tisk\"><strong>Dvojitý a vícenásobný tisk</strong></a>, kdy arch prošel strojem podruhé a celá kresba má dvojníka — jednou posunutého o desetiny milimetru, jindy o velký kus a pootočeného — a <a href=\"15h/vyrobni-vady.html#tisk-na-lepu\"><strong>Tisk a obtisk na lepu</strong></a>, kde dvě zdánlivě stejné vady rozliší zkouška zrcadlem: přímý tisk na lep se čte správně a dokládá, že se papír gumoval ještě před tiskem, kdežto obtisk z vedlejšího archu je zrcadlově obrácený a bledší.",
+  "de": "<strong>15h</strong> — Die Seiten zum Druck wurden ergänzt. Die <a href=\"15h/zkusebni-tisky.html#barevne\"><strong>Probedrucke</strong></a> erhielten einen Abschnitt farbiger Abzüge: dieselbe Zeichnung probeweise in Schwarz, Braunschwarz, Blau und mehreren Rottönen, einer auf rosafarbenem Papier. Da sie ungezähnt und ungestempelt sind, ist die Zeichnung bis zum letzten Strich lesbar und lässt sich mit einer Produktionsmarke desselben Feldes vergleichen. Die <a href=\"15h/vyrobni-vady.html\"><strong>Herstellungsfehler</strong></a> wuchsen um zwei Kapitel: <a href=\"15h/vyrobni-vady.html#dvojity-tisk\"><strong>Doppel- und Mehrfachdruck</strong></a>, bei dem der Bogen ein zweites Mal durch die Presse lief und jede Linie einen Zwilling hat — einmal um Zehntelmillimeter versetzt, ein andermal weit verschoben und verdreht — und <a href=\"15h/vyrobni-vady.html#tisk-na-lepu\"><strong>Druck und Abklatsch auf dem Gummi</strong></a>, wo zwei scheinbar gleiche Fehler die Spiegelprobe unterscheidet: der direkte Druck auf den Gummi liest sich richtig herum und belegt, dass das Papier schon vor dem Druck gummiert wurde, während der Abklatsch vom Nachbarbogen spiegelverkehrt und blasser ist.",
+  "en": "<strong>15h</strong> — The pages on printing have been expanded. <a href=\"15h/zkusebni-tisky.html#barevne\"><strong>Proofs</strong></a> gains a section of colour trials: the same design pulled in black, brown-black, blue and several shades of red, one on pinkish paper. Being imperforate and uncancelled, they show the engraving down to the last stroke and can be set against a production stamp from the same sheet position. <a href=\"15h/vyrobni-vady.html\"><strong>Production flaws</strong></a> gains two chapters: <a href=\"15h/vyrobni-vady.html#dvojity-tisk\"><strong>double and multiple printing</strong></a>, where the sheet went through the press twice and every line has a twin — sometimes offset by tenths of a millimetre, sometimes shifted far and rotated — and <a href=\"15h/vyrobni-vady.html#tisk-na-lepu\"><strong>printing and offset on the gum</strong></a>, where two seemingly identical faults are told apart by a mirror test: a direct impression on the gum reads the right way round and proves the paper was gummed before printing, whereas an offset from the neighbouring sheet is mirrored and paler.",
+  "es": "<strong>15h</strong> — Se han ampliado las páginas sobre la impresión. Las <a href=\"15h/zkusebni-tisky.html#barevne\"><strong>Pruebas</strong></a> incorporan una sección de ensayos de color: el mismo dibujo estampado en negro, negro pardo, azul y varios tonos de rojo, uno sobre papel rosado. Al estar sin dentar y sin matasellar, dejan leer el grabado hasta el último trazo y permiten compararlo con un sello de producción del mismo campo. Los <a href=\"15h/vyrobni-vady.html\"><strong>Defectos de fabricación</strong></a> suman dos capítulos: <a href=\"15h/vyrobni-vady.html#dvojity-tisk\"><strong>impresión doble y múltiple</strong></a>, cuando el pliego pasó dos veces por la prensa y cada trazo tiene su gemelo — unas veces desplazado décimas de milímetro, otras muy lejos y girado — y <a href=\"15h/vyrobni-vady.html#tisk-na-lepu\"><strong>impresión y calco sobre la goma</strong></a>, donde dos defectos aparentemente iguales se distinguen con la prueba del espejo: la impresión directa sobre la goma se lee del derecho y demuestra que el papel se engomaba antes de imprimir, mientras que el calco del pliego vecino aparece invertido y más pálido.",
+  "fr": "<strong>15h</strong> — Les pages consacrées à l'impression ont été enrichies. Les <a href=\"15h/zkusebni-tisky.html#barevne\"><strong>Essais</strong></a> gagnent une section d'épreuves de couleur : le même dessin tiré en noir, noir-brun, bleu et plusieurs nuances de rouge, l'un sur papier rosé. Non dentelés et non oblitérés, ils laissent lire la gravure jusqu'au dernier trait et se comparent à un timbre de production du même champ. Les <a href=\"15h/vyrobni-vady.html\"><strong>Défauts de fabrication</strong></a> gagnent deux chapitres : <a href=\"15h/vyrobni-vady.html#dvojity-tisk\"><strong>double et multiple impression</strong></a>, où la feuille est repassée sous presse et chaque trait a son jumeau — tantôt décalé de quelques dixièmes de millimètre, tantôt déplacé loin et pivoté — et <a href=\"15h/vyrobni-vady.html#tisk-na-lepu\"><strong>impression et décalque sur la gomme</strong></a>, où deux défauts d'apparence identique se distinguent par l'épreuve du miroir : l'impression directe sur la gomme se lit à l'endroit et prouve que le papier était gommé avant l'impression, tandis que le décalque venu de la feuille voisine est inversé et plus pâle."
  },
  "5ff5f03758": {
   "cs": "Kresba 15h pochází ze <strong>známkového pole 46 čtvrté tiskové desky</strong>. Přes ni ale leží ještě druhý, slabší otisk — a ten nepatří patnáctihaléřové známce: na témž archu se zkoušela <strong>tisková deska hodnoty 500 h</strong> téže emise. Arch tedy prošel strojem dvakrát, pokaždé s jinou formou.",
@@ -9179,6 +9260,28 @@
   "fr": "Planches I–VII",
   "tag": "span"
  },
+ "6afc611f8e": {
+  "cs": "Jak s lampou pracovat",
+  "de": "Arbeiten mit der Lampe",
+  "en": "How to work with the lamp",
+  "es": "Cómo trabajar con la lámpara",
+  "files": [
+   "15h/barvy.html"
+  ],
+  "fr": "Comment travailler avec la lampe",
+  "tag": "span"
+ },
+ "6afe08ff2b": {
+  "cs": "světle červená",
+  "de": "hellrot",
+  "en": "light red",
+  "es": "rojo claro",
+  "files": [
+   "15h/barvy.html"
+  ],
+  "fr": "rouge clair",
+  "tag": "span"
+ },
  "6b03fbca22": {
   "cs": "25h — I. tisková deska — Sbírám Hradčany",
   "de": "25h — I. Druckplatte — Hradschin sammeln",
@@ -9352,6 +9455,17 @@
   "files": [],
   "fr": "Pli de papier — pièce 6",
   "tag": "alt"
+ },
+ "6dfda26dd0": {
+  "cs": "Pracovní vlnová délka je <strong>366 nm</strong>; 254 nm slouží jako křížová kontrola a vyžaduje ochranu očí a krátkou expozici. Absolutní hodnocení barvy pod UV je nespolehlivé, srovnávací funguje — proto měj vždy <strong>v zorném poli referenční kus jistého odstínu</strong>. Pracuj v úplné tmě, s konstantní vzdáleností lampy, a rtuťové trubici dej minutu dvě na ustálení. Chceš-li si odstíny fotit, drž <strong>pevné vyvážení bílé a pevnou expozici</strong> — jinak jsou snímky navzájem neporovnatelné a celá práce přijde vniveč.",
+  "de": "Die Arbeitswellenlänge ist <strong>366 nm</strong>; 254 nm dient der Gegenprobe und verlangt Augenschutz und kurze Einwirkzeit. Eine absolute Farbbeurteilung unter UV ist unzuverlässig, eine vergleichende funktioniert — halten Sie deshalb stets <strong>ein Referenzstück bekannten Farbtons im Blickfeld</strong>. Arbeiten Sie in völliger Dunkelheit, mit gleichbleibendem Lampenabstand, und geben Sie einer Quecksilberröhre ein bis zwei Minuten zum Einbrennen. Wer die Farbtöne fotografieren will, halte <strong>Weißabgleich und Belichtung fest</strong> — sonst sind die Aufnahmen untereinander nicht vergleichbar und die ganze Mühe ist vergebens.",
+  "en": "The working wavelength is <strong>366 nm</strong>; 254 nm serves as a cross-check and calls for eye protection and short exposure. Absolute judgement of colour under UV is unreliable, comparative judgement works — so always keep <strong>a reference copy of a known shade in the field of view</strong>. Work in complete darkness, at a constant lamp distance, and give a mercury tube a minute or two to settle. If you want to photograph the shades, keep <strong>white balance and exposure fixed</strong> — otherwise the images are not comparable with each other and the whole exercise is wasted.",
+  "es": "La longitud de onda de trabajo es <strong>366 nm</strong>; los 254 nm sirven de contraprueba y exigen protección ocular y exposición breve. El juicio absoluto del color bajo UV no es fiable, el comparativo sí — mantenga por tanto siempre <strong>en el campo visual un ejemplar de referencia de matiz conocido</strong>. Trabaje en oscuridad completa, a distancia constante de la lámpara, y conceda a un tubo de mercurio un minuto o dos para estabilizarse. Si desea fotografiar los matices, mantenga <strong>fijos el balance de blancos y la exposición</strong> — de lo contrario las imágenes no son comparables entre sí y todo el trabajo se pierde.",
+  "files": [
+   "15h/barvy.html"
+  ],
+  "fr": "La longueur d'onde de travail est <strong>366 nm</strong> ; 254 nm sert de contre-épreuve et exige une protection des yeux et une exposition brève. Le jugement absolu de la couleur sous UV n'est pas fiable, le jugement comparatif l'est — gardez donc toujours <strong>dans le champ un exemplaire de référence de nuance connue</strong>. Travaillez dans l'obscurité complète, à distance constante de la lampe, et laissez à un tube à mercure une minute ou deux pour se stabiliser. Si vous voulez photographier les nuances, gardez <strong>la balance des blancs et l'exposition fixes</strong> — sinon les images ne sont pas comparables entre elles et tout le travail est perdu.",
+  "tag": "span"
  },
  "6e3eb324ff": {
   "cs": "KVĚ 1920",
@@ -11209,6 +11323,17 @@
   "fr": "Pli oblique traversant le milieu du dessin ; sous une oblitération dense, il se trahit surtout par une bande claire sans impression.",
   "tag": "span"
  },
+ "82065e0342": {
+  "cs": "A poznámka na opatrnost: <strong>sedm pozorovaných skupin nejsou katalogové položky.</strong> Beneš popisuje, co viděl, ne co se má do katalogu zapsat — mapování na 7, 7a, 7b, 7c a 7d v jeho článku není a nedá se dopočítat.",
+  "de": "Und eine Warnung: <strong>Die sieben beobachteten Gruppen sind keine Katalogpositionen.</strong> Beneš beschreibt, was er gesehen hat, nicht das, was in den Katalog gehört — eine Zuordnung zu 7, 7a, 7b, 7c und 7d enthält sein Aufsatz nicht und sie lässt sich auch nicht erschließen.",
+  "en": "And a note of caution: <strong>the seven observed groups are not catalogue entries.</strong> Beneš describes what he saw, not what should be catalogued — his article contains no mapping onto 7, 7a, 7b, 7c and 7d, and none can be inferred.",
+  "es": "Y una advertencia: <strong>los siete grupos observados no son entradas de catálogo.</strong> Beneš describe lo que vio, no lo que debería catalogarse — su artículo no contiene correspondencia alguna con 7, 7a, 7b, 7c y 7d, ni cabe deducirla.",
+  "files": [
+   "15h/barvy.html"
+  ],
+  "fr": "Et une mise en garde : <strong>les sept groupes observés ne sont pas des entrées de catalogue.</strong> Beneš décrit ce qu'il a vu, non ce qu'il faudrait cataloguer — son article ne contient aucune correspondance avec 7, 7a, 7b, 7c et 7d, et l'on ne saurait la déduire.",
+  "tag": "span"
+ },
  "824c03c4f0": {
   "cs": "více známek Hradčan stejné hodnoty.",
   "de": "mehrere Hradschin-Marken desselben Werts.",
@@ -11397,6 +11522,17 @@
    "15h/vyrobni-vady.html"
   ],
   "fr": "La double dentelure <strong>n’est pas une dentelure de catalogue à part entière</strong>. Les groupes A–H décrivent le type d’outil et le pas, c’est-à-dire ce avec quoi la feuille a été perforée — un passage répété du même outil ne change pas le pas, et le timbre se détermine d’après la rangée correspondant au passage régulier. Elle est consignée comme une anomalie de perforation : recherchée des collectionneurs, mais hors de la classification du catalogue. On la distingue aisément des dentelures exceptionnelles I et L — là, chaque côté porte une seule rangée de trous, simplement à un pas différent de celui du côté opposé, tandis qu’en double dentelure un même côté porte deux rangées.",
+  "tag": "span"
+ },
+ "83b62ae8a6": {
+  "cs": "světle až tmavě olivově hnědá",
+  "de": "hell- bis dunkelolivbraun",
+  "en": "light to dark olive brown",
+  "es": "pardo oliváceo claro a oscuro",
+  "files": [
+   "15h/barvy.html"
+  ],
+  "fr": "brun olive clair à foncé",
   "tag": "span"
  },
  "83e16c130d": {
@@ -11893,6 +12029,13 @@
   ],
   "fr": "Pic d’utilisation",
   "tag": "span"
+ },
+ "88b2535587": {
+  "cs": "Podrobný statistický rozbor hodnoty 15h vychází z vlastní evidence: <strong>21 353 určených známek</strong>, z toho <strong>6 527 s čitelně datovaným razítkem</strong> (stav 4. 9. 2026). Zdrojem jsou listy „Stats 15h“ a „Usage Stats 15h“ evidenčního sešitu.",
+  "de": "Die ausführliche statistische Auswertung der 15h beruht auf der eigenen Erfassung: <strong>21 353 bestimmte Marken</strong>, davon <strong>6 527 mit lesbar datiertem Stempel</strong> (Stand 4. 9. 2026). Quelle sind die Blätter „Stats 15h“ und „Usage Stats 15h“ der Erfassungsdatei.",
+  "en": "The detailed statistical analysis of the 15h is based on the author’s records: <strong>21,353 attributed stamps</strong>, of which <strong>6,527 carry a legibly dated cancellation</strong> (as of 4 September 2026). The source is the “Stats 15h” and “Usage Stats 15h” sheets of the record workbook.",
+  "es": "El análisis estadístico detallado del 15h se basa en los registros propios: <strong>21 353 sellos atribuidos</strong>, de los cuales <strong>6 527 con matasellos legiblemente fechado</strong> (a 4 de septiembre de 2026). La fuente son las hojas «Stats 15h» y «Usage Stats 15h» del libro de registros.",
+  "fr": "L’analyse statistique détaillée du 15h repose sur les relevés de l’auteur : <strong>21 353 timbres attribués</strong>, dont <strong>6 527 avec une oblitération lisiblement datée</strong> (état au 4 septembre 2026). La source est constituée des feuilles « Stats 15h » et « Usage Stats 15h » du classeur de relevés."
  },
  "88b43b5f29": {
   "cs": "ZP 96 / TD VII",
@@ -12499,6 +12642,17 @@
   ],
   "fr": "Planches d’impression — Hradčany 15h",
   "tag": "attr"
+ },
+ "8eafc87173": {
+  "cs": "Barva je nejhůř uchopitelný znak celé hodnoty. František Beneš spočítal, že odborná literatura použila k popisu jedné jediné patnáctihaléřové známky za tři čtvrtě století <strong>asi jedenadvacet různých barevných termínů</strong> — od cihlově červené přes oranžovočervenou a rumělkovou až po karmínovou a červenohnědou. Důvod je prozaický: vysoký náklad, dlouhá doba tisku a poválečný nedostatek surovin, kvůli kterému dodavatelé měnili receptury barev.",
+  "de": "Die Farbe ist das am schwersten fassbare Merkmal dieses Wertes. František Beneš zählte, dass die Fachliteratur binnen dreier Viertel eines Jahrhunderts <strong>etwa einundzwanzig verschiedene Farbbezeichnungen</strong> für diese eine 15-Heller-Marke verwendete — von Ziegelrot über Orangerot und Zinnoberrot bis zu Karminrot und Rotbraun. Der Grund ist nüchtern: hohe Auflage, lange Druckdauer und der Rohstoffmangel der Nachkriegszeit, wegen dessen die Lieferanten ihre Farbrezepturen immer wieder änderten.",
+  "en": "Colour is the hardest attribute of this value to pin down. František Beneš counted that over three quarters of a century the specialist literature used <strong>some twenty-one different colour terms</strong> for this single 15h stamp — from brick red through orange-red and vermilion to carmine and red-brown. The reason is prosaic: a large print run, a long production period and post-war shortages that kept making the suppliers change their ink formulations.",
+  "es": "El color es el rasgo más difícil de fijar de todo el valor. František Beneš contabilizó que, en tres cuartos de siglo, la literatura especializada empleó <strong>unos veintiún términos de color distintos</strong> para este único sello de 15 héleres — del rojo ladrillo al rojo anaranjado, el bermellón, el carmín y el pardo rojizo. El motivo es prosaico: una tirada alta, un largo período de impresión y la escasez de materias primas de posguerra, que obligaba a los proveedores a cambiar continuamente sus fórmulas de tinta.",
+  "files": [
+   "15h/barvy.html"
+  ],
+  "fr": "La couleur est le caractère le plus difficile à saisir de cette valeur. František Beneš a recensé que, en trois quarts de siècle, la littérature spécialisée a employé <strong>quelque vingt et un termes de couleur différents</strong> pour ce seul timbre à 15 hellers — du rouge brique au rouge orangé, au vermillon, au carmin et au brun-rouge. La raison est prosaïque : un tirage élevé, une longue durée d'impression et la pénurie de matières premières de l'après-guerre, qui obligeait les fournisseurs à modifier sans cesse leurs formules d'encre.",
+  "tag": "span"
  },
  "8ecf68a103": {
   "cs": "<strong>II. období</strong> — dopisnice 15&nbsp;h, dopis 25&nbsp;h, dvojitá dopisnice 30&nbsp;h, doporučený dopis 75&nbsp;h",
@@ -13473,6 +13627,17 @@
    "15h/zkusebni-tisky.html"
   ],
   "fr": "68 / planche I",
+  "tag": "span"
+ },
+ "996576c863": {
+  "cs": "světle až tmavě fialová <sup>8</sup>",
+  "de": "hell- bis dunkelviolett <sup>8</sup>",
+  "en": "light to dark violet <sup>8</sup>",
+  "es": "violeta claro a oscuro <sup>8</sup>",
+  "files": [
+   "15h/barvy.html"
+  ],
+  "fr": "violet clair à foncé <sup>8</sup>",
   "tag": "span"
  },
  "998cd71899": {
@@ -15584,6 +15749,17 @@
    "15h/vyrobni-vady.html"
   ],
   "fr": "Pièce 13 — Dans la partie gauche de la silhouette de Hradčany.",
+  "tag": "span"
+ },
+ "af1ce78d34": {
+  "cs": "Co z tabulky plyne",
+  "de": "Was die Tabelle zeigt",
+  "en": "What the table tells us",
+  "es": "Lo que revela la tabla",
+  "files": [
+   "15h/barvy.html"
+  ],
+  "fr": "Ce que révèle le tableau",
   "tag": "span"
  },
  "af39cacf97": {
@@ -17945,6 +18121,17 @@
   "fr": "60h orange rouge",
   "tag": "span"
  },
+ "c71977abb1": {
+  "cs": "Co UV o barvě neřekne",
+  "de": "Was UV über die Farbe nicht aussagt",
+  "en": "What UV does not tell you about colour",
+  "es": "Lo que el UV no dice del color",
+  "files": [
+   "15h/barvy.html"
+  ],
+  "fr": "Ce que l'UV ne dit pas de la couleur",
+  "tag": "span"
+ },
  "c71fca5341": {
   "cs": "13&frac34; : 13&frac12; hřebenové",
   "de": "13&frac34; : 13&frac12; Kammzähnung",
@@ -18098,6 +18285,17 @@
   "files": [],
   "fr": "<tspan x=\"353\" y=\"266\">pas de trou au coin,</tspan><tspan x=\"353\" y=\"280\">les voisins se serrent</tspan>",
   "tag": "cap"
+ },
+ "c85d2fc64c": {
+  "cs": "černofialová <sup>9</sup>",
+  "de": "schwarzviolett <sup>9</sup>",
+  "en": "blackish violet <sup>9</sup>",
+  "es": "violeta negruzco <sup>9</sup>",
+  "files": [
+   "15h/barvy.html"
+  ],
+  "fr": "violet noirâtre <sup>9</sup>",
+  "tag": "span"
  },
  "c88ca8d936": {
   "cs": "VII. TD ★",
@@ -18467,6 +18665,17 @@
   "fr": "Pièce 2 — Une tache très fine, à peine perceptible, dans l’inscription ČESKO-SLOVENSKA et dans l’ornement à gauche de l’ovale de valeur — le cas le plus faible attesté.",
   "tag": "cap"
  },
+ "cd207bb6f7": {
+  "cs": "cihlově (oranžově) červená",
+  "de": "Ziegelrot (Orangerot)",
+  "en": "brick (orange) red",
+  "es": "rojo ladrillo (rojo anaranjado)",
+  "files": [
+   "15h/barvy.html"
+  ],
+  "fr": "rouge brique (rouge orangé)",
+  "tag": "span"
+ },
  "cd7bf80493": {
   "cs": "<tspan x=\"344\" y=\"140\">posun archu</tspan><tspan x=\"344\" y=\"152\">o jednu řadu</tspan>",
   "de": "<tspan x=\"344\" y=\"140\">Bogen rückt vor</tspan><tspan x=\"344\" y=\"152\">um eine Reihe</tspan>",
@@ -18507,6 +18716,17 @@
    "15h/zoubkovani.html"
   ],
   "fr": "<strong>Le timbre reste non dentelé.</strong> Un percé privé, en lignes ou en points, est une curiosité et non une variété de catalogue ; il n’entre pas dans les statistiques de dentelure. Et comme il peut être fait à tout moment, aujourd’hui encore, la pièce qui compte est celle dont la séparation est attestée par un usage d’époque — une lettre, ou une oblitération qui franchit le bord.",
+  "tag": "span"
+ },
+ "ce1ae79f59": {
+  "cs": "Nabízí se tím ovšem i způsob, jak prověřit úvahu o karmínové 7c v následující sekci: srovnat pod 366 nm věrohodně doložený nepoužitý rumělkový kus s odmočeným karmínovým. Jde-li skutečně o tutéž barvu druhotně změněnou teplem, mělo by se to na chování v UV projevit.",
+  "de": "Damit bietet sich zugleich ein Weg an, die Überlegung zum Karminrot 7c im nächsten Abschnitt zu prüfen: ein glaubwürdig belegtes ungebrauchtes zinnoberrotes Stück unter 366 nm mit einem abgeweichten karminroten zu vergleichen. Handelt es sich tatsächlich um dieselbe, durch Wärme nachträglich veränderte Farbe, müsste sich das im UV-Verhalten zeigen.",
+  "en": "This also suggests a way of testing the reflection on carmine 7c in the next section: compare, under 366 nm, a credibly documented unused vermilion copy with a soaked carmine one. If it really is the same ink secondarily altered by heat, the UV behaviour should show it.",
+  "es": "Con ello se ofrece además un modo de comprobar la reflexión sobre el carmín 7c de la sección siguiente: comparar bajo 366 nm un ejemplar bermellón nuevo y fehacientemente documentado con uno carmín despegado. Si se trata realmente de la misma tinta alterada secundariamente por el calor, el comportamiento bajo UV debería mostrarlo.",
+  "files": [
+   "15h/barvy.html"
+  ],
+  "fr": "Cela suggère du même coup un moyen de vérifier la réflexion sur le carmin 7c de la section suivante : comparer sous 366 nm un exemplaire vermillon neuf et dûment attesté avec un exemplaire carmin décollé. S'il s'agit bien de la même encre altérée secondairement par la chaleur, le comportement sous UV devrait le montrer.",
   "tag": "span"
  },
  "ce43e624ab": {
@@ -18735,6 +18955,17 @@
    "15h/zkusebni-tisky.html"
   ],
   "fr": "La spirale décisive se trouve dans le <strong>coin supérieur gauche</strong> du dessin — c’est celle de gauche dans la paire de spirales de l’ornement d’angle, la même que la page <a href=\"typy.html\">Types du cinquième dessin</a> décrit comme caractéristique de type. Sur l’épreuve, elle est <strong>ouverte (Is)</strong> : le tour intérieur va jusqu’au bout et s’arrête librement. En production, elle est <strong>fermée (IIs)</strong> — le tour se referme en un anneau complet. Pour cette position, le type de spirale n’est donc pas une propriété du cliché d’origine, mais le <strong>résultat d’une modification postérieure</strong> — et c’est essentiel pour la lecture des types sur la première et la deuxième planche. Un aperçu des positions et des deux types se trouve sur la page <a href=\"typy.html\">Types du cinquième dessin</a>.",
+  "tag": "span"
+ },
+ "d17f41e040": {
+  "cs": "Druhé čtení se týká skupiny 1. Beneš v druhém dílu studie upozorňuje, že barvu téhle známky lze změnit fyzikálními i chemickými vlivy, ale ta změna jde prakticky <strong>vždy jen ke světlejšímu, nikdy k tmavšímu</strong>. Bledě červený kus, který pod 366 nm svítí fialově, je proto mnohem spíš poškozený normál než vzácný odstín.",
+  "de": "Die zweite Lesart betrifft Gruppe 1. Im zweiten Teil seiner Studie weist Beneš darauf hin, dass sich die Farbe dieser Marke durch physikalische wie chemische Einflüsse verändern lässt, dass diese Veränderung aber praktisch <strong>immer nur zum Helleren geht, nie zum Dunkleren</strong>. Ein blassrotes Stück, das unter 366 nm violett leuchtet, ist daher weit eher eine beschädigte gewöhnliche Marke als ein seltener Farbton.",
+  "en": "The second reading concerns group 1. In the second part of his study Beneš points out that the colour of this stamp can be altered by physical and chemical influences, but the change practically <strong>always goes towards lighter, never darker</strong>. A pale red copy glowing violet under 366 nm is therefore far more likely to be a damaged ordinary stamp than a rare shade.",
+  "es": "La segunda lectura atañe al grupo 1. En la segunda parte de su estudio, Beneš advierte que el color de este sello puede alterarse por influencias tanto físicas como químicas, pero que ese cambio va en la práctica <strong>siempre hacia lo más claro, nunca hacia lo más oscuro</strong>. Un ejemplar rojo pálido que brilla violeta bajo 366 nm es por tanto mucho más probablemente un sello corriente dañado que un matiz raro.",
+  "files": [
+   "15h/barvy.html"
+  ],
+  "fr": "La seconde lecture concerne le groupe 1. Dans la seconde partie de son étude, Beneš rappelle que la couleur de ce timbre peut être modifiée par des influences physiques comme chimiques, mais que ce changement va pratiquement <strong>toujours vers le plus clair, jamais vers le plus foncé</strong>. Un exemplaire rouge pâle qui luit violet sous 366 nm est donc bien plus probablement un timbre ordinaire abîmé qu'une nuance rare.",
   "tag": "span"
  },
  "d194b08c7e": {
@@ -18967,6 +19198,17 @@
    "pata-kresba.html"
   ],
   "fr": "50h bleu",
+  "tag": "span"
+ },
+ "d421461e9b": {
+  "cs": "Zdroj: František Beneš, <em>Barva známky 15 haléřů Hradčany 1918</em> (I a II).",
+  "de": "Quelle: František Beneš, <em>Die Farbe der 15-Heller-Marke Hradschin 1918</em> (Teil I und II).",
+  "en": "Source: František Beneš, <em>The colour of the 15 heller Hradčany stamp of 1918</em> (parts I and II).",
+  "es": "Fuente: František Beneš, <em>El color del sello de 15 héleres Hradčany 1918</em> (partes I y II).",
+  "files": [
+   "15h/barvy.html"
+  ],
+  "fr": "Source : František Beneš, <em>La couleur du timbre à 15 hellers Hradčany 1918</em> (parties I et II).",
   "tag": "span"
  },
  "d429f4daa0": {
@@ -19861,6 +20103,17 @@
   "fr": "Usage postal",
   "tag": "span"
  },
+ "dc739977fe": {
+  "cs": "Papír z roku 1919 neobsahuje optická bělidla. Pokud tedy pod lampou <strong>svítí modrobíle papír</strong>, není to údaj o odstínu — je to pozdější papír, oprava, přelepení nebo zesílení ztenčeniny. Užitečné zjištění, ale odpověď na úplně jinou otázku než na tu po barvě tisku.",
+  "de": "Papier aus dem Jahr 1919 enthält keine optischen Aufheller. Leuchtet also unter der Lampe <strong>das Papier blauweiß</strong>, so ist das keine Aussage über den Farbton — es bedeutet späteres Papier, eine Reparatur, eine Nachgummierung oder eine hinterlegte Dünnstelle. Ein nützlicher Befund, aber die Antwort auf eine ganz andere Frage als die nach der Druckfarbe.",
+  "en": "Paper from 1919 contains no optical brighteners. So if <strong>the paper itself glows blue-white</strong> under the lamp, that is not a statement about shade — it means later paper, a repair, regumming or a filled thin. A useful finding, but the answer to a completely different question than the colour of the printing ink.",
+  "es": "El papel de 1919 no contiene blanqueadores ópticos. Así que si <strong>el propio papel brilla en blanco azulado</strong> bajo la lámpara, no es un dato sobre el matiz — significa papel posterior, una reparación, un regomado o un adelgazamiento rellenado. Un hallazgo útil, pero la respuesta a una pregunta muy distinta de la del color de impresión.",
+  "files": [
+   "15h/barvy.html"
+  ],
+  "fr": "Le papier de 1919 ne contient pas d'azurants optiques. Si donc <strong>le papier lui-même luit d'un blanc bleuté</strong> sous la lampe, ce n'est pas une indication de nuance — cela signifie papier postérieur, réparation, regommage ou amincissement comblé. Une constatation utile, mais la réponse à une tout autre question que celle de la couleur d'impression.",
+  "tag": "span"
+ },
  "dc8cc82ccc": {
   "cs": "<a href=\"#tisk-na-lepu\">Obtisk</a> je přenos čerstvé barvy z jiného archu: leží na lepové straně a je <strong>zrcadlově obrácený</strong>. Oba otisky dvojitého tisku jsou na líci a oba se čtou správně.",
   "de": "Ein <a href=\"#tisk-na-lepu\">Abklatsch</a> ist die Übertragung frischer Farbe von einem anderen Bogen: er liegt auf der Gummiseite und ist <strong>seitenverkehrt</strong>. Beide Abdrucke eines Doppeldrucks liegen auf der Vorderseite und beide lesen sich richtig.",
@@ -20336,6 +20589,17 @@
   "fr": "Nouvel article – <a href=\"15h/clanky/15h-td7-humpolec.html\"><strong>deux timbres de 15 h de la septième planche d'impression sur un même pli</strong></a> (Humpolec, 3&nbsp;août&nbsp;1919, positions&nbsp;9 et&nbsp;19 de la planche&nbsp;VII). La planche VII est la moins documentée des sept planches — les relevés du site ne comptent que 122 exemplaires attribués, couvrant 70 positions —, ce qui fait de cette découverte de deux positions différentes sur un même pli l'un des ajouts les plus significatifs à la documentation de cette planche.",
   "tag": "span"
  },
+ "e1e5e7c500": {
+  "cs": "barva na denním světle",
+  "de": "Farbe bei Tageslicht",
+  "en": "colour in daylight",
+  "es": "color a la luz del día",
+  "files": [
+   "15h/barvy.html"
+  ],
+  "fr": "couleur à la lumière du jour",
+  "tag": "span"
+ },
  "e26bab4fe6": {
   "cs": "Velmi silný posun nahoru — nad kresbou přebývá široký pruh prázdného papíru, dolní řada leží těsně u rámečku.",
   "de": "Sehr starke Verschiebung nach oben — über der Zeichnung steht ein breiter Streifen leeren Papiers über, die untere Reihe liegt dicht am Rahmen.",
@@ -20368,6 +20632,13 @@
   ],
   "fr": "Très rare — seulement 51 pièces sur 21 329 timbres déterminés (0,24 %) ; la planche la plus rare de la valeur 15h.",
   "tag": "span"
+ },
+ "e2dc6c380d": {
+  "cs": "<strong>15h</strong> — <a href=\"15h/mapa.html\"><strong>Mapa razítek</strong></a> doplněna o Rynoltice a Mikulovice na desce III a o vlakovou poštu 113 Broumov–Choceň; opravena poloha Práchně. Mezi <a href=\"15h/posta.html\"><strong>poštovně použité nezoubkované známky desek 5 a 6</strong></a> přibyl kus z Košic 2 (pole 29/V, 26.&nbsp;VI.&nbsp;1920), vrstva jich má nyní třináct. <a href=\"15h/statistiky.html\"><strong>Statistiky</strong></a> aktualizovány na 6&nbsp;527 datovaných razítek. Na desce VII přibyl <strong>Horní Benešov</strong> (19.&nbsp;VII.&nbsp;1919) a druhý kus z <strong>Karviné</strong> (7.&nbsp;X.&nbsp;1919).",
+  "de": "<strong>15h</strong> — Die <a href=\"15h/mapa.html\"><strong>Stempelkarte</strong></a> wurde um Rynoltice und Mikulovice auf Platte III sowie um die Bahnpost 113 Broumov–Choceň ergänzt; die Lage von Prácheň wurde korrigiert. Zu den <a href=\"15h/posta.html\"><strong>postalisch verwendeten ungezähnten Marken der Platten 5 und 6</strong></a> kam ein Stück aus Košice 2 (Feld 29/V, 26.&nbsp;VI.&nbsp;1920) hinzu; es sind nun dreizehn. Die <a href=\"15h/statistiky.html\"><strong>Statistiken</strong></a> wurden auf 6&nbsp;527 datierte Stempel aktualisiert. Auf Platte VII kamen <strong>Horní Benešov</strong> (19.&nbsp;VII.&nbsp;1919) und ein zweites Stück aus <strong>Karviná</strong> (7.&nbsp;X.&nbsp;1919) hinzu.",
+  "en": "<strong>15h</strong> — The <a href=\"15h/mapa.html\"><strong>cancellation map</strong></a> gains Rynoltice and Mikulovice on plate III and the travelling post office 113 Broumov–Choceň; the position of Prácheň has been corrected. A copy from Košice 2 (field 29/V, 26&nbsp;June&nbsp;1920) has been added to the <a href=\"15h/posta.html\"><strong>postally used imperforate stamps of plates 5 and 6</strong></a>, which now number thirteen. The <a href=\"15h/statistiky.html\"><strong>statistics</strong></a> have been updated to 6&nbsp;527 dated cancellations. Plate VII gains <strong>Horní Benešov</strong> (19&nbsp;July&nbsp;1919) and a second copy from <strong>Karviná</strong> (7&nbsp;October&nbsp;1919).",
+  "es": "<strong>15h</strong> — El <a href=\"15h/mapa.html\"><strong>mapa de matasellos</strong></a> incorpora Rynoltice y Mikulovice en la plancha III y la ambulancia postal 113 Broumov–Choceň; se ha corregido la posición de Prácheň. Un ejemplar de Košice 2 (campo 29/V, 26&nbsp;de&nbsp;junio&nbsp;de&nbsp;1920) se suma a los <a href=\"15h/posta.html\"><strong>sellos sin dentar de las planchas 5 y 6 con uso postal</strong></a>, que ahora son trece. Las <a href=\"15h/statistiky.html\"><strong>estadísticas</strong></a> se actualizan a 6&nbsp;527 matasellos fechados. En la plancha VII se suman <strong>Horní Benešov</strong> (19&nbsp;de&nbsp;julio&nbsp;de&nbsp;1919) y un segundo ejemplar de <strong>Karviná</strong> (7&nbsp;de&nbsp;octubre&nbsp;de&nbsp;1919).",
+  "fr": "<strong>15h</strong> — La <a href=\"15h/mapa.html\"><strong>carte des oblitérations</strong></a> s'enrichit de Rynoltice et Mikulovice sur la planche III et de la poste ambulante 113 Broumov–Choceň ; la position de Prácheň a été corrigée. Un exemplaire de Košice 2 (champ 29/V, 26&nbsp;juin&nbsp;1920) rejoint les <a href=\"15h/posta.html\"><strong>timbres non dentelés des planches 5 et 6 ayant voyagé</strong></a>, désormais au nombre de treize. Les <a href=\"15h/statistiky.html\"><strong>statistiques</strong></a> passent à 6&nbsp;527 oblitérations datées. La planche VII gagne <strong>Horní Benešov</strong> (19&nbsp;juillet&nbsp;1919) et un second exemplaire de <strong>Karviná</strong> (7&nbsp;octobre&nbsp;1919)."
  },
  "e2ffe650ea": {
   "cs": "Arch Hradčan tvoří <strong>100 známkových polí</strong> a každé má své číslo. Některé hodnoty se tiskly z několika tiskových desek, a proto se známka označuje dvojicí <strong>ZP/TD</strong> — třeba <strong>37/III</strong> je 37. pole třetí desky.",
@@ -21011,6 +21282,17 @@
   "fr": "Hradčany 15h — défauts de fabrication : dentelure, impression et papier.",
   "tag": "meta"
  },
+ "e9cb72d90d": {
+  "cs": "hnědofialová nebo karmínová",
+  "de": "braunviolett oder karminrot",
+  "en": "brownish violet or carmine",
+  "es": "violeta parduzco o carmín",
+  "files": [
+   "15h/barvy.html"
+  ],
+  "fr": "violet brunâtre ou carmin",
+  "tag": "span"
+ },
  "e9e404d6ee": {
   "cs": "Nejstarší příležitostné razítko na Hradčanech — Slet ve Znojmě, 24. 8. 1919",
   "de": "Der älteste Sonderstempel auf der Hradschin-Ausgabe — das Sokol-Treffen in Znaim, 24.8.1919",
@@ -21127,6 +21409,17 @@
   "fr": "75h – gris-vert",
   "tag": "span"
  },
+ "eab9761571": {
+  "cs": "Aby si člověk UV odstín uměl představit, přirovnává je Beneš u některých položek k všeobecně známým barvám jiných hodnot emise, jak se jeví na denním světle: <sup>7</sup> asi jako 20h karmínová (Pof. 9) · <sup>8</sup> asi jako 30h světle resp. tmavě fialová (Pof. 13 a 13a) · <sup>9</sup> asi jako 25h černofialová (Pof. 11) · <sup>10</sup> asi jako 25h fialová (Pof. 11).",
+  "de": "Um sich die UV-Töne besser vorstellen zu können, vergleicht Beneš einige davon mit den allgemein bekannten Tageslichtfarben anderer Werte der Ausgabe: <sup>7</sup> etwa wie 20 h Karminrot (Pof. 9) · <sup>8</sup> etwa wie 30 h Hell- bzw. Dunkelviolett (Pof. 13 und 13a) · <sup>9</sup> etwa wie 25 h Schwarzviolett (Pof. 11) · <sup>10</sup> etwa wie 25 h Violett (Pof. 11).",
+  "en": "To make the UV shades easier to picture, Beneš compares some of them to the well-known daylight colours of other values of the issue: <sup>7</sup> roughly the 20h carmine (Pof. 9) · <sup>8</sup> roughly the 30h light resp. dark violet (Pof. 13 and 13a) · <sup>9</sup> roughly the 25h blackish violet (Pof. 11) · <sup>10</sup> roughly the 25h violet (Pof. 11).",
+  "es": "Para que los tonos UV resulten más fáciles de imaginar, Beneš compara algunos con los colores bien conocidos de otros valores de la emisión tal como se ven a la luz del día: <sup>7</sup> aproximadamente el 20 h carmín (Pof. 9) · <sup>8</sup> aproximadamente el 30 h violeta claro resp. oscuro (Pof. 13 y 13a) · <sup>9</sup> aproximadamente el 25 h violeta negruzco (Pof. 11) · <sup>10</sup> aproximadamente el 25 h violeta (Pof. 11).",
+  "files": [
+   "15h/barvy.html"
+  ],
+  "fr": "Pour rendre les tons UV plus faciles à se représenter, Beneš en compare certains aux couleurs bien connues d'autres valeurs de l'émission telles qu'elles paraissent à la lumière du jour : <sup>7</sup> à peu près le 20 h carmin (Pof. 9) · <sup>8</sup> à peu près le 30 h violet clair resp. foncé (Pof. 13 et 13a) · <sup>9</sup> à peu près le 25 h violet noirâtre (Pof. 11) · <sup>10</sup> à peu près le 25 h violet (Pof. 11).",
+  "tag": "span"
+ },
  "eae396e244": {
   "cs": "Zvrásnění papíru — kus 17",
   "de": "Papierfaltung — Stück 17",
@@ -21220,6 +21513,17 @@
    "15h/index.html"
   ],
   "fr": "Usage attesté",
+  "tag": "span"
+ },
+ "ec0442f715": {
+  "cs": "zářivá světle červená",
+  "de": "leuchtend hellrot",
+  "en": "brilliant light red",
+  "es": "rojo claro brillante",
+  "files": [
+   "15h/barvy.html"
+  ],
+  "fr": "rouge clair éclatant",
   "tag": "span"
  },
  "ec1bfcc8f6": {
@@ -22904,6 +23208,17 @@
   "files": [],
   "fr": "<tspan x=\"117\" y=\"266\">au coin, un seul</tspan><tspan x=\"117\" y=\"280\">trou commun</tspan>",
   "tag": "cap"
+ },
+ "ff37791feb": {
+  "cs": "Nejdůležitější je to, co v tabulce <em>není</em> vidět na první pohled. <strong>Skupiny 3 a 4 mají v denním světle naprosto stejný popis</strong> — cihlově (oranžově) červená — a pod 366 nm se rozejdou na zářivou světle červenou proti tmavě červené. Totéž platí pro <strong>skupiny 2 a 5</strong>: obojí je za denního světla „světle červená“, ale pod lampou hnědofialová proti fialové. Jinými slovy: UV rozliší odstíny, které jsou okem za denního světla nerozlišitelné. To je celý smysl té lampy.",
+  "de": "Das Wichtigste ist das, was die Tabelle auf den ersten Blick <em>nicht</em> zeigt. <strong>Die Gruppen 3 und 4 tragen bei Tageslicht genau dieselbe Beschreibung</strong> — Ziegelrot (Orangerot) —, unter 366 nm trennen sie sich jedoch in leuchtendes Hellrot gegenüber Dunkelrot. Dasselbe gilt für die <strong>Gruppen 2 und 5</strong>: bei Tageslicht beide „hellrot“, unter der Lampe aber braunviolett gegenüber violett. Mit anderen Worten: UV trennt Farbtöne, die das Auge bei Tageslicht nicht trennen kann. Darin liegt der ganze Sinn der Lampe.",
+  "en": "The most important thing is what the table does not show at first glance. <strong>Groups 3 and 4 have exactly the same daylight description</strong> — brick (orange) red — yet under 366 nm they separate into brilliant light red versus dark red. The same goes for <strong>groups 2 and 5</strong>: both are &bdquo;light red&ldquo; in daylight, but brownish violet versus violet under the lamp. In other words: UV separates shades the eye cannot separate in daylight. That is the whole point of the lamp.",
+  "es": "Lo más importante es lo que la tabla <em>no</em> muestra a primera vista. <strong>Los grupos 3 y 4 llevan a la luz del día exactamente la misma descripción</strong> — rojo ladrillo (rojo anaranjado) — y sin embargo bajo 366 nm se separan en rojo claro brillante frente a rojo oscuro. Lo mismo ocurre con los <strong>grupos 2 y 5</strong>: ambos «rojo claro» a la luz del día, pero violeta parduzco frente a violeta bajo la lámpara. Dicho de otro modo: el UV separa matices que el ojo no distingue a la luz del día. En eso consiste todo el sentido de la lámpara.",
+  "files": [
+   "15h/barvy.html"
+  ],
+  "fr": "Le plus important est ce que le tableau ne montre <em>pas</em> au premier regard. <strong>Les groupes 3 et 4 portent à la lumière du jour exactement la même description</strong> — rouge brique (rouge orangé) — et se séparent pourtant sous 366 nm en rouge clair éclatant contre rouge foncé. Il en va de même des <strong>groupes 2 et 5</strong> : tous deux « rouge clair » à la lumière du jour, mais violet brunâtre contre violet sous la lampe. Autrement dit : l'UV sépare des nuances que l'œil ne sait pas séparer à la lumière du jour. C'est là tout l'intérêt de la lampe.",
+  "tag": "span"
  },
  "ff3ca0fa01": {
   "cs": "Kus 1 — V nápisu „ČESKO-SLOVENSKO“ vlevo.",
