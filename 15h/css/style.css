@@ -279,3 +279,10 @@ a.t7:hover{filter:brightness(1.12);text-decoration:none}
   content:"";display:block;margin-top:.5rem;border-top:1px dashed var(--line);
 }
 @media(max-width:640px){.gf-lab{min-width:100%}}
+
+/* 2026-09-05: malá mřížka obrázků (posta.html #posledni-den) */
+.imggrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:14px;margin:16px 0}
+.imggrid figure{margin:0;text-align:center}
+.imggrid img{width:100%;height:auto;border:1px solid var(--line);border-radius:6px;background:#fff}
+.imggrid figcaption{font-size:.82rem;color:var(--muted);margin-top:.3rem}
+@media (max-width:640px){.imggrid{grid-template-columns:repeat(2,1fr)!important}}
