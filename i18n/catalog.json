@@ -23820,5 +23820,93 @@
    "15h/posta.html"
   ],
   "tag": "span"
+ },
+ "d0de30e915": {
+  "cs": "ZP&nbsp;64/IV, zoubkování&nbsp;A",
+  "en": "field&nbsp;64/IV, perforation&nbsp;A",
+  "de": "Feld&nbsp;64/IV, Zähnung&nbsp;A",
+  "fr": "case&nbsp;64/IV, dentelure&nbsp;A",
+  "es": "posición&nbsp;64/IV, dentado&nbsp;A",
+  "files": [
+   "15h/posta.html"
+  ],
+  "tag": "span"
+ },
+ "fa94344e96": {
+  "cs": "Kus 1 — ZP&nbsp;64/IV, zoubkování&nbsp;A, razítko 30.&nbsp;IV.&nbsp;1921.",
+  "en": "Item 1 — field&nbsp;64/IV, perforation&nbsp;A, cancelled 30&nbsp;IV&nbsp;1921.",
+  "de": "Stück 1 — Feld&nbsp;64/IV, Zähnung&nbsp;A, Stempel vom 30.&nbsp;IV.&nbsp;1921.",
+  "fr": "Pièce 1 — case&nbsp;64/IV, dentelure&nbsp;A, oblitérée le 30&nbsp;IV&nbsp;1921.",
+  "es": "Pieza 1 — posición&nbsp;64/IV, dentado&nbsp;A, matasellada el 30&nbsp;IV&nbsp;1921.",
+  "files": [
+   "15h/posta.html"
+  ],
+  "tag": "span"
+ },
+ "93c3f2ec88": {
+  "cs": "ZP&nbsp;99/IV, zoubkování&nbsp;B",
+  "en": "field&nbsp;99/IV, perforation&nbsp;B",
+  "de": "Feld&nbsp;99/IV, Zähnung&nbsp;B",
+  "fr": "case&nbsp;99/IV, dentelure&nbsp;B",
+  "es": "posición&nbsp;99/IV, dentado&nbsp;B",
+  "files": [
+   "15h/posta.html"
+  ],
+  "tag": "span"
+ },
+ "17b022e216": {
+  "cs": "Kus 2 — ZP&nbsp;99/IV, zoubkování&nbsp;B, razítko 30.&nbsp;IV.&nbsp;1921.",
+  "en": "Item 2 — field&nbsp;99/IV, perforation&nbsp;B, cancelled 30&nbsp;IV&nbsp;1921.",
+  "de": "Stück 2 — Feld&nbsp;99/IV, Zähnung&nbsp;B, Stempel vom 30.&nbsp;IV.&nbsp;1921.",
+  "fr": "Pièce 2 — case&nbsp;99/IV, dentelure&nbsp;B, oblitérée le 30&nbsp;IV&nbsp;1921.",
+  "es": "Pieza 2 — posición&nbsp;99/IV, dentado&nbsp;B, matasellada el 30&nbsp;IV&nbsp;1921.",
+  "files": [
+   "15h/posta.html"
+  ],
+  "tag": "span"
+ },
+ "2a06a9a3aa": {
+  "cs": "ZP&nbsp;46/IV, zoubkování&nbsp;B",
+  "en": "field&nbsp;46/IV, perforation&nbsp;B",
+  "de": "Feld&nbsp;46/IV, Zähnung&nbsp;B",
+  "fr": "case&nbsp;46/IV, dentelure&nbsp;B",
+  "es": "posición&nbsp;46/IV, dentado&nbsp;B",
+  "files": [
+   "15h/posta.html"
+  ],
+  "tag": "span"
+ },
+ "5c4f99e768": {
+  "cs": "Kus 3 — ZP&nbsp;46/IV, zoubkování&nbsp;B, razítko 30.&nbsp;IV.&nbsp;1921.",
+  "en": "Item 3 — field&nbsp;46/IV, perforation&nbsp;B, cancelled 30&nbsp;IV&nbsp;1921.",
+  "de": "Stück 3 — Feld&nbsp;46/IV, Zähnung&nbsp;B, Stempel vom 30.&nbsp;IV.&nbsp;1921.",
+  "fr": "Pièce 3 — case&nbsp;46/IV, dentelure&nbsp;B, oblitérée le 30&nbsp;IV&nbsp;1921.",
+  "es": "Pieza 3 — posición&nbsp;46/IV, dentado&nbsp;B, matasellada el 30&nbsp;IV&nbsp;1921.",
+  "files": [
+   "15h/posta.html"
+  ],
+  "tag": "span"
+ },
+ "04436b2039": {
+  "cs": "ZP&nbsp;16/V, zoubkování&nbsp;C, strojové razítko",
+  "en": "field&nbsp;16/V, perforation&nbsp;C, machine cancel",
+  "de": "Feld&nbsp;16/V, Zähnung&nbsp;C, Maschinenstempel",
+  "fr": "case&nbsp;16/V, dentelure&nbsp;C, oblitération mécanique",
+  "es": "posición&nbsp;16/V, dentado&nbsp;C, matasellos mecánico",
+  "files": [
+   "15h/posta.html"
+  ],
+  "tag": "span"
+ },
+ "b55d260707": {
+  "cs": "Kus 4 — ZP&nbsp;16/V, zoubkování&nbsp;C, strojové razítko, razítko 30.&nbsp;IV.&nbsp;1921.",
+  "en": "Item 4 — field&nbsp;16/V, perforation&nbsp;C, machine cancel, cancelled 30&nbsp;IV&nbsp;1921.",
+  "de": "Stück 4 — Feld&nbsp;16/V, Zähnung&nbsp;C, Maschinenstempel, Stempel vom 30.&nbsp;IV.&nbsp;1921.",
+  "fr": "Pièce 4 — case&nbsp;16/V, dentelure&nbsp;C, oblitération mécanique, oblitérée le 30&nbsp;IV&nbsp;1921.",
+  "es": "Pieza 4 — posición&nbsp;16/V, dentado&nbsp;C, matasellos mecánico, matasellada el 30&nbsp;IV&nbsp;1921.",
+  "files": [
+   "15h/posta.html"
+  ],
+  "tag": "span"
  }
 }
