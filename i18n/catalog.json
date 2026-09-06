@@ -443,6 +443,17 @@
   "fr": "Exemples d'utilisation — Hradčany 15h",
   "tag": "span"
  },
+ "0580ea289e": {
+  "cs": "Druhé čtení se týká desek. První tři odstíny se vyskytují na známkách z desek I, II a VII, takže každou z těchto desek lze doložit ve třech odstínech — dohromady devět variant. Vrba je ukazuje na nezoubkovaných známkách z desky VII (pole 98 cihlově červené i hnědočervené, pole 61 červené) a na zoubkovaných 13¾ : 13½ z pole 92 desek II, I a VII; u ostatních zoubkování je situace jiná a odkazuje na katalog. V rámci každého odstínu existují světlejší a tmavší kusy podle tloušťky vrstvy barvy a druhu papíru. Karmínovou zjistil u známek z desek V a VI; označení „rumělková“ se používá pro známky z jednotypových desek III–VI, tedy výhradně s otevřenou spirálou I. typu.",
+  "de": "Die zweite Lesart betrifft die Platten. Die ersten drei Farbtöne kommen auf Marken der Platten I, II und VII vor, sodass sich jede dieser Platten in drei Farbtönen belegen lässt — insgesamt neun Varianten. Vrba zeigt sie an ungezähnten Marken der Platte VII (Feld 98 in Ziegelrot und in Rotbraun, Feld 61 in Rot) und an gezähnten 13¾ : 13½ vom Feld 92 der Platten II, I und VII; bei den übrigen Zähnungen ist die Lage anders, und er verweist auf den Katalog. Innerhalb jedes Farbtons gibt es hellere und dunklere Stücke je nach Dicke der Farbschicht und Papiersorte. Karmin stellte er bei Marken der Platten V und VI fest; die Bezeichnung „Zinnoberrot“ wird für Marken der Eintyp-Platten III–VI verwendet, also ausschließlich mit der offenen Spirale des Typs I.",
+  "en": "The second reading concerns the plates. The first three shades occur on stamps from plates I, II and VII, so each of these plates can be documented in three shades — nine variants in all. Vrba shows them on imperforate stamps from plate VII (field 98 in brick red and in brownish red, field 61 in red) and on perforated 13¾ : 13½ stamps from field 92 of plates II, I and VII; for the other perforations the situation differs and he refers to the catalogue. Within each shade there are lighter and darker copies according to the thickness of the ink layer and the kind of paper. He found carmine on stamps from plates V and VI; the term “vermilion” is used for stamps from the single-type plates III–VI, i.e. exclusively with the open type I spiral.",
+  "es": "La segunda lectura se refiere a las planchas. Los tres primeros matices aparecen en sellos de las planchas I, II y VII, de modo que cada una de ellas puede documentarse en tres matices: nueve variantes en total. Vrba los muestra en sellos sin dentar de la plancha VII (campo 98 en rojo ladrillo y en rojo pardo, campo 61 en rojo) y en sellos dentados 13¾ : 13½ del campo 92 de las planchas II, I y VII; en los demás dentados la situación es distinta y remite al catálogo. Dentro de cada matiz hay ejemplares más claros y más oscuros según el grosor de la capa de tinta y el tipo de papel. El carmín lo halló en sellos de las planchas V y VI; la denominación «bermellón» se usa para los sellos de las planchas de un solo tipo III–VI, es decir, exclusivamente con la espiral abierta del tipo I.",
+  "files": [
+   "15h/barvy.html"
+  ],
+  "fr": "La seconde lecture concerne les planches. Les trois premières nuances se rencontrent sur des timbres des planches I, II et VII, de sorte que chacune de ces planches peut être attestée en trois nuances — neuf variantes au total. Vrba les montre sur des timbres non dentelés de la planche VII (case 98 en rouge brique et en brun rougeâtre, case 61 en rouge) et sur des timbres dentelés 13¾ : 13½ de la case 92 des planches II, I et VII ; pour les autres dentelures la situation est différente et il renvoie au catalogue. Au sein de chaque nuance existent des exemplaires plus clairs et plus foncés selon l’épaisseur de la couche d’encre et le type de papier. Il a constaté le carmin sur des timbres des planches V et VI ; la dénomination « vermillon » s’emploie pour les timbres des planches à type unique III–VI, c’est-à-dire exclusivement à spirale ouverte du type I.",
+  "tag": "span"
+ },
  "0586bd48ca": {
   "cs": "Zvrásnění papíru",
   "de": "Papierfaltung",
@@ -1844,6 +1855,17 @@
   "fr": "Planches d’impression I–II — positions manquantes",
   "tag": "span"
  },
+ "17f8458820": {
+  "cs": "Z 6 818 čitelně datovaných razítek. Pořadí ukazuje, jak výroba postupovala od řádkových zoubkování D/E/F na raných deskách k hřebenovým A/B na deskách pozdějších.",
+  "de": "Von 6.818 lesbar datierten Stempeln. Die Reihenfolge zeigt, wie die Produktion von den Linienzähnungen D/E/F auf den frühen Platten zu den Kammzähnungen A/B auf den späteren Platten überging.",
+  "en": "From 6,818 legibly dated cancellations. The sequence shows production moving from line perforations D/E/F on the early plates to comb perforations A/B on the later ones.",
+  "es": "De 6.818 matasellos legiblemente fechados. El orden muestra cómo la producción pasó de los dentados lineales D/E/F en las planchas tempranas a los dentados de peine A/B en las planchas posteriores.",
+  "files": [
+   "15h/zoubkovani.html"
+  ],
+  "fr": "Sur 6 818 oblitérations lisiblement datées. L’ordre montre comment la production est passée des dentelures linéaires D/E/F sur les planches anciennes aux dentelures en peigne A/B sur les planches plus tardives.",
+  "tag": "span"
+ },
  "17ffb69e68": {
   "cs": "Podrobný statistický rozbor hodnoty 15h vychází z vlastní evidence: <strong>21 580 určených známek</strong>, z toho <strong>6 638 s čitelně datovaným razítkem</strong> (stav 5. 9. 2026). Zdrojem jsou listy „Stats 15h“ a „Usage Stats 15h“ evidenčního sešitu.",
   "de": "Die ausführliche statistische Auswertung der 15h beruht auf der eigenen Erfassung: <strong>21 580 bestimmte Marken</strong>, davon <strong>6 638 mit lesbar datiertem Stempel</strong> (Stand 5. 9. 2026). Quelle sind die Blätter „Stats 15h“ und „Usage Stats 15h“ der Erfassungsdatei.",
@@ -2194,6 +2216,17 @@
    "15h/vyrobni-vady.html"
   ],
   "fr": "Fissure marquée du coin supérieur gauche sur la 11e position de la deuxième planche, manifestement consécutive à un dommage survenu lors du nettoyage régulier. La fissure s’est peu à peu agrandie ; l’article la répartit en cinq phases et montre leur présence dans les différentes dentelures —",
+  "tag": "span"
+ },
+ "1ca754cd9d": {
+  "cs": "světlá, nanejvýš lehce ztmavne — „září“",
+  "de": "hell, höchstens leicht dunkler — sie „leuchtet“",
+  "en": "light, at most slightly darker — it “glows”",
+  "es": "clara, a lo sumo un poco más oscura: «brilla»",
+  "files": [
+   "15h/barvy.html"
+  ],
+  "fr": "claire, tout au plus légèrement assombrie — elle « brille »",
   "tag": "span"
  },
  "1cd97be6f5": {
@@ -3492,6 +3525,17 @@
   "fr": "Décalage vers la droite, léger seulement à la verticale — large marge à droite, étroite à gauche.",
   "tag": "span"
  },
+ "2bbbfd776e": {
+  "cs": "Z tabulky plyne jedno pravidlo, které se dá nosit v hlavě: <strong>drahé odstíny nezáří.</strong> Hnědočervená i červená pod lampou ztmavnou do hněda, zatímco obyčejná cihlově červená a rumělková zůstanou světlé a „svítí“. Lampa tedy na první pohled oddělí levné od drahého — ovšem jen se srovnávacím kusem vedle, absolutní posouzení pod UV nefunguje (viz výše).",
+  "de": "Aus der Tabelle folgt eine Regel, die man sich merken kann: <strong>Die teuren Farbtöne leuchten nicht.</strong> Rotbraun und Rot werden unter der Lampe braun, während das gewöhnliche Ziegelrot und das Zinnoberrot hell bleiben und „strahlen“. Die Lampe trennt also auf den ersten Blick das Billige vom Teuren — allerdings nur mit einem Vergleichsstück daneben; eine absolute Beurteilung unter UV funktioniert nicht (siehe oben).",
+  "en": "The table yields one rule worth carrying in one’s head: <strong>the expensive shades do not glow.</strong> Brownish red and red darken to brown under the lamp, while the ordinary brick red and vermilion stay light and “shine”. The lamp thus separates the cheap from the dear at a glance — but only with a comparison piece alongside; absolute judgement under UV does not work (see above).",
+  "es": "De la tabla se desprende una regla fácil de recordar: <strong>los matices caros no brillan.</strong> El rojo pardo y el rojo se oscurecen a marrón bajo la lámpara, mientras que el rojo ladrillo corriente y el bermellón permanecen claros y «lucen». La lámpara separa así a primera vista lo barato de lo caro, pero solo con una pieza de comparación al lado; la valoración absoluta bajo UV no funciona (véase arriba).",
+  "files": [
+   "15h/barvy.html"
+  ],
+  "fr": "Du tableau découle une règle qu’on peut garder en tête : <strong>les nuances chères ne brillent pas.</strong> Le brun rougeâtre et le rouge virent au brun sous la lampe, tandis que le rouge brique ordinaire et le vermillon restent clairs et « rayonnent ». La lampe sépare donc au premier coup d’œil le bon marché du cher — mais seulement avec une pièce de comparaison à côté ; le jugement absolu sous UV ne fonctionne pas (voir plus haut).",
+  "tag": "span"
+ },
  "2bc2b15b4b": {
   "cs": "Zbytek archu ležel v normální výšce a otiskl se čistě.",
   "de": "Der übrige Teil des Bogens lag in normaler Höhe und druckte sauber ab.",
@@ -3534,6 +3578,17 @@
    "15h/knihtisk.html"
   ],
   "fr": "Il en découle deux traces qui permettent de reconnaître la typographie même après cent ans. Le papier est <strong>enfoncé</strong> à l’emplacement des éléments imprimants — le dessin est perceptible au toucher du verso et visible en lumière rasante. Et comme l’encre est chassée sur les côtés sous la pression, elle s’accumule souvent en un <strong>liseré</strong> plus sombre au bord des surfaces encrées.",
+  "tag": "span"
+ },
+ "2cf19cd910": {
+  "cs": "červená až sytě červená",
+  "de": "rot bis sattrot",
+  "en": "red to deep red",
+  "es": "rojo a rojo intenso",
+  "files": [
+   "15h/barvy.html"
+  ],
+  "fr": "rouge à rouge soutenu",
   "tag": "span"
  },
  "2d00d1c7d9": {
@@ -3643,6 +3698,17 @@
    "15h/vyrobni-vady.html"
   ],
   "fr": "L’émission a été produite en 1919–1920 dans des conditions provisoires, dans la hâte et sur plusieurs machines différentes. Un outil imparfaitement réglé ou usé et un travail rapide expliquent pourquoi les décalages sont nettement plus fréquents sur les Hradčany que sur les émissions ultérieures.",
+  "tag": "span"
+ },
+ "2e51440842": {
+  "cs": "denní světlo",
+  "de": "Tageslicht",
+  "en": "daylight",
+  "es": "luz del día",
+  "files": [
+   "15h/barvy.html"
+  ],
+  "fr": "lumière du jour",
   "tag": "span"
  },
  "2e670825c7": {
@@ -4026,6 +4092,17 @@
   "fr": "500h – identification des timbres au type I de la spirale de la planche II",
   "tag": "span"
  },
+ "313ee3a7c9": {
+  "cs": "tmavě karmínová",
+  "de": "dunkelkarmin",
+  "en": "dark carmine",
+  "es": "carmín oscuro",
+  "files": [
+   "15h/barvy.html"
+  ],
+  "fr": "carmin foncé",
+  "tag": "span"
+ },
  "314379cf38": {
   "cs": "TD III–VI",
   "de": "Platten III–VI",
@@ -4206,6 +4283,17 @@
    "shanim.html"
   ],
   "fr": "Planche IV",
+  "tag": "span"
+ },
+ "3359b9cfb8": {
+  "cs": "odstín",
+  "de": "Farbton",
+  "en": "shade",
+  "es": "matiz",
+  "files": [
+   "15h/barvy.html"
+  ],
+  "fr": "nuance",
   "tag": "span"
  },
  "336f00b924": {
@@ -4516,6 +4604,17 @@
    "15h/tiskove-desky.html"
   ],
   "fr": "La bibliothèque complète des images de référence de toutes les positions se trouve dans la",
+  "tag": "span"
+ },
+ "36cf68f16b": {
+  "cs": "Vrba dodává, že některé padělky jsou primitivní a jiné zdařilé — a že existují i kusy, které v minulosti zmýlily tehdejší znalce a nesou jejich značku. Sám takový koupil v důvěře, že zkoušená známka je pravá. Zkušební značka tedy u 7a není náhradou za vlastní pohled pod lampu.",
+  "de": "Vrba fügt hinzu, dass manche Fälschungen primitiv, andere gelungen sind — und dass es auch Stücke gibt, die einst die damaligen Prüfer täuschten und deren Zeichen tragen. Er selbst kaufte ein solches im Vertrauen darauf, dass eine geprüfte Marke echt sein müsse. Ein Prüfzeichen ersetzt bei der 7a also nicht den eigenen Blick unter die Lampe.",
+  "en": "Vrba adds that some forgeries are primitive and others accomplished — and that there are pieces which misled the experts of their day and carry their mark. He himself bought one, trusting that an expertised stamp must be genuine. With the 7a an expert’s mark is therefore no substitute for one’s own look under the lamp.",
+  "es": "Vrba añade que algunas falsificaciones son primitivas y otras logradas, y que existen incluso piezas que en su día engañaron a los expertos de entonces y llevan su marca. Él mismo compró una confiando en que un sello examinado sería auténtico. En el 7a, pues, la marca de un experto no sustituye la propia mirada bajo la lámpara.",
+  "files": [
+   "15h/barvy.html"
+  ],
+  "fr": "Vrba ajoute que certains faux sont primitifs et d’autres réussis — et qu’il existe même des pièces qui ont trompé les experts de l’époque et portent leur marque. Il en a lui-même acheté une, confiant qu’un timbre expertisé devait être authentique. Pour le 7a, la marque d’expert ne remplace donc pas son propre examen sous la lampe.",
   "tag": "span"
  },
  "36df202f2a": {
@@ -5799,6 +5898,13 @@
   "fr": "Sur 6 732 oblitérations lisiblement datées. L’ordre montre comment la production est passée des dentelures linéaires D/E/F sur les planches anciennes aux dentelures en peigne A/B sur les planches plus tardives.",
   "tag": "span"
  },
+ "43ca9e9f62": {
+  "cs": "Podrobný statistický rozbor hodnoty 15h vychází z vlastní evidence: <strong>21 910 určených známek</strong>, z toho <strong>6 778 s čitelně datovaným razítkem</strong> (stav 5. 9. 2026). Zdrojem jsou listy „Stats 15h“ a „Usage Stats 15h“ evidenčního sešitu.",
+  "de": "Die ausführliche statistische Auswertung der 15h beruht auf der eigenen Erfassung: <strong>21 910 bestimmte Marken</strong>, davon <strong>6 778 mit lesbar datiertem Stempel</strong> (Stand 5. 9. 2026). Quelle sind die Blätter „Stats 15h“ und „Usage Stats 15h“ der Erfassungsdatei.",
+  "en": "The detailed statistical analysis of the 15h is based on the author’s records: <strong>21,910 attributed stamps</strong>, of which <strong>6,778 carry a legibly dated cancellation</strong> (as of 5 September 2026). The source is the “Stats 15h” and “Usage Stats 15h” sheets of the record workbook.",
+  "es": "El análisis estadístico detallado del 15h se basa en los registros propios: <strong>21 910 sellos atribuidos</strong>, de los cuales <strong>6 778 con matasellos legiblemente fechado</strong> (a 5 de septiembre de 2026). La fuente son las hojas «Stats 15h» y «Usage Stats 15h» del libro de registros.",
+  "fr": "L’analyse statistique détaillée du 15h repose sur les relevés de l’auteur : <strong>21 910 timbres attribués</strong>, dont <strong>6 778 avec une oblitération lisiblement datée</strong> (état au 5 septembre 2026). La source est constituée des feuilles « Stats 15h » et « Usage Stats 15h » du classeur de relevés."
+ },
  "43d986e09f": {
   "cs": "<strong>15h</strong> — Nová sekce <a href=\"15h/vyrobni-vady.html#ridky-tisk\"><strong>Řídký tisk se skvrnami</strong></a> ve Výrobních vadách: řídká, nerovnoměrně rozprostřená barva dá slabý, vytracený otisk, ale v týchž místech kresby se místy srazí do drobných sytě červených skvrn — se sedmi doloženými kusy a rozborem, proč nejde o bílou skvrnu, bludný kroužek, závoj ani světlinu.",
   "de": "<strong>15h</strong> — Neuer Abschnitt <a href=\"15h/vyrobni-vady.html#ridky-tisk\"><strong>Dünner Druck mit Farbflecken</strong></a> bei den Herstellungsfehlern: zu dünnflüssige, ungleichmäßig verteilte Farbe ergibt einen schwachen, verblassten Abdruck, doch genau an denselben Stellen der Zeichnung sammelt sie sich stellenweise zu kleinen, satt roten Flecken — mit sieben belegten Stücken und einer Analyse, warum es sich weder um einen weißen Fleck, einen wandernden Ring, einen Schleier noch eine Lichtstelle (světlina) handelt.",
@@ -5852,6 +5958,17 @@
    "prvni-kresba.html"
   ],
   "fr": "3h violet",
+  "tag": "span"
+ },
+ "4443f67a36": {
+  "cs": "Pro úvahu o karmínové v následující sekci dává Vrbův klíč konkrétní očekávání: pravá karmínová 7c má být pod 366 nm tmavě karmínová, kdežto rumělková 7d září světle. Kus, který v denním světle vypadá karmínově, ale pod lampou svítí jako rumělková, by tedy spíš odpovídal druhotně změněné rumělkové než samostatnému odstínu.",
+  "de": "Für die Überlegung zum Karmin im folgenden Abschnitt liefert Vrbas Schlüssel eine konkrete Erwartung: Ein echtes Karmin 7c sollte unter 366 nm dunkelkarmin sein, während das Zinnoberrot 7d hell leuchtet. Ein Stück, das bei Tageslicht karminrot aussieht, unter der Lampe aber wie Zinnoberrot strahlt, würde also eher zu einem nachträglich veränderten Zinnoberrot passen als zu einem eigenständigen Farbton.",
+  "en": "For the discussion of carmine in the next section Vrba’s key gives a concrete expectation: a genuine carmine 7c should be dark carmine under 366 nm, whereas vermilion 7d glows light. A piece that looks carmine in daylight but glows like vermilion under the lamp would therefore fit a secondarily altered vermilion better than a shade in its own right.",
+  "es": "Para la reflexión sobre el carmín de la sección siguiente, la clave de Vrba ofrece una expectativa concreta: un carmín 7c auténtico debería verse carmín oscuro bajo 366 nm, mientras que el bermellón 7d brilla claro. Una pieza que a la luz del día parece carmín pero bajo la lámpara luce como el bermellón correspondería, pues, más bien a un bermellón alterado secundariamente que a un matiz propio.",
+  "files": [
+   "15h/barvy.html"
+  ],
+  "fr": "Pour la réflexion sur le carmin de la section suivante, la clé de Vrba fournit une attente concrète : un vrai carmin 7c devrait être carmin foncé sous 366 nm, tandis que le vermillon 7d brille clair. Une pièce qui paraît carmin à la lumière du jour mais brille comme le vermillon sous la lampe correspondrait donc plutôt à un vermillon altéré secondairement qu’à une nuance à part entière.",
   "tag": "span"
  },
  "44c8f0c0de": {
@@ -6560,6 +6677,17 @@
   "fr": "Pièce 3 — Une tache aux contours nets traversant la base du château et la lettre L de l'inscription ČESKO-SLOVENSKA — la lettre disparaît complètement.",
   "tag": "span"
  },
+ "4b695627b0": {
+  "cs": "tiskové desky",
+  "de": "Druckplatten",
+  "en": "printing plates",
+  "es": "planchas",
+  "files": [
+   "15h/barvy.html"
+  ],
+  "fr": "planches",
+  "tag": "span"
+ },
  "4b91b7291c": {
   "cs": "60h — II. tisková deska",
   "de": "60h — II. Druckplatte",
@@ -6636,6 +6764,17 @@
    "15h/vyrobni-vady.html"
   ],
   "fr": "<strong>Prudence avec les pièces spectaculaires.</strong> Un fort décalage accroît l’attrait pour le collectionneur ; il convient donc de vérifier que la perforation est d’origine : comparer le pas avec un type attesté de la même planche et contrôler que la forme et la longueur des dents correspondent aux autres côtés du timbre.",
+  "tag": "span"
+ },
+ "4d07a47f7b": {
+  "cs": "Z 6 803 čitelně datovaných razítek. Pořadí ukazuje, jak výroba postupovala od řádkových zoubkování D/E/F na raných deskách k hřebenovým A/B na deskách pozdějších.",
+  "de": "Von 6.803 lesbar datierten Stempeln. Die Reihenfolge zeigt, wie die Produktion von den Linienzähnungen D/E/F auf den frühen Platten zu den Kammzähnungen A/B auf den späteren Platten überging.",
+  "en": "From 6,803 legibly dated cancellations. The sequence shows production moving from line perforations D/E/F on the early plates to comb perforations A/B on the later ones.",
+  "es": "De 6.803 matasellos legiblemente fechados. El orden muestra cómo la producción pasó de los dentados lineales D/E/F en las planchas tempranas a los dentados de peine A/B en las planchas posteriores.",
+  "files": [
+   "15h/zoubkovani.html"
+  ],
+  "fr": "Sur 6 803 oblitérations lisiblement datées. L’ordre montre comment la production est passée des dentelures linéaires D/E/F sur les planches anciennes aux dentelures en peigne A/B sur les planches plus tardives.",
   "tag": "span"
  },
  "4d2806819f": {
@@ -8116,6 +8255,17 @@
   "fr": "La carte postale avec l'oblitération du rassemblement régional du Sokol, Znojmo, 24&nbsp;août&nbsp;1919",
   "tag": "span"
  },
+ "5c3fc5e2dd": {
+  "cs": "tmavě hnědá až černohnědá — nezáří",
+  "de": "dunkelbraun bis schwarzbraun — leuchtet nicht",
+  "en": "dark brown to blackish brown — does not glow",
+  "es": "marrón oscuro a marrón negruzco: no brilla",
+  "files": [
+   "15h/barvy.html"
+  ],
+  "fr": "brun foncé à brun noirâtre — ne brille pas",
+  "tag": "span"
+ },
  "5c4f99e768": {
   "cs": "Kus 3 — ZP&nbsp;46/IV, zoubkování&nbsp;B, razítko 30.&nbsp;IV.&nbsp;1921.",
   "de": "Stück 3 — Feld&nbsp;46/IV, Zähnung&nbsp;B, Stempel vom 30.&nbsp;IV.&nbsp;1921.",
@@ -8147,6 +8297,17 @@
    "15h/knihtisk.html"
   ],
   "fr": "<strong>Le liseré d’encre.</strong> À la loupe, l’encre est plus sombre au bord des surfaces pleines qu’en leur milieu. C’est la trace de l’encre chassée sur les côtés par la pression.",
+  "tag": "span"
+ },
+ "5ca0535d1b": {
+  "cs": "Beneš popsal, co pod lampou viděl, a záměrně to nepřevedl na katalogová písmena. Marek Vrba šel v roce 2013 opačnou cestou: vzal <strong>pět odstínů, které vede příručka Pofis</strong>, a ke každému napsal, jak vypadá v denním světle, jak pod modrou trubicí 366 nm a ze kterých tiskových desek pochází. Je to nejbližší věc použitelnému klíči, jakou literatura nabízí. Vrba zdůrazňuje, že jeho zjištění platí především pro známky s původním lepem.",
+  "de": "Beneš beschrieb, was er unter der Lampe sah, und übertrug es bewusst nicht in Katalogbuchstaben. Marek Vrba ging 2013 den umgekehrten Weg: Er nahm die <strong>fünf Farbtöne, die das Pofis-Handbuch führt</strong>, und schrieb zu jedem auf, wie er bei Tageslicht aussieht, wie unter der blauen 366-nm-Röhre und von welchen Druckplatten er stammt. Es ist das, was einem brauchbaren Schlüssel in der Literatur am nächsten kommt. Vrba betont, dass seine Befunde vor allem für Marken mit Originalgummi gelten.",
+  "en": "Beneš described what he saw under the lamp and deliberately did not translate it into catalogue letters. In 2013 Marek Vrba went the opposite way: he took the <strong>five shades listed by the Pofis handbook</strong> and for each one wrote down how it looks in daylight, how it looks under the 366 nm blue tube and which printing plates it comes from. It is the closest thing to a usable key that the literature offers. Vrba stresses that his findings apply above all to stamps with original gum.",
+  "es": "Beneš describió lo que vio bajo la lámpara y, deliberadamente, no lo tradujo a letras de catálogo. En 2013 Marek Vrba siguió el camino contrario: tomó los <strong>cinco matices que recoge el manual Pofis</strong> y anotó, para cada uno, cómo se ve a la luz del día, cómo bajo el tubo azul de 366 nm y de qué planchas procede. Es lo más parecido a una clave utilizable que ofrece la literatura. Vrba subraya que sus observaciones valen sobre todo para sellos con goma original.",
+  "files": [
+   "15h/barvy.html"
+  ],
+  "fr": "Beneš a décrit ce qu’il voyait sous la lampe et s’est volontairement abstenu de le traduire en lettres de catalogue. En 2013, Marek Vrba a pris le chemin inverse : il a repris les <strong>cinq nuances que recense le manuel Pofis</strong> et a noté, pour chacune, son aspect à la lumière du jour, sous le tube bleu de 366 nm et les planches dont elle provient. C’est ce que la littérature offre de plus proche d’une clé utilisable. Vrba souligne que ses constatations valent avant tout pour les timbres à gomme d’origine.",
   "tag": "span"
  },
  "5ca6b397a4": {
@@ -8293,6 +8454,17 @@
    "shanim.html"
   ],
   "fr": "15h — planche d’impression VII : état des 100 positions",
+  "tag": "span"
+ },
+ "5e4239e969": {
+  "cs": "(dříve červenohnědá)",
+  "de": "(früher „rotbraun“)",
+  "en": "(formerly “reddish brown”)",
+  "es": "(antes «rojo pardo»)",
+  "files": [
+   "15h/barvy.html"
+  ],
+  "fr": "(autrefois « brun rougeâtre »)",
   "tag": "span"
  },
  "5e46e0458f": {
@@ -11282,6 +11454,13 @@
   "fr": "Un corps étranger sous la feuille soulève une partie de la surface — une partie de l’empreinte ressort floue ou doublée, avec une limite rectiligne.",
   "tag": "span"
  },
+ "7f829c7582": {
+  "cs": "<strong>15h</strong> — Stránka <a href=\"15h/posta.html#posledni-den\"><strong>Poštovní provoz 15h</strong></a> nově zachycuje <strong>poslední den platnosti Hradčan, 30.&nbsp;dubna&nbsp;1921</strong>: čtyři kusy z tohoto dne pokrývají všechna tři hlavní zoubkování pozdějších desek — ZP&nbsp;64/IV (zoubkování&nbsp;A), ZP&nbsp;99/IV a 46/IV (zoubkování&nbsp;B) a ZP&nbsp;16/V se strojovým razítkem (zoubkování&nbsp;C). Nový článek <a href=\"15h/clanky/15h-razitka-po-platnosti.html\"><strong>Razítka s datem po konci platnosti</strong></a> pak dokládá čtyřblok 15h ze 6.&nbsp;tiskové desky (ZP&nbsp;48/49/58/59) s razítkem datovaným 13.&nbsp;VI.&nbsp;21 — přes měsíc po skončení platnosti, nejspíš kvůli chybně nastavenému datumovému kotouči.",
+  "de": "<strong>15h</strong> — Die Seite <a href=\"15h/posta.html#posledni-den\"><strong>Postalische Verwendung der 15h</strong></a> deckt jetzt <strong>den letzten Gültigkeitstag der Hradschin-Ausgabe, 30.&nbsp;April&nbsp;1921</strong> ab: Vier Stücke von diesem Tag decken alle drei Hauptzähnungen der späteren Platten ab — Feld&nbsp;64/IV (Zähnung&nbsp;A), Felder&nbsp;99/IV und 46/IV (Zähnung&nbsp;B) sowie Feld&nbsp;16/V mit Maschinenstempel (Zähnung&nbsp;C). Ein neuer Artikel, <a href=\"15h/clanky/15h-razitka-po-platnosti.html\"><strong>Stempel mit Datum nach dem Ende der Gültigkeit</strong></a>, belegt einen Viererblock der 15h von der 6.&nbsp;Druckplatte (Felder&nbsp;48/49/58/59) mit einem Stempel vom 13.&nbsp;Juni&nbsp;1921 — über einen Monat nach Ablauf der Gültigkeit, vermutlich wegen eines falsch eingestellten Datumsrads.",
+  "en": "<strong>15h</strong> — The <a href=\"15h/posta.html#posledni-den\"><strong>Postal use of the 15h</strong></a> page now covers <strong>the last day of the Hradčany's validity, 30&nbsp;April&nbsp;1921</strong>: four pieces from that day span all three main perforations of the later plates — field&nbsp;64/IV (perforation&nbsp;A), fields&nbsp;99/IV and 46/IV (perforation&nbsp;B), and field&nbsp;16/V with a machine cancel (perforation&nbsp;C). A new article, <a href=\"15h/clanky/15h-razitka-po-platnosti.html\"><strong>Cancellations dated after the end of validity</strong></a>, documents a block of four 15h stamps from plate&nbsp;6 (fields&nbsp;48/49/58/59) with a cancellation dated 13&nbsp;June&nbsp;1921 — over a month after validity ended, most likely due to a misset date wheel.",
+  "es": "<strong>15h</strong> — La página <a href=\"15h/posta.html#posledni-den\"><strong>Uso postal del 15h</strong></a> recoge ahora <strong>el último día de validez de los Hradčany, el 30&nbsp;de abril de&nbsp;1921</strong>: cuatro piezas de ese día cubren los tres dentados principales de las planchas tardías — posición&nbsp;64/IV (dentado&nbsp;A), posiciones&nbsp;99/IV y 46/IV (dentado&nbsp;B) y posición&nbsp;16/V con matasellos mecánico (dentado&nbsp;C). Un nuevo artículo, <a href=\"15h/clanky/15h-razitka-po-platnosti.html\"><strong>Matasellos con fecha posterior al fin de validez</strong></a>, documenta un bloque de cuatro 15h de la 6.ª plancha (posiciones&nbsp;48/49/58/59) con un matasellos fechado el 13&nbsp;de junio de&nbsp;1921 — más de un mes después de terminar la validez, probablemente por una rueda de fecha mal ajustada.",
+  "fr": "<strong>15h</strong> — La page <a href=\"15h/posta.html#posledni-den\"><strong>Usage postal du 15h</strong></a> couvre désormais <strong>le dernier jour de validité des Hradčany, le 30&nbsp;avril&nbsp;1921</strong> : quatre pièces de ce jour couvrent les trois dentelures principales des planches tardives — case&nbsp;64/IV (dentelure&nbsp;A), cases&nbsp;99/IV et 46/IV (dentelure&nbsp;B) et case&nbsp;16/V à oblitération mécanique (dentelure&nbsp;C). Un nouvel article, <a href=\"15h/clanky/15h-razitka-po-platnosti.html\"><strong>Oblitérations datées après la fin de validité</strong></a>, présente un bloc de quatre 15h de la 6e planche (cases&nbsp;48/49/58/59) avec un cachet daté du 13&nbsp;juin&nbsp;1921 — plus d'un mois après la fin de validité, sans doute à cause d'une molette de date mal réglée."
+ },
  "7fb1b5c542": {
   "cs": "tmavě modrozelená",
   "de": "dunkelblaugrün",
@@ -11344,6 +11523,17 @@
    "15h/knihtisk.html"
   ],
   "fr": "Les autres techniques se comportent à l’inverse. En <strong>taille-douce</strong> (gravure), l’encre repose dans les creux de la forme et ressort ensuite du papier en relief. En <strong>offset</strong> et en <strong>lithographie</strong>, la forme est plane, le papier ne se déforme pas du tout et l’impression est lisse. Un timbre sans le moindre relief censé provenir de cette émission mérite donc un second regard.",
+  "tag": "span"
+ },
+ "801d4a40e1": {
+  "cs": "Z 6 790 čitelně datovaných razítek. Pořadí ukazuje, jak výroba postupovala od řádkových zoubkování D/E/F na raných deskách k hřebenovým A/B na deskách pozdějších.",
+  "de": "Von 6.790 lesbar datierten Stempeln. Die Reihenfolge zeigt, wie die Produktion von den Linienzähnungen D/E/F auf den frühen Platten zu den Kammzähnungen A/B auf den späteren Platten überging.",
+  "en": "From 6,790 legibly dated cancellations. The sequence shows production moving from line perforations D/E/F on the early plates to comb perforations A/B on the later ones.",
+  "es": "De 6.790 matasellos legiblemente fechados. El orden muestra cómo la producción pasó de los dentados lineales D/E/F en las planchas tempranas a los dentados de peine A/B en las planchas posteriores.",
+  "files": [
+   "15h/zoubkovani.html"
+  ],
+  "fr": "Sur 6 790 oblitérations lisiblement datées. L’ordre montre comment la production est passée des dentelures linéaires D/E/F sur les planches anciennes aux dentelures en peigne A/B sur les planches plus tardives.",
   "tag": "span"
  },
  "8033980e41": {
@@ -12561,6 +12751,13 @@
   "fr": "La spirale décisive se trouve dans le <strong>coin supérieur gauche</strong> du dessin — c’est celle de gauche dans la paire de spirales de l’ornement d’angle, la même que la page <a href=\"typy.html\">Types du cinquième dessin</a> décrit comme caractéristique de type. Sur l’épreuve, elle est <strong>ouverte (Is)</strong> : le tour intérieur va jusqu’au bout et s’arrête librement. En production, elle est <strong>fermée (IIs)</strong> — le tour se referme en un anneau complet. Pour cette position, le type de spirale n’est donc pas une propriété du cliché d’origine, mais le <strong>résultat d’une modification postérieure</strong> — et c’est essentiel pour la lecture des types sur la première et la deuxième planche. Un aperçu des positions et des deux types se trouve sur la page <a href=\"typy.html\">Types du cinquième dessin</a>.",
   "tag": "span"
  },
+ "8b0bfae65f": {
+  "cs": "<strong>15h</strong> — Dokončeno zpracování zásobníkových listů s páskami a bloky: <a href=\"15h/statistiky.html\"><strong>statistiky</strong></a> nyní vycházejí z <strong>21&nbsp;922 určených známek</strong>, z toho <strong>6&nbsp;790 datovaných</strong>. Do <a href=\"15h/mapa.html\"><strong>mapy razítek</strong></a> přibyly na desce III Varnsdorf a Cheb, na desce IV Karlovy Vary a Heřmanův Městec, ve vrstvě zoubkování A na deskách V–VI Chyše, Zábřeh a Ústí nad Orlicí. Seznam <a href=\"15h/posta.html\"><strong>pošt doložených na zoubkování B</strong></a> byl srovnán s mapou — má nyní 60 úřadů a každý z nich (kromě dosud nelokalizovaného Schenkenhahnu) je na mapě. Do <a href=\"15h/vyrobni-vady.html#dvojity-tisk\"><strong>Dvojitého a vícenásobného tisku</strong></a> přibyl čtvrtý kus: druhý otisk je posunutý nahoru a doprava a pootočený, takže nápis ČESKO-SLOVENSKÁ přebíhá šikmo středem známky.",
+  "de": "<strong>15h</strong> — Die Auswertung der Einsteckblätter mit Streifen und Blöcken ist abgeschlossen: die <a href=\"15h/statistiky.html\"><strong>Statistik</strong></a> beruht nun auf <strong>21.922 bestimmten Marken</strong>, davon <strong>6.790 datiert</strong>. Die <a href=\"15h/mapa.html\"><strong>Stempelkarte</strong></a> erhält auf Platte III Varnsdorf und Cheb, auf Platte IV Karlovy Vary und Heřmanův Městec sowie in der Ebene der Zähnung A auf den Platten V–VI Chyše, Zábřeh und Ústí nad Orlicí. Die Liste der <a href=\"15h/posta.html\"><strong>auf Zähnung B belegten Postämter</strong></a> wurde mit der Karte abgeglichen — sie umfasst jetzt 60 Ämter, und jedes davon (außer dem noch nicht lokalisierten Schenkenhahn) ist auf der Karte. Beim <a href=\"15h/vyrobni-vady.html#dvojity-tisk\"><strong>Doppel- und Mehrfachdruck</strong></a> kommt ein viertes Stück hinzu: der zweite Abdruck ist nach oben und rechts verschoben und gedreht, sodass die Inschrift ČESKO-SLOVENSKÁ schräg durch die Mitte der Marke läuft.",
+  "en": "<strong>15h</strong> — Processing of the stock sheets of strips and blocks is complete: the <a href=\"15h/statistiky.html\"><strong>statistics</strong></a> now rest on <strong>21,922 attributed stamps</strong>, <strong>6,790</strong> of them dated. The <a href=\"15h/mapa.html\"><strong>cancellation map</strong></a> gains Varnsdorf and Cheb on plate III, Karlovy Vary and Heřmanův Městec on plate IV, and Chyše, Zábřeh and Ústí nad Orlicí in the layer of perforation A on plates V–VI. The list of <a href=\"15h/posta.html\"><strong>post offices documented on perforation B</strong></a> has been reconciled with the map — it now has 60 offices, and every one of them (except the still unlocated Schenkenhahn) is on the map. <a href=\"15h/vyrobni-vady.html#dvojity-tisk\"><strong>Double and multiple print</strong></a> gains a fourth piece: the second impression is shifted up and to the right and rotated, so that the inscription ČESKO-SLOVENSKÁ runs obliquely through the middle of the stamp.",
+  "es": "<strong>15h</strong> — Se ha completado el procesamiento de las hojas de clasificador con tiras y bloques: las <a href=\"15h/statistiky.html\"><strong>estadísticas</strong></a> se basan ahora en <strong>21.922 sellos determinados</strong>, de ellos <strong>6.790 fechados</strong>. El <a href=\"15h/mapa.html\"><strong>mapa de matasellos</strong></a> incorpora Varnsdorf y Cheb en la plancha III, Karlovy Vary y Heřmanův Městec en la plancha IV, y Chyše, Zábřeh y Ústí nad Orlicí en la capa del dentado A de las planchas V–VI. La lista de <a href=\"15h/posta.html\"><strong>oficinas documentadas en el dentado B</strong></a> se ha cotejado con el mapa: tiene ahora 60 oficinas y todas ellas (salvo Schenkenhahn, aún sin localizar) figuran en el mapa. A la <a href=\"15h/vyrobni-vady.html#dvojity-tisk\"><strong>impresión doble y múltiple</strong></a> se añade una cuarta pieza: la segunda impresión está desplazada hacia arriba y a la derecha y girada, de modo que la inscripción ČESKO-SLOVENSKÁ cruza oblicuamente el centro del sello.",
+  "fr": "<strong>15h</strong> — Le dépouillement des feuilles de classeur de bandes et de blocs est achevé : les <a href=\"15h/statistiky.html\"><strong>statistiques</strong></a> reposent désormais sur <strong>21&nbsp;922 timbres attribués</strong>, dont <strong>6&nbsp;790 datés</strong>. La <a href=\"15h/mapa.html\"><strong>carte des oblitérations</strong></a> gagne Varnsdorf et Cheb sur la planche III, Karlovy Vary et Heřmanův Městec sur la planche IV, ainsi que Chyše, Zábřeh et Ústí nad Orlicí dans la couche de la dentelure A des planches V–VI. La liste des <a href=\"15h/posta.html\"><strong>bureaux attestés sur la dentelure B</strong></a> a été mise en concordance avec la carte : elle compte maintenant 60 bureaux, et chacun d’eux (sauf Schenkenhahn, toujours non localisé) figure sur la carte. L’<a href=\"15h/vyrobni-vady.html#dvojity-tisk\"><strong>impression double et multiple</strong></a> gagne une quatrième pièce : la seconde impression est décalée vers le haut et la droite et pivotée, si bien que l’inscription ČESKO-SLOVENSKÁ traverse obliquement le centre du timbre."
+ },
  "8b299e2239": {
   "cs": "<strong>Hodnoty:</strong> 3h, 5h světle zelená, 10h červená, 20h modrozelená, 25h modrá, 30h žlutá, 40h.",
   "de": "<strong>Werte:</strong> 3h, 5h hellgrün, 10h rot, 20h blaugrün, 25h blau, 30h gelb, 40h.",
@@ -13122,6 +13319,17 @@
    "15h/posta.html"
   ],
   "fr": "De",
+  "tag": "span"
+ },
+ "90ac701217": {
+  "cs": "Druhá polovina Vrbova článku je varování. Hnědočervená 7a je natolik dražší než základní odstín, že se už léta na trhu objevují <strong>chemicky přebarvené cihlově červené známky</strong>. Zásah poškodí lep, takže padělatel nanese nový. V denním světle jsou takové kusy tmavě cihlově červené, někdy s drobnými skvrnkami v barevných plochách. Pod UV lampou barva ztmavne jen do světle hněda, občas s fialově růžovým nádechem — nikdy do tmavě hnědé pravé 7a. Nový lep je pod lampou jasný, často nepravidelný, se skvrnami a tahy po nanášení; to bývá vidět i při šikmém pohledu proti světlu.",
+  "de": "Die zweite Hälfte von Vrbas Artikel ist eine Warnung. Die rotbraune 7a ist so viel teurer als der Grundton, dass seit Jahren <strong>chemisch umgefärbte ziegelrote Marken</strong> auf dem Markt auftauchen. Der Eingriff beschädigt den Gummi, sodass der Fälscher neuen aufträgt. Bei Tageslicht sind solche Stücke dunkel ziegelrot, manchmal mit kleinen Flecken in den Farbflächen. Unter der UV-Lampe dunkelt die Farbe nur zu einem hellen Braun nach, gelegentlich mit violett-rosa Stich — nie zum Dunkelbraun einer echten 7a. Der neue Gummi ist unter der Lampe hell, oft unregelmäßig, mit Flecken und Strichen vom Auftragen; das ist meist auch bei schrägem Blick gegen das Licht zu sehen.",
+  "en": "The second half of Vrba’s article is a warning. The brownish red 7a is so much dearer than the basic shade that <strong>chemically recoloured brick red stamps</strong> have been on the market for years. The treatment damages the gum, so the forger applies new gum. In daylight such pieces are dark brick red, sometimes with small specks in the coloured areas. Under the UV lamp the colour darkens only to a light brown, occasionally with a violet-pink tinge — never to the dark brown of a genuine 7a. The new gum is bright under the lamp, often uneven, with spots and strokes from its application; this can usually be seen at an oblique angle against the light as well.",
+  "es": "La segunda mitad del artículo de Vrba es una advertencia. El rojo pardo 7a es tanto más caro que el matiz básico que desde hace años aparecen en el mercado <strong>sellos rojo ladrillo recoloreados químicamente</strong>. El tratamiento daña la goma, así que el falsificador aplica una nueva. A la luz del día estas piezas son de un rojo ladrillo oscuro, a veces con pequeñas manchas en las superficies de color. Bajo la lámpara UV el color solo se oscurece hasta un marrón claro, a veces con un tinte rosa violáceo, nunca hasta el marrón oscuro de un 7a auténtico. La goma nueva se ve brillante bajo la lámpara, a menudo irregular, con manchas y trazos de su aplicación; suele apreciarse también mirando de forma oblicua a contraluz.",
+  "files": [
+   "15h/barvy.html"
+  ],
+  "fr": "La seconde moitié de l’article de Vrba est une mise en garde. Le brun rougeâtre 7a est tellement plus cher que la nuance de base que, depuis des années, des <strong>timbres rouge brique recolorés chimiquement</strong> circulent sur le marché. Le traitement abîme la gomme, si bien que le faussaire en applique une nouvelle. À la lumière du jour, ces pièces sont d’un rouge brique foncé, parfois avec de petites taches dans les aplats de couleur. Sous la lampe UV, la couleur ne s’assombrit que jusqu’à un brun clair, parfois avec un reflet rose violacé — jamais jusqu’au brun foncé d’un 7a authentique. La nouvelle gomme est brillante sous la lampe, souvent irrégulière, avec des taches et des traces d’application ; cela se voit généralement aussi en regardant de biais à contre-jour.",
   "tag": "span"
  },
  "90cb75e426": {
@@ -14002,6 +14210,17 @@
   "fr": "violet clair à foncé <sup>8</sup>",
   "tag": "span"
  },
+ "99703b8e44": {
+  "cs": "živější odstín cihlově červené",
+  "de": "ein lebhafterer Ton des Ziegelrots",
+  "en": "a livelier shade of brick red",
+  "es": "un matiz más vivo del rojo ladrillo",
+  "files": [
+   "15h/barvy.html"
+  ],
+  "fr": "une nuance plus vive du rouge brique",
+  "tag": "span"
+ },
  "998cd71899": {
   "cs": "Střižený kus se svislou vráskou při levém okraji.",
   "de": "Mit der Schere getrenntes Stück mit senkrechter Falte am linken Rand.",
@@ -14034,6 +14253,13 @@
   ],
   "fr": "Éclat de bois dans le papier",
   "tag": "span"
+ },
+ "99b88dffa5": {
+  "cs": "<strong>15h</strong> — Dokončeno zpracování zásobníkových listů s páskami a bloky: <a href=\"15h/statistiky.html\"><strong>statistiky</strong></a> nyní vycházejí z <strong>21&nbsp;922 určených známek</strong>, z toho <strong>6&nbsp;790 datovaných</strong>. Do <a href=\"15h/mapa.html\"><strong>mapy razítek</strong></a> přibyly na desce III Varnsdorf a Cheb, na desce IV Karlovy Vary a Heřmanův Městec, ve vrstvě zoubkování A na deskách V–VI Chyše, Zábřeh a Ústí nad Orlicí. Seznam <a href=\"15h/posta.html\"><strong>pošt doložených na zoubkování B</strong></a> byl srovnán s mapou — má nyní 60 úřadů a každý z nich (kromě dosud nelokalizovaného Schenkenhahnu) je na mapě. Do <a href=\"15h/vyrobni-vady.html#dvojity-tisk\"><strong>Dvojitého a vícenásobného tisku</strong></a> přibyl čtvrtý kus: druhý otisk je posunutý nahoru a doprava a pootočený, takže nápis ČESKO-SLOVENSKÁ přebíhá šikmo středem známky. Na stránce <a href=\"15h/barvy.html#vrba\"><strong>Barvy a odstíny</strong></a> přibyl praktický klíč Marka Vrby (Filatelie 11/2013): jak se pět katalogových odstínů chová pod UV lampou a jak poznat chemicky přebarvené padělky hnědočervené 7a.",
+  "de": "<strong>15h</strong> — Die Auswertung der Einsteckblätter mit Streifen und Blöcken ist abgeschlossen: die <a href=\"15h/statistiky.html\"><strong>Statistik</strong></a> beruht nun auf <strong>21.922 bestimmten Marken</strong>, davon <strong>6.790 datiert</strong>. Die <a href=\"15h/mapa.html\"><strong>Stempelkarte</strong></a> erhält auf Platte III Varnsdorf und Cheb, auf Platte IV Karlovy Vary und Heřmanův Městec sowie in der Ebene der Zähnung A auf den Platten V–VI Chyše, Zábřeh und Ústí nad Orlicí. Die Liste der <a href=\"15h/posta.html\"><strong>auf Zähnung B belegten Postämter</strong></a> wurde mit der Karte abgeglichen — sie umfasst jetzt 60 Ämter, und jedes davon (außer dem noch nicht lokalisierten Schenkenhahn) ist auf der Karte. Beim <a href=\"15h/vyrobni-vady.html#dvojity-tisk\"><strong>Doppel- und Mehrfachdruck</strong></a> kommt ein viertes Stück hinzu: der zweite Abdruck ist nach oben und rechts verschoben und gedreht, sodass die Inschrift ČESKO-SLOVENSKÁ schräg durch die Mitte der Marke läuft. Die Seite <a href=\"15h/barvy.html#vrba\"><strong>Farben und Farbtöne</strong></a> erhält den praktischen Schlüssel von Marek Vrba (Filatelie 11/2013): wie sich die fünf Katalogfarbtöne unter der UV-Lampe verhalten und wie man chemisch umgefärbte Fälschungen der rotbraunen 7a erkennt.",
+  "en": "<strong>15h</strong> — Processing of the stock sheets of strips and blocks is complete: the <a href=\"15h/statistiky.html\"><strong>statistics</strong></a> now rest on <strong>21,922 attributed stamps</strong>, <strong>6,790</strong> of them dated. The <a href=\"15h/mapa.html\"><strong>cancellation map</strong></a> gains Varnsdorf and Cheb on plate III, Karlovy Vary and Heřmanův Městec on plate IV, and Chyše, Zábřeh and Ústí nad Orlicí in the layer of perforation A on plates V–VI. The list of <a href=\"15h/posta.html\"><strong>post offices documented on perforation B</strong></a> has been reconciled with the map — it now has 60 offices, and every one of them (except the still unlocated Schenkenhahn) is on the map. <a href=\"15h/vyrobni-vady.html#dvojity-tisk\"><strong>Double and multiple print</strong></a> gains a fourth piece: the second impression is shifted up and to the right and rotated, so that the inscription ČESKO-SLOVENSKÁ runs obliquely through the middle of the stamp. The <a href=\"15h/barvy.html#vrba\"><strong>Colours and shades</strong></a> page gains Marek Vrba’s practical key (Filatelie 11/2013): how the five catalogue shades behave under the UV lamp and how to recognise chemically recoloured forgeries of the brownish red 7a.",
+  "es": "<strong>15h</strong> — Se ha completado el procesamiento de las hojas de clasificador con tiras y bloques: las <a href=\"15h/statistiky.html\"><strong>estadísticas</strong></a> se basan ahora en <strong>21.922 sellos determinados</strong>, de ellos <strong>6.790 fechados</strong>. El <a href=\"15h/mapa.html\"><strong>mapa de matasellos</strong></a> incorpora Varnsdorf y Cheb en la plancha III, Karlovy Vary y Heřmanův Městec en la plancha IV, y Chyše, Zábřeh y Ústí nad Orlicí en la capa del dentado A de las planchas V–VI. La lista de <a href=\"15h/posta.html\"><strong>oficinas documentadas en el dentado B</strong></a> se ha cotejado con el mapa: tiene ahora 60 oficinas y todas ellas (salvo Schenkenhahn, aún sin localizar) figuran en el mapa. A la <a href=\"15h/vyrobni-vady.html#dvojity-tisk\"><strong>impresión doble y múltiple</strong></a> se añade una cuarta pieza: la segunda impresión está desplazada hacia arriba y a la derecha y girada, de modo que la inscripción ČESKO-SLOVENSKÁ cruza oblicuamente el centro del sello. La página <a href=\"15h/barvy.html#vrba\"><strong>Colores y matices</strong></a> incorpora la clave práctica de Marek Vrba (Filatelie 11/2013): cómo se comportan los cinco matices de catálogo bajo la lámpara UV y cómo reconocer las falsificaciones recoloreadas químicamente del rojo pardo 7a.",
+  "fr": "<strong>15h</strong> — Le dépouillement des feuilles de classeur de bandes et de blocs est achevé : les <a href=\"15h/statistiky.html\"><strong>statistiques</strong></a> reposent désormais sur <strong>21&nbsp;922 timbres attribués</strong>, dont <strong>6&nbsp;790 datés</strong>. La <a href=\"15h/mapa.html\"><strong>carte des oblitérations</strong></a> gagne Varnsdorf et Cheb sur la planche III, Karlovy Vary et Heřmanův Městec sur la planche IV, ainsi que Chyše, Zábřeh et Ústí nad Orlicí dans la couche de la dentelure A des planches V–VI. La liste des <a href=\"15h/posta.html\"><strong>bureaux attestés sur la dentelure B</strong></a> a été mise en concordance avec la carte : elle compte maintenant 60 bureaux, et chacun d’eux (sauf Schenkenhahn, toujours non localisé) figure sur la carte. L’<a href=\"15h/vyrobni-vady.html#dvojity-tisk\"><strong>impression double et multiple</strong></a> gagne une quatrième pièce : la seconde impression est décalée vers le haut et la droite et pivotée, si bien que l’inscription ČESKO-SLOVENSKÁ traverse obliquement le centre du timbre. La page <a href=\"15h/barvy.html#vrba\"><strong>Couleurs et nuances</strong></a> s’enrichit de la clé pratique de Marek Vrba (Filatelie 11/2013) : comment les cinq nuances du catalogue se comportent sous la lampe UV et comment reconnaître les faux du brun rougeâtre 7a recolorés chimiquement."
  },
  "99c5ddd6f9": {
   "cs": "<strong>Jak automatické rozpoznávání funguje?</strong> Zjednodušeně řečeno: počítač se\n  „naučil“ poznávat jednotlivá známková pole z tisíců ručně určených skenů. Každý sken nejprve přesně srovná na\n  rám kresby, aby detaily ležely vždy na stejném místě. Z obrazu pak vytáhne drobné, okem snadno přehlédnutelné\n  odchylky kresby — právě ty, kterými se od sebe pole knihtiskové desky liší — a statisticky je porovná se všemi\n  referenčními pozicemi. Výsledkem není verdikt, ale seznam nejpravděpodobnějších pozic s mírou jistoty; u desek\n  s dostatkem materiálu se model trefí napoprvé zhruba v 9 případech z 10. Konečné slovo má ale vždy ruční\n  kontrola — žádné určení nepovažuji za platné, dokud je nepotvrdím sám.",
@@ -14320,6 +14546,17 @@
    "15h/vyrobni-vady.html"
   ],
   "fr": "Pourquoi ce n'est pas un voile (závoj)",
+  "tag": "span"
+ },
+ "9c2b1acfac": {
+  "cs": "Z matice je dobře patrná vzácnost zoubkování A na deskách V–VI (514 kusů, tj. ≈5 % materiálu těchto desek — proti ≈47 % u B i C), vzácnost C na deskách I–II (26 kusů) a výlučnost řádkových zoubkování D, E, F pro rané desky I–II.",
+  "de": "Aus der Matrix ist die Seltenheit der Zähnung A auf den Platten V–VI gut ersichtlich (514 Stück, also ≈5 % des Materials dieser Platten — gegenüber je ≈47 % bei B und C), ebenso die Seltenheit von C auf den Platten I–II (26 Stück) und die Ausschließlichkeit der Linienzähnungen D, E, F für die frühen Platten I–II.",
+  "en": "The matrix clearly shows the scarcity of perforation A on plates V–VI (514 pieces, i.e. ≈5 % of the material of these plates — against ≈47 % each for B and C), the scarcity of C on plates I–II (26 pieces), and the exclusivity of line perforations D, E and F to the early plates I–II.",
+  "es": "En la matriz se aprecia bien la rareza del dentado A en las planchas V–VI (514 ejemplares, es decir, ≈5 % del material de estas planchas — frente al ≈47 % de B y de C), la rareza de C en las planchas I–II (26 ejemplares) y la exclusividad de los dentados de línea D, E y F para las planchas tempranas I–II.",
+  "files": [
+   "15h/statistiky.html"
+  ],
+  "fr": "La matrice fait bien ressortir la rareté de la dentelure A sur les planches V–VI (514 pièces, soit ≈5 % du matériel de ces planches — contre ≈47 % pour B comme pour C), la rareté de C sur les planches I–II (26 pièces) et le caractère exclusif des dentelures en ligne D, E et F pour les planches précoces I–II.",
   "tag": "span"
  },
  "9c2e056802": {
@@ -14773,6 +15010,17 @@
   "fr": "corps étranger (grain, cheveu)",
   "tag": "span"
  },
+ "a0ec6e4067": {
+  "cs": "Kus 4 — Vícenásobný tisk s pootočením. Druhý otisk je posunutý nahoru a doprava a stočený o několik stupňů: jeho nápis ČESKO-SLOVENSKÁ přebíhá šikmo středem známky přes hradčanské panorama a nahoře zasahuje do rámu spodek známky z vyšší řady.",
+  "de": "Stück 4 — Mehrfachdruck mit Verdrehung. Der zweite Abdruck ist nach oben und rechts verschoben und um einige Grad gedreht: seine Inschrift ČESKO-SLOVENSKÁ läuft schräg durch die Mitte der Marke über das Hradschin-Panorama, und oben ragt der untere Teil einer Marke aus der Reihe darüber in den Rahmen.",
+  "en": "Item 4 — Multiple print with rotation. The second impression is shifted up and to the right and turned by a few degrees: its inscription ČESKO-SLOVENSKÁ runs obliquely through the middle of the stamp across the Hradčany skyline, and at the top the bottom of a stamp from the row above reaches into the frame.",
+  "es": "Ejemplar 4 — Impresión múltiple con giro. La segunda impresión está desplazada hacia arriba y a la derecha y girada unos grados: su inscripción ČESKO-SLOVENSKÁ cruza oblicuamente el centro del sello sobre el panorama de Hradčany, y arriba entra en el marco la parte inferior de un sello de la fila superior.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Pièce 4 — Impression multiple avec rotation. La seconde impression est décalée vers le haut et la droite et pivotée de quelques degrés : son inscription ČESKO-SLOVENSKÁ traverse obliquement le centre du timbre par-dessus le panorama de Hradčany, et en haut le bas d’un timbre de la rangée supérieure pénètre dans le cadre.",
+  "tag": "cap"
+ },
  "a1137560f5": {
   "cs": "knihtisk, Česká grafická Unie, Praha; tiskové desky po 100 známkových polích",
   "de": "Buchdruck, Česká grafická Unie, Prag; Druckplatten zu je 100 Markenfeldern",
@@ -14956,6 +15204,13 @@
   "fr": "60h orange jaune",
   "tag": "span"
  },
+ "a29d43818f": {
+  "cs": "Podrobný statistický rozbor hodnoty 15h vychází z vlastní evidence: <strong>21 922 určených známek</strong>, z toho <strong>6 790 s čitelně datovaným razítkem</strong> (stav 5. 9. 2026). Zdrojem jsou listy „Stats 15h“ a „Usage Stats 15h“ evidenčního sešitu.",
+  "de": "Die ausführliche statistische Auswertung der 15h beruht auf der eigenen Erfassung: <strong>21 922 bestimmte Marken</strong>, davon <strong>6 790 mit lesbar datiertem Stempel</strong> (Stand 5. 9. 2026). Quelle sind die Blätter „Stats 15h“ und „Usage Stats 15h“ der Erfassungsdatei.",
+  "en": "The detailed statistical analysis of the 15h is based on the author’s records: <strong>21,922 attributed stamps</strong>, of which <strong>6,790 carry a legibly dated cancellation</strong> (as of 5 September 2026). The source is the “Stats 15h” and “Usage Stats 15h” sheets of the record workbook.",
+  "es": "El análisis estadístico detallado del 15h se basa en los registros propios: <strong>21 922 sellos atribuidos</strong>, de los cuales <strong>6 790 con matasellos legiblemente fechado</strong> (a 5 de septiembre de 2026). La fuente son las hojas «Stats 15h» y «Usage Stats 15h» del libro de registros.",
+  "fr": "L’analyse statistique détaillée du 15h repose sur les relevés de l’auteur : <strong>21 922 timbres attribués</strong>, dont <strong>6 790 avec une oblitération lisiblement datée</strong> (état au 5 septembre 2026). La source est constituée des feuilles « Stats 15h » et « Usage Stats 15h » du classeur de relevés."
+ },
  "a2ad12834f": {
   "cs": "Přerov 1 · 17. III. 1920",
   "de": "Přerov 1 · 17. III. 1920",
@@ -15031,6 +15286,17 @@
   "files": [],
   "fr": "Pièce 16 — Très fort décalage vers le haut — au-dessus du dessin s’étend une large bande de papier vierge, la rangée inférieure passant au ras du cadre.",
   "tag": "cap"
+ },
+ "a3a4b0011c": {
+  "cs": "světlá — „září“",
+  "de": "hell — sie „leuchtet“",
+  "en": "light — it “glows”",
+  "es": "clara: «brilla»",
+  "files": [
+   "15h/barvy.html"
+  ],
+  "fr": "claire — elle « brille »",
+  "tag": "span"
  },
  "a3ad6e262d": {
   "cs": "C — 13¾ řádk.",
@@ -15311,6 +15577,17 @@
   "fr": "Fort décalage vers la gauche — à droite la perforation traverse le cadre, à gauche une bande du timbre voisin subsiste en marge.",
   "tag": "span"
  },
+ "a5fca97371": {
+  "cs": "Z 6 776 čitelně datovaných razítek. Pořadí ukazuje, jak výroba postupovala od řádkových zoubkování D/E/F na raných deskách k hřebenovým A/B na deskách pozdějších.",
+  "de": "Von 6.776 lesbar datierten Stempeln. Die Reihenfolge zeigt, wie die Produktion von den Linienzähnungen D/E/F auf den frühen Platten zu den Kammzähnungen A/B auf den späteren Platten überging.",
+  "en": "From 6,776 legibly dated cancellations. The sequence shows production moving from line perforations D/E/F on the early plates to comb perforations A/B on the later ones.",
+  "es": "De 6.776 matasellos legiblemente fechados. El orden muestra cómo la producción pasó de los dentados lineales D/E/F en las planchas tempranas a los dentados de peine A/B en las planchas posteriores.",
+  "files": [
+   "15h/zoubkovani.html"
+  ],
+  "fr": "Sur 6 776 oblitérations lisiblement datées. L’ordre montre comment la production est passée des dentelures linéaires D/E/F sur les planches anciennes aux dentelures en peigne A/B sur les planches plus tardives.",
+  "tag": "span"
+ },
  "a613d2e3dc": {
   "cs": "hnědočervená",
   "de": "braunrot",
@@ -15375,6 +15652,13 @@
   ],
   "fr": "<strong>Attention à la confusion avec une impression maculée.</strong> Si la feuille a bougé sous la pression, le dessin s’étire en traînée, mais aucun second contour n’apparaît. Dans une double impression, la copie décalée est <em>complète</em> — elle a ses propres traits nets et partout le même écart avec la première.",
   "tag": "span"
+ },
+ "a6f0bf15ff": {
+  "cs": "Podrobný statistický rozbor hodnoty 15h vychází z vlastní evidence: <strong>21 975 určených známek</strong>, z toho <strong>6 803 s čitelně datovaným razítkem</strong> (stav 5. 9. 2026). Zdrojem jsou listy „Stats 15h“ a „Usage Stats 15h“ evidenčního sešitu.",
+  "de": "Die ausführliche statistische Auswertung der 15h beruht auf der eigenen Erfassung: <strong>21 975 bestimmte Marken</strong>, davon <strong>6 803 mit lesbar datiertem Stempel</strong> (Stand 5. 9. 2026). Quelle sind die Blätter „Stats 15h“ und „Usage Stats 15h“ der Erfassungsdatei.",
+  "en": "The detailed statistical analysis of the 15h is based on the author’s records: <strong>21,975 attributed stamps</strong>, of which <strong>6,803 carry a legibly dated cancellation</strong> (as of 5 September 2026). The source is the “Stats 15h” and “Usage Stats 15h” sheets of the record workbook.",
+  "es": "El análisis estadístico detallado del 15h se basa en los registros propios: <strong>21 975 sellos atribuidos</strong>, de los cuales <strong>6 803 con matasellos legiblemente fechado</strong> (a 5 de septiembre de 2026). La fuente son las hojas «Stats 15h» y «Usage Stats 15h» del libro de registros.",
+  "fr": "L’analyse statistique détaillée du 15h repose sur les relevés de l’auteur : <strong>21 975 timbres attribués</strong>, dont <strong>6 803 avec une oblitération lisiblement datée</strong> (état au 5 septembre 2026). La source est constituée des feuilles « Stats 15h » et « Usage Stats 15h » du classeur de relevés."
  },
  "a709e586ac": {
   "cs": "Zvrásnění papíru — kus 12",
@@ -18103,6 +18387,17 @@
   "fr": "Ce site est le fruit de longues années d’étude spécialisée de la valeur 15h de l’émission Hradčany. Pour que les chiffres et les reconstitutions aient du poids, nous décrivons ici d’où proviennent les données et comment elles sont établies.",
   "tag": "span"
  },
+ "c1f1f7a31c": {
+  "cs": "světlá",
+  "de": "hell",
+  "en": "light",
+  "es": "clara",
+  "files": [
+   "15h/barvy.html"
+  ],
+  "fr": "claire",
+  "tag": "span"
+ },
  "c1ffaf077c": {
   "cs": "Posun doleva a nahoru; dole je perforace téměř na rámečku, vlevo i nahoře zůstal okraj.",
   "de": "Verschiebung nach links und nach oben; unten liegt die Zähnung fast am Rahmen, links und oben blieb ein Rand.",
@@ -19044,6 +19339,17 @@
   "fr": "<strong>Double impression</strong> — un décalage de l’ordre du dixième de millimètre. Au premier coup d’œil le dessin paraît seulement flou ; ce n’est que de près que l’on voit que chaque trait, chaque lettre et le contour de l’ovale ont un sosie plus pâle.",
   "tag": "span"
  },
+ "cb7a106fa6": {
+  "cs": "tmavě hnědá — „nezáří“",
+  "de": "dunkelbraun — sie „leuchtet nicht“",
+  "en": "dark brown — it does not glow",
+  "es": "marrón oscuro: «no brilla»",
+  "files": [
+   "15h/barvy.html"
+  ],
+  "fr": "brun foncé — elle « ne brille pas »",
+  "tag": "span"
+ },
  "cb9906a65a": {
   "cs": "400h VIII. TD",
   "de": "400h Platte VIII",
@@ -19106,6 +19412,17 @@
   "files": [],
   "fr": "position 9, éclaircie 1",
   "tag": "alt"
+ },
+ "cc9989b6bd": {
+  "cs": "sytě až tmavě cihlově červená",
+  "de": "sattes bis dunkles Ziegelrot",
+  "en": "deep to dark brick red",
+  "es": "rojo ladrillo intenso a oscuro",
+  "files": [
+   "15h/barvy.html"
+  ],
+  "fr": "rouge brique soutenu à foncé",
+  "tag": "span"
  },
  "cce53da226": {
   "cs": "Částečně zdvojený tisk — kus 3",
@@ -19466,6 +19783,17 @@
    "15h/zoubkovani.html"
   ],
   "fr": "Planches I–VI",
+  "tag": "span"
+ },
+ "d194e29a1e": {
+  "cs": "Pět katalogových odstínů pod UV lampou — praktický klíč",
+  "de": "Die fünf Katalogfarbtöne unter der UV-Lampe — ein praktischer Schlüssel",
+  "en": "The five catalogue shades under the UV lamp — a practical key",
+  "es": "Los cinco matices de catálogo bajo la lámpara UV: una clave práctica",
+  "files": [
+   "15h/barvy.html"
+  ],
+  "fr": "Les cinq nuances du catalogue sous la lampe UV — une clé pratique",
   "tag": "span"
  },
  "d1b17c3bdd": {
@@ -20313,6 +20641,17 @@
    "prvni-kresba.html"
   ],
   "fr": "vert / vert soutenu",
+  "tag": "span"
+ },
+ "da854eda1e": {
+  "cs": "shodná s barvou 20h Hradčany (Pof. 9)",
+  "de": "identisch mit der Farbe der 20 h Hradčany (Pof. 9)",
+  "en": "identical to the 20h Hradčany (Pof. 9)",
+  "es": "idéntica al color del 20 h Hradčany (Pof. 9)",
+  "files": [
+   "15h/barvy.html"
+  ],
+  "fr": "identique à la couleur du 20 h Hradčany (Pof. 9)",
   "tag": "span"
  },
  "da9920bd4b": {
@@ -22409,6 +22748,17 @@
   "fr": "15h vermillon",
   "tag": "span"
  },
+ "ee7f181bb9": {
+  "cs": "Padělky hnědočervené 7a",
+  "de": "Fälschungen der rotbraunen 7a",
+  "en": "Forgeries of the brownish red 7a",
+  "es": "Falsificaciones del rojo pardo 7a",
+  "files": [
+   "15h/barvy.html"
+  ],
+  "fr": "Les faux du brun rougeâtre 7a",
+  "tag": "span"
+ },
  "ee9115be10": {
   "cs": "Tisková deska I — všechna známková pole",
   "de": "Druckplatte I — alle Markenfelder",
@@ -22473,6 +22823,17 @@
    "15h/zoubkovani.html"
   ],
   "fr": "B (planches 5–6)",
+  "tag": "span"
+ },
+ "ef5912548e": {
+  "cs": "Z 6 778 čitelně datovaných razítek. Pořadí ukazuje, jak výroba postupovala od řádkových zoubkování D/E/F na raných deskách k hřebenovým A/B na deskách pozdějších.",
+  "de": "Von 6.778 lesbar datierten Stempeln. Die Reihenfolge zeigt, wie die Produktion von den Linienzähnungen D/E/F auf den frühen Platten zu den Kammzähnungen A/B auf den späteren Platten überging.",
+  "en": "From 6,778 legibly dated cancellations. The sequence shows production moving from line perforations D/E/F on the early plates to comb perforations A/B on the later ones.",
+  "es": "De 6.778 matasellos legiblemente fechados. El orden muestra cómo la producción pasó de los dentados lineales D/E/F en las planchas tempranas a los dentados de peine A/B en las planchas posteriores.",
+  "files": [
+   "15h/zoubkovani.html"
+  ],
+  "fr": "Sur 6 778 oblitérations lisiblement datées. L’ordre montre comment la production est passée des dentelures linéaires D/E/F sur les planches anciennes aux dentelures en peigne A/B sur les planches plus tardives.",
   "tag": "span"
  },
  "ef96540b50": {
@@ -22751,6 +23112,15 @@
   "fr": "L’épreuve bleue du 15h sur papier couché, comparée à la position 96 de production de la première planche.",
   "tag": "meta"
  },
+ "f3543f9f1a": {
+  "cs": "<strong>15h</strong> — Evidence dál rostla: <a href=\"15h/statistiky.html\"><strong>statistiky</strong></a> nyní vycházejí z <strong>22&nbsp;029 určených známek</strong>, z toho <strong>6&nbsp;818 datovaných</strong>. Nejvíc přibylo zoubkování D (11½ řádkové, desky 1–2) — ze 750 na 855 kusů. Do seznamu <a href=\"15h/posta.html\"><strong>pošt doložených na zoubkování E</strong></a> přibyla Kařez, seznam má nyní 161 úřadů a je i na <a href=\"15h/mapa.html\"><strong>mapě razítek</strong></a>.",
+  "de": "<strong>15h</strong> — Die Erfassung wuchs weiter: die <a href=\"15h/statistiky.html\"><strong>Statistik</strong></a> beruht nun auf <strong>22.029 bestimmten Marken</strong>, davon <strong>6.818 datiert</strong>. Am meisten legte die Zähnung D (11½ Linienzähnung, Platten 1–2) zu — von 750 auf 855 Stück. Der Liste der <a href=\"15h/posta.html\"><strong>auf Zähnung E belegten Postämter</strong></a> wurde Kařez hinzugefügt; die Liste umfasst jetzt 161 Ämter und ist auch auf der <a href=\"15h/mapa.html\"><strong>Stempelkarte</strong></a> verzeichnet.",
+  "en": "<strong>15h</strong> — The records kept growing: the <a href=\"15h/statistiky.html\"><strong>statistics</strong></a> now rest on <strong>22,029 attributed stamps</strong>, <strong>6,818</strong> of them dated. The biggest gain was in perforation D (11½ line, plates 1–2) — up from 750 to 855 pieces. Kařez has been added to the list of <a href=\"15h/posta.html\"><strong>post offices documented on perforation E</strong></a>, which now numbers 161 offices and is also on the <a href=\"15h/mapa.html\"><strong>cancellation map</strong></a>.",
+  "es": "<strong>15h</strong> — El registro siguió creciendo: las <a href=\"15h/statistiky.html\"><strong>estadísticas</strong></a> se basan ahora en <strong>22.029 sellos determinados</strong>, de ellos <strong>6.818 fechados</strong>. El mayor aumento se dio en el dentado D (11½ de línea, planchas 1–2) — de 750 a 855 ejemplares. Kařez se ha añadido a la lista de <a href=\"15h/posta.html\"><strong>oficinas documentadas en el dentado E</strong></a>, que ahora cuenta con 161 oficinas y también figura en el <a href=\"15h/mapa.html\"><strong>mapa de matasellos</strong></a>.",
+  "files": null,
+  "fr": "<strong>15h</strong> — Le fichier a continué de s’enrichir : les <a href=\"15h/statistiky.html\"><strong>statistiques</strong></a> reposent désormais sur <strong>22&nbsp;029 timbres attribués</strong>, dont <strong>6&nbsp;818 datés</strong>. La plus forte hausse concerne la dentelure D (11½ en ligne, planches 1–2) — de 750 à 855 pièces. Kařez a été ajoutée à la liste des <a href=\"15h/posta.html\"><strong>bureaux attestés sur la dentelure E</strong></a>, qui compte désormais 161 bureaux et figure aussi sur la <a href=\"15h/mapa.html\"><strong>carte des oblitérations</strong></a>.",
+  "tag": "span"
+ },
  "f369c94d3d": {
   "cs": "Zkusmé tisky — Hradčany 15h",
   "de": "Probedrucke — Hradschin 15h",
@@ -22813,6 +23183,17 @@
   "fr": "25h bleu clair",
   "tag": "span"
  },
+ "f3cc81bc9a": {
+  "cs": "Zdroj: Marek Vrba, <em>15 h Hradčany – rozlišení barev a postup při rozpoznávání padělků</em>, Filatelie 11/2013, s. 10–11. Vrba sám odkazuje na Benešovu studii ve Filatelii 5 a 6/1998, z níž vychází předchozí sekce. Reprodukce barev v tisku ani na obrazovce neodpovídají skutečným známkám; slouží jen k orientaci.",
+  "de": "Quelle: Marek Vrba, <em>15 h Hradčany – rozlišení barev a postup při rozpoznávání padělků</em> (Die Farben der 15 h Hradčany unterscheiden und Fälschungen erkennen), Filatelie 11/2013, S. 10–11. Vrba selbst verweist auf Benešs Studie in Filatelie 5 und 6/1998, auf der der vorige Abschnitt beruht. Farbwiedergaben im Druck oder am Bildschirm entsprechen nicht den tatsächlichen Marken; sie dienen nur zur Orientierung.",
+  "en": "Source: Marek Vrba, <em>15 h Hradčany – rozlišení barev a postup při rozpoznávání padělků</em> (Distinguishing the colours of the 15 h Hradčany and how to recognise forgeries), Filatelie 11/2013, pp. 10–11. Vrba himself refers to Beneš’s study in Filatelie 5 and 6/1998, on which the previous section is based. Colour reproductions in print or on screen do not match the actual stamps; they serve only for orientation.",
+  "es": "Fuente: Marek Vrba, <em>15 h Hradčany – rozlišení barev a postup při rozpoznávání padělků</em> (Distinguir los colores del 15 h Hradčany y reconocer las falsificaciones), Filatelie 11/2013, pp. 10–11. El propio Vrba remite al estudio de Beneš en Filatelie 5 y 6/1998, en el que se basa la sección anterior. Las reproducciones del color, impresas o en pantalla, no coinciden con los sellos reales; solo sirven de orientación.",
+  "files": [
+   "15h/barvy.html"
+  ],
+  "fr": "Source : Marek Vrba, <em>15 h Hradčany – rozlišení barev a postup při rozpoznávání padělků</em> (Distinguer les couleurs du 15 h Hradčany et reconnaître les faux), Filatelie 11/2013, p. 10–11. Vrba renvoie lui-même à l’étude de Beneš dans Filatelie 5 et 6/1998, sur laquelle repose la section précédente. Les reproductions de couleur, imprimées ou à l’écran, ne correspondent pas aux timbres réels ; elles ne servent qu’à l’orientation.",
+  "tag": "span"
+ },
  "f3d116be01": {
   "cs": "<span class=\"badge tariff\">II. období</span>",
   "de": "<span class=\"badge tariff\">II. Periode</span>",
@@ -22865,6 +23246,13 @@
   ],
   "fr": "Moins courante — les planches III et IV ne représentent ensemble que ≈6,6 % des timbres déterminés (1 403 sur 21 329 pièces) ; recherchée.",
   "tag": "span"
+ },
+ "f4363adce1": {
+  "cs": "Podrobný statistický rozbor hodnoty 15h vychází z vlastní evidence: <strong>21 910 určených známek</strong>, z toho <strong>6 776 s čitelně datovaným razítkem</strong> (stav 5. 9. 2026). Zdrojem jsou listy „Stats 15h“ a „Usage Stats 15h“ evidenčního sešitu.",
+  "de": "Die ausführliche statistische Auswertung der 15h beruht auf der eigenen Erfassung: <strong>21 910 bestimmte Marken</strong>, davon <strong>6 776 mit lesbar datiertem Stempel</strong> (Stand 5. 9. 2026). Quelle sind die Blätter „Stats 15h“ und „Usage Stats 15h“ der Erfassungsdatei.",
+  "en": "The detailed statistical analysis of the 15h is based on the author’s records: <strong>21,910 attributed stamps</strong>, of which <strong>6,776 carry a legibly dated cancellation</strong> (as of 5 September 2026). The source is the “Stats 15h” and “Usage Stats 15h” sheets of the record workbook.",
+  "es": "El análisis estadístico detallado del 15h se basa en los registros propios: <strong>21 910 sellos atribuidos</strong>, de los cuales <strong>6 776 con matasellos legiblemente fechado</strong> (a 5 de septiembre de 2026). La fuente son las hojas «Stats 15h» y «Usage Stats 15h» del libro de registros.",
+  "fr": "L’analyse statistique détaillée du 15h repose sur les relevés de l’auteur : <strong>21 910 timbres attribués</strong>, dont <strong>6 776 avec une oblitération lisiblement datée</strong> (état au 5 septembre 2026). La source est constituée des feuilles « Stats 15h » et « Usage Stats 15h » du classeur de relevés."
  },
  "f4518d7f71": {
   "cs": "Tisková deska II",
@@ -23313,6 +23701,17 @@
   "fr": "N.B. : le relevé indique au total 10 941 pièces pour les planches 1–2 ; l’écart d’environ 960 pièces par rapport à la somme des groupes correspond aux timbres des planches 1–2 non encore répartis entre les groupes de dentelure.",
   "tag": "span"
  },
+ "fa4266e01b": {
+  "cs": "UV 366 nm",
+  "de": "UV 366 nm",
+  "en": "UV 366 nm",
+  "es": "UV 366 nm",
+  "files": [
+   "15h/barvy.html"
+  ],
+  "fr": "UV 366 nm",
+  "tag": "span"
+ },
  "fa88babd1a": {
   "cs": "Druhá kresba — Sbírám Hradčany",
   "de": "Zweite Zeichnung — Hradschin sammeln",
@@ -23591,6 +23990,17 @@
   ],
   "fr": "<h1>10h rouge – évolution de la 91e position de la 4e planche d’impression</h1>\n\n<p>Le 10h rouge (POFIS n° 5) a été, avec le 5h vert clair (3), le premier timbre de la Tchécoslovaquie nouvellement\ncréée, émis le 18 décembre 1918 (l’impression proprement dite a commencé le 16 décembre 1918). La littérature indique\nun tirage de plus de 110 millions d’exemplaires ; 1 % seulement du tirage a été officiellement perforé à la mesure\n11½ (D, dentelure en ligne).</p>\n<p>En raison de la technique typographique, où chaque position d’une feuille de 100 timbres est pour ainsi dire un\noriginal, on rencontre un grand nombre de défauts. Le Dr Kubát a retenu certains défauts de planche marquants pour la\nMonographie des timbres tchécoslovaques (1968) – ce sont les défauts dits monographiques.</p>\n<p>L’un d’eux est la populaire <strong>« horloge »</strong> de la 91e position du 10h rouge. Il s’agit d’un défaut du\nnégatif, c’est-à-dire de la première phase de fabrication de la planche d’impression – on trouve donc l’« horloge » sur\nles 4 planches d’impression de cette valeur.</p>\n<figure><img src=\"../15h/assets/img/08629-10h_91-4_DV_znamka.jpg\" alt=\"91/IV avec le défaut de planche « horloge »\" loading=\"lazy\" style=\"max-width:340px\"><figcaption>91/IV avec le défaut de planche « horloge »</figcaption></figure>\n<p>Au cours de l’impression, il a été décidé de retoucher cette tache blanche sur les 4 planches. La Monographie indique\nque, pour la première planche, le creux a été comblé de métal ; pour la deuxième et la troisième, il y a eu comblement\npartiel du creux par du métal et rattrapage par écrasement des deux tours. Cet article décrit l’évolution de la retouche\nsur la <strong>quatrième planche d’impression</strong>. Le Dr Kubát écrit que le défaut a été supprimé par le seul\nécrasement énergique des tours, ce qui les a déformées en forme de ciseaux.</p>\n<figure><img src=\"../15h/assets/img/08630-10h_91-4_Retus_vidlice_znam.jpg\" alt=\"91/IV avec la retouche en forme de « fourche »\" loading=\"lazy\" style=\"max-width:340px\"><figcaption>91/IV avec la retouche en forme de « fourche »</figcaption></figure>\n<p>De mon point de vue, ce procédé est impossible – dans la zone des deux premières tours, il n’y a pas assez de métal\npour que naisse l’effet de ciseaux. Je pense personnellement que toute la surface des deux premières tours de la\ncathédrale a été découpée et qu’une nouvelle pièce portant la fourche, c’est-à-dire la retouche, y a été insérée. Ce qui\nme conduit à cette hypothèse, c’est aussi le fait que, dans la variante à la fourche, les rayons situés à gauche et\nau-dessus de la première tour sont nettement plus courts et que les tours ne les touchent pas. Les timbres portant le\ndéfaut de planche comme ceux portant la retouche en forme de fourche se rencontrent relativement couramment.</p>\n<div class=\"imgrow\"><img src=\"../15h/assets/img/08631-10h_91-4_DV.jpg\" alt=\"\" loading=\"lazy\"><img src=\"../15h/assets/img/08637-10h_91-4_Retus_vidlice.jpg\" alt=\"\" loading=\"lazy\"></div>\n<p>Contrairement à la Monographie, le catalogue POFIS mentionne 2 variantes de retouche sans autre explication ; la\nfourche y est la retouche n° 2. Voici à quoi ressemble la retouche n° 1 selon ce catalogue (la « houe ») :</p>\n<figure><img src=\"../15h/assets/img/08641-10h_91-4_Retus_motyka_znamk.jpg\" alt=\"Variante rare – la « houe »\" loading=\"lazy\" style=\"max-width:340px\"><figcaption>Variante rare – la « houe »</figcaption></figure>\n<p>La présence de timbres portant cette variante est très rare. Mais s’agit-il seulement d’une correction – d’une\nretouche ? Ne serait-ce pas plutôt un endommagement de la retouche d’origine en forme de fourche ? Détails des deux\npremières tours sur plusieurs exemplaires :</p>\n<div class=\"imgrow\"><img src=\"../15h/assets/img/08636-10h_91-4_Retus_motyka5.jpg\" alt=\"\" loading=\"lazy\"><img src=\"../15h/assets/img/08634-10h_91-4_Retus_motyka3.jpg\" alt=\"\" loading=\"lazy\"><img src=\"../15h/assets/img/08632-10h_91-4_Retus_motyka1.jpg\" alt=\"\" loading=\"lazy\"><img src=\"../15h/assets/img/08633-10h_91-4_Retus_motyka2.jpg\" alt=\"\" loading=\"lazy\"><img src=\"../15h/assets/img/08635-10h_91-4_Retus_motyka4.jpg\" alt=\"\" loading=\"lazy\"></div>\n<p>On y voit clairement l’évolution de toute la zone autour des deux premières tours de la cathédrale. Selon moi, il ne\ns’agit pas d’une autre retouche, mais d’une phase d’évolution de la fourche d’origine – la seule retouche qui ait été\neffectuée sur 91/IV. L’évolution s’est toutefois poursuivie : à mesure que la planche était sollicitée, une partie de la\npièce insérée lors de la retouche s’est brisée et déformée :</p>\n<figure><img src=\"../15h/assets/img/08642-10h_91-4_Retus_zlomenina_zn.jpg\" alt=\"Retouche endommagée (la « fracture »)\" loading=\"lazy\" style=\"max-width:340px\"><figcaption>Retouche endommagée (la « fracture »)</figcaption></figure>\n<p>Je n’ai vu jusqu’à présent que trois exemplaires portant cette forme d’endommagement. J’estime qu’il s’agit d’une\nphase provenant de l’impression des dernières feuilles. Il est possible qu’il existe aussi des timbres d’une phase où la\npièce insérée s’est entièrement détachée de la planche et où les tours manquent.</p>\n<div class=\"imgrow\"><img src=\"../15h/assets/img/08640-10h_91-4_Retus_zlomenina3.jpg\" alt=\"\" loading=\"lazy\"><img src=\"../15h/assets/img/08638-10h_91-4_Retus_zlomenina1.jpg\" alt=\"\" loading=\"lazy\"><img src=\"../15h/assets/img/08639-10h_91-4_Retus_zlomenina2.jpg\" alt=\"\" loading=\"lazy\"></div>\n<p>Toutes les phases d’évolution de la zone de la première et de la deuxième tour de la cathédrale sur 91/IV :</p>\n<div class=\"imgrow\"><img src=\"../15h/assets/img/08631-10h_91-4_DV.jpg\" alt=\"\" loading=\"lazy\"><img src=\"../15h/assets/img/08637-10h_91-4_Retus_vidlice.jpg\" alt=\"\" loading=\"lazy\"><img src=\"../15h/assets/img/08636-10h_91-4_Retus_motyka5.jpg\" alt=\"\" loading=\"lazy\"><img src=\"../15h/assets/img/08634-10h_91-4_Retus_motyka3.jpg\" alt=\"\" loading=\"lazy\"><img src=\"../15h/assets/img/08632-10h_91-4_Retus_motyka1.jpg\" alt=\"\" loading=\"lazy\"><img src=\"../15h/assets/img/08633-10h_91-4_Retus_motyka2.jpg\" alt=\"\" loading=\"lazy\"><img src=\"../15h/assets/img/08635-10h_91-4_Retus_motyka4.jpg\" alt=\"\" loading=\"lazy\"><img src=\"../15h/assets/img/08640-10h_91-4_Retus_zlomenina3.jpg\" alt=\"\" loading=\"lazy\"><img src=\"../15h/assets/img/08638-10h_91-4_Retus_zlomenina1.jpg\" alt=\"\" loading=\"lazy\"><img src=\"../15h/assets/img/08639-10h_91-4_Retus_zlomenina2.jpg\" alt=\"\" loading=\"lazy\"></div>\n<p>Je serai reconnaissant de tout commentaire constructif et de toute autre proposition de scénario sur la façon dont\nl’évolution de ce timbre intéressant a pu se dérouler.</p>\n<p class=\"author\"><em>Josef Matoušek (30 avril 2016)</em></p>",
   "tag": "div"
+ },
+ "fd1c55e7af": {
+  "cs": "Vícenásobný tisk s pootočením. Druhý otisk je posunutý nahoru a doprava a stočený o několik stupňů: jeho nápis ČESKO-SLOVENSKÁ přebíhá šikmo středem známky přes hradčanské panorama a nahoře zasahuje do rámu spodek známky z vyšší řady.",
+  "de": "Mehrfachdruck mit Verdrehung. Der zweite Abdruck ist nach oben und rechts verschoben und um einige Grad gedreht: seine Inschrift ČESKO-SLOVENSKÁ läuft schräg durch die Mitte der Marke über das Hradschin-Panorama, und oben ragt der untere Teil einer Marke aus der Reihe darüber in den Rahmen.",
+  "en": "Multiple print with rotation. The second impression is shifted up and to the right and turned by a few degrees: its inscription ČESKO-SLOVENSKÁ runs obliquely through the middle of the stamp across the Hradčany skyline, and at the top the bottom of a stamp from the row above reaches into the frame.",
+  "es": "Impresión múltiple con giro. La segunda impresión está desplazada hacia arriba y a la derecha y girada unos grados: su inscripción ČESKO-SLOVENSKÁ cruza oblicuamente el centro del sello sobre el panorama de Hradčany, y arriba entra en el marco la parte inferior de un sello de la fila superior.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Impression multiple avec rotation. La seconde impression est décalée vers le haut et la droite et pivotée de quelques degrés : son inscription ČESKO-SLOVENSKÁ traverse obliquement le centre du timbre par-dessus le panorama de Hradčany, et en haut le bas d’un timbre de la rangée supérieure pénètre dans le cadre.",
+  "tag": "span"
  },
  "fd29e2468a": {
   "cs": "Světliny — Hradčany 15h",
@@ -23890,6 +24300,13 @@
   "fr": "Types à spirale (Is / IIs)",
   "tag": "span"
  },
+ "ff7cff28df": {
+  "cs": "Podrobný statistický rozbor hodnoty 15h vychází z vlastní evidence: <strong>22 029 určených známek</strong>, z toho <strong>6 818 s čitelně datovaným razítkem</strong> (stav 5. 9. 2026). Zdrojem jsou listy „Stats 15h“ a „Usage Stats 15h“ evidenčního sešitu.",
+  "de": "Die ausführliche statistische Auswertung der 15h beruht auf der eigenen Erfassung: <strong>22 029 bestimmte Marken</strong>, davon <strong>6 818 mit lesbar datiertem Stempel</strong> (Stand 5. 9. 2026). Quelle sind die Blätter „Stats 15h“ und „Usage Stats 15h“ der Erfassungsdatei.",
+  "en": "The detailed statistical analysis of the 15h is based on the author’s records: <strong>22,029 attributed stamps</strong>, of which <strong>6,818 carry a legibly dated cancellation</strong> (as of 5 September 2026). The source is the “Stats 15h” and “Usage Stats 15h” sheets of the record workbook.",
+  "es": "El análisis estadístico detallado del 15h se basa en los registros propios: <strong>22 029 sellos atribuidos</strong>, de los cuales <strong>6 818 con matasellos legiblemente fechado</strong> (a 5 de septiembre de 2026). La fuente son las hojas «Stats 15h» y «Usage Stats 15h» del libro de registros.",
+  "fr": "L’analyse statistique détaillée du 15h repose sur les relevés de l’auteur : <strong>22 029 timbres attribués</strong>, dont <strong>6 818 avec une oblitération lisiblement datée</strong> (état au 5 septembre 2026). La source est constituée des feuilles « Stats 15h » et « Usage Stats 15h » du classeur de relevés."
+ },
  "ff9187f30e": {
   "cs": "21. 3. 2015, aktualizováno 17. 11. 2015",
   "de": "21. 3. 2015, aktualisiert 17. 11. 2015",
@@ -23944,413 +24361,5 @@
   ],
   "fr": "25,7&nbsp;%",
   "tag": "num"
- },
- "f4363adce1": {
-  "cs": "Podrobný statistický rozbor hodnoty 15h vychází z vlastní evidence: <strong>21 910 určených známek</strong>, z toho <strong>6 776 s čitelně datovaným razítkem</strong> (stav 5. 9. 2026). Zdrojem jsou listy „Stats 15h“ a „Usage Stats 15h“ evidenčního sešitu.",
-  "de": "Die ausführliche statistische Auswertung der 15h beruht auf der eigenen Erfassung: <strong>21 910 bestimmte Marken</strong>, davon <strong>6 776 mit lesbar datiertem Stempel</strong> (Stand 5. 9. 2026). Quelle sind die Blätter „Stats 15h“ und „Usage Stats 15h“ der Erfassungsdatei.",
-  "en": "The detailed statistical analysis of the 15h is based on the author’s records: <strong>21,910 attributed stamps</strong>, of which <strong>6,776 carry a legibly dated cancellation</strong> (as of 5 September 2026). The source is the “Stats 15h” and “Usage Stats 15h” sheets of the record workbook.",
-  "es": "El análisis estadístico detallado del 15h se basa en los registros propios: <strong>21 910 sellos atribuidos</strong>, de los cuales <strong>6 776 con matasellos legiblemente fechado</strong> (a 5 de septiembre de 2026). La fuente son las hojas «Stats 15h» y «Usage Stats 15h» del libro de registros.",
-  "fr": "L’analyse statistique détaillée du 15h repose sur les relevés de l’auteur : <strong>21 910 timbres attribués</strong>, dont <strong>6 776 avec une oblitération lisiblement datée</strong> (état au 5 septembre 2026). La source est constituée des feuilles « Stats 15h » et « Usage Stats 15h » du classeur de relevés."
- },
- "a5fca97371": {
-  "cs": "Z 6 776 čitelně datovaných razítek. Pořadí ukazuje, jak výroba postupovala od řádkových zoubkování D/E/F na raných deskách k hřebenovým A/B na deskách pozdějších.",
-  "de": "Von 6.776 lesbar datierten Stempeln. Die Reihenfolge zeigt, wie die Produktion von den Linienzähnungen D/E/F auf den frühen Platten zu den Kammzähnungen A/B auf den späteren Platten überging.",
-  "en": "From 6,776 legibly dated cancellations. The sequence shows production moving from line perforations D/E/F on the early plates to comb perforations A/B on the later ones.",
-  "es": "De 6.776 matasellos legiblemente fechados. El orden muestra cómo la producción pasó de los dentados lineales D/E/F en las planchas tempranas a los dentados de peine A/B en las planchas posteriores.",
-  "files": [
-   "15h/zoubkovani.html"
-  ],
-  "fr": "Sur 6 776 oblitérations lisiblement datées. L’ordre montre comment la production est passée des dentelures linéaires D/E/F sur les planches anciennes aux dentelures en peigne A/B sur les planches plus tardives.",
-  "tag": "span"
- },
- "43ca9e9f62": {
-  "cs": "Podrobný statistický rozbor hodnoty 15h vychází z vlastní evidence: <strong>21 910 určených známek</strong>, z toho <strong>6 778 s čitelně datovaným razítkem</strong> (stav 5. 9. 2026). Zdrojem jsou listy „Stats 15h“ a „Usage Stats 15h“ evidenčního sešitu.",
-  "de": "Die ausführliche statistische Auswertung der 15h beruht auf der eigenen Erfassung: <strong>21 910 bestimmte Marken</strong>, davon <strong>6 778 mit lesbar datiertem Stempel</strong> (Stand 5. 9. 2026). Quelle sind die Blätter „Stats 15h“ und „Usage Stats 15h“ der Erfassungsdatei.",
-  "en": "The detailed statistical analysis of the 15h is based on the author’s records: <strong>21,910 attributed stamps</strong>, of which <strong>6,778 carry a legibly dated cancellation</strong> (as of 5 September 2026). The source is the “Stats 15h” and “Usage Stats 15h” sheets of the record workbook.",
-  "es": "El análisis estadístico detallado del 15h se basa en los registros propios: <strong>21 910 sellos atribuidos</strong>, de los cuales <strong>6 778 con matasellos legiblemente fechado</strong> (a 5 de septiembre de 2026). La fuente son las hojas «Stats 15h» y «Usage Stats 15h» del libro de registros.",
-  "fr": "L’analyse statistique détaillée du 15h repose sur les relevés de l’auteur : <strong>21 910 timbres attribués</strong>, dont <strong>6 778 avec une oblitération lisiblement datée</strong> (état au 5 septembre 2026). La source est constituée des feuilles « Stats 15h » et « Usage Stats 15h » du classeur de relevés."
- },
- "ef5912548e": {
-  "cs": "Z 6 778 čitelně datovaných razítek. Pořadí ukazuje, jak výroba postupovala od řádkových zoubkování D/E/F na raných deskách k hřebenovým A/B na deskách pozdějších.",
-  "de": "Von 6.778 lesbar datierten Stempeln. Die Reihenfolge zeigt, wie die Produktion von den Linienzähnungen D/E/F auf den frühen Platten zu den Kammzähnungen A/B auf den späteren Platten überging.",
-  "en": "From 6,778 legibly dated cancellations. The sequence shows production moving from line perforations D/E/F on the early plates to comb perforations A/B on the later ones.",
-  "es": "De 6.778 matasellos legiblemente fechados. El orden muestra cómo la producción pasó de los dentados lineales D/E/F en las planchas tempranas a los dentados de peine A/B en las planchas posteriores.",
-  "files": [
-   "15h/zoubkovani.html"
-  ],
-  "fr": "Sur 6 778 oblitérations lisiblement datées. L’ordre montre comment la production est passée des dentelures linéaires D/E/F sur les planches anciennes aux dentelures en peigne A/B sur les planches plus tardives.",
-  "tag": "span"
- },
- "7f829c7582": {
-  "cs": "<strong>15h</strong> — Stránka <a href=\"15h/posta.html#posledni-den\"><strong>Poštovní provoz 15h</strong></a> nově zachycuje <strong>poslední den platnosti Hradčan, 30.&nbsp;dubna&nbsp;1921</strong>: čtyři kusy z tohoto dne pokrývají všechna tři hlavní zoubkování pozdějších desek — ZP&nbsp;64/IV (zoubkování&nbsp;A), ZP&nbsp;99/IV a 46/IV (zoubkování&nbsp;B) a ZP&nbsp;16/V se strojovým razítkem (zoubkování&nbsp;C). Nový článek <a href=\"15h/clanky/15h-razitka-po-platnosti.html\"><strong>Razítka s datem po konci platnosti</strong></a> pak dokládá čtyřblok 15h ze 6.&nbsp;tiskové desky (ZP&nbsp;48/49/58/59) s razítkem datovaným 13.&nbsp;VI.&nbsp;21 — přes měsíc po skončení platnosti, nejspíš kvůli chybně nastavenému datumovému kotouči.",
-  "en": "<strong>15h</strong> — The <a href=\"15h/posta.html#posledni-den\"><strong>Postal use of the 15h</strong></a> page now covers <strong>the last day of the Hradčany's validity, 30&nbsp;April&nbsp;1921</strong>: four pieces from that day span all three main perforations of the later plates — field&nbsp;64/IV (perforation&nbsp;A), fields&nbsp;99/IV and 46/IV (perforation&nbsp;B), and field&nbsp;16/V with a machine cancel (perforation&nbsp;C). A new article, <a href=\"15h/clanky/15h-razitka-po-platnosti.html\"><strong>Cancellations dated after the end of validity</strong></a>, documents a block of four 15h stamps from plate&nbsp;6 (fields&nbsp;48/49/58/59) with a cancellation dated 13&nbsp;June&nbsp;1921 — over a month after validity ended, most likely due to a misset date wheel.",
-  "de": "<strong>15h</strong> — Die Seite <a href=\"15h/posta.html#posledni-den\"><strong>Postalische Verwendung der 15h</strong></a> deckt jetzt <strong>den letzten Gültigkeitstag der Hradschin-Ausgabe, 30.&nbsp;April&nbsp;1921</strong> ab: Vier Stücke von diesem Tag decken alle drei Hauptzähnungen der späteren Platten ab — Feld&nbsp;64/IV (Zähnung&nbsp;A), Felder&nbsp;99/IV und 46/IV (Zähnung&nbsp;B) sowie Feld&nbsp;16/V mit Maschinenstempel (Zähnung&nbsp;C). Ein neuer Artikel, <a href=\"15h/clanky/15h-razitka-po-platnosti.html\"><strong>Stempel mit Datum nach dem Ende der Gültigkeit</strong></a>, belegt einen Viererblock der 15h von der 6.&nbsp;Druckplatte (Felder&nbsp;48/49/58/59) mit einem Stempel vom 13.&nbsp;Juni&nbsp;1921 — über einen Monat nach Ablauf der Gültigkeit, vermutlich wegen eines falsch eingestellten Datumsrads.",
-  "es": "<strong>15h</strong> — La página <a href=\"15h/posta.html#posledni-den\"><strong>Uso postal del 15h</strong></a> recoge ahora <strong>el último día de validez de los Hradčany, el 30&nbsp;de abril de&nbsp;1921</strong>: cuatro piezas de ese día cubren los tres dentados principales de las planchas tardías — posición&nbsp;64/IV (dentado&nbsp;A), posiciones&nbsp;99/IV y 46/IV (dentado&nbsp;B) y posición&nbsp;16/V con matasellos mecánico (dentado&nbsp;C). Un nuevo artículo, <a href=\"15h/clanky/15h-razitka-po-platnosti.html\"><strong>Matasellos con fecha posterior al fin de validez</strong></a>, documenta un bloque de cuatro 15h de la 6.ª plancha (posiciones&nbsp;48/49/58/59) con un matasellos fechado el 13&nbsp;de junio de&nbsp;1921 — más de un mes después de terminar la validez, probablemente por una rueda de fecha mal ajustada.",
-  "fr": "<strong>15h</strong> — La page <a href=\"15h/posta.html#posledni-den\"><strong>Usage postal du 15h</strong></a> couvre désormais <strong>le dernier jour de validité des Hradčany, le 30&nbsp;avril&nbsp;1921</strong> : quatre pièces de ce jour couvrent les trois dentelures principales des planches tardives — case&nbsp;64/IV (dentelure&nbsp;A), cases&nbsp;99/IV et 46/IV (dentelure&nbsp;B) et case&nbsp;16/V à oblitération mécanique (dentelure&nbsp;C). Un nouvel article, <a href=\"15h/clanky/15h-razitka-po-platnosti.html\"><strong>Oblitérations datées après la fin de validité</strong></a>, présente un bloc de quatre 15h de la 6e planche (cases&nbsp;48/49/58/59) avec un cachet daté du 13&nbsp;juin&nbsp;1921 — plus d'un mois après la fin de validité, sans doute à cause d'une molette de date mal réglée."
- },
- "a29d43818f": {
-  "cs": "Podrobný statistický rozbor hodnoty 15h vychází z vlastní evidence: <strong>21 922 určených známek</strong>, z toho <strong>6 790 s čitelně datovaným razítkem</strong> (stav 5. 9. 2026). Zdrojem jsou listy „Stats 15h“ a „Usage Stats 15h“ evidenčního sešitu.",
-  "de": "Die ausführliche statistische Auswertung der 15h beruht auf der eigenen Erfassung: <strong>21 922 bestimmte Marken</strong>, davon <strong>6 790 mit lesbar datiertem Stempel</strong> (Stand 5. 9. 2026). Quelle sind die Blätter „Stats 15h“ und „Usage Stats 15h“ der Erfassungsdatei.",
-  "en": "The detailed statistical analysis of the 15h is based on the author’s records: <strong>21,922 attributed stamps</strong>, of which <strong>6,790 carry a legibly dated cancellation</strong> (as of 5 September 2026). The source is the “Stats 15h” and “Usage Stats 15h” sheets of the record workbook.",
-  "es": "El análisis estadístico detallado del 15h se basa en los registros propios: <strong>21 922 sellos atribuidos</strong>, de los cuales <strong>6 790 con matasellos legiblemente fechado</strong> (a 5 de septiembre de 2026). La fuente son las hojas «Stats 15h» y «Usage Stats 15h» del libro de registros.",
-  "fr": "L’analyse statistique détaillée du 15h repose sur les relevés de l’auteur : <strong>21 922 timbres attribués</strong>, dont <strong>6 790 avec une oblitération lisiblement datée</strong> (état au 5 septembre 2026). La source est constituée des feuilles « Stats 15h » et « Usage Stats 15h » du classeur de relevés."
- },
- "801d4a40e1": {
-  "cs": "Z 6 790 čitelně datovaných razítek. Pořadí ukazuje, jak výroba postupovala od řádkových zoubkování D/E/F na raných deskách k hřebenovým A/B na deskách pozdějších.",
-  "de": "Von 6.790 lesbar datierten Stempeln. Die Reihenfolge zeigt, wie die Produktion von den Linienzähnungen D/E/F auf den frühen Platten zu den Kammzähnungen A/B auf den späteren Platten überging.",
-  "en": "From 6,790 legibly dated cancellations. The sequence shows production moving from line perforations D/E/F on the early plates to comb perforations A/B on the later ones.",
-  "es": "De 6.790 matasellos legiblemente fechados. El orden muestra cómo la producción pasó de los dentados lineales D/E/F en las planchas tempranas a los dentados de peine A/B en las planchas posteriores.",
-  "files": [
-   "15h/zoubkovani.html"
-  ],
-  "fr": "Sur 6 790 oblitérations lisiblement datées. L’ordre montre comment la production est passée des dentelures linéaires D/E/F sur les planches anciennes aux dentelures en peigne A/B sur les planches plus tardives.",
-  "tag": "span"
- },
- "9c2b1acfac": {
-  "cs": "Z matice je dobře patrná vzácnost zoubkování A na deskách V–VI (514 kusů, tj. ≈5 % materiálu těchto desek — proti ≈47 % u B i C), vzácnost C na deskách I–II (26 kusů) a výlučnost řádkových zoubkování D, E, F pro rané desky I–II.",
-  "de": "Aus der Matrix ist die Seltenheit der Zähnung A auf den Platten V–VI gut ersichtlich (514 Stück, also ≈5 % des Materials dieser Platten — gegenüber je ≈47 % bei B und C), ebenso die Seltenheit von C auf den Platten I–II (26 Stück) und die Ausschließlichkeit der Linienzähnungen D, E, F für die frühen Platten I–II.",
-  "en": "The matrix clearly shows the scarcity of perforation A on plates V–VI (514 pieces, i.e. ≈5 % of the material of these plates — against ≈47 % each for B and C), the scarcity of C on plates I–II (26 pieces), and the exclusivity of line perforations D, E and F to the early plates I–II.",
-  "es": "En la matriz se aprecia bien la rareza del dentado A en las planchas V–VI (514 ejemplares, es decir, ≈5 % del material de estas planchas — frente al ≈47 % de B y de C), la rareza de C en las planchas I–II (26 ejemplares) y la exclusividad de los dentados de línea D, E y F para las planchas tempranas I–II.",
-  "files": [
-   "15h/statistiky.html"
-  ],
-  "fr": "La matrice fait bien ressortir la rareté de la dentelure A sur les planches V–VI (514 pièces, soit ≈5 % du matériel de ces planches — contre ≈47 % pour B comme pour C), la rareté de C sur les planches I–II (26 pièces) et le caractère exclusif des dentelures en ligne D, E et F pour les planches précoces I–II.",
-  "tag": "span"
- },
- "fd1c55e7af": {
-  "cs": "Vícenásobný tisk s pootočením. Druhý otisk je posunutý nahoru a doprava a stočený o několik stupňů: jeho nápis ČESKO-SLOVENSKÁ přebíhá šikmo středem známky přes hradčanské panorama a nahoře zasahuje do rámu spodek známky z vyšší řady.",
-  "en": "Multiple print with rotation. The second impression is shifted up and to the right and turned by a few degrees: its inscription ČESKO-SLOVENSKÁ runs obliquely through the middle of the stamp across the Hradčany skyline, and at the top the bottom of a stamp from the row above reaches into the frame.",
-  "de": "Mehrfachdruck mit Verdrehung. Der zweite Abdruck ist nach oben und rechts verschoben und um einige Grad gedreht: seine Inschrift ČESKO-SLOVENSKÁ läuft schräg durch die Mitte der Marke über das Hradschin-Panorama, und oben ragt der untere Teil einer Marke aus der Reihe darüber in den Rahmen.",
-  "es": "Impresión múltiple con giro. La segunda impresión está desplazada hacia arriba y a la derecha y girada unos grados: su inscripción ČESKO-SLOVENSKÁ cruza oblicuamente el centro del sello sobre el panorama de Hradčany, y arriba entra en el marco la parte inferior de un sello de la fila superior.",
-  "fr": "Impression multiple avec rotation. La seconde impression est décalée vers le haut et la droite et pivotée de quelques degrés : son inscription ČESKO-SLOVENSKÁ traverse obliquement le centre du timbre par-dessus le panorama de Hradčany, et en haut le bas d’un timbre de la rangée supérieure pénètre dans le cadre.",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ],
-  "tag": "span"
- },
- "a0ec6e4067": {
-  "cs": "Kus 4 — Vícenásobný tisk s pootočením. Druhý otisk je posunutý nahoru a doprava a stočený o několik stupňů: jeho nápis ČESKO-SLOVENSKÁ přebíhá šikmo středem známky přes hradčanské panorama a nahoře zasahuje do rámu spodek známky z vyšší řady.",
-  "en": "Item 4 — Multiple print with rotation. The second impression is shifted up and to the right and turned by a few degrees: its inscription ČESKO-SLOVENSKÁ runs obliquely through the middle of the stamp across the Hradčany skyline, and at the top the bottom of a stamp from the row above reaches into the frame.",
-  "de": "Stück 4 — Mehrfachdruck mit Verdrehung. Der zweite Abdruck ist nach oben und rechts verschoben und um einige Grad gedreht: seine Inschrift ČESKO-SLOVENSKÁ läuft schräg durch die Mitte der Marke über das Hradschin-Panorama, und oben ragt der untere Teil einer Marke aus der Reihe darüber in den Rahmen.",
-  "es": "Ejemplar 4 — Impresión múltiple con giro. La segunda impresión está desplazada hacia arriba y a la derecha y girada unos grados: su inscripción ČESKO-SLOVENSKÁ cruza oblicuamente el centro del sello sobre el panorama de Hradčany, y arriba entra en el marco la parte inferior de un sello de la fila superior.",
-  "fr": "Pièce 4 — Impression multiple avec rotation. La seconde impression est décalée vers le haut et la droite et pivotée de quelques degrés : son inscription ČESKO-SLOVENSKÁ traverse obliquement le centre du timbre par-dessus le panorama de Hradčany, et en haut le bas d’un timbre de la rangée supérieure pénètre dans le cadre.",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ],
-  "tag": "cap"
- },
- "8b0bfae65f": {
-  "cs": "<strong>15h</strong> — Dokončeno zpracování zásobníkových listů s páskami a bloky: <a href=\"15h/statistiky.html\"><strong>statistiky</strong></a> nyní vycházejí z <strong>21&nbsp;922 určených známek</strong>, z toho <strong>6&nbsp;790 datovaných</strong>. Do <a href=\"15h/mapa.html\"><strong>mapy razítek</strong></a> přibyly na desce III Varnsdorf a Cheb, na desce IV Karlovy Vary a Heřmanův Městec, ve vrstvě zoubkování A na deskách V–VI Chyše, Zábřeh a Ústí nad Orlicí. Seznam <a href=\"15h/posta.html\"><strong>pošt doložených na zoubkování B</strong></a> byl srovnán s mapou — má nyní 60 úřadů a každý z nich (kromě dosud nelokalizovaného Schenkenhahnu) je na mapě. Do <a href=\"15h/vyrobni-vady.html#dvojity-tisk\"><strong>Dvojitého a vícenásobného tisku</strong></a> přibyl čtvrtý kus: druhý otisk je posunutý nahoru a doprava a pootočený, takže nápis ČESKO-SLOVENSKÁ přebíhá šikmo středem známky.",
-  "en": "<strong>15h</strong> — Processing of the stock sheets of strips and blocks is complete: the <a href=\"15h/statistiky.html\"><strong>statistics</strong></a> now rest on <strong>21,922 attributed stamps</strong>, <strong>6,790</strong> of them dated. The <a href=\"15h/mapa.html\"><strong>cancellation map</strong></a> gains Varnsdorf and Cheb on plate III, Karlovy Vary and Heřmanův Městec on plate IV, and Chyše, Zábřeh and Ústí nad Orlicí in the layer of perforation A on plates V–VI. The list of <a href=\"15h/posta.html\"><strong>post offices documented on perforation B</strong></a> has been reconciled with the map — it now has 60 offices, and every one of them (except the still unlocated Schenkenhahn) is on the map. <a href=\"15h/vyrobni-vady.html#dvojity-tisk\"><strong>Double and multiple print</strong></a> gains a fourth piece: the second impression is shifted up and to the right and rotated, so that the inscription ČESKO-SLOVENSKÁ runs obliquely through the middle of the stamp.",
-  "de": "<strong>15h</strong> — Die Auswertung der Einsteckblätter mit Streifen und Blöcken ist abgeschlossen: die <a href=\"15h/statistiky.html\"><strong>Statistik</strong></a> beruht nun auf <strong>21.922 bestimmten Marken</strong>, davon <strong>6.790 datiert</strong>. Die <a href=\"15h/mapa.html\"><strong>Stempelkarte</strong></a> erhält auf Platte III Varnsdorf und Cheb, auf Platte IV Karlovy Vary und Heřmanův Městec sowie in der Ebene der Zähnung A auf den Platten V–VI Chyše, Zábřeh und Ústí nad Orlicí. Die Liste der <a href=\"15h/posta.html\"><strong>auf Zähnung B belegten Postämter</strong></a> wurde mit der Karte abgeglichen — sie umfasst jetzt 60 Ämter, und jedes davon (außer dem noch nicht lokalisierten Schenkenhahn) ist auf der Karte. Beim <a href=\"15h/vyrobni-vady.html#dvojity-tisk\"><strong>Doppel- und Mehrfachdruck</strong></a> kommt ein viertes Stück hinzu: der zweite Abdruck ist nach oben und rechts verschoben und gedreht, sodass die Inschrift ČESKO-SLOVENSKÁ schräg durch die Mitte der Marke läuft.",
-  "es": "<strong>15h</strong> — Se ha completado el procesamiento de las hojas de clasificador con tiras y bloques: las <a href=\"15h/statistiky.html\"><strong>estadísticas</strong></a> se basan ahora en <strong>21.922 sellos determinados</strong>, de ellos <strong>6.790 fechados</strong>. El <a href=\"15h/mapa.html\"><strong>mapa de matasellos</strong></a> incorpora Varnsdorf y Cheb en la plancha III, Karlovy Vary y Heřmanův Městec en la plancha IV, y Chyše, Zábřeh y Ústí nad Orlicí en la capa del dentado A de las planchas V–VI. La lista de <a href=\"15h/posta.html\"><strong>oficinas documentadas en el dentado B</strong></a> se ha cotejado con el mapa: tiene ahora 60 oficinas y todas ellas (salvo Schenkenhahn, aún sin localizar) figuran en el mapa. A la <a href=\"15h/vyrobni-vady.html#dvojity-tisk\"><strong>impresión doble y múltiple</strong></a> se añade una cuarta pieza: la segunda impresión está desplazada hacia arriba y a la derecha y girada, de modo que la inscripción ČESKO-SLOVENSKÁ cruza oblicuamente el centro del sello.",
-  "fr": "<strong>15h</strong> — Le dépouillement des feuilles de classeur de bandes et de blocs est achevé : les <a href=\"15h/statistiky.html\"><strong>statistiques</strong></a> reposent désormais sur <strong>21&nbsp;922 timbres attribués</strong>, dont <strong>6&nbsp;790 datés</strong>. La <a href=\"15h/mapa.html\"><strong>carte des oblitérations</strong></a> gagne Varnsdorf et Cheb sur la planche III, Karlovy Vary et Heřmanův Městec sur la planche IV, ainsi que Chyše, Zábřeh et Ústí nad Orlicí dans la couche de la dentelure A des planches V–VI. La liste des <a href=\"15h/posta.html\"><strong>bureaux attestés sur la dentelure B</strong></a> a été mise en concordance avec la carte : elle compte maintenant 60 bureaux, et chacun d’eux (sauf Schenkenhahn, toujours non localisé) figure sur la carte. L’<a href=\"15h/vyrobni-vady.html#dvojity-tisk\"><strong>impression double et multiple</strong></a> gagne une quatrième pièce : la seconde impression est décalée vers le haut et la droite et pivotée, si bien que l’inscription ČESKO-SLOVENSKÁ traverse obliquement le centre du timbre."
- },
- "d194e29a1e": {
-  "cs": "Pět katalogových odstínů pod UV lampou — praktický klíč",
-  "en": "The five catalogue shades under the UV lamp — a practical key",
-  "de": "Die fünf Katalogfarbtöne unter der UV-Lampe — ein praktischer Schlüssel",
-  "es": "Los cinco matices de catálogo bajo la lámpara UV: una clave práctica",
-  "fr": "Les cinq nuances du catalogue sous la lampe UV — une clé pratique",
-  "files": [
-   "15h/barvy.html"
-  ],
-  "tag": "span"
- },
- "5ca0535d1b": {
-  "cs": "Beneš popsal, co pod lampou viděl, a záměrně to nepřevedl na katalogová písmena. Marek Vrba šel v roce 2013 opačnou cestou: vzal <strong>pět odstínů, které vede příručka Pofis</strong>, a ke každému napsal, jak vypadá v denním světle, jak pod modrou trubicí 366 nm a ze kterých tiskových desek pochází. Je to nejbližší věc použitelnému klíči, jakou literatura nabízí. Vrba zdůrazňuje, že jeho zjištění platí především pro známky s původním lepem.",
-  "en": "Beneš described what he saw under the lamp and deliberately did not translate it into catalogue letters. In 2013 Marek Vrba went the opposite way: he took the <strong>five shades listed by the Pofis handbook</strong> and for each one wrote down how it looks in daylight, how it looks under the 366 nm blue tube and which printing plates it comes from. It is the closest thing to a usable key that the literature offers. Vrba stresses that his findings apply above all to stamps with original gum.",
-  "de": "Beneš beschrieb, was er unter der Lampe sah, und übertrug es bewusst nicht in Katalogbuchstaben. Marek Vrba ging 2013 den umgekehrten Weg: Er nahm die <strong>fünf Farbtöne, die das Pofis-Handbuch führt</strong>, und schrieb zu jedem auf, wie er bei Tageslicht aussieht, wie unter der blauen 366-nm-Röhre und von welchen Druckplatten er stammt. Es ist das, was einem brauchbaren Schlüssel in der Literatur am nächsten kommt. Vrba betont, dass seine Befunde vor allem für Marken mit Originalgummi gelten.",
-  "es": "Beneš describió lo que vio bajo la lámpara y, deliberadamente, no lo tradujo a letras de catálogo. En 2013 Marek Vrba siguió el camino contrario: tomó los <strong>cinco matices que recoge el manual Pofis</strong> y anotó, para cada uno, cómo se ve a la luz del día, cómo bajo el tubo azul de 366 nm y de qué planchas procede. Es lo más parecido a una clave utilizable que ofrece la literatura. Vrba subraya que sus observaciones valen sobre todo para sellos con goma original.",
-  "fr": "Beneš a décrit ce qu’il voyait sous la lampe et s’est volontairement abstenu de le traduire en lettres de catalogue. En 2013, Marek Vrba a pris le chemin inverse : il a repris les <strong>cinq nuances que recense le manuel Pofis</strong> et a noté, pour chacune, son aspect à la lumière du jour, sous le tube bleu de 366 nm et les planches dont elle provient. C’est ce que la littérature offre de plus proche d’une clé utilisable. Vrba souligne que ses constatations valent avant tout pour les timbres à gomme d’origine.",
-  "files": [
-   "15h/barvy.html"
-  ],
-  "tag": "span"
- },
- "3359b9cfb8": {
-  "cs": "odstín",
-  "en": "shade",
-  "de": "Farbton",
-  "es": "matiz",
-  "fr": "nuance",
-  "files": [
-   "15h/barvy.html"
-  ],
-  "tag": "span"
- },
- "2e51440842": {
-  "cs": "denní světlo",
-  "en": "daylight",
-  "de": "Tageslicht",
-  "es": "luz del día",
-  "fr": "lumière du jour",
-  "files": [
-   "15h/barvy.html"
-  ],
-  "tag": "span"
- },
- "fa4266e01b": {
-  "cs": "UV 366 nm",
-  "en": "UV 366 nm",
-  "de": "UV 366 nm",
-  "es": "UV 366 nm",
-  "fr": "UV 366 nm",
-  "files": [
-   "15h/barvy.html"
-  ],
-  "tag": "span"
- },
- "4b695627b0": {
-  "cs": "tiskové desky",
-  "en": "printing plates",
-  "de": "Druckplatten",
-  "es": "planchas",
-  "fr": "planches",
-  "files": [
-   "15h/barvy.html"
-  ],
-  "tag": "span"
- },
- "c1f1f7a31c": {
-  "cs": "světlá",
-  "en": "light",
-  "de": "hell",
-  "es": "clara",
-  "fr": "claire",
-  "files": [
-   "15h/barvy.html"
-  ],
-  "tag": "span"
- },
- "1ca754cd9d": {
-  "cs": "světlá, nanejvýš lehce ztmavne — „září“",
-  "en": "light, at most slightly darker — it “glows”",
-  "de": "hell, höchstens leicht dunkler — sie „leuchtet“",
-  "es": "clara, a lo sumo un poco más oscura: «brilla»",
-  "fr": "claire, tout au plus légèrement assombrie — elle « brille »",
-  "files": [
-   "15h/barvy.html"
-  ],
-  "tag": "span"
- },
- "cc9989b6bd": {
-  "cs": "sytě až tmavě cihlově červená",
-  "en": "deep to dark brick red",
-  "de": "sattes bis dunkles Ziegelrot",
-  "es": "rojo ladrillo intenso a oscuro",
-  "fr": "rouge brique soutenu à foncé",
-  "files": [
-   "15h/barvy.html"
-  ],
-  "tag": "span"
- },
- "cb7a106fa6": {
-  "cs": "tmavě hnědá — „nezáří“",
-  "en": "dark brown — it does not glow",
-  "de": "dunkelbraun — sie „leuchtet nicht“",
-  "es": "marrón oscuro: «no brilla»",
-  "fr": "brun foncé — elle « ne brille pas »",
-  "files": [
-   "15h/barvy.html"
-  ],
-  "tag": "span"
- },
- "5e4239e969": {
-  "cs": "(dříve červenohnědá)",
-  "en": "(formerly “reddish brown”)",
-  "de": "(früher „rotbraun“)",
-  "es": "(antes «rojo pardo»)",
-  "fr": "(autrefois « brun rougeâtre »)",
-  "files": [
-   "15h/barvy.html"
-  ],
-  "tag": "span"
- },
- "2cf19cd910": {
-  "cs": "červená až sytě červená",
-  "en": "red to deep red",
-  "de": "rot bis sattrot",
-  "es": "rojo a rojo intenso",
-  "fr": "rouge à rouge soutenu",
-  "files": [
-   "15h/barvy.html"
-  ],
-  "tag": "span"
- },
- "5c3fc5e2dd": {
-  "cs": "tmavě hnědá až černohnědá — nezáří",
-  "en": "dark brown to blackish brown — does not glow",
-  "de": "dunkelbraun bis schwarzbraun — leuchtet nicht",
-  "es": "marrón oscuro a marrón negruzco: no brilla",
-  "fr": "brun foncé à brun noirâtre — ne brille pas",
-  "files": [
-   "15h/barvy.html"
-  ],
-  "tag": "span"
- },
- "da854eda1e": {
-  "cs": "shodná s barvou 20h Hradčany (Pof. 9)",
-  "en": "identical to the 20h Hradčany (Pof. 9)",
-  "de": "identisch mit der Farbe der 20 h Hradčany (Pof. 9)",
-  "es": "idéntica al color del 20 h Hradčany (Pof. 9)",
-  "fr": "identique à la couleur du 20 h Hradčany (Pof. 9)",
-  "files": [
-   "15h/barvy.html"
-  ],
-  "tag": "span"
- },
- "313ee3a7c9": {
-  "cs": "tmavě karmínová",
-  "en": "dark carmine",
-  "de": "dunkelkarmin",
-  "es": "carmín oscuro",
-  "fr": "carmin foncé",
-  "files": [
-   "15h/barvy.html"
-  ],
-  "tag": "span"
- },
- "99703b8e44": {
-  "cs": "živější odstín cihlově červené",
-  "en": "a livelier shade of brick red",
-  "de": "ein lebhafterer Ton des Ziegelrots",
-  "es": "un matiz más vivo del rojo ladrillo",
-  "fr": "une nuance plus vive du rouge brique",
-  "files": [
-   "15h/barvy.html"
-  ],
-  "tag": "span"
- },
- "a3a4b0011c": {
-  "cs": "světlá — „září“",
-  "en": "light — it “glows”",
-  "de": "hell — sie „leuchtet“",
-  "es": "clara: «brilla»",
-  "fr": "claire — elle « brille »",
-  "files": [
-   "15h/barvy.html"
-  ],
-  "tag": "span"
- },
- "2bbbfd776e": {
-  "cs": "Z tabulky plyne jedno pravidlo, které se dá nosit v hlavě: <strong>drahé odstíny nezáří.</strong> Hnědočervená i červená pod lampou ztmavnou do hněda, zatímco obyčejná cihlově červená a rumělková zůstanou světlé a „svítí“. Lampa tedy na první pohled oddělí levné od drahého — ovšem jen se srovnávacím kusem vedle, absolutní posouzení pod UV nefunguje (viz výše).",
-  "en": "The table yields one rule worth carrying in one’s head: <strong>the expensive shades do not glow.</strong> Brownish red and red darken to brown under the lamp, while the ordinary brick red and vermilion stay light and “shine”. The lamp thus separates the cheap from the dear at a glance — but only with a comparison piece alongside; absolute judgement under UV does not work (see above).",
-  "de": "Aus der Tabelle folgt eine Regel, die man sich merken kann: <strong>Die teuren Farbtöne leuchten nicht.</strong> Rotbraun und Rot werden unter der Lampe braun, während das gewöhnliche Ziegelrot und das Zinnoberrot hell bleiben und „strahlen“. Die Lampe trennt also auf den ersten Blick das Billige vom Teuren — allerdings nur mit einem Vergleichsstück daneben; eine absolute Beurteilung unter UV funktioniert nicht (siehe oben).",
-  "es": "De la tabla se desprende una regla fácil de recordar: <strong>los matices caros no brillan.</strong> El rojo pardo y el rojo se oscurecen a marrón bajo la lámpara, mientras que el rojo ladrillo corriente y el bermellón permanecen claros y «lucen». La lámpara separa así a primera vista lo barato de lo caro, pero solo con una pieza de comparación al lado; la valoración absoluta bajo UV no funciona (véase arriba).",
-  "fr": "Du tableau découle une règle qu’on peut garder en tête : <strong>les nuances chères ne brillent pas.</strong> Le brun rougeâtre et le rouge virent au brun sous la lampe, tandis que le rouge brique ordinaire et le vermillon restent clairs et « rayonnent ». La lampe sépare donc au premier coup d’œil le bon marché du cher — mais seulement avec une pièce de comparaison à côté ; le jugement absolu sous UV ne fonctionne pas (voir plus haut).",
-  "files": [
-   "15h/barvy.html"
-  ],
-  "tag": "span"
- },
- "0580ea289e": {
-  "cs": "Druhé čtení se týká desek. První tři odstíny se vyskytují na známkách z desek I, II a VII, takže každou z těchto desek lze doložit ve třech odstínech — dohromady devět variant. Vrba je ukazuje na nezoubkovaných známkách z desky VII (pole 98 cihlově červené i hnědočervené, pole 61 červené) a na zoubkovaných 13¾ : 13½ z pole 92 desek II, I a VII; u ostatních zoubkování je situace jiná a odkazuje na katalog. V rámci každého odstínu existují světlejší a tmavší kusy podle tloušťky vrstvy barvy a druhu papíru. Karmínovou zjistil u známek z desek V a VI; označení „rumělková“ se používá pro známky z jednotypových desek III–VI, tedy výhradně s otevřenou spirálou I. typu.",
-  "en": "The second reading concerns the plates. The first three shades occur on stamps from plates I, II and VII, so each of these plates can be documented in three shades — nine variants in all. Vrba shows them on imperforate stamps from plate VII (field 98 in brick red and in brownish red, field 61 in red) and on perforated 13¾ : 13½ stamps from field 92 of plates II, I and VII; for the other perforations the situation differs and he refers to the catalogue. Within each shade there are lighter and darker copies according to the thickness of the ink layer and the kind of paper. He found carmine on stamps from plates V and VI; the term “vermilion” is used for stamps from the single-type plates III–VI, i.e. exclusively with the open type I spiral.",
-  "de": "Die zweite Lesart betrifft die Platten. Die ersten drei Farbtöne kommen auf Marken der Platten I, II und VII vor, sodass sich jede dieser Platten in drei Farbtönen belegen lässt — insgesamt neun Varianten. Vrba zeigt sie an ungezähnten Marken der Platte VII (Feld 98 in Ziegelrot und in Rotbraun, Feld 61 in Rot) und an gezähnten 13¾ : 13½ vom Feld 92 der Platten II, I und VII; bei den übrigen Zähnungen ist die Lage anders, und er verweist auf den Katalog. Innerhalb jedes Farbtons gibt es hellere und dunklere Stücke je nach Dicke der Farbschicht und Papiersorte. Karmin stellte er bei Marken der Platten V und VI fest; die Bezeichnung „Zinnoberrot“ wird für Marken der Eintyp-Platten III–VI verwendet, also ausschließlich mit der offenen Spirale des Typs I.",
-  "es": "La segunda lectura se refiere a las planchas. Los tres primeros matices aparecen en sellos de las planchas I, II y VII, de modo que cada una de ellas puede documentarse en tres matices: nueve variantes en total. Vrba los muestra en sellos sin dentar de la plancha VII (campo 98 en rojo ladrillo y en rojo pardo, campo 61 en rojo) y en sellos dentados 13¾ : 13½ del campo 92 de las planchas II, I y VII; en los demás dentados la situación es distinta y remite al catálogo. Dentro de cada matiz hay ejemplares más claros y más oscuros según el grosor de la capa de tinta y el tipo de papel. El carmín lo halló en sellos de las planchas V y VI; la denominación «bermellón» se usa para los sellos de las planchas de un solo tipo III–VI, es decir, exclusivamente con la espiral abierta del tipo I.",
-  "fr": "La seconde lecture concerne les planches. Les trois premières nuances se rencontrent sur des timbres des planches I, II et VII, de sorte que chacune de ces planches peut être attestée en trois nuances — neuf variantes au total. Vrba les montre sur des timbres non dentelés de la planche VII (case 98 en rouge brique et en brun rougeâtre, case 61 en rouge) et sur des timbres dentelés 13¾ : 13½ de la case 92 des planches II, I et VII ; pour les autres dentelures la situation est différente et il renvoie au catalogue. Au sein de chaque nuance existent des exemplaires plus clairs et plus foncés selon l’épaisseur de la couche d’encre et le type de papier. Il a constaté le carmin sur des timbres des planches V et VI ; la dénomination « vermillon » s’emploie pour les timbres des planches à type unique III–VI, c’est-à-dire exclusivement à spirale ouverte du type I.",
-  "files": [
-   "15h/barvy.html"
-  ],
-  "tag": "span"
- },
- "ee7f181bb9": {
-  "cs": "Padělky hnědočervené 7a",
-  "en": "Forgeries of the brownish red 7a",
-  "de": "Fälschungen der rotbraunen 7a",
-  "es": "Falsificaciones del rojo pardo 7a",
-  "fr": "Les faux du brun rougeâtre 7a",
-  "files": [
-   "15h/barvy.html"
-  ],
-  "tag": "span"
- },
- "90ac701217": {
-  "cs": "Druhá polovina Vrbova článku je varování. Hnědočervená 7a je natolik dražší než základní odstín, že se už léta na trhu objevují <strong>chemicky přebarvené cihlově červené známky</strong>. Zásah poškodí lep, takže padělatel nanese nový. V denním světle jsou takové kusy tmavě cihlově červené, někdy s drobnými skvrnkami v barevných plochách. Pod UV lampou barva ztmavne jen do světle hněda, občas s fialově růžovým nádechem — nikdy do tmavě hnědé pravé 7a. Nový lep je pod lampou jasný, často nepravidelný, se skvrnami a tahy po nanášení; to bývá vidět i při šikmém pohledu proti světlu.",
-  "en": "The second half of Vrba’s article is a warning. The brownish red 7a is so much dearer than the basic shade that <strong>chemically recoloured brick red stamps</strong> have been on the market for years. The treatment damages the gum, so the forger applies new gum. In daylight such pieces are dark brick red, sometimes with small specks in the coloured areas. Under the UV lamp the colour darkens only to a light brown, occasionally with a violet-pink tinge — never to the dark brown of a genuine 7a. The new gum is bright under the lamp, often uneven, with spots and strokes from its application; this can usually be seen at an oblique angle against the light as well.",
-  "de": "Die zweite Hälfte von Vrbas Artikel ist eine Warnung. Die rotbraune 7a ist so viel teurer als der Grundton, dass seit Jahren <strong>chemisch umgefärbte ziegelrote Marken</strong> auf dem Markt auftauchen. Der Eingriff beschädigt den Gummi, sodass der Fälscher neuen aufträgt. Bei Tageslicht sind solche Stücke dunkel ziegelrot, manchmal mit kleinen Flecken in den Farbflächen. Unter der UV-Lampe dunkelt die Farbe nur zu einem hellen Braun nach, gelegentlich mit violett-rosa Stich — nie zum Dunkelbraun einer echten 7a. Der neue Gummi ist unter der Lampe hell, oft unregelmäßig, mit Flecken und Strichen vom Auftragen; das ist meist auch bei schrägem Blick gegen das Licht zu sehen.",
-  "es": "La segunda mitad del artículo de Vrba es una advertencia. El rojo pardo 7a es tanto más caro que el matiz básico que desde hace años aparecen en el mercado <strong>sellos rojo ladrillo recoloreados químicamente</strong>. El tratamiento daña la goma, así que el falsificador aplica una nueva. A la luz del día estas piezas son de un rojo ladrillo oscuro, a veces con pequeñas manchas en las superficies de color. Bajo la lámpara UV el color solo se oscurece hasta un marrón claro, a veces con un tinte rosa violáceo, nunca hasta el marrón oscuro de un 7a auténtico. La goma nueva se ve brillante bajo la lámpara, a menudo irregular, con manchas y trazos de su aplicación; suele apreciarse también mirando de forma oblicua a contraluz.",
-  "fr": "La seconde moitié de l’article de Vrba est une mise en garde. Le brun rougeâtre 7a est tellement plus cher que la nuance de base que, depuis des années, des <strong>timbres rouge brique recolorés chimiquement</strong> circulent sur le marché. Le traitement abîme la gomme, si bien que le faussaire en applique une nouvelle. À la lumière du jour, ces pièces sont d’un rouge brique foncé, parfois avec de petites taches dans les aplats de couleur. Sous la lampe UV, la couleur ne s’assombrit que jusqu’à un brun clair, parfois avec un reflet rose violacé — jamais jusqu’au brun foncé d’un 7a authentique. La nouvelle gomme est brillante sous la lampe, souvent irrégulière, avec des taches et des traces d’application ; cela se voit généralement aussi en regardant de biais à contre-jour.",
-  "files": [
-   "15h/barvy.html"
-  ],
-  "tag": "span"
- },
- "36cf68f16b": {
-  "cs": "Vrba dodává, že některé padělky jsou primitivní a jiné zdařilé — a že existují i kusy, které v minulosti zmýlily tehdejší znalce a nesou jejich značku. Sám takový koupil v důvěře, že zkoušená známka je pravá. Zkušební značka tedy u 7a není náhradou za vlastní pohled pod lampu.",
-  "en": "Vrba adds that some forgeries are primitive and others accomplished — and that there are pieces which misled the experts of their day and carry their mark. He himself bought one, trusting that an expertised stamp must be genuine. With the 7a an expert’s mark is therefore no substitute for one’s own look under the lamp.",
-  "de": "Vrba fügt hinzu, dass manche Fälschungen primitiv, andere gelungen sind — und dass es auch Stücke gibt, die einst die damaligen Prüfer täuschten und deren Zeichen tragen. Er selbst kaufte ein solches im Vertrauen darauf, dass eine geprüfte Marke echt sein müsse. Ein Prüfzeichen ersetzt bei der 7a also nicht den eigenen Blick unter die Lampe.",
-  "es": "Vrba añade que algunas falsificaciones son primitivas y otras logradas, y que existen incluso piezas que en su día engañaron a los expertos de entonces y llevan su marca. Él mismo compró una confiando en que un sello examinado sería auténtico. En el 7a, pues, la marca de un experto no sustituye la propia mirada bajo la lámpara.",
-  "fr": "Vrba ajoute que certains faux sont primitifs et d’autres réussis — et qu’il existe même des pièces qui ont trompé les experts de l’époque et portent leur marque. Il en a lui-même acheté une, confiant qu’un timbre expertisé devait être authentique. Pour le 7a, la marque d’expert ne remplace donc pas son propre examen sous la lampe.",
-  "files": [
-   "15h/barvy.html"
-  ],
-  "tag": "span"
- },
- "4443f67a36": {
-  "cs": "Pro úvahu o karmínové v následující sekci dává Vrbův klíč konkrétní očekávání: pravá karmínová 7c má být pod 366 nm tmavě karmínová, kdežto rumělková 7d září světle. Kus, který v denním světle vypadá karmínově, ale pod lampou svítí jako rumělková, by tedy spíš odpovídal druhotně změněné rumělkové než samostatnému odstínu.",
-  "en": "For the discussion of carmine in the next section Vrba’s key gives a concrete expectation: a genuine carmine 7c should be dark carmine under 366 nm, whereas vermilion 7d glows light. A piece that looks carmine in daylight but glows like vermilion under the lamp would therefore fit a secondarily altered vermilion better than a shade in its own right.",
-  "de": "Für die Überlegung zum Karmin im folgenden Abschnitt liefert Vrbas Schlüssel eine konkrete Erwartung: Ein echtes Karmin 7c sollte unter 366 nm dunkelkarmin sein, während das Zinnoberrot 7d hell leuchtet. Ein Stück, das bei Tageslicht karminrot aussieht, unter der Lampe aber wie Zinnoberrot strahlt, würde also eher zu einem nachträglich veränderten Zinnoberrot passen als zu einem eigenständigen Farbton.",
-  "es": "Para la reflexión sobre el carmín de la sección siguiente, la clave de Vrba ofrece una expectativa concreta: un carmín 7c auténtico debería verse carmín oscuro bajo 366 nm, mientras que el bermellón 7d brilla claro. Una pieza que a la luz del día parece carmín pero bajo la lámpara luce como el bermellón correspondería, pues, más bien a un bermellón alterado secundariamente que a un matiz propio.",
-  "fr": "Pour la réflexion sur le carmin de la section suivante, la clé de Vrba fournit une attente concrète : un vrai carmin 7c devrait être carmin foncé sous 366 nm, tandis que le vermillon 7d brille clair. Une pièce qui paraît carmin à la lumière du jour mais brille comme le vermillon sous la lampe correspondrait donc plutôt à un vermillon altéré secondairement qu’à une nuance à part entière.",
-  "files": [
-   "15h/barvy.html"
-  ],
-  "tag": "span"
- },
- "f3cc81bc9a": {
-  "cs": "Zdroj: Marek Vrba, <em>15 h Hradčany – rozlišení barev a postup při rozpoznávání padělků</em>, Filatelie 11/2013, s. 10–11. Vrba sám odkazuje na Benešovu studii ve Filatelii 5 a 6/1998, z níž vychází předchozí sekce. Reprodukce barev v tisku ani na obrazovce neodpovídají skutečným známkám; slouží jen k orientaci.",
-  "en": "Source: Marek Vrba, <em>15 h Hradčany – rozlišení barev a postup při rozpoznávání padělků</em> (Distinguishing the colours of the 15 h Hradčany and how to recognise forgeries), Filatelie 11/2013, pp. 10–11. Vrba himself refers to Beneš’s study in Filatelie 5 and 6/1998, on which the previous section is based. Colour reproductions in print or on screen do not match the actual stamps; they serve only for orientation.",
-  "de": "Quelle: Marek Vrba, <em>15 h Hradčany – rozlišení barev a postup při rozpoznávání padělků</em> (Die Farben der 15 h Hradčany unterscheiden und Fälschungen erkennen), Filatelie 11/2013, S. 10–11. Vrba selbst verweist auf Benešs Studie in Filatelie 5 und 6/1998, auf der der vorige Abschnitt beruht. Farbwiedergaben im Druck oder am Bildschirm entsprechen nicht den tatsächlichen Marken; sie dienen nur zur Orientierung.",
-  "es": "Fuente: Marek Vrba, <em>15 h Hradčany – rozlišení barev a postup při rozpoznávání padělků</em> (Distinguir los colores del 15 h Hradčany y reconocer las falsificaciones), Filatelie 11/2013, pp. 10–11. El propio Vrba remite al estudio de Beneš en Filatelie 5 y 6/1998, en el que se basa la sección anterior. Las reproducciones del color, impresas o en pantalla, no coinciden con los sellos reales; solo sirven de orientación.",
-  "fr": "Source : Marek Vrba, <em>15 h Hradčany – rozlišení barev a postup při rozpoznávání padělků</em> (Distinguer les couleurs du 15 h Hradčany et reconnaître les faux), Filatelie 11/2013, p. 10–11. Vrba renvoie lui-même à l’étude de Beneš dans Filatelie 5 et 6/1998, sur laquelle repose la section précédente. Les reproductions de couleur, imprimées ou à l’écran, ne correspondent pas aux timbres réels ; elles ne servent qu’à l’orientation.",
-  "files": [
-   "15h/barvy.html"
-  ],
-  "tag": "span"
- },
- "99b88dffa5": {
-  "cs": "<strong>15h</strong> — Dokončeno zpracování zásobníkových listů s páskami a bloky: <a href=\"15h/statistiky.html\"><strong>statistiky</strong></a> nyní vycházejí z <strong>21&nbsp;922 určených známek</strong>, z toho <strong>6&nbsp;790 datovaných</strong>. Do <a href=\"15h/mapa.html\"><strong>mapy razítek</strong></a> přibyly na desce III Varnsdorf a Cheb, na desce IV Karlovy Vary a Heřmanův Městec, ve vrstvě zoubkování A na deskách V–VI Chyše, Zábřeh a Ústí nad Orlicí. Seznam <a href=\"15h/posta.html\"><strong>pošt doložených na zoubkování B</strong></a> byl srovnán s mapou — má nyní 60 úřadů a každý z nich (kromě dosud nelokalizovaného Schenkenhahnu) je na mapě. Do <a href=\"15h/vyrobni-vady.html#dvojity-tisk\"><strong>Dvojitého a vícenásobného tisku</strong></a> přibyl čtvrtý kus: druhý otisk je posunutý nahoru a doprava a pootočený, takže nápis ČESKO-SLOVENSKÁ přebíhá šikmo středem známky. Na stránce <a href=\"15h/barvy.html#vrba\"><strong>Barvy a odstíny</strong></a> přibyl praktický klíč Marka Vrby (Filatelie 11/2013): jak se pět katalogových odstínů chová pod UV lampou a jak poznat chemicky přebarvené padělky hnědočervené 7a.",
-  "en": "<strong>15h</strong> — Processing of the stock sheets of strips and blocks is complete: the <a href=\"15h/statistiky.html\"><strong>statistics</strong></a> now rest on <strong>21,922 attributed stamps</strong>, <strong>6,790</strong> of them dated. The <a href=\"15h/mapa.html\"><strong>cancellation map</strong></a> gains Varnsdorf and Cheb on plate III, Karlovy Vary and Heřmanův Městec on plate IV, and Chyše, Zábřeh and Ústí nad Orlicí in the layer of perforation A on plates V–VI. The list of <a href=\"15h/posta.html\"><strong>post offices documented on perforation B</strong></a> has been reconciled with the map — it now has 60 offices, and every one of them (except the still unlocated Schenkenhahn) is on the map. <a href=\"15h/vyrobni-vady.html#dvojity-tisk\"><strong>Double and multiple print</strong></a> gains a fourth piece: the second impression is shifted up and to the right and rotated, so that the inscription ČESKO-SLOVENSKÁ runs obliquely through the middle of the stamp. The <a href=\"15h/barvy.html#vrba\"><strong>Colours and shades</strong></a> page gains Marek Vrba’s practical key (Filatelie 11/2013): how the five catalogue shades behave under the UV lamp and how to recognise chemically recoloured forgeries of the brownish red 7a.",
-  "de": "<strong>15h</strong> — Die Auswertung der Einsteckblätter mit Streifen und Blöcken ist abgeschlossen: die <a href=\"15h/statistiky.html\"><strong>Statistik</strong></a> beruht nun auf <strong>21.922 bestimmten Marken</strong>, davon <strong>6.790 datiert</strong>. Die <a href=\"15h/mapa.html\"><strong>Stempelkarte</strong></a> erhält auf Platte III Varnsdorf und Cheb, auf Platte IV Karlovy Vary und Heřmanův Městec sowie in der Ebene der Zähnung A auf den Platten V–VI Chyše, Zábřeh und Ústí nad Orlicí. Die Liste der <a href=\"15h/posta.html\"><strong>auf Zähnung B belegten Postämter</strong></a> wurde mit der Karte abgeglichen — sie umfasst jetzt 60 Ämter, und jedes davon (außer dem noch nicht lokalisierten Schenkenhahn) ist auf der Karte. Beim <a href=\"15h/vyrobni-vady.html#dvojity-tisk\"><strong>Doppel- und Mehrfachdruck</strong></a> kommt ein viertes Stück hinzu: der zweite Abdruck ist nach oben und rechts verschoben und gedreht, sodass die Inschrift ČESKO-SLOVENSKÁ schräg durch die Mitte der Marke läuft. Die Seite <a href=\"15h/barvy.html#vrba\"><strong>Farben und Farbtöne</strong></a> erhält den praktischen Schlüssel von Marek Vrba (Filatelie 11/2013): wie sich die fünf Katalogfarbtöne unter der UV-Lampe verhalten und wie man chemisch umgefärbte Fälschungen der rotbraunen 7a erkennt.",
-  "es": "<strong>15h</strong> — Se ha completado el procesamiento de las hojas de clasificador con tiras y bloques: las <a href=\"15h/statistiky.html\"><strong>estadísticas</strong></a> se basan ahora en <strong>21.922 sellos determinados</strong>, de ellos <strong>6.790 fechados</strong>. El <a href=\"15h/mapa.html\"><strong>mapa de matasellos</strong></a> incorpora Varnsdorf y Cheb en la plancha III, Karlovy Vary y Heřmanův Městec en la plancha IV, y Chyše, Zábřeh y Ústí nad Orlicí en la capa del dentado A de las planchas V–VI. La lista de <a href=\"15h/posta.html\"><strong>oficinas documentadas en el dentado B</strong></a> se ha cotejado con el mapa: tiene ahora 60 oficinas y todas ellas (salvo Schenkenhahn, aún sin localizar) figuran en el mapa. A la <a href=\"15h/vyrobni-vady.html#dvojity-tisk\"><strong>impresión doble y múltiple</strong></a> se añade una cuarta pieza: la segunda impresión está desplazada hacia arriba y a la derecha y girada, de modo que la inscripción ČESKO-SLOVENSKÁ cruza oblicuamente el centro del sello. La página <a href=\"15h/barvy.html#vrba\"><strong>Colores y matices</strong></a> incorpora la clave práctica de Marek Vrba (Filatelie 11/2013): cómo se comportan los cinco matices de catálogo bajo la lámpara UV y cómo reconocer las falsificaciones recoloreadas químicamente del rojo pardo 7a.",
-  "fr": "<strong>15h</strong> — Le dépouillement des feuilles de classeur de bandes et de blocs est achevé : les <a href=\"15h/statistiky.html\"><strong>statistiques</strong></a> reposent désormais sur <strong>21&nbsp;922 timbres attribués</strong>, dont <strong>6&nbsp;790 datés</strong>. La <a href=\"15h/mapa.html\"><strong>carte des oblitérations</strong></a> gagne Varnsdorf et Cheb sur la planche III, Karlovy Vary et Heřmanův Městec sur la planche IV, ainsi que Chyše, Zábřeh et Ústí nad Orlicí dans la couche de la dentelure A des planches V–VI. La liste des <a href=\"15h/posta.html\"><strong>bureaux attestés sur la dentelure B</strong></a> a été mise en concordance avec la carte : elle compte maintenant 60 bureaux, et chacun d’eux (sauf Schenkenhahn, toujours non localisé) figure sur la carte. L’<a href=\"15h/vyrobni-vady.html#dvojity-tisk\"><strong>impression double et multiple</strong></a> gagne une quatrième pièce : la seconde impression est décalée vers le haut et la droite et pivotée, si bien que l’inscription ČESKO-SLOVENSKÁ traverse obliquement le centre du timbre. La page <a href=\"15h/barvy.html#vrba\"><strong>Couleurs et nuances</strong></a> s’enrichit de la clé pratique de Marek Vrba (Filatelie 11/2013) : comment les cinq nuances du catalogue se comportent sous la lampe UV et comment reconnaître les faux du brun rougeâtre 7a recolorés chimiquement."
- },
- "a6f0bf15ff": {
-  "cs": "Podrobný statistický rozbor hodnoty 15h vychází z vlastní evidence: <strong>21 975 určených známek</strong>, z toho <strong>6 803 s čitelně datovaným razítkem</strong> (stav 5. 9. 2026). Zdrojem jsou listy „Stats 15h“ a „Usage Stats 15h“ evidenčního sešitu.",
-  "de": "Die ausführliche statistische Auswertung der 15h beruht auf der eigenen Erfassung: <strong>21 975 bestimmte Marken</strong>, davon <strong>6 803 mit lesbar datiertem Stempel</strong> (Stand 5. 9. 2026). Quelle sind die Blätter „Stats 15h“ und „Usage Stats 15h“ der Erfassungsdatei.",
-  "en": "The detailed statistical analysis of the 15h is based on the author’s records: <strong>21,975 attributed stamps</strong>, of which <strong>6,803 carry a legibly dated cancellation</strong> (as of 5 September 2026). The source is the “Stats 15h” and “Usage Stats 15h” sheets of the record workbook.",
-  "es": "El análisis estadístico detallado del 15h se basa en los registros propios: <strong>21 975 sellos atribuidos</strong>, de los cuales <strong>6 803 con matasellos legiblemente fechado</strong> (a 5 de septiembre de 2026). La fuente son las hojas «Stats 15h» y «Usage Stats 15h» del libro de registros.",
-  "fr": "L’analyse statistique détaillée du 15h repose sur les relevés de l’auteur : <strong>21 975 timbres attribués</strong>, dont <strong>6 803 avec une oblitération lisiblement datée</strong> (état au 5 septembre 2026). La source est constituée des feuilles « Stats 15h » et « Usage Stats 15h » du classeur de relevés."
- },
- "4d07a47f7b": {
-  "cs": "Z 6 803 čitelně datovaných razítek. Pořadí ukazuje, jak výroba postupovala od řádkových zoubkování D/E/F na raných deskách k hřebenovým A/B na deskách pozdějších.",
-  "de": "Von 6.803 lesbar datierten Stempeln. Die Reihenfolge zeigt, wie die Produktion von den Linienzähnungen D/E/F auf den frühen Platten zu den Kammzähnungen A/B auf den späteren Platten überging.",
-  "en": "From 6,803 legibly dated cancellations. The sequence shows production moving from line perforations D/E/F on the early plates to comb perforations A/B on the later ones.",
-  "es": "De 6.803 matasellos legiblemente fechados. El orden muestra cómo la producción pasó de los dentados lineales D/E/F en las planchas tempranas a los dentados de peine A/B en las planchas posteriores.",
-  "files": [
-   "15h/zoubkovani.html"
-  ],
-  "fr": "Sur 6 803 oblitérations lisiblement datées. L’ordre montre comment la production est passée des dentelures linéaires D/E/F sur les planches anciennes aux dentelures en peigne A/B sur les planches plus tardives.",
-  "tag": "span"
- },
- "ff7cff28df": {
-  "cs": "Podrobný statistický rozbor hodnoty 15h vychází z vlastní evidence: <strong>22 029 určených známek</strong>, z toho <strong>6 818 s čitelně datovaným razítkem</strong> (stav 5. 9. 2026). Zdrojem jsou listy „Stats 15h“ a „Usage Stats 15h“ evidenčního sešitu.",
-  "de": "Die ausführliche statistische Auswertung der 15h beruht auf der eigenen Erfassung: <strong>22 029 bestimmte Marken</strong>, davon <strong>6 818 mit lesbar datiertem Stempel</strong> (Stand 5. 9. 2026). Quelle sind die Blätter „Stats 15h“ und „Usage Stats 15h“ der Erfassungsdatei.",
-  "en": "The detailed statistical analysis of the 15h is based on the author’s records: <strong>22,029 attributed stamps</strong>, of which <strong>6,818 carry a legibly dated cancellation</strong> (as of 5 September 2026). The source is the “Stats 15h” and “Usage Stats 15h” sheets of the record workbook.",
-  "es": "El análisis estadístico detallado del 15h se basa en los registros propios: <strong>22 029 sellos atribuidos</strong>, de los cuales <strong>6 818 con matasellos legiblemente fechado</strong> (a 5 de septiembre de 2026). La fuente son las hojas «Stats 15h» y «Usage Stats 15h» del libro de registros.",
-  "fr": "L’analyse statistique détaillée du 15h repose sur les relevés de l’auteur : <strong>22 029 timbres attribués</strong>, dont <strong>6 818 avec une oblitération lisiblement datée</strong> (état au 5 septembre 2026). La source est constituée des feuilles « Stats 15h » et « Usage Stats 15h » du classeur de relevés."
- },
- "17f8458820": {
-  "cs": "Z 6 818 čitelně datovaných razítek. Pořadí ukazuje, jak výroba postupovala od řádkových zoubkování D/E/F na raných deskách k hřebenovým A/B na deskách pozdějších.",
-  "de": "Von 6.818 lesbar datierten Stempeln. Die Reihenfolge zeigt, wie die Produktion von den Linienzähnungen D/E/F auf den frühen Platten zu den Kammzähnungen A/B auf den späteren Platten überging.",
-  "en": "From 6,818 legibly dated cancellations. The sequence shows production moving from line perforations D/E/F on the early plates to comb perforations A/B on the later ones.",
-  "es": "De 6.818 matasellos legiblemente fechados. El orden muestra cómo la producción pasó de los dentados lineales D/E/F en las planchas tempranas a los dentados de peine A/B en las planchas posteriores.",
-  "files": [
-   "15h/zoubkovani.html"
-  ],
-  "fr": "Sur 6 818 oblitérations lisiblement datées. L’ordre montre comment la production est passée des dentelures linéaires D/E/F sur les planches anciennes aux dentelures en peigne A/B sur les planches plus tardives.",
-  "tag": "span"
  }
 }
