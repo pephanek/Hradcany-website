@@ -24711,5 +24711,63 @@
    "novinky.html"
   ],
   "tag": "span"
+ },
+ "3d4ba199d7": {
+  "cs": "Podrobný statistický rozbor hodnoty 15h vychází z vlastní evidence: <strong>22 138 určených známek</strong>, z toho <strong>6 949 s čitelně datovaným razítkem</strong> (stav 5. 9. 2026). Zdrojem jsou listy „Stats 15h“ a „Usage Stats 15h“ evidenčního sešitu.",
+  "de": "Die ausführliche statistische Auswertung der 15h beruht auf der eigenen Erfassung: <strong>22 138 bestimmte Marken</strong>, davon <strong>6 949 mit lesbar datiertem Stempel</strong> (Stand 5. 9. 2026). Quelle sind die Blätter „Stats 15h“ und „Usage Stats 15h“ der Erfassungsdatei.",
+  "en": "The detailed statistical analysis of the 15h is based on the author’s records: <strong>22,138 attributed stamps</strong>, of which <strong>6,949 carry a legibly dated cancellation</strong> (as of 5 September 2026). The source is the “Stats 15h” and “Usage Stats 15h” sheets of the record workbook.",
+  "es": "El análisis estadístico detallado del 15h se basa en los registros propios: <strong>22 138 sellos atribuidos</strong>, de los cuales <strong>6 949 con matasellos legiblemente fechado</strong> (a 5 de septiembre de 2026). La fuente son las hojas «Stats 15h» y «Usage Stats 15h» del libro de registros.",
+  "fr": "L’analyse statistique détaillée du 15h repose sur les relevés de l’auteur : <strong>22 138 timbres attribués</strong>, dont <strong>6 949 avec une oblitération lisiblement datée</strong> (état au 5 septembre 2026). La source est constituée des feuilles « Stats 15h » et « Usage Stats 15h » du classeur de relevés."
+ },
+ "44a3f5b0af": {
+  "cs": "Z 6 949 čitelně datovaných razítek. Pořadí ukazuje, jak výroba postupovala od řádkových zoubkování D/E/F na raných deskách k hřebenovým A/B na deskách pozdějších.",
+  "de": "Von 6.949 lesbar datierten Stempeln. Die Reihenfolge zeigt, wie die Produktion von den Linienzähnungen D/E/F auf den frühen Platten zu den Kammzähnungen A/B auf den späteren Platten überging.",
+  "en": "From 6,949 legibly dated cancellations. The sequence shows production moving from line perforations D/E/F on the early plates to comb perforations A/B on the later ones.",
+  "es": "De 6.949 matasellos legiblemente fechados. El orden muestra cómo la producción pasó de los dentados lineales D/E/F en las planchas tempranas a los dentados de peine A/B en las planchas posteriores.",
+  "files": [
+   "15h/zoubkovani.html"
+  ],
+  "fr": "Sur 6 949 oblitérations lisiblement datées. L’ordre montre comment la production est passée des dentelures linéaires D/E/F sur les planches anciennes aux dentelures en peigne A/B sur les planches plus tardives.",
+  "tag": "span"
+ },
+ "dee25711cc": {
+  "cs": "ZP 45/II. Táž podoba vady na jiném poli téže desky: fleky bez barvy v rámu, v písmenech i v kresbě, zbylá barva sytá.",
+  "en": "Field 45/II. The same form of the flaw on another field of the same plate: ink-free patches in the frame, the letters and the design, the remaining ink saturated.",
+  "de": "Feld 45/II. Dieselbe Form des Fehlers auf einem anderen Feld derselben Platte: farblose Flecken im Rahmen, in den Buchstaben und in der Zeichnung, die übrige Farbe gesättigt.",
+  "fr": "Case 45/II. La même forme du défaut sur une autre case de la même planche : taches sans encre dans le cadre, les lettres et le dessin, l’encre restante saturée.",
+  "es": "Posición 45/II. La misma forma del defecto en otra posición de la misma plancha: manchas sin tinta en el marco, las letras y el dibujo, la tinta restante saturada.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "413f24e8cf": {
+  "cs": "Kus 2 — ZP 45/II. Táž podoba vady na jiném poli téže desky: fleky bez barvy v rámu, v písmenech i v kresbě, zbylá barva sytá.",
+  "en": "Item 2 — field 45/II. The same form of the flaw on another field of the same plate: ink-free patches in the frame, the letters and the design, the remaining ink saturated.",
+  "de": "Stück 2 — Feld 45/II. Dieselbe Form des Fehlers auf einem anderen Feld derselben Platte: farblose Flecken im Rahmen, in den Buchstaben und in der Zeichnung, die übrige Farbe gesättigt.",
+  "fr": "Pièce 2 — case 45/II. La même forme du défaut sur une autre case de la même planche : taches sans encre dans le cadre, les lettres et le dessin, l’encre restante saturée.",
+  "es": "Pieza 2 — posición 45/II. La misma forma del defecto en otra posición de la misma plancha: manchas sin tinta en el marco, las letras y el dibujo, la tinta restante saturada.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "169376bd61": {
+  "cs": "Druhý kus, z pole 45 téže desky, má vadu ve stejné podobě — nepravidelné fleky s vláknitými okraji přes rám, písmena i kresbu, mezi nimi plně sytá barva. Dvě různá pole vylučují, že by šlo o vlastnost jednoho místa desky, a obě z desky II připouštějí, že pocházejí z téhož archu; dokázat to ale bez okrajů nelze.",
+  "en": "The second copy, from field 45 of the same plate, shows the flaw in the same form — irregular patches with fibrous edges across the frame, the letters and the design, fully saturated ink between them. Two different fields rule out a property of one spot on the plate, and both being from plate II allows that they come from one and the same sheet; without margins, though, that cannot be proved.",
+  "de": "Das zweite Stück, von Feld 45 derselben Platte, zeigt den Fehler in derselben Form — unregelmäßige Flecken mit faserigen Rändern über Rahmen, Buchstaben und Zeichnung, dazwischen voll gesättigte Farbe. Zwei verschiedene Felder schließen eine Eigenschaft einer Stelle der Platte aus, und da beide von Platte II stammen, könnten sie von ein und demselben Bogen kommen; ohne Ränder lässt sich das aber nicht beweisen.",
+  "fr": "Le second exemplaire, de la case 45 de la même planche, présente le défaut sous la même forme — taches irrégulières aux bords fibreux à travers le cadre, les lettres et le dessin, encre pleinement saturée entre elles. Deux cases différentes excluent une propriété d’un point de la planche, et comme les deux viennent de la planche II, ils pourraient provenir d’une seule et même feuille ; sans marges, cela ne peut toutefois pas être prouvé.",
+  "es": "El segundo ejemplar, de la posición 45 de la misma plancha, muestra el defecto en la misma forma — manchas irregulares de bordes fibrosos a través del marco, las letras y el dibujo, con tinta plenamente saturada entre ellas. Dos posiciones distintas descartan una propiedad de un punto de la plancha, y al ser ambos de la plancha II podrían proceder de un mismo pliego; sin márgenes, sin embargo, no se puede demostrar.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "93f9c3f60d": {
+  "cs": "Podrobný statistický rozbor hodnoty 15h vychází z vlastní evidence: <strong>22 139 určených známek</strong>, z toho <strong>6 949 s čitelně datovaným razítkem</strong> (stav 5. 9. 2026). Zdrojem jsou listy „Stats 15h“ a „Usage Stats 15h“ evidenčního sešitu.",
+  "de": "Die ausführliche statistische Auswertung der 15h beruht auf der eigenen Erfassung: <strong>22 139 bestimmte Marken</strong>, davon <strong>6 949 mit lesbar datiertem Stempel</strong> (Stand 5. 9. 2026). Quelle sind die Blätter „Stats 15h“ und „Usage Stats 15h“ der Erfassungsdatei.",
+  "en": "The detailed statistical analysis of the 15h is based on the author’s records: <strong>22,139 attributed stamps</strong>, of which <strong>6,949 carry a legibly dated cancellation</strong> (as of 5 September 2026). The source is the “Stats 15h” and “Usage Stats 15h” sheets of the record workbook.",
+  "es": "El análisis estadístico detallado del 15h se basa en los registros propios: <strong>22 139 sellos atribuidos</strong>, de los cuales <strong>6 949 con matasellos legiblemente fechado</strong> (a 5 de septiembre de 2026). La fuente son las hojas «Stats 15h» y «Usage Stats 15h» del libro de registros.",
+  "fr": "L’analyse statistique détaillée du 15h repose sur les relevés de l’auteur : <strong>22 139 timbres attribués</strong>, dont <strong>6 949 avec une oblitération lisiblement datée</strong> (état au 5 septembre 2026). La source est constituée des feuilles « Stats 15h » et « Usage Stats 15h » du classeur de relevés."
  }
 }
