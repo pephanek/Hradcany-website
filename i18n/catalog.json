@@ -212,7 +212,7 @@
  "02cec12dcc": {
   "cs": "Nabarvení formy rozhoduje o výsledku: sníženina se zaschlou barvou dá při dalším tisku málo barvy → světlinu; přebytek barvy na vyvýšeném prvku se roztéká do stran → slitý tisk nebo závoj.",
   "de": "Das Einfärben der Druckform entscheidet über das Ergebnis: eine mit getrockneter Farbe verstopfte Vertiefung liefert beim nächsten Druck zu wenig Farbe → einen hellen Fleck (světlina); zu viel Farbe auf einem erhabenen Element läuft seitlich aus → verschmierter Druck oder ein Schleier (závoj).",
-  "en": "The inking of the forme decides the outcome: a recess clogged with dried ink starves the next impression → a white spot (světlina); too much ink on a raised element spreads sideways → blurred print or a smear (závoj).",
+  "en": "The inking of the forme decides the outcome: a recess clogged with dried ink starves the next impression → a white spot (světlina); too much ink on a raised element spreads sideways → filled-in print or a smear (závoj).",
   "es": "El entintado de la forma decide el resultado: un hueco obstruido con tinta seca priva de tinta a la siguiente impresión → una mancha clara (světlina); demasiada tinta sobre un elemento en relieve se extiende hacia los lados → impresión emborronada o un velo (závoj).",
   "files": [
    "15h/vyrobni-vady.html"
@@ -3017,7 +3017,7 @@
  "26184b10a8": {
   "cs": "Barvy málo, nebo zanesená sníženina — zeslabený až chybějící tisk (světliny). Barvy moc — slitý tisk a závoje.",
   "de": "Zu wenig Farbe oder eine zugesetzte Vertiefung — geschwächter bis fehlender Druck (Lichtstellen). Zu viel Farbe — zugelaufener Druck und Schleier.",
-  "en": "Too little ink, or a clogged recess — weakened or missing print (white spots). Too much ink — blurred print and smears.",
+  "en": "Too little ink, or a clogged recess — weakened or missing print (white spots). Too much ink — filled-in print and smears.",
   "es": "Poca tinta, o una depresión obstruida — impresión debilitada o ausente (claras). Demasiada tinta — impresión empastada y velos.",
   "files": [
    "15h/knihtisk.html"
@@ -14539,13 +14539,13 @@
  },
  "9c22e6757d": {
   "cs": "Proč to není závoj",
-  "de": "Warum das kein Schleier (závoj) ist",
+  "de": "Warum das kein Schleier ist",
   "en": "Why this is not a smear (závoj)",
-  "es": "Por qué esto no es un velo (závoj)",
+  "es": "Por qué no es un velo",
   "files": [
    "15h/vyrobni-vady.html"
   ],
-  "fr": "Pourquoi ce n'est pas un voile (závoj)",
+  "fr": "Pourquoi ce n’est pas un voile",
   "tag": "span"
  },
  "9c2b1acfac": {
@@ -15998,11 +15998,11 @@
   "cs": "Ukázky ze sbírky",
   "de": "Beispiele aus der Sammlung",
   "en": "Specimens from the collection",
-  "es": "Ejemplos de la colección",
+  "es": "Ejemplares de la colección",
   "files": [
    "15h/vyrobni-vady.html"
   ],
-  "fr": "Exemples de la collection",
+  "fr": "Exemplaires de la collection",
   "tag": "span"
  },
  "aa9c894efe": {
@@ -16790,7 +16790,7 @@
  "b349b02c32": {
   "cs": "Slitý tisk",
   "de": "Zugelaufener Druck",
-  "en": "Blurred print",
+  "en": "Filled-in print",
   "es": "Impresión empastada",
   "files": [
    "15h/vyrobni-vady.html"
@@ -17728,7 +17728,7 @@
  "bbf7b9d0e6": {
   "cs": "→ slitý tisk, závoj",
   "de": "→ verschmierter Druck, Schleier",
-  "en": "→ blurred print, smear",
+  "en": "→ filled-in print, smear",
   "es": "→ impresión emborronada, velo",
   "files": [
    "15h/vyrobni-vady.html"
@@ -23564,11 +23564,11 @@
   "cs": "Jak vada vznikla",
   "de": "Wie der Fehler entstand",
   "en": "How the flaw arose",
-  "es": "Cómo se originó el defecto",
+  "es": "Cómo se produjo el defecto",
   "files": [
    "15h/vyrobni-vady.html"
   ],
-  "fr": "Comment le défaut est apparu",
+  "fr": "Comment le défaut est né",
   "tag": "span"
  },
  "f8687c72f4": {
@@ -24973,6 +24973,655 @@
    "15h/zoubkovani.html"
   ],
   "fr": "Sur 6 950 oblitérations lisiblement datées. L’ordre montre comment la production est passée des dentelures linéaires D/E/F sur les planches anciennes aux dentelures en peigne A/B sur les planches plus tardives.",
+  "tag": "span"
+ },
+ "94dd6780c9": {
+  "cs": "Tady je barvy naopak příliš. Otisk je sytý, ale kresba se v něm ztrácí: jemné vyzařující šrafování oblohy splývá v souvislou plochu, silueta Hradčan je jen tmavý obrys bez oken a věžiček, textura svahu pod hradem se mění v beztvarou masu, girlandy a spirály po stranách rámu se slévají do skvrn a písmena POSTA i ČESKO-SLOVENSKÁ jsou zesílená, s přivřenými vnitřními oky. Nechybí barva — chybí bílá místa mezi ní.",
+  "en": "Here there is too much ink, not too little. The impression is saturated, but the design drowns in it: the fine radiating hatching of the sky merges into a continuous field, the silhouette of Hradčany is a dark outline with no windows or turrets, the texture of the hillside below the castle turns into a shapeless mass, the garlands and spirals along the sides of the frame run together into blots, and the letters of POSTA and ČESKO-SLOVENSKÁ are thickened, their counters half closed. Nothing is missing but the white between the lines.",
+  "de": "Hier ist eher zu viel Farbe da. Der Abdruck ist gesättigt, doch die Zeichnung geht darin unter: die feine strahlenförmige Schraffur des Himmels verschmilzt zu einer geschlossenen Fläche, die Silhouette des Hradschin ist nur ein dunkler Umriss ohne Fenster und Türmchen, die Textur des Hangs unter der Burg wird zur formlosen Masse, die Girlanden und Spiralen an den Rahmenseiten laufen zu Flecken zusammen, und die Buchstaben von POSTA und ČESKO-SLOVENSKÁ sind verdickt, ihre Innenräume halb geschlossen. Es fehlt keine Farbe — es fehlt das Weiß dazwischen.",
+  "fr": "Ici, c’est l’encre qui est en excès. L’impression est saturée, mais le dessin s’y noie : les fines hachures rayonnantes du ciel se fondent en une plage continue, la silhouette de Hradčany n’est plus qu’un contour sombre sans fenêtres ni tourelles, la texture du versant sous le château devient une masse informe, les guirlandes et les spirales des côtés du cadre se rejoignent en taches, et les lettres de POSTA et ČESKO-SLOVENSKÁ sont épaissies, leurs contrepoinçons à demi fermés. Rien ne manque, sinon le blanc entre les traits.",
+  "es": "Aquí la tinta sobra en vez de faltar. La impresión está saturada, pero el dibujo se ahoga en ella: el fino rayado radiante del cielo se funde en una superficie continua, la silueta de Hradčany es solo un contorno oscuro sin ventanas ni torrecillas, la textura de la ladera bajo el castillo se convierte en una masa informe, las guirnaldas y espirales de los lados del marco se juntan en manchas, y las letras de POSTA y ČESKO-SLOVENSKÁ están engrosadas, con los ojos medio cerrados. No falta tinta — falta el blanco entre las líneas.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "d14159bef9": {
+  "cs": "Knihtisk tiskne z vyvýšených ploch desky; všechen detail kresby nese to, co mezi nimi zůstalo sníženo — úzké nepotištěné drážky, u nejjemnější rytiny široké jen zlomky milimetru. Když je na formě barvy víc, než unese, nebo když je tlak přítisku příliš velký a podložka příliš měkká, barva se z vyvýšených linek vytlačí do stran a část těchto drážek zaplní. Čím je drážka užší, tím dřív se uzavře — proto první mizí šrafování a vlasové linky, zatímco rám a číslice jen ztloustnou. Vada tedy nikde barvu neubírá, jen ji přidává tam, kam nepatří.",
+  "en": "Letterpress prints from the raised surfaces of the plate; all the detail of the design is carried by what was left recessed between them — narrow unprinted grooves, in the finest engraving only fractions of a millimetre wide. When the forme carries more ink than it can hold, or the impression pressure is too high and the packing too soft, the ink is squeezed sideways off the raised lines and fills part of those grooves. The narrower the groove, the sooner it closes — which is why hatching and hairlines go first, while the frame and the numerals merely thicken. The flaw therefore takes ink away nowhere; it only adds it where it does not belong.",
+  "de": "Der Buchdruck druckt von den erhöhten Flächen der Platte; allen Detailreichtum der Zeichnung tragen die dazwischen vertieften Stellen — schmale, nicht druckende Rillen, bei der feinsten Gravur nur Bruchteile eines Millimeters breit. Trägt die Form mehr Farbe, als sie halten kann, oder ist der Druck zu hoch und die Zurichtung zu weich, wird die Farbe von den erhöhten Linien seitlich weggedrückt und füllt einen Teil dieser Rillen. Je schmaler die Rille, desto früher schließt sie sich — deshalb verschwinden zuerst die Schraffur und die Haarlinien, während Rahmen und Ziffern nur dicker werden. Der Fehler nimmt also nirgends Farbe weg, er fügt sie nur dort hinzu, wo sie nicht hingehört.",
+  "fr": "La typographie imprime à partir des surfaces en relief de la planche ; tout le détail du dessin est porté par ce qui est resté en creux entre elles — d’étroites rainures non imprimantes, larges de fractions de millimètre dans la gravure la plus fine. Quand la forme porte plus d’encre qu’elle n’en peut retenir, ou que la pression est trop forte et la mise en train trop molle, l’encre est chassée latéralement des traits en relief et comble une partie de ces rainures. Plus la rainure est étroite, plus tôt elle se ferme — c’est pourquoi les hachures et les traits capillaires disparaissent en premier, tandis que le cadre et les chiffres se contentent d’épaissir. Le défaut n’enlève donc d’encre nulle part ; il n’en ajoute que là où elle n’a rien à faire.",
+  "es": "La tipografía imprime desde las superficies en relieve de la plancha; todo el detalle del dibujo lo llevan las partes rebajadas entre ellas — ranuras estrechas que no imprimen, de fracciones de milímetro en el grabado más fino. Cuando la forma lleva más tinta de la que puede retener, o la presión es excesiva y el calce demasiado blando, la tinta se desplaza lateralmente desde las líneas en relieve y rellena parte de esas ranuras. Cuanto más estrecha la ranura, antes se cierra — por eso desaparecen primero el rayado y las líneas capilares, mientras que el marco y las cifras solo engordan. El defecto no quita tinta en ninguna parte; solo la añade donde no corresponde.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "eb9ee81209": {
+  "cs": "Příčinou je nastavení stroje, ne deska. Postihuje celý otisk najednou a zpravidla celou sérii archů, dokud tiskař barvu nebo tlak neupraví; potom stejná deska tiskne zase normálně. Slitý tisk proto není katalogová varianta ani vlastnost známkového pole — je to stav tiskového nákladu.",
+  "en": "The cause is the setting of the press, not the plate. It affects the whole impression at once and usually a whole run of sheets, until the printer adjusts the ink or the pressure; after that the same plate prints normally again. Filled-in print is therefore neither a catalogue variety nor a property of a stamp field — it is a state of one print run.",
+  "de": "Die Ursache liegt in der Einstellung der Maschine, nicht in der Platte. Sie erfasst den ganzen Abdruck auf einmal und in der Regel eine ganze Bogenserie, bis der Drucker Farbe oder Druck nachstellt; danach druckt dieselbe Platte wieder normal. Zugelaufener Druck ist daher weder eine Katalogvariante noch eine Eigenschaft eines Feldes — er ist ein Zustand einer Auflage.",
+  "fr": "La cause tient au réglage de la presse, non à la planche. Elle affecte toute l’impression d’un coup et, en général, toute une série de feuilles, jusqu’à ce que l’imprimeur corrige l’encrage ou la pression ; ensuite la même planche imprime de nouveau normalement. L’impression empâtée n’est donc ni une variété de catalogue ni une propriété d’une case — c’est l’état d’un tirage.",
+  "es": "La causa está en el ajuste de la máquina, no en la plancha. Afecta a toda la impresión de golpe y, por lo general, a toda una serie de pliegos, hasta que el impresor corrige la tinta o la presión; después la misma plancha vuelve a imprimir con normalidad. La impresión empastada no es, pues, ni una variedad de catálogo ni una propiedad de una posición — es el estado de una tirada.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "1625124d86": {
+  "cs": "Závoj je místní: přebytek barvy na jednom hustém, vyvýšeném prvku kresby — nejčastěji na srdíčkové ozdobě nebo na silné lince rámu — který se rozteče do okolní bílé plochy a má měkký, neostrý okraj. Zbytek známky přitom vypadá normálně. U slitého tisku není postiženo jedno místo, ale celá plocha otisku najednou, a barva nikam „nepřetéká“ — jen se uzavřou mezery uvnitř kresby.",
+  "en": "A smear is local: an excess of ink on one dense, raised element of the design — most often the little heart ornament or a heavy frame line — that spreads into the surrounding white and has a soft, blurred edge. The rest of the stamp looks normal. In filled-in print it is not one place that suffers but the whole impression at once, and the ink does not overflow anywhere — the gaps inside the design simply close.",
+  "de": "Ein Schleier ist örtlich: ein Farbüberschuss auf einem dichten, erhöhten Element der Zeichnung — meist dem Herzornament oder einer kräftigen Rahmenlinie —, der in die umgebende weiße Fläche zerläuft und einen weichen, unscharfen Rand hat. Der Rest der Marke sieht dabei normal aus. Beim zugelaufenen Druck ist nicht eine Stelle betroffen, sondern die ganze Fläche des Abdrucks auf einmal, und die Farbe läuft nirgends über — es schließen sich nur die Zwischenräume innerhalb der Zeichnung.",
+  "fr": "Un voile est local : un excès d’encre sur un élément dense et en relief du dessin — le plus souvent l’ornement en cœur ou une grosse ligne de cadre — qui déborde dans le blanc environnant et présente un bord doux et flou. Le reste du timbre paraît normal. Dans l’impression empâtée, ce n’est pas un endroit qui souffre mais toute la surface de l’empreinte à la fois, et l’encre ne déborde nulle part — ce sont seulement les intervalles à l’intérieur du dessin qui se referment.",
+  "es": "Un velo es local: un exceso de tinta sobre un elemento denso y en relieve del dibujo — casi siempre el adorno en forma de corazón o una línea gruesa del marco — que se derrama en el blanco circundante y tiene un borde blando y difuso. El resto del sello parece normal. En la impresión empastada no sufre un punto, sino toda la superficie de la impronta a la vez, y la tinta no se desborda en ninguna parte — solo se cierran los huecos dentro del dibujo.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "bcbae67e79": {
+  "cs": "Proč to není řídký tisk",
+  "en": "Why this is not thin print",
+  "de": "Warum das kein dünner Druck ist",
+  "fr": "Pourquoi ce n’est pas une impression maigre",
+  "es": "Por qué no es una impresión rala",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "a817fd1a59": {
+  "cs": "Řídký tisk je přesným opakem: barvy je málo a je příliš tekutá, otisk je bledý až narůžovělý a ztráty jsou tam, kde barva podle kresby ležet měla. Tady je barva plně sytá a přebývá — ztráty jsou v bílých místech, kde barva ležet neměla. Obě vady se přitom mohou potkat na jednom archu, protože obě vznikají u téhož místa výrobního procesu, jen na opačných koncích nastavení.",
+  "en": "Thin print is the exact opposite: too little ink, of too thin a consistency, the impression pale to pinkish, and the losses lie where the design calls for colour. Here the ink is fully saturated and in surplus — the losses are in the white areas, where there should have been no ink at all. The two can nevertheless meet on one sheet, since both arise at the same point of the process, merely at opposite ends of the setting.",
+  "de": "Der dünne Druck ist das genaue Gegenteil: zu wenig und zu dünnflüssige Farbe, der Abdruck blass bis rosastichig, und die Verluste liegen dort, wo laut Zeichnung Farbe sein sollte. Hier ist die Farbe voll gesättigt und im Überschuss — die Verluste liegen in den weißen Stellen, wo gar keine Farbe hingehörte. Beide Fehler können sich dennoch auf einem Bogen treffen, denn beide entstehen an derselben Stelle des Prozesses, nur an entgegengesetzten Enden der Einstellung.",
+  "fr": "L’impression maigre est exactement l’inverse : trop peu d’encre, et trop fluide, une empreinte pâle voire rosée, et les pertes se trouvent là où le dessin appelle de la couleur. Ici l’encre est pleinement saturée et en excès — les pertes sont dans les zones blanches, là où il ne devait y avoir aucune encre. Les deux peuvent pourtant se rencontrer sur une même feuille, car les deux naissent au même point du processus, simplement aux extrémités opposées du réglage.",
+  "es": "La impresión rala es justo lo contrario: poca tinta y demasiado fluida, la impronta pálida o rosada, y las pérdidas están donde el dibujo pide color. Aquí la tinta está plenamente saturada y sobra — las pérdidas están en las zonas blancas, donde no debía haber tinta alguna. Ambos defectos pueden, aun así, coincidir en un mismo pliego, porque los dos nacen en el mismo punto del proceso, solo que en extremos opuestos del ajuste.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "bc9ce1f190": {
+  "cs": "Proč to není posunutý ani zdvojený tisk",
+  "en": "Why this is not a slipped or doubled impression",
+  "de": "Warum das kein verschobener oder doppelter Druck ist",
+  "fr": "Pourquoi ce n’est pas une impression décalée ou doublée",
+  "es": "Por qué no es una impresión desplazada o doble",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "f7fb9eaf50": {
+  "cs": "Posunutý otisk má směr: linky jsou rozmazané do jedné strany a u zdvojeného tisku má každá linka svého slabšího dvojníka ve stejné vzdálenosti. Tady je zesílení symetrické — linka roste do všech stran stejně a druhý obrys nikde není.",
+  "en": "A slipped impression has a direction: the lines are smeared to one side, and in a doubled impression every line has a fainter twin at the same distance. Here the thickening is symmetrical — the line grows equally on every side and there is no second outline anywhere.",
+  "de": "Ein verschobener Abdruck hat eine Richtung: die Linien sind nach einer Seite verwischt, und beim Doppeldruck hat jede Linie ihren schwächeren Zwilling im gleichen Abstand. Hier ist die Verdickung symmetrisch — die Linie wächst nach allen Seiten gleich, und einen zweiten Umriss gibt es nirgends.",
+  "fr": "Une impression décalée a une direction : les traits sont maculés d’un seul côté et, dans une impression doublée, chaque trait a son jumeau plus faible à distance constante. Ici l’épaississement est symétrique — le trait grossit également de tous les côtés et aucun second contour n’apparaît.",
+  "es": "Una impresión desplazada tiene dirección: los trazos están corridos hacia un lado y, en la impresión doble, cada trazo tiene su gemelo más débil a la misma distancia. Aquí el engrosamiento es simétrico — el trazo crece por igual en todos los lados y no hay ningún segundo contorno.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "8ab8c6347b": {
+  "cs": "Zoubkování B. Obloha i svah pod hradem jsou souvislá plocha, hrad jen obrys — nejsilnější kus série.",
+  "en": "Perforation B. The sky and the hillside below the castle are one continuous field, the castle a mere outline — the strongest piece of the group.",
+  "de": "Zähnung B. Himmel und Hang unter der Burg bilden eine geschlossene Fläche, die Burg ist nur ein Umriss — das stärkste Stück der Reihe.",
+  "fr": "Dentelure B. Le ciel et le versant sous le château forment une plage continue, le château n’est qu’un contour — la pièce la plus marquée du lot.",
+  "es": "Dentado B. El cielo y la ladera bajo el castillo forman una superficie continua, el castillo es solo un contorno — la pieza más marcada del conjunto.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "453d62c7fb": {
+  "cs": "Kus 1 — Zoubkování B. Obloha i svah pod hradem jsou souvislá plocha, hrad jen obrys — nejsilnější kus série.",
+  "en": "Item 1 — perforation B. The sky and the hillside below the castle are one continuous field, the castle a mere outline — the strongest piece of the group.",
+  "de": "Stück 1 — Zähnung B. Himmel und Hang unter der Burg bilden eine geschlossene Fläche, die Burg ist nur ein Umriss — das stärkste Stück der Reihe.",
+  "fr": "Pièce 1 — dentelure B. Le ciel et le versant sous le château forment une plage continue, le château n’est qu’un contour — la pièce la plus marquée du lot.",
+  "es": "Pieza 1 — dentado B. El cielo y la ladera bajo el castillo forman una superficie continua, el castillo es solo un contorno — la pieza más marcada del conjunto.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "5e4c00590c": {
+  "cs": "Zoubkování C. Girlandy po stranách rámu se slily do skvrn, nápis ČESKO-SLOVENSKÁ má přivřená oka písmen.",
+  "en": "Perforation C. The garlands along the sides of the frame have run together into blots, the counters of the letters in ČESKO-SLOVENSKÁ are half closed.",
+  "de": "Zähnung C. Die Girlanden an den Rahmenseiten sind zu Flecken zusammengelaufen, die Innenräume der Buchstaben in ČESKO-SLOVENSKÁ sind halb geschlossen.",
+  "fr": "Dentelure C. Les guirlandes des côtés du cadre se sont fondues en taches, les contrepoinçons des lettres de ČESKO-SLOVENSKÁ sont à demi fermés.",
+  "es": "Dentado C. Las guirnaldas de los lados del marco se han fundido en manchas, los ojos de las letras de ČESKO-SLOVENSKÁ están medio cerrados.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "83617dd642": {
+  "cs": "Kus 2 — Zoubkování C. Girlandy po stranách rámu se slily do skvrn, nápis ČESKO-SLOVENSKÁ má přivřená oka písmen.",
+  "en": "Item 2 — perforation C. The garlands along the sides of the frame have run together into blots, the counters of the letters in ČESKO-SLOVENSKÁ are half closed.",
+  "de": "Stück 2 — Zähnung C. Die Girlanden an den Rahmenseiten sind zu Flecken zusammengelaufen, die Innenräume der Buchstaben in ČESKO-SLOVENSKÁ sind halb geschlossen.",
+  "fr": "Pièce 2 — dentelure C. Les guirlandes des côtés du cadre se sont fondues en taches, les contrepoinçons des lettres de ČESKO-SLOVENSKÁ sont à demi fermés.",
+  "es": "Pieza 2 — dentado C. Las guirnaldas de los lados del marco se han fundido en manchas, los ojos de las letras de ČESKO-SLOVENSKÁ están medio cerrados.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "72ff2ec85f": {
+  "cs": "Zoubkování A. Věže Hradčan splývají s oblohou, ozdoby v dolním pásu jsou beztvaré.",
+  "en": "Perforation A. The towers of Hradčany merge into the sky, the ornaments in the bottom band are shapeless.",
+  "de": "Zähnung A. Die Türme des Hradschin verschmelzen mit dem Himmel, die Ornamente im unteren Band sind formlos.",
+  "fr": "Dentelure A. Les tours de Hradčany se fondent dans le ciel, les ornements de la bande inférieure sont informes.",
+  "es": "Dentado A. Las torres de Hradčany se funden con el cielo, los adornos de la franja inferior son informes.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "763e8e5fab": {
+  "cs": "Kus 3 — Zoubkování A. Věže Hradčan splývají s oblohou, ozdoby v dolním pásu jsou beztvaré.",
+  "en": "Item 3 — perforation A. The towers of Hradčany merge into the sky, the ornaments in the bottom band are shapeless.",
+  "de": "Stück 3 — Zähnung A. Die Türme des Hradschin verschmelzen mit dem Himmel, die Ornamente im unteren Band sind formlos.",
+  "fr": "Pièce 3 — dentelure A. Les tours de Hradčany se fondent dans le ciel, les ornements de la bande inférieure sont informes.",
+  "es": "Pieza 3 — dentado A. Las torres de Hradčany se funden con el cielo, los adornos de la franja inferior son informes.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "58e3439487": {
+  "cs": "Zoubkování B. Kus s výrazně ztloustlým rámem a nápisem; v obloze nezůstala žádná kresba.",
+  "en": "Perforation B. A copy with a markedly thickened frame and inscription; no drawing is left in the sky.",
+  "de": "Zähnung B. Ein Stück mit deutlich verdicktem Rahmen und Schriftzug; im Himmel ist keine Zeichnung übrig.",
+  "fr": "Dentelure B. Exemplaire au cadre et à l’inscription nettement épaissis ; il ne reste aucun dessin dans le ciel.",
+  "es": "Dentado B. Ejemplar con el marco y la inscripción claramente engrosados; en el cielo no queda dibujo alguno.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "6e01e224b5": {
+  "cs": "Kus 4 — Zoubkování B. Kus s výrazně ztloustlým rámem a nápisem; v obloze nezůstala žádná kresba.",
+  "en": "Item 4 — perforation B. A copy with a markedly thickened frame and inscription; no drawing is left in the sky.",
+  "de": "Stück 4 — Zähnung B. Ein Stück mit deutlich verdicktem Rahmen und Schriftzug; im Himmel ist keine Zeichnung übrig.",
+  "fr": "Pièce 4 — dentelure B. Exemplaire au cadre et à l’inscription nettement épaissis ; il ne reste aucun dessin dans le ciel.",
+  "es": "Pieza 4 — dentado B. Ejemplar con el marco y la inscripción claramente engrosados; en el cielo no queda dibujo alguno.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "2ee9ffec16": {
+  "cs": "Zoubkování B. Spirály v okrajové ornamentice se stáhly do plných teček.",
+  "en": "Perforation B. The spirals in the border ornament have contracted into solid dots.",
+  "de": "Zähnung B. Die Spiralen im Randornament haben sich zu vollen Punkten zusammengezogen.",
+  "fr": "Dentelure B. Les spirales de l’ornement du bord se sont refermées en points pleins.",
+  "es": "Dentado B. Las espirales del ornamento del borde se han contraído en puntos macizos.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "1ef42f85a9": {
+  "cs": "Kus 5 — Zoubkování B. Spirály v okrajové ornamentice se stáhly do plných teček.",
+  "en": "Item 5 — perforation B. The spirals in the border ornament have contracted into solid dots.",
+  "de": "Stück 5 — Zähnung B. Die Spiralen im Randornament haben sich zu vollen Punkten zusammengezogen.",
+  "fr": "Pièce 5 — dentelure B. Les spirales de l’ornement du bord se sont refermées en points pleins.",
+  "es": "Pieza 5 — dentado B. Las espirales del ornamento del borde se han contraído en puntos macizos.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "4d8ddc86d7": {
+  "cs": "Zoubkování A. Otisk je světlejší, ale kresba je stejně zalitá — sytost barvy a slitost tisku spolu nesouvisí.",
+  "en": "Perforation A. The impression is lighter, yet the design is just as filled in — colour saturation and filling-in are independent of each other.",
+  "de": "Zähnung A. Der Abdruck ist heller, die Zeichnung aber ebenso zugelaufen — Farbsättigung und Zulaufen hängen nicht zusammen.",
+  "fr": "Dentelure A. L’empreinte est plus claire, mais le dessin est tout aussi empâté — saturation de la couleur et empâtement sont indépendants.",
+  "es": "Dentado A. La impronta es más clara, pero el dibujo está igual de empastado — la saturación del color y el empastamiento son independientes.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "f4ba1f9c37": {
+  "cs": "Kus 6 — Zoubkování A. Otisk je světlejší, ale kresba je stejně zalitá — sytost barvy a slitost tisku spolu nesouvisí.",
+  "en": "Item 6 — perforation A. The impression is lighter, yet the design is just as filled in — colour saturation and filling-in are independent of each other.",
+  "de": "Stück 6 — Zähnung A. Der Abdruck ist heller, die Zeichnung aber ebenso zugelaufen — Farbsättigung und Zulaufen hängen nicht zusammen.",
+  "fr": "Pièce 6 — dentelure A. L’empreinte est plus claire, mais le dessin est tout aussi empâté — saturation de la couleur et empâtement sont indépendants.",
+  "es": "Pieza 6 — dentado A. La impronta es más clara, pero el dibujo está igual de empastado — la saturación del color y el empastamiento son independientes.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "9918c00497": {
+  "cs": "Nezoubkovaný kus. Rám je ztloustlý, kresba hradu i svahu splynula.",
+  "en": "An imperforate copy. The frame is thickened, the castle and the hillside have merged into one.",
+  "de": "Ein ungezähntes Stück. Der Rahmen ist verdickt, Burg und Hang sind verschmolzen.",
+  "fr": "Exemplaire non dentelé. Le cadre est épaissi, le château et le versant se sont fondus.",
+  "es": "Ejemplar sin dentar. El marco está engrosado, el castillo y la ladera se han fundido.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "4aa9aa4514": {
+  "cs": "Kus 7 — Nezoubkovaný kus. Rám je ztloustlý, kresba hradu i svahu splynula.",
+  "en": "Item 7 — an imperforate copy. The frame is thickened, the castle and the hillside have merged into one.",
+  "de": "Stück 7 — Ein ungezähntes Stück. Der Rahmen ist verdickt, Burg und Hang sind verschmolzen.",
+  "fr": "Pièce 7 — exemplaire non dentelé. Le cadre est épaissi, le château et le versant se sont fondus.",
+  "es": "Pieza 7 — ejemplar sin dentar. El marco está engrosado, el castillo y la ladera se han fundido.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "f38ae64cf7": {
+  "cs": "Zoubkování C. Ozdoby v horních rozích rámu jsou zalité do plných obrazců.",
+  "en": "Perforation C. The ornaments in the upper corners of the frame have filled in into solid shapes.",
+  "de": "Zähnung C. Die Ornamente in den oberen Rahmenecken sind zu vollen Figuren zugelaufen.",
+  "fr": "Dentelure C. Les ornements des angles supérieurs du cadre se sont empâtés en figures pleines.",
+  "es": "Dentado C. Los adornos de las esquinas superiores del marco se han empastado en figuras macizas.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "8b3e3e486d": {
+  "cs": "Kus 8 — Zoubkování C. Ozdoby v horních rozích rámu jsou zalité do plných obrazců.",
+  "en": "Item 8 — perforation C. The ornaments in the upper corners of the frame have filled in into solid shapes.",
+  "de": "Stück 8 — Zähnung C. Die Ornamente in den oberen Rahmenecken sind zu vollen Figuren zugelaufen.",
+  "fr": "Pièce 8 — dentelure C. Les ornements des angles supérieurs du cadre se sont empâtés en figures pleines.",
+  "es": "Pieza 8 — dentado C. Los adornos de las esquinas superiores del marco se han empastado en figuras macizas.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "ec7fccbdb2": {
+  "cs": "Zoubkování B. Silueta Hradčan je bez detailu, ale číslice hodnoty zůstala čitelná — nejtlustší prvky odolávají nejdéle.",
+  "en": "Perforation B. The silhouette of Hradčany has no detail left, yet the value numeral is still legible — the heaviest elements hold out longest.",
+  "de": "Zähnung B. Die Silhouette des Hradschin ist detaillos, die Wertziffer aber noch lesbar — die kräftigsten Elemente halten am längsten stand.",
+  "fr": "Dentelure B. La silhouette de Hradčany n’a plus de détail, mais le chiffre de valeur reste lisible — les éléments les plus épais résistent le plus longtemps.",
+  "es": "Dentado B. La silueta de Hradčany ha perdido el detalle, pero la cifra de valor sigue legible — los elementos más gruesos resisten más tiempo.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "17d2294e07": {
+  "cs": "Kus 9 — Zoubkování B. Silueta Hradčan je bez detailu, ale číslice hodnoty zůstala čitelná — nejtlustší prvky odolávají nejdéle.",
+  "en": "Item 9 — perforation B. The silhouette of Hradčany has no detail left, yet the value numeral is still legible — the heaviest elements hold out longest.",
+  "de": "Stück 9 — Zähnung B. Die Silhouette des Hradschin ist detaillos, die Wertziffer aber noch lesbar — die kräftigsten Elemente halten am längsten stand.",
+  "fr": "Pièce 9 — dentelure B. La silhouette de Hradčany n’a plus de détail, mais le chiffre de valeur reste lisible — les éléments les plus épais résistent le plus longtemps.",
+  "es": "Pieza 9 — dentado B. La silueta de Hradčany ha perdido el detalle, pero la cifra de valor sigue legible — los elementos más gruesos resisten más tiempo.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "551a078f5c": {
+  "cs": "Zoubkování A. Kus pod hustým razítkem; slitý tisk je přesto dobře patrný v dolním ozdobném pásu.",
+  "en": "Perforation A. A heavily cancelled copy; the filled-in print is nevertheless plain in the lower ornamental band.",
+  "de": "Zähnung A. Ein stark gestempeltes Stück; der zugelaufene Druck ist dennoch im unteren Zierband gut zu sehen.",
+  "fr": "Dentelure A. Exemplaire fortement oblitéré ; l’empâtement reste bien visible dans la bande ornementale inférieure.",
+  "es": "Dentado A. Ejemplar muy matasellado; el empastamiento se aprecia igualmente en la franja ornamental inferior.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "af2bb32af5": {
+  "cs": "Kus 10 — Zoubkování A. Kus pod hustým razítkem; slitý tisk je přesto dobře patrný v dolním ozdobném pásu.",
+  "en": "Item 10 — perforation A. A heavily cancelled copy; the filled-in print is nevertheless plain in the lower ornamental band.",
+  "de": "Stück 10 — Zähnung A. Ein stark gestempeltes Stück; der zugelaufene Druck ist dennoch im unteren Zierband gut zu sehen.",
+  "fr": "Pièce 10 — dentelure A. Exemplaire fortement oblitéré ; l’empâtement reste bien visible dans la bande ornementale inférieure.",
+  "es": "Pieza 10 — dentado A. Ejemplar muy matasellado; el empastamiento se aprecia igualmente en la franja ornamental inferior.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "92d1f9cd5d": {
+  "cs": "Zoubkování B. Mírnější stupeň: v obloze je ještě znát náznak šrafování, ale jemná kresba svahu už zmizela.",
+  "en": "Perforation B. A milder degree: a hint of hatching can still be seen in the sky, but the fine drawing of the hillside is already gone.",
+  "de": "Zähnung B. Ein milderer Grad: im Himmel ist noch ein Anflug von Schraffur zu erkennen, die feine Zeichnung des Hangs ist aber schon verschwunden.",
+  "fr": "Dentelure B. Degré plus léger : un soupçon de hachures subsiste dans le ciel, mais le fin dessin du versant a déjà disparu.",
+  "es": "Dentado B. Grado más leve: en el cielo aún se intuye el rayado, pero el fino dibujo de la ladera ya ha desaparecido.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "bad14160d1": {
+  "cs": "Kus 11 — Zoubkování B. Mírnější stupeň: v obloze je ještě znát náznak šrafování, ale jemná kresba svahu už zmizela.",
+  "en": "Item 11 — perforation B. A milder degree: a hint of hatching can still be seen in the sky, but the fine drawing of the hillside is already gone.",
+  "de": "Stück 11 — Zähnung B. Ein milderer Grad: im Himmel ist noch ein Anflug von Schraffur zu erkennen, die feine Zeichnung des Hangs ist aber schon verschwunden.",
+  "fr": "Pièce 11 — dentelure B. Degré plus léger : un soupçon de hachures subsiste dans le ciel, mais le fin dessin du versant a déjà disparu.",
+  "es": "Pieza 11 — dentado B. Grado más leve: en el cielo aún se intuye el rayado, pero el fino dibujo de la ladera ya ha desaparecido.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "8755feb3d9": {
+  "cs": "Zoubkování B, přetisk 40 DOPLATIT. Doklad, že zalité archy se dostaly i do doplatní přetiskové emise.",
+  "en": "Perforation B, overprinted 40 DOPLATIT. Evidence that filled-in sheets also reached the postage-due overprint issue.",
+  "de": "Zähnung B, Aufdruck 40 DOPLATIT. Beleg dafür, dass zugelaufene Bogen auch in die Portomarken-Aufdruckausgabe gelangten.",
+  "fr": "Dentelure B, surcharge 40 DOPLATIT. Preuve que des feuilles empâtées ont aussi servi à l’émission surchargée de taxe.",
+  "es": "Dentado B, sobrecarga 40 DOPLATIT. Prueba de que los pliegos empastados llegaron también a la emisión sobrecargada de tasa.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "1c38a2a465": {
+  "cs": "Kus 12 — Zoubkování B, přetisk 40 DOPLATIT. Doklad, že zalité archy se dostaly i do doplatní přetiskové emise.",
+  "en": "Item 12 — perforation B, overprinted 40 DOPLATIT. Evidence that filled-in sheets also reached the postage-due overprint issue.",
+  "de": "Stück 12 — Zähnung B, Aufdruck 40 DOPLATIT. Beleg dafür, dass zugelaufene Bogen auch in die Portomarken-Aufdruckausgabe gelangten.",
+  "fr": "Pièce 12 — dentelure B, surcharge 40 DOPLATIT. Preuve que des feuilles empâtées ont aussi servi à l’émission surchargée de taxe.",
+  "es": "Pieza 12 — dentado B, sobrecarga 40 DOPLATIT. Prueba de que los pliegos empastados llegaron también a la emisión sobrecargada de tasa.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "26cf1572ce": {
+  "cs": "Nezoubkovaný kus. Ze všech nejméně zalitý — dobře ukazuje, kde vada začíná: nejdřív v obloze a ve svahu, teprve pak v ornamentice.",
+  "en": "An imperforate copy. The least filled in of them all — a good illustration of where the flaw starts: first in the sky and the hillside, only then in the ornament.",
+  "de": "Ein ungezähntes Stück. Das am wenigsten zugelaufene von allen — es zeigt gut, wo der Fehler beginnt: zuerst im Himmel und am Hang, erst dann im Ornament.",
+  "fr": "Exemplaire non dentelé. Le moins empâté de tous — il montre bien où le défaut commence : d’abord dans le ciel et le versant, ensuite seulement dans l’ornement.",
+  "es": "Ejemplar sin dentar. El menos empastado de todos — muestra bien dónde empieza el defecto: primero en el cielo y la ladera, y solo después en el ornamento.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "238338abf5": {
+  "cs": "Kus 13 — Nezoubkovaný kus. Ze všech nejméně zalitý — dobře ukazuje, kde vada začíná: nejdřív v obloze a ve svahu, teprve pak v ornamentice.",
+  "en": "Item 13 — an imperforate copy. The least filled in of them all — a good illustration of where the flaw starts: first in the sky and the hillside, only then in the ornament.",
+  "de": "Stück 13 — Ein ungezähntes Stück. Das am wenigsten zugelaufene von allen — es zeigt gut, wo der Fehler beginnt: zuerst im Himmel und am Hang, erst dann im Ornament.",
+  "fr": "Pièce 13 — exemplaire non dentelé. Le moins empâté de tous — il montre bien où le défaut commence : d’abord dans le ciel et le versant, ensuite seulement dans l’ornement.",
+  "es": "Pieza 13 — ejemplar sin dentar. El menos empastado de todos — muestra bien dónde empieza el defecto: primero en el cielo y la ladera, y solo después en el ornamento.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "634719c0b8": {
+  "cs": "Svislá dvoupáska, zoubkování B. Obě známky jsou zalité stejně — vada přišla s celým archem, ne s jedním polem.",
+  "en": "A vertical pair, perforation B. Both stamps are filled in to the same degree — the flaw came with the whole sheet, not with one field.",
+  "de": "Ein senkrechtes Paar, Zähnung B. Beide Marken sind gleich stark zugelaufen — der Fehler kam mit dem ganzen Bogen, nicht mit einem Feld.",
+  "fr": "Paire verticale, dentelure B. Les deux timbres sont empâtés au même degré — le défaut est venu avec la feuille entière, non avec une case.",
+  "es": "Pareja vertical, dentado B. Ambos sellos están empastados en igual grado — el defecto vino con el pliego entero, no con una posición.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "207f4cf29c": {
+  "cs": "Kus 14 — Svislá dvoupáska, zoubkování B. Obě známky jsou zalité stejně — vada přišla s celým archem, ne s jedním polem.",
+  "en": "Item 14 — a vertical pair, perforation B. Both stamps are filled in to the same degree — the flaw came with the whole sheet, not with one field.",
+  "de": "Stück 14 — Ein senkrechtes Paar, Zähnung B. Beide Marken sind gleich stark zugelaufen — der Fehler kam mit dem ganzen Bogen, nicht mit einem Feld.",
+  "fr": "Pièce 14 — paire verticale, dentelure B. Les deux timbres sont empâtés au même degré — le défaut est venu avec la feuille entière, non avec une case.",
+  "es": "Pieza 14 — pareja vertical, dentado B. Ambos sellos están empastados en igual grado — el defecto vino con el pliego entero, no con una posición.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "5518bff07f": {
+  "cs": "Normální otisk (78/II): v obloze je patrné vyzařující šrafování, v siluetě jsou vidět okna a věžičky, svah pod hradem má strukturu.",
+  "en": "A normal impression (78/II): the radiating hatching is visible in the sky, windows and turrets can be made out in the silhouette, the hillside below the castle has texture.",
+  "de": "Ein normaler Abdruck (78/II): im Himmel ist die strahlenförmige Schraffur erkennbar, in der Silhouette lassen sich Fenster und Türmchen ausmachen, der Hang unter der Burg hat Struktur.",
+  "fr": "Une empreinte normale (78/II) : les hachures rayonnantes sont visibles dans le ciel, on distingue fenêtres et tourelles dans la silhouette, le versant sous le château a de la matière.",
+  "es": "Una impronta normal (78/II): en el cielo se aprecia el rayado radiante, en la silueta se distinguen ventanas y torrecillas, la ladera bajo el castillo tiene textura.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "fb892cc70c": {
+  "cs": "Týž výřez na zalitém kusu: obloha je souvislá plocha, hrad jen tmavý obrys, svah beztvará masa a písmena nápisu jsou ztloustlá.",
+  "en": "The same area on a filled-in copy: the sky is a continuous field, the castle a dark outline only, the hillside a shapeless mass, and the letters of the inscription are thickened.",
+  "de": "Derselbe Ausschnitt auf einem zugelaufenen Stück: der Himmel ist eine geschlossene Fläche, die Burg nur ein dunkler Umriss, der Hang eine formlose Masse, und die Buchstaben der Inschrift sind verdickt.",
+  "fr": "Le même détail sur un exemplaire empâté : le ciel est une plage continue, le château un simple contour sombre, le versant une masse informe, et les lettres de l’inscription sont épaissies.",
+  "es": "El mismo recorte en un ejemplar empastado: el cielo es una superficie continua, el castillo solo un contorno oscuro, la ladera una masa informe y las letras de la inscripción están engrosadas.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "81566f7f55": {
+  "cs": "Zalité příčky — typ, který zmizel v barvě",
+  "en": "Filled-in crossbars — a type lost in the ink",
+  "de": "Zugelaufene Querstriche — ein Typ, der in der Farbe verschwand",
+  "fr": "Barrettes empâtées — un type noyé dans l’encre",
+  "es": "Barritas empastadas — un tipo perdido en la tinta",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "aa2c839480": {
+  "cs": "Pátá kresba nese na některých známkových polích tzv. <strong>dlouhou příčku</strong> (typ IIp) — jemný nepotištěný tah vedle druhé spirály zdola v levé okrajové ornamentice. Je to jedna z nejužších bílých mezer na celé známce, a proto je mezi prvními, které slitý tisk uzavře. Kus z pole s dlouhou příčkou pak vypadá, jako by příčku neměl vůbec.",
+  "en": "On some stamp fields the fifth design carries a so-called <strong>long crossbar</strong> (type IIp) — a fine unprinted stroke beside the second spiral from the bottom in the left border ornament. It is one of the narrowest white gaps on the whole stamp, and therefore among the first that filled-in print closes. A copy from a long-crossbar field then looks as though it had no crossbar at all.",
+  "de": "Die fünfte Zeichnung trägt auf einigen Feldern den sogenannten <strong>langen Querstrich</strong> (Typ IIp) — einen feinen, nicht bedruckten Strich neben der zweiten Spirale von unten im linken Randornament. Er ist eine der schmalsten weißen Lücken der ganzen Marke und gehört daher zu den ersten, die der zugelaufene Druck schließt. Ein Stück aus einem Feld mit langem Querstrich sieht dann aus, als hätte es gar keinen.",
+  "fr": "Sur certaines cases, le cinquième dessin porte une <strong>barrette longue</strong> (type IIp) — un fin trait non imprimé à côté de la deuxième spirale en partant du bas, dans l’ornement du bord gauche. C’est l’un des plus étroits blancs de tout le timbre, et donc l’un des premiers que l’impression empâtée referme. Un exemplaire issu d’une case à barrette longue semble alors n’en avoir aucune.",
+  "es": "En algunas posiciones el quinto dibujo lleva la llamada <strong>barrita larga</strong> (tipo IIp) — un fino trazo sin imprimir junto a la segunda espiral desde abajo, en el ornamento del borde izquierdo. Es uno de los blancos más estrechos de todo el sello y, por tanto, de los primeros que cierra la impresión empastada. Un ejemplar de una posición de barrita larga parece entonces no tener ninguna.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "48cb85f4e6": {
+  "cs": "Šest kusů v galerii níže je přesně takový případ. Pět z nich pochází z polí <strong>78/II</strong> a <strong>5/I</strong> — obě jsou v katalogu vedena mezi poli s dlouhou příčkou (viz <a href=\"typy.html\">Typy páté kresby</a>). Příčka je v desce vyryta, na otisku z tohoto pole tedy chybět nemůže; co chybí, není příčka, ale bílý papír kolem ní. Šestý kus, z pole <strong>83/I</strong>, je srovnávací: pole s krátkou příčkou (typ Ip) v normálně sytém tisku, kde ornament zůstal čitelný.",
+  "en": "The six copies in the gallery below are exactly such a case. Five of them come from fields <strong>78/II</strong> and <strong>5/I</strong> — both listed in the catalogue among the long-crossbar fields (see <a href=\"typy.html\"><span class=\"cs\">Typy páté kresby</span><span class=\"en\">Fifth-design types</span></a>). The crossbar is engraved in the plate, so it cannot be absent from an impression of that field; what is missing is not the crossbar but the white paper around it. The sixth copy, from field <strong>83/I</strong>, is there for comparison: a short-crossbar field (type Ip) in a normally saturated print, where the ornament stayed legible.",
+  "de": "Die sechs Stücke in der Galerie unten sind genau ein solcher Fall. Fünf davon stammen aus den Feldern <strong>78/II</strong> und <strong>5/I</strong> — beide im Katalog unter den Feldern mit langem Querstrich geführt (siehe <a href=\"typy.html\"><span class=\"cs\">Typy páté kresby</span><span class=\"en\">Fifth-design types</span></a>). Der Querstrich ist in der Platte graviert, auf einem Abdruck dieses Feldes kann er also nicht fehlen; was fehlt, ist nicht der Querstrich, sondern das weiße Papier um ihn herum. Das sechste Stück, aus Feld <strong>83/I</strong>, dient dem Vergleich: ein Feld mit kurzem Querstrich (Typ Ip) in normal gesättigtem Druck, in dem das Ornament lesbar blieb.",
+  "fr": "Les six exemplaires de la galerie ci-dessous en sont précisément le cas. Cinq proviennent des cases <strong>78/II</strong> et <strong>5/I</strong> — toutes deux inscrites au catalogue parmi les cases à barrette longue (voir <a href=\"typy.html\"><span class=\"cs\">Typy páté kresby</span><span class=\"en\">Fifth-design types</span></a>). La barrette est gravée dans la planche : elle ne peut donc manquer sur une empreinte de cette case ; ce qui manque n’est pas la barrette, mais le papier blanc autour d’elle. Le sixième exemplaire, de la case <strong>83/I</strong>, sert de témoin : une case à barrette courte (type Ip) dans une impression normalement saturée, où l’ornement est resté lisible.",
+  "es": "Los seis ejemplares de la galería siguiente son exactamente ese caso. Cinco proceden de las posiciones <strong>78/II</strong> y <strong>5/I</strong> — ambas figuran en el catálogo entre las posiciones de barrita larga (véase <a href=\"typy.html\"><span class=\"cs\">Typy páté kresby</span><span class=\"en\">Fifth-design types</span></a>). La barrita está grabada en la plancha, de modo que no puede faltar en una impronta de esa posición; lo que falta no es la barrita, sino el papel blanco a su alrededor. El sexto ejemplar, de la posición <strong>83/I</strong>, sirve de comparación: una posición de barrita corta (tipo Ip) en una impresión de saturación normal, donde el ornamento siguió siendo legible.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "b2124af00f": {
+  "cs": "Levá okrajová ornamentika pole 78/II v normálním tisku — u druhé spirály zdola jsou jemné nepotištěné tahy otevřené a čitelné.",
+  "en": "The left border ornament of field 78/II in a normal print — beside the second spiral from the bottom the fine unprinted strokes are open and legible.",
+  "de": "Das linke Randornament des Feldes 78/II im normalen Druck — neben der zweiten Spirale von unten sind die feinen, nicht bedruckten Striche offen und lesbar.",
+  "fr": "L’ornement du bord gauche de la case 78/II en impression normale — à côté de la deuxième spirale en partant du bas, les fins traits non imprimés sont ouverts et lisibles.",
+  "es": "El ornamento del borde izquierdo de la posición 78/II en impresión normal — junto a la segunda espiral desde abajo, los finos trazos sin imprimir están abiertos y son legibles.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "3d4cda60df": {
+  "cs": "Táž ornamentika téhož pole na zalitém kusu — tahy jsou přerušené a zkrácené, spirála se stahuje do skvrny; právě zde se ztrácí příčka.",
+  "en": "The same ornament of the same field on a filled-in copy — the strokes are broken and shortened, the spiral contracts into a blot; this is exactly where the crossbar is lost.",
+  "de": "Dasselbe Ornament desselben Feldes auf einem zugelaufenen Stück — die Striche sind unterbrochen und verkürzt, die Spirale zieht sich zu einem Fleck zusammen; genau hier geht der Querstrich verloren.",
+  "fr": "Le même ornement de la même case sur un exemplaire empâté — les traits sont interrompus et raccourcis, la spirale se referme en tache ; c’est précisément là que la barrette se perd.",
+  "es": "El mismo ornamento de la misma posición en un ejemplar empastado — los trazos están interrumpidos y acortados, la espiral se contrae en una mancha; es justo aquí donde se pierde la barrita.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "1ec18db167": {
+  "cs": "ZP 5/I, nezoubkovaný. Pole s dlouhou příčkou (IIp), na tomto kusu po ní není v ornamentu stopa — proto byl uložen jako „bez příčky“. Nejsilněji zalitý kus z této sady.",
+  "en": "Field 5/I, imperforate. A long-crossbar field (IIp); on this copy there is no trace of the crossbar left in the ornament — hence it was filed as “without crossbar”. The most heavily filled-in copy of this group.",
+  "de": "Feld 5/I, ungezähnt. Ein Feld mit langem Querstrich (IIp); auf diesem Stück ist im Ornament keine Spur davon geblieben — daher wurde es als „ohne Querstrich“ abgelegt. Das am stärksten zugelaufene Stück dieser Gruppe.",
+  "fr": "Case 5/I, non dentelé. Case à barrette longue (IIp) ; sur cet exemplaire il n’en reste aucune trace dans l’ornement — d’où son classement « sans barrette ». L’exemplaire le plus empâté de ce lot.",
+  "es": "Posición 5/I, sin dentar. Posición de barrita larga (IIp); en este ejemplar no queda rastro de ella en el ornamento — de ahí que se archivara como «sin barrita». El ejemplar más empastado de este conjunto.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "d3aee6fb56": {
+  "cs": "Kus 1 — ZP 5/I, nezoubkovaný. Pole s dlouhou příčkou (IIp), na tomto kusu po ní není v ornamentu stopa — proto byl uložen jako „bez příčky“. Nejsilněji zalitý kus z této sady.",
+  "en": "Item 1 — field 5/I, imperforate. A long-crossbar field (IIp); on this copy there is no trace of the crossbar left in the ornament — hence it was filed as “without crossbar”. The most heavily filled-in copy of this group.",
+  "de": "Stück 1 — Feld 5/I, ungezähnt. Ein Feld mit langem Querstrich (IIp); auf diesem Stück ist im Ornament keine Spur davon geblieben — daher wurde es als „ohne Querstrich“ abgelegt. Das am stärksten zugelaufene Stück dieser Gruppe.",
+  "fr": "Pièce 1 — case 5/I, non dentelé. Case à barrette longue (IIp) ; sur cet exemplaire il n’en reste aucune trace dans l’ornement — d’où son classement « sans barrette ». L’exemplaire le plus empâté de ce lot.",
+  "es": "Pieza 1 — posición 5/I, sin dentar. Posición de barrita larga (IIp); en este ejemplar no queda rastro de ella en el ornamento — de ahí que se archivara como «sin barrita». El ejemplar más empastado de este conjunto.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "8acf5f9376": {
+  "cs": "ZP 78/II, nezoubkovaný. Rovněž pole s dlouhou příčkou; ornament vedle druhé spirály zdola je slitý do jedné plochy.",
+  "en": "Field 78/II, imperforate. Also a long-crossbar field; the ornament beside the second spiral from the bottom has run together into a single mass.",
+  "de": "Feld 78/II, ungezähnt. Ebenfalls ein Feld mit langem Querstrich; das Ornament neben der zweiten Spirale von unten ist zu einer Fläche zusammengelaufen.",
+  "fr": "Case 78/II, non dentelé. Également une case à barrette longue ; l’ornement à côté de la deuxième spirale en partant du bas s’est fondu en une seule masse.",
+  "es": "Posición 78/II, sin dentar. También posición de barrita larga; el ornamento junto a la segunda espiral desde abajo se ha fundido en una sola masa.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "43a7385fd5": {
+  "cs": "Kus 2 — ZP 78/II, nezoubkovaný. Rovněž pole s dlouhou příčkou; ornament vedle druhé spirály zdola je slitý do jedné plochy.",
+  "en": "Item 2 — field 78/II, imperforate. Also a long-crossbar field; the ornament beside the second spiral from the bottom has run together into a single mass.",
+  "de": "Stück 2 — Feld 78/II, ungezähnt. Ebenfalls ein Feld mit langem Querstrich; das Ornament neben der zweiten Spirale von unten ist zu einer Fläche zusammengelaufen.",
+  "fr": "Pièce 2 — case 78/II, non dentelé. Également une case à barrette longue ; l’ornement à côté de la deuxième spirale en partant du bas s’est fondu en une seule masse.",
+  "es": "Pieza 2 — posición 78/II, sin dentar. También posición de barrita larga; el ornamento junto a la segunda espiral desde abajo se ha fundido en una sola masa.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "49060c8a67": {
+  "cs": "ZP 78/II, nezoubkovaný. Druhý kus téhož pole se stejným výsledkem — čtyři kusy 78/II v této sadě mluví pro jeden arch.",
+  "en": "Field 78/II, imperforate. A second copy of the same field with the same result — the four copies of 78/II in this group point to a single sheet.",
+  "de": "Feld 78/II, ungezähnt. Ein zweites Stück desselben Feldes mit demselben Ergebnis — die vier Stücke 78/II in dieser Gruppe sprechen für einen einzigen Bogen.",
+  "fr": "Case 78/II, non dentelé. Deuxième exemplaire de la même case, avec le même résultat — les quatre exemplaires 78/II de ce lot plaident pour une seule feuille.",
+  "es": "Posición 78/II, sin dentar. Segundo ejemplar de la misma posición con el mismo resultado — los cuatro ejemplares de 78/II de este conjunto apuntan a un solo pliego.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "ae527bc599": {
+  "cs": "Kus 3 — ZP 78/II, nezoubkovaný. Druhý kus téhož pole se stejným výsledkem — čtyři kusy 78/II v této sadě mluví pro jeden arch.",
+  "en": "Item 3 — field 78/II, imperforate. A second copy of the same field with the same result — the four copies of 78/II in this group point to a single sheet.",
+  "de": "Stück 3 — Feld 78/II, ungezähnt. Ein zweites Stück desselben Feldes mit demselben Ergebnis — die vier Stücke 78/II in dieser Gruppe sprechen für einen einzigen Bogen.",
+  "fr": "Pièce 3 — case 78/II, non dentelé. Deuxième exemplaire de la même case, avec le même résultat — les quatre exemplaires 78/II de ce lot plaident pour une seule feuille.",
+  "es": "Pieza 3 — posición 78/II, sin dentar. Segundo ejemplar de la misma posición con el mismo resultado — los cuatro ejemplares de 78/II de este conjunto apuntan a un solo pliego.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "e6be96daf8": {
+  "cs": "ZP 78/II, nezoubkovaný. Mírnější stupeň zalití: ornament je ještě členěný, příčka už ale čitelná není.",
+  "en": "Field 78/II, imperforate. A milder degree of filling-in: the ornament is still articulated, but the crossbar can no longer be read.",
+  "de": "Feld 78/II, ungezähnt. Ein milderer Grad des Zulaufens: das Ornament ist noch gegliedert, der Querstrich aber nicht mehr lesbar.",
+  "fr": "Case 78/II, non dentelé. Empâtement plus léger : l’ornement reste articulé, mais la barrette n’est plus lisible.",
+  "es": "Posición 78/II, sin dentar. Empastamiento más leve: el ornamento aún está articulado, pero la barrita ya no se lee.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "4948e6ae4d": {
+  "cs": "Kus 4 — ZP 78/II, nezoubkovaný. Mírnější stupeň zalití: ornament je ještě členěný, příčka už ale čitelná není.",
+  "en": "Item 4 — field 78/II, imperforate. A milder degree of filling-in: the ornament is still articulated, but the crossbar can no longer be read.",
+  "de": "Stück 4 — Feld 78/II, ungezähnt. Ein milderer Grad des Zulaufens: das Ornament ist noch gegliedert, der Querstrich aber nicht mehr lesbar.",
+  "fr": "Pièce 4 — case 78/II, non dentelé. Empâtement plus léger : l’ornement reste articulé, mais la barrette n’est plus lisible.",
+  "es": "Pieza 4 — posición 78/II, sin dentar. Empastamiento más leve: el ornamento aún está articulado, pero la barrita ya no se lee.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "6b34161de7": {
+  "cs": "ZP 78/II, nezoubkovaný. Čtvrtý kus tohoto pole; detail ornamentu níže je z něj.",
+  "en": "Field 78/II, imperforate. The fourth copy of this field; the detail of the ornament below is taken from it.",
+  "de": "Feld 78/II, ungezähnt. Das vierte Stück dieses Feldes; das Ornamentdetail unten stammt von ihm.",
+  "fr": "Case 78/II, non dentelé. Quatrième exemplaire de cette case ; le détail de l’ornement ci-dessous en provient.",
+  "es": "Posición 78/II, sin dentar. Cuarto ejemplar de esta posición; el detalle del ornamento de abajo procede de él.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "19ba3de02f": {
+  "cs": "Kus 5 — ZP 78/II, nezoubkovaný. Čtvrtý kus tohoto pole; detail ornamentu níže je z něj.",
+  "en": "Item 5 — field 78/II, imperforate. The fourth copy of this field; the detail of the ornament below is taken from it.",
+  "de": "Stück 5 — Feld 78/II, ungezähnt. Das vierte Stück dieses Feldes; das Ornamentdetail unten stammt von ihm.",
+  "fr": "Pièce 5 — case 78/II, non dentelé. Quatrième exemplaire de cette case ; le détail de l’ornement ci-dessous en provient.",
+  "es": "Pieza 5 — posición 78/II, sin dentar. Cuarto ejemplar de esta posición; el detalle del ornamento de abajo procede de él.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "7dfc3a5486": {
+  "cs": "ZP 83/I, zoubkování A. Srovnávací kus v normálním tisku — pole s krátkou příčkou (Ip), kde je ornament čitelný a typ se dá bezpečně určit.",
+  "en": "Field 83/I, perforation A. A comparison copy in a normal print — a short-crossbar field (Ip), where the ornament is legible and the type can be determined with confidence.",
+  "de": "Feld 83/I, Zähnung A. Ein Vergleichsstück im normalen Druck — ein Feld mit kurzem Querstrich (Ip), auf dem das Ornament lesbar ist und der Typ sicher bestimmt werden kann.",
+  "fr": "Case 83/I, dentelure A. Exemplaire témoin en impression normale — case à barrette courte (Ip), où l’ornement est lisible et le type déterminable avec certitude.",
+  "es": "Posición 83/I, dentado A. Ejemplar de comparación en impresión normal — posición de barrita corta (Ip), donde el ornamento es legible y el tipo puede determinarse con seguridad.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "3bed8d568e": {
+  "cs": "Kus 6 — ZP 83/I, zoubkování A. Srovnávací kus v normálním tisku — pole s krátkou příčkou (Ip), kde je ornament čitelný a typ se dá bezpečně určit.",
+  "en": "Item 6 — field 83/I, perforation A. A comparison copy in a normal print — a short-crossbar field (Ip), where the ornament is legible and the type can be determined with confidence.",
+  "de": "Stück 6 — Feld 83/I, Zähnung A. Ein Vergleichsstück im normalen Druck — ein Feld mit kurzem Querstrich (Ip), auf dem das Ornament lesbar ist und der Typ sicher bestimmt werden kann.",
+  "fr": "Pièce 6 — case 83/I, dentelure A. Exemplaire témoin en impression normale — case à barrette courte (Ip), où l’ornement est lisible et le type déterminable avec certitude.",
+  "es": "Pieza 6 — posición 83/I, dentado A. Ejemplar de comparación en impresión normal — posición de barrita corta (Ip), donde el ornamento es legible y el tipo puede determinarse con seguridad.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "4f75b11103": {
+  "cs": "Praktické pravidlo: <strong>typ neurčujeme ze zalitého kusu</strong>. Slitý tisk umí příčku jen zkrátit nebo zcela skrýt, nikdy ji neprodlouží — zalitý kus se tedy může tvářit jako typ s krátkou příčkou (Ip) nebo jako kus bez příčky, ale dlouhou příčku nikdy nepředstírá. Chybějící příčka na poli, které ji podle rekonstrukce desky má, je proto vada tisku, ne varianta.",
+  "en": "A practical rule: <strong>never determine the type from a filled-in copy</strong>. Filled-in print can only shorten the crossbar or hide it altogether, never lengthen it — so a flooded copy may pass as a short-crossbar type (Ip) or as a copy with no crossbar, but it never fakes a long one. A missing crossbar on a field that carries one according to the plate reconstruction is therefore a printing flaw, not a variety.",
+  "de": "Eine praktische Regel: <strong>den Typ nie an einem zugelaufenen Stück bestimmen</strong>. Zugelaufener Druck kann den Querstrich nur verkürzen oder ganz verbergen, niemals verlängern — ein zugelaufenes Stück kann sich also als Typ mit kurzem Querstrich (Ip) oder als Stück ohne Querstrich ausgeben, einen langen täuscht es nie vor. Ein fehlender Querstrich auf einem Feld, das ihn laut Plattenrekonstruktion trägt, ist daher ein Druckfehler und keine Variante.",
+  "fr": "Règle pratique : <strong>ne jamais déterminer le type sur un exemplaire empâté</strong>. L’impression empâtée ne peut que raccourcir la barrette ou la masquer entièrement, jamais l’allonger — un exemplaire empâté peut donc passer pour un type à barrette courte (Ip) ou pour un exemplaire sans barrette, mais il n’en simule jamais une longue. Une barrette absente sur une case qui en porte une selon la reconstruction de la planche est donc un défaut d’impression, non une variété.",
+  "es": "Regla práctica: <strong>nunca determinar el tipo en un ejemplar empastado</strong>. La impresión empastada solo puede acortar la barrita u ocultarla del todo, nunca alargarla — un ejemplar empastado puede pasar por un tipo de barrita corta (Ip) o por uno sin barrita, pero jamás finge una larga. Una barrita ausente en una posición que la lleva según la reconstrucción de la plancha es, por tanto, un defecto de impresión, no una variedad.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "99fc2b01b8": {
+  "cs": "Přebytek barvy uzavře jemné nepotištěné mezery kresby — zpracováno níže v této kapitole:",
+  "en": "An excess of ink closes the fine unprinted gaps of the design — covered below in this chapter:",
+  "de": "Ein Farbüberschuss schließt die feinen, nicht bedruckten Zwischenräume der Zeichnung — unten in diesem Kapitel behandelt:",
+  "fr": "Un excès d’encre referme les fins intervalles non imprimés du dessin — traité ci-dessous dans ce chapitre :",
+  "es": "Un exceso de tinta cierra los finos huecos sin imprimir del dibujo — tratado más abajo en este capítulo:",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "e3075f2092": {
+  "cs": "slitý tisk",
+  "en": "filled-in print",
+  "de": "zugelaufener Druck",
+  "fr": "impression empâtée",
+  "es": "impresión empastada",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "f3e765bd57": {
+  "cs": "<strong>15h</strong> — Ve <a href=\"15h/vyrobni-vady.html\"><strong>Výrobních vadách</strong></a> přibyla kapitola <a href=\"15h/vyrobni-vady.html#slity-tisk\"><strong>Slitý tisk</strong></a>: přebytek barvy na formě zaplní úzké nepotištěné drážky kresby, takže obloha splyne v jednolitou plochu a Hradčany zůstanou jen tmavým obrysem. Čtrnáct kusů ukazuje škálu od mírného zalití po úplné, včetně svislé dvoupásky a přetisku 40 DOPLATIT. Součástí kapitoly je i vysvětlení, proč se u <a href=\"15h/typy.html\"><strong>příčkových typů</strong></a> na zalitém kusu ztratí dlouhá příčka: šest kusů z polí 78/II, 5/I a 83/I ukazuje, že „bez příčky“ je stav tisku, ne typ — zalitý tisk umí příčku jen zkrátit, nikdy prodloužit. K <a href=\"15h/vyrobni-vady.html#odtrzena-barva\"><strong>Odtržené barvě</strong></a> přibyly tři další kusy (55/I, 92/II s razítkem Poděbrady 17. IX. 1919 a 11/II) a k <a href=\"15h/vyrobni-vady.html#ridky-tisk\"><strong>Řídkému tisku</strong></a> čtyři nezoubkované kusy z polí 26, 27, 28 a 97 desky II — tři z nich leží v jedné řadě vedle sebe, což mluví spíš pro vlastnost jednoho nákladu než jednoho místa desky. <a href=\"15h/statistiky.html\"><strong>Statistiky</strong></a> nyní vycházejí z <strong>22&nbsp;146 určených známek</strong>, z toho <strong>6&nbsp;950 datovaných</strong>.",
+  "en": "<strong>15h</strong> — <a href=\"15h/vyrobni-vady.html\"><strong>Production flaws</strong></a> gains a chapter on <a href=\"15h/vyrobni-vady.html#slity-tisk\"><strong>filled-in print</strong></a>: an excess of ink on the forme fills the narrow unprinted grooves of the design, so that the sky merges into a single field and Hradčany is left a dark outline. Fourteen copies show the range from mild to complete filling-in, including a vertical pair and a 40 DOPLATIT overprint. The chapter also explains why a filled-in copy loses the long crossbar of the <a href=\"15h/typy.html\"><strong>crossbar types</strong></a>: six copies from fields 78/II, 5/I and 83/I show that “no crossbar” is a state of the printing, not a type — filled-in print can only shorten the crossbar, never lengthen it. <a href=\"15h/vyrobni-vady.html#odtrzena-barva\"><strong>Torn-off ink</strong></a> gains three further copies (55/I, 92/II with a Poděbrady cancel of 17 IX 1919, and 11/II), and <a href=\"15h/vyrobni-vady.html#ridky-tisk\"><strong>thin print</strong></a> four imperforate copies from fields 26, 27, 28 and 97 of plate II — three of them side by side in one row, which points to a property of one print run rather than of one place on the plate. <a href=\"15h/statistiky.html\"><strong>Statistics</strong></a> now rest on <strong>22,146 attributed stamps</strong>, <strong>6,950</strong> of them dated.",
+  "de": "<strong>15h</strong> — Die <a href=\"15h/vyrobni-vady.html\"><strong>Produktionsfehler</strong></a> erhalten ein Kapitel über den <a href=\"15h/vyrobni-vady.html#slity-tisk\"><strong>zugelaufenen Druck</strong></a>: ein Farbüberschuss auf der Form füllt die schmalen, nicht bedruckten Rillen der Zeichnung, sodass der Himmel zu einer einzigen Fläche verschmilzt und vom Hradschin nur ein dunkler Umriss bleibt. Vierzehn Stücke zeigen die Bandbreite vom leichten bis zum völligen Zulaufen, darunter ein senkrechtes Paar und ein Aufdruck 40 DOPLATIT. Das Kapitel erklärt außerdem, warum ein zugelaufenes Stück den langen Querstrich der <a href=\"15h/typy.html\"><strong>Querstrichtypen</strong></a> verliert: sechs Stücke aus den Feldern 78/II, 5/I und 83/I zeigen, dass „ohne Querstrich“ ein Zustand des Drucks ist und kein Typ — zugelaufener Druck kann den Querstrich nur verkürzen, nie verlängern. Die <a href=\"15h/vyrobni-vady.html#odtrzena-barva\"><strong>abgerissene Farbe</strong></a> erhält drei weitere Stücke (55/I, 92/II mit Stempel Poděbrady vom 17. IX. 1919 und 11/II), der <a href=\"15h/vyrobni-vady.html#ridky-tisk\"><strong>dünne Druck</strong></a> vier ungezähnte Stücke aus den Feldern 26, 27, 28 und 97 der Platte II — drei davon nebeneinander in einer Reihe, was eher für eine Eigenschaft einer Auflage als einer Plattenstelle spricht. Die <a href=\"15h/statistiky.html\"><strong>Statistiken</strong></a> beruhen nun auf <strong>22 146 bestimmten Marken</strong>, davon <strong>6 950 datiert</strong>.",
+  "fr": "<strong>15h</strong> — Les <a href=\"15h/vyrobni-vady.html\"><strong>défauts de fabrication</strong></a> s’enrichissent d’un chapitre sur l’<a href=\"15h/vyrobni-vady.html#slity-tisk\"><strong>impression empâtée</strong></a> : un excès d’encre sur la forme comble les étroites rainures non imprimées du dessin, si bien que le ciel se fond en une seule plage et qu’il ne reste de Hradčany qu’un contour sombre. Quatorze exemplaires montrent toute l’échelle, du léger empâtement au plus complet, dont une paire verticale et une surcharge 40 DOPLATIT. Le chapitre explique aussi pourquoi un exemplaire empâté perd la barrette longue des <a href=\"15h/typy.html\"><strong>types à barrette</strong></a> : six exemplaires des cases 78/II, 5/I et 83/I montrent que « sans barrette » est un état de l’impression et non un type — l’impression empâtée ne peut que raccourcir la barrette, jamais l’allonger. L’<a href=\"15h/vyrobni-vady.html#odtrzena-barva\"><strong>encre arrachée</strong></a> gagne trois exemplaires (55/I, 92/II avec oblitération de Poděbrady du 17 IX 1919, et 11/II), et l’<a href=\"15h/vyrobni-vady.html#ridky-tisk\"><strong>impression maigre</strong></a> quatre exemplaires non dentelés des cases 26, 27, 28 et 97 de la planche II — trois d’entre eux se suivent dans une même rangée, ce qui plaide pour une propriété d’un tirage plutôt que d’un endroit de la planche. Les <a href=\"15h/statistiky.html\"><strong>statistiques</strong></a> reposent désormais sur <strong>22 146 timbres identifiés</strong>, dont <strong>6 950 datés</strong>.",
+  "es": "<strong>15h</strong> — Los <a href=\"15h/vyrobni-vady.html\"><strong>defectos de fabricación</strong></a> suman un capítulo sobre la <a href=\"15h/vyrobni-vady.html#slity-tisk\"><strong>impresión empastada</strong></a>: un exceso de tinta en la forma rellena las estrechas ranuras sin imprimir del dibujo, de modo que el cielo se funde en una sola superficie y de Hradčany solo queda un contorno oscuro. Catorce ejemplares muestran toda la escala, del empastamiento leve al total, incluidos una pareja vertical y una sobrecarga 40 DOPLATIT. El capítulo explica además por qué un ejemplar empastado pierde la barrita larga de los <a href=\"15h/typy.html\"><strong>tipos de barrita</strong></a>: seis ejemplares de las posiciones 78/II, 5/I y 83/I demuestran que «sin barrita» es un estado de la impresión y no un tipo — la impresión empastada solo puede acortar la barrita, nunca alargarla. La <a href=\"15h/vyrobni-vady.html#odtrzena-barva\"><strong>tinta arrancada</strong></a> gana tres ejemplares más (55/I, 92/II con matasellos de Poděbrady del 17 IX 1919 y 11/II), y la <a href=\"15h/vyrobni-vady.html#ridky-tisk\"><strong>impresión rala</strong></a> cuatro ejemplares sin dentar de las posiciones 26, 27, 28 y 97 de la plancha II — tres de ellos seguidos en una misma fila, lo que apunta a una propiedad de una tirada más que de un lugar de la plancha. Las <a href=\"15h/statistiky.html\"><strong>estadísticas</strong></a> se basan ahora en <strong>22 146 sellos identificados</strong>, <strong>6 950</strong> de ellos fechados.",
+  "files": [
+   "novinky.html"
+  ],
   "tag": "span"
  }
 }
