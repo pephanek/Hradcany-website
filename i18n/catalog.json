@@ -7692,17 +7692,6 @@
   "fr": "5h — planche d’impression VI",
   "tag": "span"
  },
- "518972e6ff": {
-  "cs": "Posloupnost nejranějších dat hezky dokládá výrobní chronologii: na deskách 1–2 jdou nezoubkované archy a řádkové zoubkování těsně za sebou (24.&nbsp;6. → 30.&nbsp;6. → 28.&nbsp;7.&nbsp;1919 pro nezoubkované, D a E), hned po nich nastupuje hřebenové A (4.&nbsp;8.&nbsp;1919), pak C (25.&nbsp;8.) a F (12.&nbsp;9.&nbsp;1919); B se na deskách 1–2 objevuje až na přelomu roku a od února 1920 přebírají desky 3–7.",
-  "de": "Die Abfolge der frühesten Daten belegt schön die Fertigungschronologie: auf den Platten 1–2 folgen die geschnittenen Bogen und die Linienzähnungen dicht aufeinander (24.&nbsp;6. → 30.&nbsp;6. → 28.&nbsp;7.&nbsp;1919 für geschnitten, D und E), unmittelbar danach setzt die Kammzähnung A ein (4.&nbsp;8.&nbsp;1919), dann C (25.&nbsp;8.) und F (12.&nbsp;9.&nbsp;1919); B erscheint auf den Platten 1–2 erst um die Jahreswende, und ab Februar 1920 übernehmen die Platten 3–7.",
-  "en": "The sequence of earliest dates nicely documents the production chronology: on plates 1–2 the imperforate sheets and the line perforations follow in quick succession (24&nbsp;Jun → 30&nbsp;Jun → 28&nbsp;Jul&nbsp;1919 for imperforate, D and E), immediately followed by comb perforation A (4&nbsp;Aug&nbsp;1919), then C (25&nbsp;Aug) and F (12&nbsp;Sep&nbsp;1919); B on plates 1–2 appears only at the turn of the year, and from February 1920 plates 3–7 take over.",
-  "es": "La secuencia de las fechas más tempranas documenta bien la cronología de fabricación: en las planchas 1–2, los pliegos sin dentar y los dentados de línea se suceden muy seguidos (24&nbsp;jun. → 30&nbsp;jun. → 28&nbsp;jul.&nbsp;1919 para el sin dentar, D y E), seguidos de inmediato por el dentado de peine A (4&nbsp;ago.&nbsp;1919), después C (25&nbsp;ago.) y F (12&nbsp;sep.&nbsp;1919); B aparece en las planchas 1–2 solo a finales de año, y desde febrero de 1920 toman el relevo las planchas 3–7.",
-  "files": [
-   "15h/statistiky.html"
-  ],
-  "fr": "La succession des dates les plus précoces documente joliment la chronologie de fabrication : sur les planches 1–2, les feuilles non dentelées et les dentelures en ligne se suivent de près (24&nbsp;juin → 30&nbsp;juin → 28&nbsp;juillet&nbsp;1919 pour le non dentelé, D et E), suivies immédiatement de la dentelure en peigne A (4&nbsp;août&nbsp;1919), puis C (25&nbsp;août) et F (12&nbsp;septembre&nbsp;1919) ; B n’apparaît sur les planches 1–2 qu’au tournant de l’année, et à partir de février 1920 les planches 3–7 prennent le relais.",
-  "tag": "span"
- },
  "51d900369c": {
   "cs": "Červený tisk na <strong>narůžovělém papíře</strong>, nezoubkovaný — <strong>známkové pole 90/IV</strong>; zkouška podkladu, ne barvy.",
   "de": "Roter Druck auf <strong>rosafarbenem Papier</strong>, geschnitten — <strong>Bogenfeld 90/IV</strong>; eine Probe des Papiers, nicht der Farbe.",
@@ -26172,6 +26161,71 @@
    "15h/zoubkovani.html"
   ],
   "fr": "Sur 7 421 oblitérations lisiblement datées. L’ordre montre comment la production est passée des dentelures linéaires D/E/F sur les planches anciennes aux dentelures en peigne A/B sur les planches plus tardives.",
+  "tag": "span"
+ },
+ "129d41d8c0": {
+  "cs": "Podrobný statistický rozbor hodnoty 15h vychází z vlastní evidence: <strong>22 486 určených známek</strong>, z toho <strong>7 468 s čitelně datovaným razítkem</strong> (stav 5. 9. 2026). Zdrojem jsou listy „Stats 15h“ a „Usage Stats 15h“ evidenčního sešitu.",
+  "de": "Die ausführliche statistische Auswertung der 15h beruht auf der eigenen Erfassung: <strong>22 486 bestimmte Marken</strong>, davon <strong>7 468 mit lesbar datiertem Stempel</strong> (Stand 5. 9. 2026). Quelle sind die Blätter „Stats 15h“ und „Usage Stats 15h“ der Erfassungsdatei.",
+  "en": "The detailed statistical analysis of the 15h is based on the author’s records: <strong>22,486 attributed stamps</strong>, of which <strong>7,468 carry a legibly dated cancellation</strong> (as of 5 September 2026). The source is the “Stats 15h” and “Usage Stats 15h” sheets of the record workbook.",
+  "es": "El análisis estadístico detallado del 15h se basa en los registros propios: <strong>22 486 sellos atribuidos</strong>, de los cuales <strong>7 468 con matasellos legiblemente fechado</strong> (a 5 de septiembre de 2026). La fuente son las hojas «Stats 15h» y «Usage Stats 15h» del libro de registros.",
+  "fr": "L’analyse statistique détaillée du 15h repose sur les relevés de l’auteur : <strong>22 486 timbres attribués</strong>, dont <strong>7 468 avec une oblitération lisiblement datée</strong> (état au 5 septembre 2026). La source est constituée des feuilles « Stats 15h » et « Usage Stats 15h » du classeur de relevés."
+ },
+ "9f05e6323e": {
+  "cs": "Z 7 468 čitelně datovaných razítek. Pořadí ukazuje, jak výroba postupovala od řádkových zoubkování D/E/F na raných deskách k hřebenovým A/B na deskách pozdějších.",
+  "de": "Von 7.468 lesbar datierten Stempeln. Die Reihenfolge zeigt, wie die Produktion von den Linienzähnungen D/E/F auf den frühen Platten zu den Kammzähnungen A/B auf den späteren Platten überging.",
+  "en": "From 7,468 legibly dated cancellations. The sequence shows production moving from line perforations D/E/F on the early plates to comb perforations A/B on the later ones.",
+  "es": "De 7.468 matasellos legiblemente fechados. El orden muestra cómo la producción pasó de los dentados lineales D/E/F en las planchas tempranas a los dentados de peine A/B en las planchas posteriores.",
+  "files": [
+   "15h/zoubkovani.html"
+  ],
+  "fr": "Sur 7 468 oblitérations lisiblement datées. L’ordre montre comment la production est passée des dentelures linéaires D/E/F sur les planches anciennes aux dentelures en peigne A/B sur les planches plus tardives.",
+  "tag": "span"
+ },
+ "e3b193bfb4": {
+  "cs": "Podrobný statistický rozbor hodnoty 15h vychází z vlastní evidence: <strong>22 486 určených známek</strong>, z toho <strong>7 510 s čitelně datovaným razítkem</strong> (stav 5. 9. 2026). Zdrojem jsou listy „Stats 15h“ a „Usage Stats 15h“ evidenčního sešitu.",
+  "de": "Die ausführliche statistische Auswertung der 15h beruht auf der eigenen Erfassung: <strong>22 486 bestimmte Marken</strong>, davon <strong>7 510 mit lesbar datiertem Stempel</strong> (Stand 5. 9. 2026). Quelle sind die Blätter „Stats 15h“ und „Usage Stats 15h“ der Erfassungsdatei.",
+  "en": "The detailed statistical analysis of the 15h is based on the author’s records: <strong>22,486 attributed stamps</strong>, of which <strong>7,510 carry a legibly dated cancellation</strong> (as of 5 September 2026). The source is the “Stats 15h” and “Usage Stats 15h” sheets of the record workbook.",
+  "es": "El análisis estadístico detallado del 15h se basa en los registros propios: <strong>22 486 sellos atribuidos</strong>, de los cuales <strong>7 510 con matasellos legiblemente fechado</strong> (a 5 de septiembre de 2026). La fuente son las hojas «Stats 15h» y «Usage Stats 15h» del libro de registros.",
+  "fr": "L’analyse statistique détaillée du 15h repose sur les relevés de l’auteur : <strong>22 486 timbres attribués</strong>, dont <strong>7 510 avec une oblitération lisiblement datée</strong> (état au 5 septembre 2026). La source est constituée des feuilles « Stats 15h » et « Usage Stats 15h » du classeur de relevés."
+ },
+ "3ae1a931df": {
+  "cs": "Z 7 510 čitelně datovaných razítek. Pořadí ukazuje, jak výroba postupovala od řádkových zoubkování D/E/F na raných deskách k hřebenovým A/B na deskách pozdějších.",
+  "de": "Von 7.510 lesbar datierten Stempeln. Die Reihenfolge zeigt, wie die Produktion von den Linienzähnungen D/E/F auf den frühen Platten zu den Kammzähnungen A/B auf den späteren Platten überging.",
+  "en": "From 7,510 legibly dated cancellations. The sequence shows production moving from line perforations D/E/F on the early plates to comb perforations A/B on the later ones.",
+  "es": "De 7.510 matasellos legiblemente fechados. El orden muestra cómo la producción pasó de los dentados lineales D/E/F en las planchas tempranas a los dentados de peine A/B en las planchas posteriores.",
+  "files": [
+   "15h/zoubkovani.html"
+  ],
+  "fr": "Sur 7 510 oblitérations lisiblement datées. L’ordre montre comment la production est passée des dentelures linéaires D/E/F sur les planches anciennes aux dentelures en peigne A/B sur les planches plus tardives.",
+  "tag": "span"
+ },
+ "59159a32a1": {
+  "cs": "Posloupnost nejranějších dat hezky dokládá výrobní chronologii: na deskách 1–2 jdou nezoubkované archy a řádkové zoubkování těsně za sebou (24.&nbsp;6. → 30.&nbsp;6. → 28.&nbsp;7.&nbsp;1919 pro nezoubkované, D a E), hned po nich nastupuje hřebenové A (2.&nbsp;8.&nbsp;1919), pak C (25.&nbsp;8.) a F (12.&nbsp;9.&nbsp;1919); B se na deskách 1–2 objevuje až na přelomu roku a od února 1920 přebírají desky 3–7.",
+  "de": "Die Abfolge der frühesten Daten belegt schön die Fertigungschronologie: auf den Platten 1–2 folgen die geschnittenen Bogen und die Linienzähnungen dicht aufeinander (24.&nbsp;6. → 30.&nbsp;6. → 28.&nbsp;7.&nbsp;1919 für geschnitten, D und E), unmittelbar danach setzt die Kammzähnung A ein (2.&nbsp;8.&nbsp;1919), dann C (25.&nbsp;8.) und F (12.&nbsp;9.&nbsp;1919); B erscheint auf den Platten 1–2 erst um die Jahreswende, und ab Februar 1920 übernehmen die Platten 3–7.",
+  "en": "The sequence of earliest dates nicely documents the production chronology: on plates 1–2 the imperforate sheets and the line perforations follow in quick succession (24&nbsp;Jun → 30&nbsp;Jun → 28&nbsp;Jul&nbsp;1919 for imperforate, D and E), immediately followed by comb perforation A (2&nbsp;Aug&nbsp;1919), then C (25&nbsp;Aug) and F (12&nbsp;Sep&nbsp;1919); B on plates 1–2 appears only at the turn of the year, and from February 1920 plates 3–7 take over.",
+  "es": "La secuencia de las fechas más tempranas documenta bien la cronología de fabricación: en las planchas 1–2, los pliegos sin dentar y los dentados de línea se suceden muy seguidos (24&nbsp;jun. → 30&nbsp;jun. → 28&nbsp;jul.&nbsp;1919 para el sin dentar, D y E), seguidos de inmediato por el dentado de peine A (2&nbsp;ago.&nbsp;1919), después C (25&nbsp;ago.) y F (12&nbsp;sep.&nbsp;1919); B aparece en las planchas 1–2 solo a finales de año, y desde febrero de 1920 toman el relevo las planchas 3–7.",
+  "files": [
+   "15h/statistiky.html"
+  ],
+  "fr": "La succession des dates les plus précoces documente joliment la chronologie de fabrication : sur les planches 1–2, les feuilles non dentelées et les dentelures en ligne se suivent de près (24&nbsp;juin → 30&nbsp;juin → 28&nbsp;juillet&nbsp;1919 pour le non dentelé, D et E), suivies immédiatement de la dentelure en peigne A (2&nbsp;août&nbsp;1919), puis C (25&nbsp;août) et F (12&nbsp;septembre&nbsp;1919) ; B n’apparaît sur les planches 1–2 qu’au tournant de l’année, et à partir de février 1920 les planches 3–7 prennent le relais.",
+  "tag": "span"
+ },
+ "75abf15a05": {
+  "cs": "Podrobný statistický rozbor hodnoty 15h vychází z vlastní evidence: <strong>22 486 určených známek</strong>, z toho <strong>7 513 s čitelně datovaným razítkem</strong> (stav 5. 9. 2026). Zdrojem jsou listy „Stats 15h“ a „Usage Stats 15h“ evidenčního sešitu.",
+  "de": "Die ausführliche statistische Auswertung der 15h beruht auf der eigenen Erfassung: <strong>22 486 bestimmte Marken</strong>, davon <strong>7 513 mit lesbar datiertem Stempel</strong> (Stand 5. 9. 2026). Quelle sind die Blätter „Stats 15h“ und „Usage Stats 15h“ der Erfassungsdatei.",
+  "en": "The detailed statistical analysis of the 15h is based on the author’s records: <strong>22,486 attributed stamps</strong>, of which <strong>7,513 carry a legibly dated cancellation</strong> (as of 5 September 2026). The source is the “Stats 15h” and “Usage Stats 15h” sheets of the record workbook.",
+  "es": "El análisis estadístico detallado del 15h se basa en los registros propios: <strong>22 486 sellos atribuidos</strong>, de los cuales <strong>7 513 con matasellos legiblemente fechado</strong> (a 5 de septiembre de 2026). La fuente son las hojas «Stats 15h» y «Usage Stats 15h» del libro de registros.",
+  "fr": "L’analyse statistique détaillée du 15h repose sur les relevés de l’auteur : <strong>22 486 timbres attribués</strong>, dont <strong>7 513 avec une oblitération lisiblement datée</strong> (état au 5 septembre 2026). La source est constituée des feuilles « Stats 15h » et « Usage Stats 15h » du classeur de relevés."
+ },
+ "ce259597a9": {
+  "cs": "Z 7 513 čitelně datovaných razítek. Pořadí ukazuje, jak výroba postupovala od řádkových zoubkování D/E/F na raných deskách k hřebenovým A/B na deskách pozdějších.",
+  "de": "Von 7.513 lesbar datierten Stempeln. Die Reihenfolge zeigt, wie die Produktion von den Linienzähnungen D/E/F auf den frühen Platten zu den Kammzähnungen A/B auf den späteren Platten überging.",
+  "en": "From 7,513 legibly dated cancellations. The sequence shows production moving from line perforations D/E/F on the early plates to comb perforations A/B on the later ones.",
+  "es": "De 7.513 matasellos legiblemente fechados. El orden muestra cómo la producción pasó de los dentados lineales D/E/F en las planchas tempranas a los dentados de peine A/B en las planchas posteriores.",
+  "files": [
+   "15h/zoubkovani.html"
+  ],
+  "fr": "Sur 7 513 oblitérations lisiblement datées. L’ordre montre comment la production est passée des dentelures linéaires D/E/F sur les planches anciennes aux dentelures en peigne A/B sur les planches plus tardives.",
   "tag": "span"
  }
 }
