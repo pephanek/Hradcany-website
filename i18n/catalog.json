@@ -816,6 +816,13 @@
   "fr": "Nouvel article – <a href=\"15h/clanky/15h-neperforovana-td6.html\"><strong>découverte d’un 15h non dentelé ayant servi postalement, de la sixième planche</strong></a> (Košice 2, 13&nbsp;juillet&nbsp;1920, position 34/VI). Par ailleurs, la <a href=\"15h/mapa.html\"><strong>carte des oblitérations du 15h</strong></a> couvre désormais les oblitérations lisibles des planches&nbsp;3 et&nbsp;4.",
   "tag": "span"
  },
+ "08d3e599ff": {
+  "cs": "Podrobný statistický rozbor hodnoty 15h vychází z vlastní evidence: <strong>22 486 určených známek</strong>, z toho <strong>7 567 s čitelně datovaným razítkem</strong> (stav 5. 9. 2026). Zdrojem jsou listy „Stats 15h“ a „Usage Stats 15h“ evidenčního sešitu.",
+  "de": "Die ausführliche statistische Auswertung der 15h beruht auf der eigenen Erfassung: <strong>22 486 bestimmte Marken</strong>, davon <strong>7 567 mit lesbar datiertem Stempel</strong> (Stand 5. 9. 2026). Quelle sind die Blätter „Stats 15h“ und „Usage Stats 15h“ der Erfassungsdatei.",
+  "en": "The detailed statistical analysis of the 15h is based on the author’s records: <strong>22,486 attributed stamps</strong>, of which <strong>7,567 carry a legibly dated cancellation</strong> (as of 5 September 2026). The source is the “Stats 15h” and “Usage Stats 15h” sheets of the record workbook.",
+  "es": "El análisis estadístico detallado del 15h se basa en los registros propios: <strong>22 486 sellos atribuidos</strong>, de los cuales <strong>7 567 con matasellos legiblemente fechado</strong> (a 5 de septiembre de 2026). La fuente son las hojas «Stats 15h» y «Usage Stats 15h» del libro de registros.",
+  "fr": "L’analyse statistique détaillée du 15h repose sur les relevés de l’auteur : <strong>22 486 timbres attribués</strong>, dont <strong>7 567 avec une oblitération lisiblement datée</strong> (état au 5 septembre 2026). La source est constituée des feuilles « Stats 15h » et « Usage Stats 15h » du classeur de relevés."
+ },
  "08e1937069": {
   "cs": "dvě známky Hradčan dvou různých hodnot.",
   "de": "zwei Hradschin-Marken zweier verschiedener Werte.",
@@ -1391,7 +1398,7 @@
  "0f8d8641cb": {
   "cs": "Statistiky vycházejí z evidence <strong>21 353 určených známek 15h</strong> (stav 4. 9. 2026),\n  z nichž 6 527 nese čitelně datované razítko. Rekonstrukce tiskových desek stojí na <strong>12 168 známkách\n  s určeným známkovým polem</strong> — od kompletních hlubokých rekonstrukcí desek I a II (23–57 kusů na pozici)\n  po referenční knihovnu vzácné desky VII (132 kusů na 73 pozicích).",
   "de": "Die Statistiken beruhen auf der Erfassung von <strong>21 353 bestimmten Marken zu 15h</strong> (Stand 4. September 2026), von denen 6 527 einen lesbar datierten Stempel tragen. Die Rekonstruktionen der Druckplatten stützen sich auf <strong>12 168 Marken mit bestimmtem Markenfeld</strong> — von den vollständigen tiefen Rekonstruktionen der Platten I und II (23–57 Stück je Position) bis zur Referenzbibliothek der seltenen Platte VII (132 Stück auf 73 Positionen).",
-  "en": "The statistics are based on records of <strong>21,353 attributed 15h stamps</strong> (as of 30 August\n  2026), 6,527 of which carry a legibly dated cancellation. The plate reconstructions rest on <strong>12,168 stamps\n  attributed to their stamp field</strong> — from the complete, deep reconstructions of plates I and II (23–57 copies\n  per position) to the reference library of the rare plate VII (132 copies over 73 positions).",
+  "en": "The statistics are based on records of <strong>21,353 attributed 15h stamps</strong> (as of 4 September\n  2026), 6,527 of which carry a legibly dated cancellation. The plate reconstructions rest on <strong>12,168 stamps\n  attributed to their stamp field</strong> — from the complete, deep reconstructions of plates I and II (23–57 copies\n  per position) to the reference library of the rare plate VII (132 copies over 73 positions).",
   "es": "Las estadísticas parten del registro de <strong>21 353 sellos de 15h determinados</strong> (a fecha de 4 de septiembre de 2026),\n  de los cuales 6 527 llevan un matasellos con fecha legible. Las reconstrucciones de las planchas de impresión se basan en <strong>12 168 sellos\n  con la posición determinada</strong> — desde las reconstrucciones completas y profundas de las planchas I y II (23–57 ejemplares por posición)\n  hasta la biblioteca de referencia de la rara plancha VII (132 ejemplares en 73 posiciones).",
   "files": [
    "15h/o-sbirce.html"
@@ -9774,6 +9781,17 @@
   "files": [],
   "fr": "60h planche IV",
   "tag": "alt"
+ },
+ "630099e818": {
+  "cs": "Z 7 567 čitelně datovaných razítek. Pořadí ukazuje, jak výroba postupovala od řádkových zoubkování D/E/F na raných deskách k hřebenovým A/B na deskách pozdějších.",
+  "de": "Von 7.567 lesbar datierten Stempeln. Die Reihenfolge zeigt, wie die Produktion von den Linienzähnungen D/E/F auf den frühen Platten zu den Kammzähnungen A/B auf den späteren Platten überging.",
+  "en": "From 7,567 legibly dated cancellations. The sequence shows production moving from line perforations D/E/F on the early plates to comb perforations A/B on the later ones.",
+  "es": "De 7.567 matasellos legiblemente fechados. El orden muestra cómo la producción pasó de los dentados lineales D/E/F en las planchas tempranas a los dentados de peine A/B en las planchas posteriores.",
+  "files": [
+   "15h/zoubkovani.html"
+  ],
+  "fr": "Sur 7 567 oblitérations lisiblement datées. L’ordre montre comment la production est passée des dentelures linéaires D/E/F sur les planches anciennes aux dentelures en peigne A/B sur les planches plus tardives.",
+  "tag": "span"
  },
  "6300ad7091": {
   "cs": "ZP 17 / TD I",
@@ -26310,23 +26328,5 @@
   ],
   "fr": "25,7&nbsp;%",
   "tag": "num"
- },
- "08d3e599ff": {
-  "cs": "Podrobný statistický rozbor hodnoty 15h vychází z vlastní evidence: <strong>22 486 určených známek</strong>, z toho <strong>7 567 s čitelně datovaným razítkem</strong> (stav 5. 9. 2026). Zdrojem jsou listy „Stats 15h“ a „Usage Stats 15h“ evidenčního sešitu.",
-  "de": "Die ausführliche statistische Auswertung der 15h beruht auf der eigenen Erfassung: <strong>22 486 bestimmte Marken</strong>, davon <strong>7 567 mit lesbar datiertem Stempel</strong> (Stand 5. 9. 2026). Quelle sind die Blätter „Stats 15h“ und „Usage Stats 15h“ der Erfassungsdatei.",
-  "en": "The detailed statistical analysis of the 15h is based on the author’s records: <strong>22,486 attributed stamps</strong>, of which <strong>7,567 carry a legibly dated cancellation</strong> (as of 5 September 2026). The source is the “Stats 15h” and “Usage Stats 15h” sheets of the record workbook.",
-  "es": "El análisis estadístico detallado del 15h se basa en los registros propios: <strong>22 486 sellos atribuidos</strong>, de los cuales <strong>7 567 con matasellos legiblemente fechado</strong> (a 5 de septiembre de 2026). La fuente son las hojas «Stats 15h» y «Usage Stats 15h» del libro de registros.",
-  "fr": "L’analyse statistique détaillée du 15h repose sur les relevés de l’auteur : <strong>22 486 timbres attribués</strong>, dont <strong>7 567 avec une oblitération lisiblement datée</strong> (état au 5 septembre 2026). La source est constituée des feuilles « Stats 15h » et « Usage Stats 15h » du classeur de relevés."
- },
- "630099e818": {
-  "cs": "Z 7 567 čitelně datovaných razítek. Pořadí ukazuje, jak výroba postupovala od řádkových zoubkování D/E/F na raných deskách k hřebenovým A/B na deskách pozdějších.",
-  "de": "Von 7.567 lesbar datierten Stempeln. Die Reihenfolge zeigt, wie die Produktion von den Linienzähnungen D/E/F auf den frühen Platten zu den Kammzähnungen A/B auf den späteren Platten überging.",
-  "en": "From 7,567 legibly dated cancellations. The sequence shows production moving from line perforations D/E/F on the early plates to comb perforations A/B on the later ones.",
-  "es": "De 7.567 matasellos legiblemente fechados. El orden muestra cómo la producción pasó de los dentados lineales D/E/F en las planchas tempranas a los dentados de peine A/B en las planchas posteriores.",
-  "files": [
-   "15h/zoubkovani.html"
-  ],
-  "fr": "Sur 7 567 oblitérations lisiblement datées. L’ordre montre comment la production est passée des dentelures linéaires D/E/F sur les planches anciennes aux dentelures en peigne A/B sur les planches plus tardives.",
-  "tag": "span"
  }
 }
