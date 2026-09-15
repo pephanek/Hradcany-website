@@ -1,0 +1,158 @@
+AUDIT: inline <span class="en"> v ceskem masteru  vs  i18n/catalog.json
+Datum: 15. 9. 2026.  Na web se dostane VZDY jen katalog; inline span vidi jen editor.
+Nalezeno 11 unikatnich retezcu, ktere se rozchazeji (v 55 vyskytech).
+
+==============================================================================
+klic 667a17607e   45 vyskyt(u)
+stranky: 15h/barvy.html, 15h/clanky.html, 15h/clanky/15h-celistvost.html, 15h/clanky/15h-neperforovana-td6.html, 15h/clanky/15h-poskozeny-ram-60-6.html, 15h/clanky/15h-praskla-deska.html, 15h/clanky/15h-razitka-po-platnosti.html, 15h/clanky/15h-slet-znojmo.html, 15h/clanky/15h-svetlina-20-5.html, 15h/clanky/15h-td7-humpolec.html, 15h/clanky/15h-zavoje-skvrny.html, 15h/galerie-td1.html, 15h/galerie-td2.html, 15h/galerie-td3.html, 15h/galerie-td4.html, 15h/galerie-td5.html, 15h/galerie-td6.html, 15h/galerie-td7.html, 15h/galerie.html, 15h/index.html, 15h/knihtisk.html, 15h/komparator.html, 15h/mapa-stranek.html, 15h/mapa.html, 15h/o-sbirce.html, 15h/posta.html, 15h/shanim.html, 15h/statistiky.html, 15h/svetliny.html, 15h/tiskove-desky.html, 15h/typy-galerie.html, 15h/typy.html, 15h/vyrobni-vady.html, 15h/zasilky.html, 15h/zkusebni-tisky.html, 15h/zoubkovani.html, _zaloha_posta_2228.html
+
+CS      : Zoubkování
+
+INLINE  : Perforations
+
+KATALOG : Perforation
+
+prvni rozdil na pozici 11:
+  inline  …Perforations
+  katalog …Perforation
+
+==============================================================================
+klic 8c60d87e89   1 vyskyt(u)
+stranky: 15h/barvy.html
+
+CS      : hnědofialová
+
+INLINE  : brownish violet
+
+KATALOG : brown-violet
+
+prvni rozdil na pozici 5:
+  inline  …brownish violet
+  katalog …brown-violet
+
+==============================================================================
+klic dcde149ed9   1 vyskyt(u)
+stranky: 15h/clanky.html
+
+CS      : Modrý zkusmý tisk na křídovém papíře, známkové pole 96 první tiskové desky. Tisk je ostrý po celé ploše — deska ještě nebyla opotřebovaná. Srovnání s produkčním otiskem téhož pole ukazuje, že se mezi oběma tisky do kresby zasahovalo: spirála se z otevřené (Is) změnila na zavřenou (IIs) a upraven byl i vějíř u pravé holubice. Celý rozbor i výřezy jsou na stránce Zkusmé tiskyProofs.
+
+INLINE  : A blue proof on coated paper, stamp field 96 of the first printing plate. The impression is sharp throughout — the plate was not yet worn. A comparison with the production impression of the same field shows that the design was worked on between the two: the spiral changed from open (Is) to closed (IIs), and the fan at the right-hand dove was altered as well. The full account and the details are on the Zkusmé tiskyProofs page.
+
+KATALOG : A blue proof on coated paper, stamp field 96 of the first printing plate. The impression is sharp throughout — the plate was not yet worn. A comparison with the production impression of the same field shows that the design was worked on between the two: the spiral changed from open (Is) to closed (IIs), and the fan at the right-hand dove was altered as well. The full account and the details are on the Proofs page.
+
+prvni rozdil na pozici 405:
+  inline  …full account and the details are on the Zkusmé tiskyProofs page.
+  katalog …full account and the details are on the Proofs page.
+
+==============================================================================
+klic 26184b10a8   1 vyskyt(u)
+stranky: 15h/knihtisk.html
+
+CS      : Barvy málo, nebo zanesená sníženina — zeslabený až chybějící tisk (světliny). Barvy moc — slitý tisk a závoje.
+
+INLINE  : Too little ink, or a clogged recess — weakened or missing print (white spots). Too much ink — blurred print and smears.
+
+KATALOG : Too little ink, or a clogged recess — weakened or missing print (white spots). Too much ink — filled-in print and smears.
+
+prvni rozdil na pozici 94:
+  inline  …ing print (white spots). Too much ink — blurred print and smears.
+  katalog …ing print (white spots). Too much ink — filled-in print and smears.
+
+==============================================================================
+klic 0f8d8641cb   1 vyskyt(u)
+stranky: 15h/o-sbirce.html
+
+CS      : Statistiky vycházejí z evidence 21 353 určených známek 15h (stav 4. 9. 2026), z nichž 6 527 nese čitelně datované razítko. Rekonstrukce tiskových desek stojí na 12 168 známkách s určeným známkovým polem — od kompletních hlubokých rekonstrukcí desek I a II (23–57 kusů na pozici) po referenční knihovnu vzácné desky VII (132 kusů na 73 pozicích).
+
+INLINE  : The statistics are based on records of 21,353 attributed 15h stamps (as of 4 September 2026), 6,527 of which carry a legibly dated cancellation. The plate reconstructions rest on 12,168 stamps attributed to their stamp field — from the complete, deep reconstructions of plates I and II (23–57 copies per position) to the reference library of the rare plate VII (132 copies over 73 positions).
+
+KATALOG : The statistics are based on records of 21,353 attributed 15h stamps (as of 30 August 2026), 6,527 of which carry a legibly dated cancellation. The plate reconstructions rest on 12,168 stamps attributed to their stamp field — from the complete, deep reconstructions of plates I and II (23–57 copies per position) to the reference library of the rare plate VII (132 copies over 73 positions).
+
+prvni rozdil na pozici 75:
+  inline  … of 21,353 attributed 15h stamps (as of 4 September 2026), 6,527 of which carry a legibly dated cancellation. The plate 
+  katalog … of 21,353 attributed 15h stamps (as of 30 August 2026), 6,527 of which carry a legibly dated cancellation. The plate re
+
+==============================================================================
+klic 08d3e599ff   1 vyskyt(u)
+stranky: 15h/statistiky.html
+
+CS      : Podrobný statistický rozbor hodnoty 15h vychází z vlastní evidence: 22 486 určených známek, z toho 7 567 s čitelně datovaným razítkem (stav 5. 9. 2026). Zdrojem jsou listy „Stats 15h“ a „Usage Stats 15h“ evidenčního sešitu.
+
+INLINE  : The detailed statistical analysis of the 15h value is based on the author’s records: 22,486 attributed stamps, of which 7,567 carry a legibly dated cancellation (as of 5 September 2026). The sources are the “Stats 15h” and “Usage Stats 15h” sheets of the record workbook.
+
+KATALOG : The detailed statistical analysis of the 15h is based on the author’s records: 22,486 attributed stamps, of which 7,567 carry a legibly dated cancellation (as of 5 September 2026). The source is the “Stats 15h” and “Usage Stats 15h” sheets of the record workbook.
+
+prvni rozdil na pozici 45:
+  inline  …etailed statistical analysis of the 15h value is based on the author’s records: 22,486 attributed stamps, of which 7,567
+  katalog …etailed statistical analysis of the 15h is based on the author’s records: 22,486 attributed stamps, of which 7,567 carry
+
+==============================================================================
+klic 02cec12dcc   1 vyskyt(u)
+stranky: 15h/vyrobni-vady.html
+
+CS      : Nabarvení formy rozhoduje o výsledku: sníženina se zaschlou barvou dá při dalším tisku málo barvy → světlinu; přebytek barvy na vyvýšeném prvku se roztéká do stran → slitý tisk nebo závoj.
+
+INLINE  : The inking of the forme decides the outcome: a recess clogged with dried ink starves the next impression → a white spot (světlina); too much ink on a raised element spreads sideways → blurred print or a smear (závoj).
+
+KATALOG : The inking of the forme decides the outcome: a recess clogged with dried ink starves the next impression → a white spot (světlina); too much ink on a raised element spreads sideways → filled-in print or a smear (závoj).
+
+prvni rozdil na pozici 184:
+  inline  … on a raised element spreads sideways → blurred print or a smear (závoj).
+  katalog … on a raised element spreads sideways → filled-in print or a smear (závoj).
+
+==============================================================================
+klic eb646c04da   1 vyskyt(u)
+stranky: 15h/zkusebni-tisky.html
+
+CS      : Rozhodující spirála leží v levém horním rohu kresby — je to levá z dvojice spirál v rohovém ornamentu, táž, kterou jako typovou popisuje stránka Typy páté kresbyFifth-design types. Na zkusmém tisku je otevřená (Is): vnitřní závit dojede a skončí volně. V produkci je zavřená (IIs) — závit se uzavírá do plného kroužku. Spirálový typ tedy u tohoto pole není vlastností původního štočku, ale výsledkem pozdější úpravy — a to je pro čtení typů na první a druhé desce podstatné. Přehled polí a obou typů je na stránce Typy páté kresbyFifth-design types.
+
+INLINE  : The deciding spiral is in the top left corner of the design — the left one of the pair in the corner ornament, the same one the Typy páté kresbyFifth-design types page describes as the type feature. On the proof it is open (Is): the inner coil runs round and ends free. In production it is closed (IIs) — the coil shuts into a full ring. On this field, then, the spiral type is not a property of the original cliché but the result of a later alteration — which matters for how the types on plates I and II are read. An overview of the fields and of both types is on the Typy páté kresbyFifth-design types page.
+
+KATALOG : The deciding spiral is in the top left corner of the design — the left one of the pair in the corner ornament, the same one the Fifth-design types page describes as the type feature. On the proof it is open (Is): the inner coil runs round and ends free. In production it is closed (IIs) — the coil shuts into a full ring. On this field, then, the spiral type is not a property of the original cliché but the result of a later alteration — which matters for how the types on plates I and II are read. An overview of the fields and of both types is on the Fifth-design types page.
+
+prvni rozdil na pozici 128:
+  inline  …n the corner ornament, the same one the Typy páté kresbyFifth-design types page describes as the type feature. On the pr
+  katalog …n the corner ornament, the same one the Fifth-design types page describes as the type feature. On the proof it is open (
+
+==============================================================================
+klic 788fce5616   1 vyskyt(u)
+stranky: 15h/zkusebni-tisky.html
+
+CS      : Katalog
+
+INLINE  : Catalogue
+
+KATALOG : Catalogues
+
+prvni rozdil na pozici 9:
+  inline  …Catalogue
+  katalog …Catalogues
+
+==============================================================================
+klic 33457d7a26   1 vyskyt(u)
+stranky: 15h/zoubkovani.html
+
+CS      : Hodnota 15h má nejbohatší škálu úředních zoubkování z celé emise — vedle nezoubkované úpravy osm variant. Vysvětlení obou způsobů děrování najdete níže. Podíly vycházejí z rozboru 21 353 známek (sbírka J. Matouška).
+
+INLINE  : The 15h has the richest range of official perforations of the whole issue — eight varieties besides the imperforate form. An explanation of both perforating methods is below. The shares below are based on an analysis of 21,353 stamps (J. Matoušek's collection).
+
+KATALOG : The 15h has the richest range of official perforations of the whole issue — eight varieties besides the imperforate form. An explanation of both perforating methods is below. The shares below are based on an analysis of 21,353 stamps (J. Matoušek’s collection).
+
+prvni rozdil na pozici 246:
+  inline  …n analysis of 21,353 stamps (J. Matoušek's collection).
+  katalog …n analysis of 21,353 stamps (J. Matoušek’s collection).
+
+==============================================================================
+klic 630099e818   1 vyskyt(u)
+stranky: 15h/zoubkovani.html
+
+CS      : Z 7 567 čitelně datovaných razítek. Pořadí ukazuje, jak výroba postupovala od řádkových zoubkování D/E/F na raných deskách k hřebenovým A/B na deskách pozdějších.
+
+INLINE  : From 6,590 legibly dated cancellations. The sequence shows production moving from line perforations D/E/F on the early plates to comb perforations A/B on the later ones.
+
+KATALOG : From 7,567 legibly dated cancellations. The sequence shows production moving from line perforations D/E/F on the early plates to comb perforations A/B on the later ones.
+
+prvni rozdil na pozici 5:
+  inline  …From 6,590 legibly dated cancellations. The sequence shows production moving from lin
+  katalog …From 7,567 legibly dated cancellations. The sequence shows production moving from lin
+
