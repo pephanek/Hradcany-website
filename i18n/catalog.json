@@ -26982,17 +26982,6 @@
   ],
   "tag": "span"
  },
- "ad8fc857e1": {
-  "cs": "Detail kusu 5 (vlevo) vedle běžného kusu téhož známkového pole (vpravo) — na běžném tisku končí špička listu volným obloučkem, zde ji uzavírá bílý kroužek: barva se na tomto místě nepřenesla v tenké uzavřené křivce, jak by ji zanechalo drobné vlákno nebo vlas ležící na navalené desce.",
-  "en": "Detail of item 5 (left) beside an ordinary copy of the same sheet position (right) — on the normal print the tip of the leaf ends in an open hook, here it is closed by a white ring: along a thin closed curve the ink did not transfer, just as a tiny fibre or hair lying on the inked plate would leave it.",
-  "de": "Detail von Stück 5 (links) neben einem gewöhnlichen Stück desselben Markenfeldes (rechts) — beim normalen Druck endet die Blattspitze in einem offenen Bogen, hier schließt sie ein weißer Ring: entlang einer dünnen geschlossenen Kurve wurde keine Farbe übertragen, wie es eine winzige Faser oder ein Haar auf der eingefärbten Platte hinterlassen würde.",
-  "fr": "Détail de la pièce 5 (à gauche) à côté d’un exemplaire ordinaire de la même case (à droite) — sur l’impression normale, la pointe de la feuille se termine par un crochet ouvert, ici elle est fermée par un anneau blanc : le long d’une fine courbe fermée, l’encre ne s’est pas transférée, comme le laisserait une minuscule fibre ou un cheveu posé sur la planche encrée.",
-  "es": "Detalle del ejemplar 5 (izquierda) junto a un ejemplar corriente de la misma posición (derecha) — en la impresión normal la punta de la hoja termina en un gancho abierto, aquí la cierra un anillo blanco: a lo largo de una fina curva cerrada la tinta no se transfirió, tal como lo dejaría una diminuta fibra o un cabello sobre la plancha entintada.",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ],
-  "tag": "span"
- },
  "c15c06ae26": {
   "cs": "Podrobný statistický rozbor hodnoty 15h vychází z vlastní evidence: <strong>23 372 určených známek</strong>, z toho <strong>8 005 s čitelně datovaným razítkem</strong> (stav 5. 9. 2026). Zdrojem jsou listy „Stats 15h“ a „Usage Stats 15h“ evidenčního sešitu.",
   "de": "Die ausführliche statistische Auswertung der 15h beruht auf der eigenen Erfassung: <strong>23 372 bestimmte Marken</strong>, davon <strong>8 005 mit lesbar datiertem Stempel</strong> (Stand 5. 9. 2026). Quelle sind die Blätter „Stats 15h“ und „Usage Stats 15h“ der Erfassungsdatei.",
@@ -27019,6 +27008,28 @@
   "es": "<strong>15h</strong> — Se ha procesado otra hoja clasificadora de sellos del dentado&nbsp;F (13¾ : 11½) de las planchas I y II, 53 piezas procedentes de una parte más antigua de la colección ya contabilizada en el registro: en todas las piezas se determinó la posición en la plancha y se midió el dentado; se añadieron 29 matasellos recién fechados (el más antiguo de octubre de 1919). Una pieza con un diminuto anillo blanco en la banda ornamental se ha incorporado al capítulo <a href=\"15h/vyrobni-vady.html#bile-skvrny\"><strong>Manchas blancas</strong></a> como ejemplar 5, con un detalle junto a un ejemplar corriente. El <a href=\"15h/statistiky.html\"><strong>registro</strong></a> cuenta ahora con <strong>23.372 sellos atribuidos</strong>, <strong>8.005</strong> de ellos con un matasellos legiblemente fechado.",
   "files": [
    "novinky.html"
+  ],
+  "tag": "span"
+ },
+ "f5608b80a1": {
+  "cs": "Detail kusu 5 — špičku listu v levém ornamentálním pásu uzavírá bílý kroužek: barva se tu nepřenesla v tenké uzavřené křivce, jak by ji zanechalo drobné vlákno nebo vlas ležící na navalené desce.",
+  "en": "Detail of item 5 — the tip of the leaf in the left ornamental band is closed by a white ring: along a thin closed curve the ink did not transfer, just as a tiny fibre or hair lying on the inked plate would leave it.",
+  "de": "Detail von Stück 5 — die Blattspitze im linken Ornamentband schließt ein weißer Ring: entlang einer dünnen geschlossenen Kurve wurde keine Farbe übertragen, wie es eine winzige Faser oder ein Haar auf der eingefärbten Platte hinterlassen würde.",
+  "fr": "Détail de la pièce 5 — la pointe de la feuille dans la bande ornementale gauche est fermée par un anneau blanc : le long d’une fine courbe fermée, l’encre ne s’est pas transférée, comme le laisserait une minuscule fibre ou un cheveu posé sur la planche encrée.",
+  "es": "Detalle del ejemplar 5 — la punta de la hoja en la banda ornamental izquierda queda cerrada por un anillo blanco: a lo largo de una fina curva cerrada la tinta no se transfirió, tal como lo dejaría una diminuta fibra o un cabello sobre la plancha entintada.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "24eba693d9": {
+  "cs": "Pro srovnání týž detail na běžném kusu téhož známkového pole — špička listu končí volným obloučkem, kroužek chybí.",
+  "en": "For comparison, the same detail on an ordinary copy of the same sheet position — the tip of the leaf ends in an open hook, there is no ring.",
+  "de": "Zum Vergleich dasselbe Detail an einem gewöhnlichen Stück desselben Markenfeldes — die Blattspitze endet in einem offenen Bogen, der Ring fehlt.",
+  "fr": "Pour comparaison, le même détail sur un exemplaire ordinaire de la même case — la pointe de la feuille se termine par un crochet ouvert, sans anneau.",
+  "es": "Para comparar, el mismo detalle en un ejemplar corriente de la misma posición — la punta de la hoja termina en un gancho abierto, sin anillo.",
+  "files": [
+   "15h/vyrobni-vady.html"
   ],
   "tag": "span"
  }
