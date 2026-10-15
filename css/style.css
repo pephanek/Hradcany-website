@@ -416,15 +416,16 @@ ul.news .date{display:inline-block;min-width:6.4rem;margin-right:.6rem;font-size
 .uvod-pas>.anketa-bok{grid-column:2;grid-row:1 / span 2}
 .uvod-pas>.uvod-historie{grid-column:1;grid-row:2}
 /* na úzké obrazovce se skládá v pořadí ze zdroje: úvod, anketa, historie */
+/* anketa je "sticky" jen v širokém dvousloupcovém rozvržení */
+.anketa-bok{position:sticky;top:1rem}
 @media(max-width:900px){
   .uvod-pas{grid-template-columns:1fr}
   .uvod-pas>.uvod-intro,
   .uvod-pas>.anketa-bok,
   .uvod-pas>.uvod-historie{grid-column:1;grid-row:auto}
-  .anketa-bok{position:static}
+  /* na úzké obrazovce nesmí anketa lepit — jinak překrývá text pod sebou a stránka se nedá odscrollovat */
+  .uvod-pas>.anketa-bok,.anketa-bok{position:static !important;top:auto}
 }
-
-.anketa-bok{position:sticky;top:1rem}
 .anketa-bok h2{font-size:1.15rem}
 .anketa-bok p{font-size:.9rem}
 
