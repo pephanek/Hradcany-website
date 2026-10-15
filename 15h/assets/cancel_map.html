@@ -16,6 +16,18 @@ html,body{height:100%;margin:0;font-family:'Segoe UI',system-ui,sans-serif}
 .pop .grp{font-weight:700}
 .legend{background:#fff;padding:8px 10px;border-radius:6px;box-shadow:0 1px 5px rgba(0,0,0,.4);font-size:12px;line-height:1.7}
 .legend .sw{display:inline-block;width:12px;height:12px;border-radius:50%;margin-right:5px;vertical-align:-1px}
+
+/* mobil: panel vrstev sbalený (tlačítko), legenda skrytá — jinak překrývají celou mapu */
+.lc-toggle{display:none;cursor:pointer;font-weight:700;padding:6px 10px;background:#fff;border-radius:6px;user-select:none}
+@media(max-width:700px){
+  .legend{display:none}
+  .lc-toggle{display:block}
+  .leaflet-control-layers{background:transparent;box-shadow:none;border:none}
+  .lc-body{display:none;background:#fff;padding:6px 10px;border-radius:6px;box-shadow:0 1px 5px rgba(0,0,0,.4);margin-top:4px;max-height:60vh;overflow:auto}
+  .leaflet-control-layers.lc-open .lc-body{display:block}
+  .leaflet-control-layers.lc-open .lc-toggle{box-shadow:0 1px 5px rgba(0,0,0,.4)}
+  .lc-toggle{box-shadow:0 1px 5px rgba(0,0,0,.4)}
+}
 </style></head><body>
 <div id="map"></div>
 <script>
@@ -27,19 +39,19 @@ var LANG=(function(){
 })();
 var TT={
  cs:{B:'TD 1–2 · zoubk. B (11¾)',C:'TD 1–2 · zoubk. C (13¾)',E:'TD 1–2 · zoubk. E (11½:10¾)',G:'TD 1–2 · zoubk. G (11½:13¾)',H:'TD 1–2 · zoubk. H (13¾:10¾)',TD3A:'TD 3 · zoubk. A (13¾:13½)',TD3B:'TD 3 · zoubk. B (11¾)',TD4A:'TD 4 · zoubk. A (13¾:13½)',TD4B:'TD 4 · zoubk. B (11¾)',TD3:'TD 3 · zoubk. neurčeno',TD4:'TD 4 · zoubk. neurčeno',A56:'TD 5–6 · zoubk. A (13¾:13½)',IMP:'TD 5–6 · neperforované',TD7:'TD 7',
-   multi:'více skupin',pcs:'ks',tpo:'Vlaková pošta',train:'vlak',legend:'Hradčany 15h — místa razítek',
+   multi:'více skupin',pcs:'ks',tpo:'Vlaková pošta',train:'vlak',layers:'Vrstvy',legend:'Hradčany 15h — místa razítek',
    dash:'čárkovaně: vlakové pošty · číslo = počet kusů',title:'Hradčany 15h — mapa razítek: TD 1–2 (B, C, E, G, H), TD 3, TD 4, TD 7, zoubk. A a neperforované TD 5–6'},
  en:{B:'plates 1–2 · perf B (11¾)',C:'plates 1–2 · perf C (13¾)',E:'plates 1–2 · perf E (11½:10¾)',G:'plates 1–2 · perf G (11½:13¾)',H:'plates 1–2 · perf H (13¾:10¾)',TD3A:'plate 3 · perf A (13¾:13½)',TD3B:'plate 3 · perf B (11¾)',TD4A:'plate 4 · perf A (13¾:13½)',TD4B:'plate 4 · perf B (11¾)',TD3:'plate 3 · perf undetermined',TD4:'plate 4 · perf undetermined',A56:'plates 5–6 · perf A (13¾:13½)',IMP:'plates 5–6 · imperforate',TD7:'plate 7',
-   multi:'multiple groups',pcs:'pcs',tpo:'Railway post (TPO)',train:'train',legend:'Hradčany 15h — cancellation locations',
+   multi:'multiple groups',pcs:'pcs',tpo:'Railway post (TPO)',train:'train',layers:'Layers',legend:'Hradčany 15h — cancellation locations',
    dash:'dashed: railway post · number = count of copies',title:'Hradčany 15h — cancellation map: plates 1–2 (B, C, E, G, H), 3, 4, 7, perf A and imperforate 5–6'},
  fr:{B:'planches 1–2 · dent. B (11¾)',C:'planches 1–2 · dent. C (13¾)',E:'planches 1–2 · dent. E (11½:10¾)',G:'planches 1–2 · dent. G (11½:13¾)',H:'planches 1–2 · dent. H (13¾:10¾)',TD3A:'planche 3 · dent. A (13¾:13½)',TD3B:'planche 3 · dent. B (11¾)',TD4A:'planche 4 · dent. A (13¾:13½)',TD4B:'planche 4 · dent. B (11¾)',TD3:'planche 3 · dent. indéterminée',TD4:'planche 4 · dent. indéterminée',A56:'planches 5–6 · dent. A (13¾:13½)',IMP:'planches 5–6 · non dentelés',TD7:'planche 7',
-   multi:'plusieurs groupes',pcs:'ex.',tpo:'Poste ferroviaire',train:'train',legend:'Hradčany 15h — lieux d’oblitération',
+   multi:'plusieurs groupes',pcs:'ex.',tpo:'Poste ferroviaire',train:'train',layers:'Couches',legend:'Hradčany 15h — lieux d’oblitération',
    dash:'tirets : poste ferroviaire · le nombre = nombre d’exemplaires',title:'Hradčany 15h — carte des oblitérations : planches 1–2 (B, C, E, G, H), 3, 4, 7, 5–6 dent. A et non dentelés'},
  de:{B:'Platten 1–2 · Zähnung B (11¾)',C:'Platten 1–2 · Zähnung C (13¾)',E:'Platten 1–2 · Zähnung E (11½:10¾)',G:'Platten 1–2 · Zähnung G (11½:13¾)',H:'Platten 1–2 · Zähnung H (13¾:10¾)',TD3A:'Platte 3 · Zähnung A (13¾:13½)',TD3B:'Platte 3 · Zähnung B (11¾)',TD4A:'Platte 4 · Zähnung A (13¾:13½)',TD4B:'Platte 4 · Zähnung B (11¾)',TD3:'Platte 3 · Zähnung unbestimmt',TD4:'Platte 4 · Zähnung unbestimmt',A56:'Platten 5–6 · Zähnung A (13¾:13½)',IMP:'Platten 5–6 · geschnitten',TD7:'Platte 7',
-   multi:'mehrere Gruppen',pcs:'St.',tpo:'Bahnpost',train:'Zug',legend:'Hradschin 15h — Stempelorte',
+   multi:'mehrere Gruppen',pcs:'St.',tpo:'Bahnpost',train:'Zug',layers:'Ebenen',legend:'Hradschin 15h — Stempelorte',
    dash:'gestrichelt: Bahnpost · Zahl = Anzahl der Stücke',title:'Hradschin 15h — Stempelkarte: Platten 1–2 (B, C, E, G, H), 3, 4, 7, 5–6 Zähnung A und geschnitten'},
  es:{B:'planchas 1–2 · dent. B (11¾)',C:'planchas 1–2 · dent. C (13¾)',E:'planchas 1–2 · dent. E (11½:10¾)',G:'planchas 1–2 · dent. G (11½:13¾)',H:'planchas 1–2 · dent. H (13¾:10¾)',TD3A:'plancha 3 · dent. A (13¾:13½)',TD3B:'plancha 3 · dent. B (11¾)',TD4A:'plancha 4 · dent. A (13¾:13½)',TD4B:'plancha 4 · dent. B (11¾)',TD3:'plancha 3 · dent. indeterminada',TD4:'plancha 4 · dent. indeterminada',A56:'planchas 5–6 · dent. A (13¾:13½)',IMP:'planchas 5–6 · sin dentar',TD7:'plancha 7',
-   multi:'varios grupos',pcs:'ej.',tpo:'Correo ferroviario',train:'tren',legend:'Hradčany 15h — lugares de matasellado',
+   multi:'varios grupos',pcs:'ej.',tpo:'Correo ferroviario',train:'tren',layers:'Capas',legend:'Hradčany 15h — lugares de matasellado',
    dash:'discontinuo: correo ferroviario · el número = cantidad de ejemplares',title:'Hradčany 15h — mapa de matasellos: planchas 1–2 (B, C, E, G, H), 3, 4, 7, 5–6 dent. A y sin dentar'}
 };
 var T=TT[LANG]||TT.cs;
@@ -142,7 +154,7 @@ refreshVisibility();
 var layerCtl=L.control({position:'topright'});
 layerCtl.onAdd=function(){
   var d=L.DomUtil.create('div','leaflet-control-layers leaflet-control-layers-expanded');
-  var h='<div class="leaflet-control-layers-overlays">';
+  var h='<div class="lc-toggle">&#9776; '+T.layers+'</div><div class="lc-body leaflet-control-layers-overlays">';
   PORD.forEach(function(q){
     h+='<label><input type="checkbox" data-cat="'+q+'" checked> <span style="color:'+PCOL[q]+'">●</span> '+PLBL[q]+'</label><br>';
   });
@@ -150,6 +162,8 @@ layerCtl.onAdd=function(){
   h+='</div>';
   d.innerHTML=h;
   L.DomEvent.disableClickPropagation(d);
+  L.DomEvent.disableScrollPropagation(d);
+  d.querySelector('.lc-toggle').addEventListener('click', function(){ d.classList.toggle('lc-open'); });
   var boxes=d.querySelectorAll('input[type=checkbox]');
   for(var i=0;i<boxes.length;i++){
     boxes[i].addEventListener('change', function(e){
