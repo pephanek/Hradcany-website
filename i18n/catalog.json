@@ -27048,5 +27048,25 @@
    "novinky.html"
   ],
   "tag": "span"
+ },
+ "b5712647f4": {
+  "cs": "Kus 20 — Ve svahu pod siluetou Hradčan, vlevo od kopule chrámu.",
+  "en": "Item 20 — On the hillside below the Hradčany skyline, left of the church dome.",
+  "de": "Stück 20 — Am Hang unterhalb der Silhouette des Hradschin, links von der Kirchenkuppel.",
+  "fr": "Pièce 20 — Sur le versant sous la silhouette du Hradčany, à gauche de la coupole de l’église.",
+  "es": "Ejemplar 20 — En la ladera bajo la silueta del Hradčany, a la izquierda de la cúpula de la iglesia.",
+  "files": [],
+  "tag": "cap"
+ },
+ "ae2107be72": {
+  "cs": "Ve svahu pod siluetou Hradčan, vlevo od kopule chrámu.",
+  "en": "On the hillside below the Hradčany skyline, left of the church dome.",
+  "de": "Am Hang unterhalb der Silhouette des Hradschin, links von der Kirchenkuppel.",
+  "fr": "Sur le versant sous la silhouette du Hradčany, à gauche de la coupole de l’église.",
+  "es": "En la ladera bajo la silueta del Hradčany, a la izquierda de la cúpula de la iglesia.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
  }
 }
