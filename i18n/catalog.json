@@ -27142,5 +27142,34 @@
    "novinky.html"
   ],
   "tag": "span"
+ },
+ "a004b7ae76": {
+  "cs": "Podrobný statistický rozbor hodnoty 15h vychází z vlastní evidence: <strong>23 379 určených známek</strong>, z toho <strong>8 083 s čitelně datovaným razítkem</strong> (stav 5. 9. 2026). Zdrojem jsou listy „Stats 15h“ a „Usage Stats 15h“ evidenčního sešitu.",
+  "de": "Die ausführliche statistische Auswertung der 15h beruht auf der eigenen Erfassung: <strong>23 379 bestimmte Marken</strong>, davon <strong>8 083 mit lesbar datiertem Stempel</strong> (Stand 5. 9. 2026). Quelle sind die Blätter „Stats 15h“ und „Usage Stats 15h“ der Erfassungsdatei.",
+  "en": "The detailed statistical analysis of the 15h is based on the author’s records: <strong>23,379 attributed stamps</strong>, of which <strong>8,083 carry a legibly dated cancellation</strong> (as of 5 September 2026). The source is the “Stats 15h” and “Usage Stats 15h” sheets of the record workbook.",
+  "es": "El análisis estadístico detallado del 15h se basa en los registros propios: <strong>23 379 sellos atribuidos</strong>, de los cuales <strong>8 083 con matasellos legiblemente fechado</strong> (a 5 de septiembre de 2026). La fuente son las hojas «Stats 15h» y «Usage Stats 15h» del libro de registros.",
+  "fr": "L’analyse statistique détaillée du 15h repose sur les relevés de l’auteur : <strong>23 379 timbres attribués</strong>, dont <strong>8 083 avec une oblitération lisiblement datée</strong> (état au 5 septembre 2026). La source est constituée des feuilles « Stats 15h » et « Usage Stats 15h » du classeur de relevés."
+ },
+ "86c42b9220": {
+  "cs": "Z 8 083 čitelně datovaných razítek. Pořadí ukazuje, jak výroba postupovala od řádkových zoubkování D/E/F na raných deskách k hřebenovým A/B na deskách pozdějších.",
+  "de": "Von 8.083 lesbar datierten Stempeln. Die Reihenfolge zeigt, wie die Produktion von den Linienzähnungen D/E/F auf den frühen Platten zu den Kammzähnungen A/B auf den späteren Platten überging.",
+  "en": "From 8,083 legibly dated cancellations. The sequence shows production moving from line perforations D/E/F on the early plates to comb perforations A/B on the later ones.",
+  "es": "De 8.083 matasellos legiblemente fechados. El orden muestra cómo la producción pasó de los dentados lineales D/E/F en las planchas tempranas a los dentados de peine A/B en las planchas posteriores.",
+  "files": [
+   "15h/zoubkovani.html"
+  ],
+  "fr": "Sur 8 083 oblitérations lisiblement datées. L’ordre montre comment la production est passée des dentelures linéaires D/E/F sur les planches anciennes aux dentelures en peigne A/B sur les planches plus tardives.",
+  "tag": "span"
+ },
+ "8ee2514f31": {
+  "cs": "<strong>15h</strong> — Zpracován další zásobníkový list známek zoubkování&nbsp;F (13¾ : 11½) z desek I a II ze starší části sbírky, 54 kusů v evidenci už započítaných: u všech bylo určeno známkové pole a změřeno zoubkování; přibylo 33 datovaných razítek, mezi nimi i otisk z přestupného dne 29.&nbsp;II.&nbsp;1920. <a href=\"15h/statistiky.html\"><strong>Evidence</strong></a> nyní čítá <strong>23&nbsp;379 určených známek</strong>, z toho <strong>8&nbsp;083 s čitelně datovaným razítkem</strong>.",
+  "en": "<strong>15h</strong> — Another stock sheet of perforation&nbsp;F stamps (13¾ : 11½) from plates I and II, 54 pieces from an older part of the collection already counted in the records, has been processed: the sheet position was attributed for every piece and the perforation measured; 33 newly dated cancellations were added, among them a strike from the leap day 29&nbsp;II&nbsp;1920. The <a href=\"15h/statistiky.html\"><strong>records</strong></a> now stand at <strong>23,379 attributed stamps</strong>, <strong>8,083</strong> of them with a legibly dated cancellation.",
+  "de": "<strong>15h</strong> — Ein weiteres Einsteckblatt mit Marken der Zähnung&nbsp;F (13¾ : 11½) von den Platten I und II, 54 Stück aus einem älteren, in der Evidenz bereits gezählten Teil der Sammlung, wurde bearbeitet: bei allen Stücken wurde das Markenfeld bestimmt und die Zähnung gemessen; neu kamen 33 datierte Stempel hinzu, darunter ein Abschlag vom Schalttag 29.&nbsp;II.&nbsp;1920. Die <a href=\"15h/statistiky.html\"><strong>Evidenz</strong></a> umfasst nun <strong>23.379 bestimmte Marken</strong>, davon <strong>8.083</strong> mit lesbar datiertem Stempel.",
+  "fr": "<strong>15h</strong> — Une autre feuille de classeur de timbres de dentelure&nbsp;F (13¾ : 11½) des planches I et II, 54 pièces provenant d’une partie plus ancienne de la collection déjà comptée dans le registre, a été traitée : la case de la planche a été attribuée pour chaque pièce et la dentelure mesurée ; 33 oblitérations nouvellement datées ont été ajoutées, dont une frappe du jour bissextile 29&nbsp;II&nbsp;1920. Le <a href=\"15h/statistiky.html\"><strong>registre</strong></a> compte désormais <strong>23 379 timbres attribués</strong>, dont <strong>8 083</strong> avec une oblitération lisiblement datée.",
+  "es": "<strong>15h</strong> — Se ha procesado otra hoja clasificadora de sellos del dentado&nbsp;F (13¾ : 11½) de las planchas I y II, 54 piezas procedentes de una parte más antigua de la colección ya contabilizada en el registro: en todas las piezas se determinó la posición en la plancha y se midió el dentado; se añadieron 33 matasellos recién fechados, entre ellos una impresión del día bisiesto 29&nbsp;II&nbsp;1920. El <a href=\"15h/statistiky.html\"><strong>registro</strong></a> cuenta ahora con <strong>23.379 sellos atribuidos</strong>, <strong>8.083</strong> de ellos con un matasellos legiblemente fechado.",
+  "files": [
+   "novinky.html"
+  ],
+  "tag": "span"
  }
 }
