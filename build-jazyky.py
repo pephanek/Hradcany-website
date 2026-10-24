@@ -279,6 +279,10 @@ def build_master_switcher(cat):
     return n
 
 def main():
+    # mereni navstevnosti: kazda stranka musi mit skript Cloudflare Web Analytics
+    # (doplni se do masteru, odtud ho prevezmou i jazykove mutace)
+    sys.path.insert(0,os.path.join(ROOT,'_backend'))
+    import analytics; analytics.ensure(ROOT)
     cat=Cat(); pages=html_files()
     # Soubory se prepisuji na miste. Mazani celych slozek se neosvedcilo —
     # pripojena slozka casto zapoved dava jen cteni a zapis, ne mazani.
