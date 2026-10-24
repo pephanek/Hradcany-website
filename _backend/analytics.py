@@ -4,7 +4,7 @@ Měření návštěvnosti (Cloudflare Web Analytics).
 
 Zajistí, že každá HTML stránka webu má těsně před </head> měřicí skript.
 Spouští se samo na začátku build-jazyky.py a před každou automatickou
-publikací. Ručně:  python _backend/analytics.py
+publikací. Ručně:  python _backend/analytics.py   (--quiet = hlásit jen změny)
 
 Vynechává složky začínající podtržítkem (_backups, _tmp_upload, _backend…)
 a složky assets/ (mapa razítek v iframe a její zálohy by se jinak
@@ -48,7 +48,7 @@ def ensure(root=KOREN, verbose=True):
         with open(p, 'wb') as fh:
             fh.write(s.encode('utf-8'))
         doplneno.append(os.path.relpath(p, root).replace('\\', '/'))
-    if verbose:
+    if verbose or doplneno or spatne:
         print('analytics: %d stranek, skript doplnen do %d' % (celkem, len(doplneno)))
         for a in doplneno[:20]:
             print('   +', a)
@@ -59,4 +59,5 @@ def ensure(root=KOREN, verbose=True):
 
 
 if __name__ == '__main__':
-    ensure()
+    import sys
+    ensure(verbose='--quiet' not in sys.argv)
