@@ -27247,5 +27247,23 @@
    "novinky.html"
   ],
   "tag": "span"
+ },
+ "1c69b415e3": {
+  "cs": "Podrobný statistický rozbor hodnoty 15h vychází z vlastní evidence: <strong>23 381 určených známek</strong>, z toho <strong>8 109 s čitelně datovaným razítkem</strong> (stav 5. 9. 2026). Zdrojem jsou listy „Stats 15h“ a „Usage Stats 15h“ evidenčního sešitu.",
+  "de": "Die ausführliche statistische Auswertung der 15h beruht auf der eigenen Erfassung: <strong>23 381 bestimmte Marken</strong>, davon <strong>8 109 mit lesbar datiertem Stempel</strong> (Stand 5. 9. 2026). Quelle sind die Blätter „Stats 15h“ und „Usage Stats 15h“ der Erfassungsdatei.",
+  "en": "The detailed statistical analysis of the 15h is based on the author’s records: <strong>23,381 attributed stamps</strong>, of which <strong>8,109 carry a legibly dated cancellation</strong> (as of 5 September 2026). The source is the “Stats 15h” and “Usage Stats 15h” sheets of the record workbook.",
+  "es": "El análisis estadístico detallado del 15h se basa en los registros propios: <strong>23 381 sellos atribuidos</strong>, de los cuales <strong>8 109 con matasellos legiblemente fechado</strong> (a 5 de septiembre de 2026). La fuente son las hojas «Stats 15h» y «Usage Stats 15h» del libro de registros.",
+  "fr": "L’analyse statistique détaillée du 15h repose sur les relevés de l’auteur : <strong>23 381 timbres attribués</strong>, dont <strong>8 109 avec une oblitération lisiblement datée</strong> (état au 5 septembre 2026). La source est constituée des feuilles « Stats 15h » et « Usage Stats 15h » du classeur de relevés."
+ },
+ "cd3e7261de": {
+  "cs": "<strong>15h</strong> — Do evidence přibyla další nově získaná známka zoubkování&nbsp;E (11½ : 10¾), pole 92 desky I, s razítkem <strong>Eger / Cheb</strong> (datum nečitelné) — druhý doložený kus z tohoto úřadu. Doplněn <a href=\"15h/posta.html\"><strong>seznam úřadů</strong></a> i <a href=\"15h/mapa.html\"><strong>mapa</strong></a>. <a href=\"15h/statistiky.html\"><strong>Evidence</strong></a> nyní čítá <strong>23&nbsp;381 určených známek</strong>, z toho <strong>8&nbsp;109 s čitelně datovaným razítkem</strong>.",
+  "en": "<strong>15h</strong> — Another newly acquired stamp of perforation&nbsp;E (11½ : 10¾), field 92 of plate I, has been added to the records, cancelled <strong>Eger / Cheb</strong> (date illegible) — the second documented piece from this office. The <a href=\"15h/posta.html\"><strong>office list</strong></a> and the <a href=\"15h/mapa.html\"><strong>map</strong></a> have been updated. The <a href=\"15h/statistiky.html\"><strong>records</strong></a> now stand at <strong>23,381 attributed stamps</strong>, <strong>8,109</strong> of them with a legibly dated cancellation.",
+  "de": "<strong>15h</strong> — In die Evidenz kam eine weitere neu erworbene Marke der Zähnung&nbsp;E (11½ : 10¾), Feld 92 der Platte I, mit dem Stempel <strong>Eger / Cheb</strong> (Datum unleserlich) — das zweite belegte Stück dieses Postamts. Ergänzt wurden die <a href=\"15h/posta.html\"><strong>Liste der Postämter</strong></a> und die <a href=\"15h/mapa.html\"><strong>Karte</strong></a>. Die <a href=\"15h/statistiky.html\"><strong>Evidenz</strong></a> umfasst nun <strong>23.381 bestimmte Marken</strong>, davon <strong>8.109</strong> mit lesbar datiertem Stempel.",
+  "fr": "<strong>15h</strong> — Un autre timbre nouvellement acquis de dentelure&nbsp;E (11½ : 10¾), case 92 de la planche I, a rejoint le registre, oblitéré <strong>Eger / Cheb</strong> (date illisible) — la deuxième pièce documentée de ce bureau. La <a href=\"15h/posta.html\"><strong>liste des bureaux</strong></a> et la <a href=\"15h/mapa.html\"><strong>carte</strong></a> ont été complétées. Le <a href=\"15h/statistiky.html\"><strong>registre</strong></a> compte désormais <strong>23 381 timbres attribués</strong>, dont <strong>8 109</strong> avec une oblitération lisiblement datée.",
+  "es": "<strong>15h</strong> — Se ha incorporado al registro otro sello recién adquirido del dentado&nbsp;E (11½ : 10¾), posición 92 de la plancha I, matasellado en <strong>Eger / Cheb</strong> (fecha ilegible) — la segunda pieza documentada de esta oficina. Se han completado la <a href=\"15h/posta.html\"><strong>lista de oficinas</strong></a> y el <a href=\"15h/mapa.html\"><strong>mapa</strong></a>. El <a href=\"15h/statistiky.html\"><strong>registro</strong></a> cuenta ahora con <strong>23.381 sellos atribuidos</strong>, <strong>8.109</strong> de ellos con un matasellos legiblemente fechado.",
+  "files": [
+   "novinky.html"
+  ],
+  "tag": "span"
  }
 }
