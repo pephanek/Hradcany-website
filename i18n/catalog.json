@@ -11347,17 +11347,6 @@
   "fr": "L’emplacement des différents éléments typologiques dans le dessin",
   "tag": "span"
  },
- "748d9f5544": {
-  "cs": "Přehled vychází přímo z rekonstrukčního listu sešitu <em>Hradcany_15h GENERAL</em> (stav 6/2026):\n  zeleně evidované pozice mám, zvýrazněné níže chybí. Pokud některou z nich máte, budu vděčný za sken nebo nabídku na\n  <a href=\"mailto:pepa.matousek@gmail.com\">pepa.matousek@gmail.com</a>. Kliknutím na číslo pozice otevřete její\n  referenční obraz v komparátoru.",
-  "de": "Die Übersicht geht unmittelbar vom Rekonstruktionsblatt der Arbeitsmappe <em>Hradcany_15h GENERAL</em> aus (Stand 6/2026): Die grün erfassten Positionen habe ich, die unten hervorgehobenen fehlen. Falls Sie eine davon besitzen, bin ich für einen Scan oder ein Angebot an <a href=\"mailto:pepa.matousek@gmail.com\">pepa.matousek@gmail.com</a> dankbar. Mit einem Klick auf die Positionsnummer öffnen Sie deren Referenzbild im Feldvergleich.",
-  "en": "This overview comes directly from the reconstruction sheet of the <em>Hradcany_15h GENERAL</em>\n  workbook (as of June 2026): positions recorded in green are in the collection, the ones highlighted below are\n  missing. If you have any of them, I would be grateful for a scan or an offer at\n  <a href=\"mailto:pepa.matousek@gmail.com\">pepa.matousek@gmail.com</a>. Clicking a position number opens its\n  reference image in the comparator.",
-  "es": "El resumen procede directamente de la hoja de reconstrucción del cuaderno <em>Hradcany_15h GENERAL</em> (situación 6/2026):\n  las posiciones registradas en verde las tengo, las destacadas más abajo faltan. Si tiene alguna de ellas, agradeceré un escaneo o una oferta en\n  <a href=\"mailto:pepa.matousek@gmail.com\">pepa.matousek@gmail.com</a>. Al hacer clic en el número de una posición se abre su\n  imagen de referencia en el comparador.",
-  "files": [
-   "15h/shanim.html"
-  ],
-  "fr": "Cet aperçu est tiré directement de la feuille de reconstitution du classeur <em>Hradcany_15h GENERAL</em> (état 6/2026) : les positions notées en vert sont dans la collection, celles signalées ci-dessous manquent. Si vous possédez l’une d’elles, je serai reconnaissant d’un scan ou d’une offre à <a href=\"mailto:pepa.matousek@gmail.com\">pepa.matousek@gmail.com</a>. Un clic sur le numéro d’une position ouvre son image de référence dans le comparateur.",
-  "tag": "span"
- },
  "74a6f51bae": {
   "cs": "Proč to není bludný kroužek",
   "de": "Warum das kein wandernder Ring ist",
@@ -18276,17 +18265,6 @@
    "15h/vyrobni-vady.html"
   ],
   "fr": "Degrés de plissement",
-  "tag": "span"
- },
- "b4c72b6ad1": {
-  "cs": "Chyběnka je rozdělená podle hodnot. U <strong>15h</strong> vychází přímo z rekonstrukčního listu sešitu <em>Hradcany_15h GENERAL</em> (stav 6/2026) a je vedená po deskách a zoubkováních; kliknutím na číslo pozice se otevře její referenční obraz v komparátoru. U <strong>ostatních hodnot</strong> je přehled stručnější — najdete ho v tabulce níže.",
-  "de": "Die Fehlliste ist nach Werten gegliedert. Bei der <strong>15h</strong> geht sie unmittelbar vom Rekonstruktionsblatt der Arbeitsmappe <em>Hradcany_15h GENERAL</em> aus (Stand 6/2026) und ist nach Platten und Zähnungen geführt; mit einem Klick auf die Positionsnummer öffnet sich deren Referenzbild im Feldvergleich. Bei den <strong>übrigen Werten</strong> ist die Übersicht knapper — Sie finden sie in der Tabelle weiter unten.",
-  "en": "The wants list is arranged by value. For the <strong>15h</strong> it comes straight from the reconstruction sheet of the <em>Hradcany_15h GENERAL</em> workbook (as of June 2026) and is kept plate by plate and perforation by perforation; clicking a position number opens its reference image in the comparator. For the <strong>other values</strong> the overview is briefer — it is in the table further down.",
-  "es": "La lista de faltas está dividida por valores. En el <strong>15h</strong> procede directamente de la hoja de reconstrucción del cuaderno <em>Hradcany_15h GENERAL</em> (situación 6/2026) y se lleva por planchas y dentados; al hacer clic en el número de una posición se abre su imagen de referencia en el comparador. En los <strong>demás valores</strong> el resumen es más escueto — lo encontrará en la tabla de más abajo.",
-  "files": [
-   "shanim.html"
-  ],
-  "fr": "La liste des manques est classée par valeur. Pour le <strong>15h</strong>, elle est tirée directement de la feuille de reconstitution du classeur <em>Hradcany_15h GENERAL</em> (état 6/2026) et tenue planche par planche et dentelure par dentelure ; un clic sur le numéro d’une position ouvre son image de référence dans le comparateur. Pour les <strong>autres valeurs</strong>, l’aperçu est plus succinct — vous le trouverez dans le tableau ci-dessous.",
   "tag": "span"
  },
  "b4dae0d3e2": {
@@ -27604,6 +27582,28 @@
   "files": [
    "novinky.html"
   ],
+  "tag": "span"
+ },
+ "d9d2a816aa": {
+  "cs": "Zvýrazněné pozice níže mi chybí. Pokud některou z nich máte, budu vděčný za sken nebo nabídku na <a href=\"mailto:pepa.matousek@gmail.com\">pepa.matousek@gmail.com</a>. Kliknutím na číslo pozice otevřete její referenční obraz v komparátoru.",
+  "de": "Die unten hervorgehobenen Positionen fehlen mir. Falls Sie eine davon besitzen, bin ich für einen Scan oder ein Angebot an <a href=\"mailto:pepa.matousek@gmail.com\">pepa.matousek@gmail.com</a> dankbar. Mit einem Klick auf die Positionsnummer öffnen Sie deren Referenzbild im Feldvergleich.",
+  "en": "The positions highlighted below are missing from the collection. If you have any of them, I would be grateful for a scan or an offer at <a href=\"mailto:pepa.matousek@gmail.com\">pepa.matousek@gmail.com</a>. Clicking a position number opens its reference image in the comparator.",
+  "es": "Las posiciones destacadas más abajo me faltan. Si tiene alguna de ellas, agradeceré un escaneo o una oferta en <a href=\"mailto:pepa.matousek@gmail.com\">pepa.matousek@gmail.com</a>. Al hacer clic en el número de una posición se abre su imagen de referencia en el comparador.",
+  "files": [
+   "15h/shanim.html"
+  ],
+  "fr": "Les positions signalées ci-dessous manquent à la collection. Si vous possédez l’une d’elles, je serai reconnaissant d’un scan ou d’une offre à <a href=\"mailto:pepa.matousek@gmail.com\">pepa.matousek@gmail.com</a>. Un clic sur le numéro d’une position ouvre son image de référence dans le comparateur.",
+  "tag": "span"
+ },
+ "db13d18e41": {
+  "cs": "Chyběnka je rozdělená podle hodnot. U <strong>15h</strong> je vedená po deskách a zoubkováních; kliknutím na číslo pozice se otevře její referenční obraz v komparátoru. U <strong>ostatních hodnot</strong> je přehled stručnější — najdete ho v tabulce níže.",
+  "de": "Die Fehlliste ist nach Werten gegliedert. Bei der <strong>15h</strong> ist sie nach Platten und Zähnungen geführt; mit einem Klick auf die Positionsnummer öffnet sich deren Referenzbild im Feldvergleich. Bei den <strong>übrigen Werten</strong> ist die Übersicht knapper — Sie finden sie in der Tabelle weiter unten.",
+  "en": "The wants list is arranged by value. For the <strong>15h</strong> it is kept plate by plate and perforation by perforation; clicking a position number opens its reference image in the comparator. For the <strong>other values</strong> the overview is briefer — it is in the table further down.",
+  "es": "La lista de faltas está dividida por valores. En el <strong>15h</strong> se lleva por planchas y dentados; al hacer clic en el número de una posición se abre su imagen de referencia en el comparador. En los <strong>demás valores</strong> el resumen es más escueto — lo encontrará en la tabla de más abajo.",
+  "files": [
+   "shanim.html"
+  ],
+  "fr": "La liste des manques est classée par valeur. Pour le <strong>15h</strong>, elle est tenue planche par planche et dentelure par dentelure ; un clic sur le numéro d’une position ouvre son image de référence dans le comparateur. Pour les <strong>autres valeurs</strong>, l’aperçu est plus succinct — vous le trouverez dans le tableau ci-dessous.",
   "tag": "span"
  }
 }
