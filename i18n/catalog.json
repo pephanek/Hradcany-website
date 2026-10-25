@@ -26288,18 +26288,6 @@
   "fr": "Oblitérations datées hors de la période de validité des Hradčany",
   "tag": "span"
  },
- "b0e4cd8333": {
-  "cs": "Poštovní platnost emise Hradčany skončila 30.&nbsp;dubna&nbsp;1921, přesto se občas objeví použitá známka s razítkem pozdějšího data — a výjimečně i s datem před vydáním známky. Stránka takové nálezy shromažďuje: čtyřblok 15&nbsp;h z TD&nbsp;VI (ZP&nbsp;48/49/58/59) s datem 13.&nbsp;VI.&nbsp;21, čtyři jednotlivé známky s letopočtem „21“ (Karlovy Vary, Terezín, Ústí nad Labem, Krompach) a dvoupásku z Karlína s datem 22.&nbsp;V.&nbsp;19. Ve všech případech jde nejspíše o chybně nastavený datumový kotouč razítka.",
-  "en": "The postal validity of the Hradčany issue ended on 30&nbsp;April&nbsp;1921, yet a used stamp with a later cancellation date turns up now and then — and exceptionally one dated before the stamp was even issued. The page collects such finds: a block of four 15&nbsp;h from plate&nbsp;VI (fields&nbsp;48/49/58/59) dated 13.&nbsp;VI.&nbsp;21, four single stamps with the year “21” (Karlovy Vary, Terezín, Ústí nad Labem, Krompach) and a pair from Karlín dated 22.&nbsp;V.&nbsp;19. In every case a misset date wheel is the most likely explanation.",
-  "de": "Die postalische Gültigkeit der Hradschin-Ausgabe endete am 30.&nbsp;April&nbsp;1921, dennoch taucht gelegentlich eine gebrauchte Marke mit einem späteren Stempeldatum auf — und ausnahmsweise sogar eine mit einem Datum vor der Ausgabe der Marke. Die Seite sammelt solche Funde: einen Viererblock der 15&nbsp;h von Platte&nbsp;VI (Felder&nbsp;48/49/58/59) mit Datum 13.&nbsp;VI.&nbsp;21, vier Einzelmarken mit der Jahreszahl „21“ (Karlsbad, Theresienstadt, Aussig, Krombach) und ein Paar aus Karlín mit Datum 22.&nbsp;V.&nbsp;19. In allen Fällen ist eine falsch eingestellte Datumsscheibe die wahrscheinlichste Erklärung.",
-  "es": "La validez postal de la emisión Hradčany terminó el 30&nbsp;de abril de&nbsp;1921, y aun así aparece de vez en cuando un sello usado con una fecha de matasellado posterior, y excepcionalmente incluso con una fecha anterior a la emisión del sello. La página reúne tales hallazgos: un bloque de cuatro de 15&nbsp;h de la plancha&nbsp;VI (posiciones&nbsp;48/49/58/59) con fecha 13.&nbsp;VI.&nbsp;21, cuatro sellos sueltos con el año «21» (Karlovy Vary, Terezín, Ústí nad Labem, Krompach) y una pareja de Karlín con fecha 22.&nbsp;V.&nbsp;19. En todos los casos la explicación más probable es una rueda de fecha mal ajustada.",
-  "fr": "La validité postale de l’émission Hradčany a pris fin le 30&nbsp;avril&nbsp;1921&nbsp;; pourtant, on rencontre de temps à autre un timbre oblitéré à une date postérieure — et, exceptionnellement, à une date antérieure à l’émission même du timbre. La page rassemble ces trouvailles&nbsp;: un bloc de quatre 15&nbsp;h de la planche&nbsp;VI (positions&nbsp;48/49/58/59) daté du 13.&nbsp;VI.&nbsp;21, quatre timbres isolés portant le millésime «&nbsp;21&nbsp;» (Karlovy Vary, Terezín, Ústí nad Labem, Krompach) et une paire de Karlín datée du 22.&nbsp;V.&nbsp;19. Dans tous les cas, une molette de date mal réglée est l’explication la plus probable.",
-  "files": [
-   "15h/clanky.html",
-   "15h/posta.html"
-  ],
-  "tag": "span"
- },
  "068e2f95dd": {
   "cs": "15h — razítka s datem mimo dobu platnosti Hradčan",
   "de": "15h — Stempel mit Datum außerhalb der Gültigkeit",
@@ -27615,6 +27603,18 @@
    "shanim.html"
   ],
   "fr": "La liste des manques est tenue planche par planche et dentelure par dentelure ; un clic sur le numéro d’une position ouvre son image de référence dans le comparateur.",
+  "tag": "span"
+ },
+ "60646d6c72": {
+  "cs": "Poštovní platnost emise Hradčany skončila 30.&nbsp;dubna&nbsp;1921, přesto se občas objeví použitá známka s razítkem pozdějšího data — a výjimečně i s datem před vydáním známky. Stránka takové nálezy shromažďuje: čtyřblok 15&nbsp;h z TD&nbsp;VI (ZP&nbsp;48/49/58/59) s datem 13.&nbsp;VI.&nbsp;21, pět jednotlivých známek s letopočtem „21“ (Karlovy Vary, Terezín, Ústí nad Labem, Krompach, Košice) a dvoupásku z Karlína s datem 22.&nbsp;V.&nbsp;19. Ve všech případech jde nejspíše o chybně nastavený datumový kotouč razítka.",
+  "en": "The postal validity of the Hradčany issue ended on 30&nbsp;April&nbsp;1921, yet a used stamp with a later cancellation date turns up now and then — and exceptionally one dated before the stamp was even issued. The page collects such finds: a block of four 15&nbsp;h from plate&nbsp;VI (fields&nbsp;48/49/58/59) dated 13.&nbsp;VI.&nbsp;21, five single stamps with the year “21” (Karlovy Vary, Terezín, Ústí nad Labem, Krompach, Košice) and a pair from Karlín dated 22.&nbsp;V.&nbsp;19. In every case a misset date wheel is the most likely explanation.",
+  "de": "Die postalische Gültigkeit der Hradschin-Ausgabe endete am 30.&nbsp;April&nbsp;1921, dennoch taucht gelegentlich eine gebrauchte Marke mit einem späteren Stempeldatum auf — und ausnahmsweise sogar eine mit einem Datum vor der Ausgabe der Marke. Die Seite sammelt solche Funde: einen Viererblock der 15&nbsp;h von Platte&nbsp;VI (Felder&nbsp;48/49/58/59) mit Datum 13.&nbsp;VI.&nbsp;21, fünf Einzelmarken mit der Jahreszahl „21“ (Karlsbad, Theresienstadt, Aussig, Krombach, Kaschau) und ein Paar aus Karlín mit Datum 22.&nbsp;V.&nbsp;19. In allen Fällen ist eine falsch eingestellte Datumsscheibe die wahrscheinlichste Erklärung.",
+  "es": "La validez postal de la emisión Hradčany terminó el 30&nbsp;de abril de&nbsp;1921, y aun así aparece de vez en cuando un sello usado con una fecha de matasellado posterior, y excepcionalmente incluso con una fecha anterior a la emisión del sello. La página reúne tales hallazgos: un bloque de cuatro de 15&nbsp;h de la plancha&nbsp;VI (posiciones&nbsp;48/49/58/59) con fecha 13.&nbsp;VI.&nbsp;21, cinco sellos sueltos con el año «21» (Karlovy Vary, Terezín, Ústí nad Labem, Krompach, Košice) y una pareja de Karlín con fecha 22.&nbsp;V.&nbsp;19. En todos los casos la explicación más probable es una rueda de fecha mal ajustada.",
+  "fr": "La validité postale de l’émission Hradčany a pris fin le 30&nbsp;avril&nbsp;1921&nbsp;; pourtant, on rencontre de temps à autre un timbre oblitéré à une date postérieure — et, exceptionnellement, à une date antérieure à l’émission même du timbre. La page rassemble ces trouvailles&nbsp;: un bloc de quatre 15&nbsp;h de la planche&nbsp;VI (positions&nbsp;48/49/58/59) daté du 13.&nbsp;VI.&nbsp;21, cinq timbres isolés portant le millésime «&nbsp;21&nbsp;» (Karlovy Vary, Terezín, Ústí nad Labem, Krompach, Košice) et une paire de Karlín datée du 22.&nbsp;V.&nbsp;19. Dans tous les cas, une molette de date mal réglée est l’explication la plus probable.",
+  "files": [
+   "15h/clanky.html",
+   "15h/posta.html"
+  ],
   "tag": "span"
  }
 }
