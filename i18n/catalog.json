@@ -1999,17 +1999,6 @@
   "fr": "Pièce 9 — dentelure B. La silhouette de Hradčany n’a plus de détail, mais le chiffre de valeur reste lisible — les éléments les plus épais résistent le plus longtemps.",
   "tag": "span"
  },
- "17dc32f49e": {
-  "cs": "Tiskové desky I–II — chybějící známková pole",
-  "de": "Druckplatten I–II — fehlende Markenfelder",
-  "en": "Plates I–II — missing stamp fields",
-  "es": "Planchas de impresión I–II — posiciones que faltan",
-  "files": [
-   "15h/shanim.html"
-  ],
-  "fr": "Planches d’impression I–II — positions manquantes",
-  "tag": "span"
- },
  "17f8458820": {
   "cs": "Z 6 818 čitelně datovaných razítek. Pořadí ukazuje, jak výroba postupovala od řádkových zoubkování D/E/F na raných deskách k hřebenovým A/B na deskách pozdějších.",
   "de": "Von 6.818 lesbar datierten Stempeln. Die Reihenfolge zeigt, wie die Produktion von den Linienzähnungen D/E/F auf den frühen Platten zu den Kammzähnungen A/B auf den späteren Platten überging.",
@@ -21709,17 +21698,6 @@
   "fr": "n. dent. 7",
   "tag": "span"
  },
- "d542fdabb6": {
-  "cs": "15h — tiskové desky I a II: chybějící známková pole",
-  "de": "15h — Druckplatten I und II: fehlende Markenfelder",
-  "en": "15h — plates I and II: missing stamp fields",
-  "es": "15h — planchas de impresión I y II: posiciones que faltan",
-  "files": [
-   "shanim.html"
-  ],
-  "fr": "15h — planches d’impression I et II : positions manquantes",
-  "tag": "span"
- },
  "d54a084880": {
   "cs": "Hradčany — rámečkové typy páté kresby.",
   "de": "Hradschin — Rahmentypen der fünften Zeichnung.",
@@ -27568,6 +27546,28 @@
   "files": [
    "novinky.html"
   ],
+  "tag": "span"
+ },
+ "9b2d146d2e": {
+  "cs": "15h — tiskové desky I–IV: chybějící známková pole",
+  "de": "15h — Druckplatten I–IV: fehlende Markenfelder",
+  "en": "15h — plates I–IV: missing stamp fields",
+  "es": "15h — planchas de impresión I–IV: posiciones que faltan",
+  "files": [
+   "shanim.html"
+  ],
+  "fr": "15h — planches d’impression I–IV : positions manquantes",
+  "tag": "span"
+ },
+ "ba5775fc73": {
+  "cs": "Tiskové desky I–IV — chybějící známková pole",
+  "de": "Druckplatten I–IV — fehlende Markenfelder",
+  "en": "Plates I–IV — missing stamp fields",
+  "es": "Planchas I–IV — posiciones que faltan",
+  "files": [
+   "15h/shanim.html"
+  ],
+  "fr": "Planches I–IV — positions manquantes",
   "tag": "span"
  }
 }
