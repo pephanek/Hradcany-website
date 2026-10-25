@@ -27595,15 +27595,26 @@
   "fr": "Les positions signalées ci-dessous manquent à la collection. Si vous possédez l’une d’elles, je serai reconnaissant d’un scan ou d’une offre à <a href=\"mailto:pepa.matousek@gmail.com\">pepa.matousek@gmail.com</a>. Un clic sur le numéro d’une position ouvre son image de référence dans le comparateur.",
   "tag": "span"
  },
- "db13d18e41": {
-  "cs": "Chyběnka je rozdělená podle hodnot. U <strong>15h</strong> je vedená po deskách a zoubkováních; kliknutím na číslo pozice se otevře její referenční obraz v komparátoru. U <strong>ostatních hodnot</strong> je přehled stručnější — najdete ho v tabulce níže.",
-  "de": "Die Fehlliste ist nach Werten gegliedert. Bei der <strong>15h</strong> ist sie nach Platten und Zähnungen geführt; mit einem Klick auf die Positionsnummer öffnet sich deren Referenzbild im Feldvergleich. Bei den <strong>übrigen Werten</strong> ist die Übersicht knapper — Sie finden sie in der Tabelle weiter unten.",
-  "en": "The wants list is arranged by value. For the <strong>15h</strong> it is kept plate by plate and perforation by perforation; clicking a position number opens its reference image in the comparator. For the <strong>other values</strong> the overview is briefer — it is in the table further down.",
-  "es": "La lista de faltas está dividida por valores. En el <strong>15h</strong> se lleva por planchas y dentados; al hacer clic en el número de una posición se abre su imagen de referencia en el comparador. En los <strong>demás valores</strong> el resumen es más escueto — lo encontrará en la tabla de más abajo.",
+ "f61ba18a61": {
+  "cs": "Pokud některý kus máte, budu vděčný za sken nebo nabídku na <a href=\"mailto:pepa.matousek@gmail.com\">pepa.matousek@gmail.com</a>.",
+  "de": "Falls Sie ein Stück besitzen, bin ich für einen Scan oder ein Angebot an <a href=\"mailto:pepa.matousek@gmail.com\">pepa.matousek@gmail.com</a> dankbar.",
+  "en": "If you have any of the pieces below, I would be grateful for a scan or an offer at <a href=\"mailto:pepa.matousek@gmail.com\">pepa.matousek@gmail.com</a>.",
+  "es": "Si tiene alguno de estos ejemplares, agradeceré un escaneo o una oferta en <a href=\"mailto:pepa.matousek@gmail.com\">pepa.matousek@gmail.com</a>.",
   "files": [
    "shanim.html"
   ],
-  "fr": "La liste des manques est classée par valeur. Pour le <strong>15h</strong>, elle est tenue planche par planche et dentelure par dentelure ; un clic sur le numéro d’une position ouvre son image de référence dans le comparateur. Pour les <strong>autres valeurs</strong>, l’aperçu est plus succinct — vous le trouverez dans le tableau ci-dessous.",
+  "fr": "Si vous possédez l’une de ces pièces, je serai reconnaissant d’un scan ou d’une offre à <a href=\"mailto:pepa.matousek@gmail.com\">pepa.matousek@gmail.com</a>.",
+  "tag": "span"
+ },
+ "c20229c870": {
+  "cs": "Chyběnka je vedená po deskách a zoubkováních; kliknutím na číslo pozice se otevře její referenční obraz v komparátoru.",
+  "de": "Die Fehlliste ist nach Platten und Zähnungen geführt; mit einem Klick auf die Positionsnummer öffnet sich deren Referenzbild im Feldvergleich.",
+  "en": "The wants list is kept plate by plate and perforation by perforation; clicking a position number opens its reference image in the comparator.",
+  "es": "La lista de faltas se lleva por planchas y dentados; al hacer clic en el número de una posición se abre su imagen de referencia en el comparador.",
+  "files": [
+   "shanim.html"
+  ],
+  "fr": "La liste des manques est tenue planche par planche et dentelure par dentelure ; un clic sur le numéro d’une position ouvre son image de référence dans le comparateur.",
   "tag": "span"
  }
 }
