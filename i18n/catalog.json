@@ -27732,5 +27732,23 @@
    "novinky.html"
   ],
   "tag": "span"
+ },
+ "e926d026c2": {
+  "cs": "Podrobný statistický rozbor hodnoty 15h vychází z vlastní evidence: <strong>23 381 určených známek</strong>, z toho <strong>8 283 s čitelně datovaným razítkem</strong> (stav 5. 9. 2026). Zdrojem jsou listy „Stats 15h“ a „Usage Stats 15h“ evidenčního sešitu.",
+  "de": "Die ausführliche statistische Auswertung der 15h beruht auf der eigenen Erfassung: <strong>23 381 bestimmte Marken</strong>, davon <strong>8 283 mit lesbar datiertem Stempel</strong> (Stand 5. 9. 2026). Quelle sind die Blätter „Stats 15h“ und „Usage Stats 15h“ der Erfassungsdatei.",
+  "en": "The detailed statistical analysis of the 15h is based on the author’s records: <strong>23,381 attributed stamps</strong>, of which <strong>8,283 carry a legibly dated cancellation</strong> (as of 5 September 2026). The source is the “Stats 15h” and “Usage Stats 15h” sheets of the record workbook.",
+  "es": "El análisis estadístico detallado del 15h se basa en los registros propios: <strong>23 381 sellos atribuidos</strong>, de los cuales <strong>8 283 con matasellos legiblemente fechado</strong> (a 5 de septiembre de 2026). La fuente son las hojas «Stats 15h» y «Usage Stats 15h» del libro de registros.",
+  "fr": "L’analyse statistique détaillée du 15h repose sur les relevés de l’auteur : <strong>23 381 timbres attribués</strong>, dont <strong>8 283 avec une oblitération lisiblement datée</strong> (état au 5 septembre 2026). La source est constituée des feuilles « Stats 15h » et « Usage Stats 15h » du classeur de relevés."
+ },
+ "a698fd146c": {
+  "cs": "Z 8 283 čitelně datovaných razítek; u každé skupiny je uvedeno nejstarší spolehlivě přečtené datum. Na deskách I–II se všechna raná zoubkování objevují během několika týdnů léta 1919 — řádkové D koncem června, hřebenové A a řádkové E ve druhé polovině července, C v polovině srpna a F v září; B přichází na desky I–II až na přelomu roku a od února 1920 nastupují desky 3–7.",
+  "de": "Von 8.283 lesbar datierten Stempeln; für jede Gruppe ist das früheste sicher gelesene Datum angegeben. Auf den Platten I–II erscheinen alle frühen Zähnungen innerhalb weniger Wochen im Sommer 1919 — die Linienzähnung D Ende Juni, die Kammzähnung A und die Linienzähnung E in der zweiten Julihälfte, C Mitte August und F im September; B kommt auf die Platten I–II erst zum Jahreswechsel, und ab Februar 1920 übernehmen die Platten 3–7.",
+  "en": "From 8,283 legibly dated cancellations; for each group the earliest reliably read date is given. On plates I–II all the early perforations appear within a few weeks of the summer of 1919 — line perforation D at the end of June, comb perforation A and line perforation E in the second half of July, C in mid-August and F in September; B reaches plates I–II only at the turn of the year, and from February 1920 plates 3–7 take over.",
+  "es": "De 8.283 matasellos legiblemente fechados; para cada grupo se indica la fecha más antigua leída con seguridad. En las planchas I–II todos los dentados tempranos aparecen en unas pocas semanas del verano de 1919 — el dentado lineal D a finales de junio, el dentado de peine A y el lineal E en la segunda mitad de julio, C a mediados de agosto y F en septiembre; B llega a las planchas I–II solo en el cambio de año, y desde febrero de 1920 toman el relevo las planchas 3–7.",
+  "files": [
+   "15h/zoubkovani.html"
+  ],
+  "fr": "Sur 8 283 oblitérations lisiblement datées ; pour chaque groupe est indiquée la date la plus ancienne lue avec certitude. Sur les planches I–II, toutes les dentelures précoces apparaissent en quelques semaines de l’été 1919 — la dentelure en ligne D fin juin, la dentelure en peigne A et la dentelure en ligne E dans la seconde moitié de juillet, C mi-août et F en septembre ; B n’atteint les planches I–II qu’au tournant de l’année, et à partir de février 1920 les planches 3–7 prennent le relais.",
+  "tag": "span"
  }
 }
