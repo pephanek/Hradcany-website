@@ -110,14 +110,35 @@ PLACES.forEach(function(p){
   placeMarkers.push({marker:marker, present:present, place:p, shown:present.join('|')});
 });
 
+var lineGroups={};
 LINES.forEach(function(l){
   var pts=l.pts||[l.pa,l.pb];
   var col=PCOL[l.g]||'#555';
-  var pop='<div class="pop"><b>'+T.tpo+' '+l.a+' – '+l.b+'</b>'+(l.n?' ('+T.train+' '+l.n+')':'')+
-    '<br><span class="grp" style="color:'+col+'">'+(PLBL[l.g]||l.g)+'</span></div>';
-  var line=L.polyline(pts,{color:col,weight:3,dashArray:'8 6',opacity:.85}).bindPopup(pop,{maxWidth:420});
-  lineLayers.push({layer:line, cat:l.g});
+  var gkey=l.a+'|'+l.b+'|'+(l.n||'');
+  if(!lineGroups[gkey]) lineGroups[gkey]=[];
+  var line=L.polyline(pts,{color:col,weight:3,dashArray:'8 6',opacity:.85});
+  var lm={layer:line, cat:l.g, gkey:gkey, spec:l};
+  lineGroups[gkey].push(lm);
+  lineLayers.push(lm);
 });
+// one popup per route listing every perforation/plate group that runs on it
+Object.keys(lineGroups).forEach(function(k){
+  var grp=lineGroups[k], l=grp[0].spec;
+  var pop='<div class="pop"><b>'+T.tpo+' '+l.a+' – '+l.b+'</b>'+(l.n?' ('+T.train+' '+l.n+')':'');
+  grp.forEach(function(lm){ pop+='<br><span class="grp" style="color:'+(PCOL[lm.cat]||'#555')+'">'+(PLBL[lm.cat]||lm.cat)+'</span>'; });
+  pop+='</div>';
+  grp.forEach(function(lm){ lm.layer.bindPopup(pop,{maxWidth:420}); });
+});
+// a route shared by several groups is drawn as one line with alternating dashes in each visible colour
+function restyleLineGroups(){
+  Object.keys(lineGroups).forEach(function(k){
+    var vis=lineGroups[k].filter(function(lm){return !!ACTIVE[lm.cat];});
+    var n=vis.length; if(!n) return;
+    vis.forEach(function(lm,i){
+      lm.layer.setStyle(n===1?{dashArray:'8 6',dashOffset:'0'}:{dashArray:'8 '+(14*n-8),dashOffset:String(14*i)});
+    });
+  });
+}
 
 function placeVisible(present){
   for(var i=0;i<present.length;i++){ if(ACTIVE[present[i]]) return true; }
@@ -148,6 +169,7 @@ function refreshVisibility(){
     if(show && !onMap) lm.layer.addTo(map);
     if(!show && onMap) map.removeLayer(lm.layer);
   });
+  restyleLineGroups();
 }
 refreshVisibility();
 
