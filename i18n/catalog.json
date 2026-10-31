@@ -4034,17 +4034,6 @@
   "fr": "lumière du jour",
   "tag": "span"
  },
- "2e670825c7": {
-  "cs": "U každého kusu je vlevo líc a vpravo rub téže známky. Kliknutím se ukázka zvětší.",
-  "de": "Bei jedem Stück steht links die Bildseite und rechts die Rückseite derselben Marke. Mit einem Klick wird das Beispiel vergrößert.",
-  "en": "For each item the face is on the left and the back of the same stamp on the right. Click a specimen to enlarge it.",
-  "es": "En cada pieza, a la izquierda está el anverso y a la derecha el reverso del mismo sello. Al hacer clic, el ejemplo se amplía.",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ],
-  "fr": "Pour chaque pièce, le recto est à gauche et le verso du même timbre à droite. Cliquez sur un exemple pour l’agrandir.",
-  "tag": "span"
- },
  "2e88a69633": {
   "cs": "Pole s kombinací typů (např. 2/I se současně otevřenou spirálou i dlouhou příčkou) jsou uvedena v obou skupinách. Všechna typová pole jsou zvýrazněna také v",
   "de": "Felder mit einer Kombination von Typen (z. B. 2/I mit zugleich offener Spirale und langem Quersteg) sind in beiden Gruppen aufgeführt. Alle Typenfelder sind außerdem hervorgehoben in der",
@@ -27894,6 +27883,59 @@
   "de": "<strong>15h</strong> — Auch die beiden übrigen fotografierten Bogen der Druckplatte&nbsp;III sind verarbeitet. Der zweite Bogen in Zähnung&nbsp;B (100 Marken, eine davon in Wirklichkeit vom Feld&nbsp;6 derselben Platte) brachte 24 Daten und 39 Orte: am häufigsten Varnsdorf (5), Prag (5) und Sokolov (3), außerdem z.&nbsp;B. Rokycany, Kladno, Žatec, Králíky, Lovosice, Vejprty, Cehnice, Trenčianske Teplice und drei Bahnposten (Cheb–Praha 21, Luby–Tršnice 311 und Loket–Nové Sedlo 1553, letztere noch mit dem ursprünglichen österreichischen Stempel). Der zweite Bogen in Zähnung&nbsp;A (81 Marken) ergänzte 27 Daten und 32 Orte, darunter einen Viererstreifen aus Veľká Slatina (heute Zvolenská Slatina) vom 13.&nbsp;IV.&nbsp;1921, Hustopeče, Čadca, Hnúšťa, Liptovský Mikuláš, Přerov, Kvasice, Jevíčko, Hrochův Týnec, Damníkov, Smržovka, Dolní Maxov, Dolní Polubný, Hořejší Vrchlabí und Krásná Lípa. Auf der Karte sind 13 Orte neu. Aktualisiert sind die <a href=\"15h/mapa.html\"><strong>Ortskarte</strong></a> und die <a href=\"15h/statistiky.html\"><strong>Statistik</strong></a>.",
   "fr": "<strong>15h</strong> — Les deux dernières feuilles photographiées de la planche&nbsp;III sont également traitées. La deuxième feuille en dentelure&nbsp;B (100 timbres, dont un provenant en réalité de la case&nbsp;6 de la même planche) a apporté 24 dates et 39 lieux : le plus souvent Varnsdorf (5), Prague (5) et Sokolov (3), ainsi que par exemple Rokycany, Kladno, Žatec, Králíky, Lovosice, Vejprty, Cehnice, Trenčianske Teplice et trois postes ferroviaires (Cheb–Praha 21, Luby–Tršnice 311 et Loket–Nové Sedlo 1553, cette dernière encore avec son cachet autrichien d'origine). La deuxième feuille en dentelure&nbsp;A (81 timbres) a ajouté 27 dates et 32 lieux, entre autres une bande de quatre de Veľká Slatina (aujourd'hui Zvolenská Slatina) du 13&nbsp;IV&nbsp;1921, Hustopeče, Čadca, Hnúšťa, Liptovský Mikuláš, Přerov, Kvasice, Jevíčko, Hrochův Týnec, Damníkov, Smržovka, Dolní Maxov, Dolní Polubný, Hořejší Vrchlabí et Krásná Lípa. Treize lieux sont nouveaux sur la carte. La <a href=\"15h/mapa.html\"><strong>carte des lieux</strong></a> et les <a href=\"15h/statistiky.html\"><strong>statistiques</strong></a> sont mises à jour.",
   "es": "<strong>15h</strong> — También están procesados los dos pliegos fotografiados restantes de la plancha&nbsp;III. El segundo pliego en dentado&nbsp;B (100 sellos, uno de ellos en realidad de la posición&nbsp;6 de la misma plancha) aportó 24 fechas y 39 lugares: con mayor frecuencia Varnsdorf (5), Praga (5) y Sokolov (3), y además p.&nbsp;ej. Rokycany, Kladno, Žatec, Králíky, Lovosice, Vejprty, Cehnice, Trenčianske Teplice y tres correos ferroviarios (Cheb–Praha 21, Luby–Tršnice 311 y Loket–Nové Sedlo 1553, este último todavía con su matasellos austriaco original). El segundo pliego en dentado&nbsp;A (81 sellos) añadió 27 fechas y 32 lugares, entre ellos una tira de cuatro de Veľká Slatina (hoy Zvolenská Slatina) del 13&nbsp;IV&nbsp;1921, Hustopeče, Čadca, Hnúšťa, Liptovský Mikuláš, Přerov, Kvasice, Jevíčko, Hrochův Týnec, Damníkov, Smržovka, Dolní Maxov, Dolní Polubný, Hořejší Vrchlabí y Krásná Lípa. Trece lugares son nuevos en el mapa. Se han actualizado el <a href=\"15h/mapa.html\"><strong>mapa de lugares</strong></a> y las <a href=\"15h/statistiky.html\"><strong>estadísticas</strong></a>.",
+  "files": [
+   "novinky.html"
+  ],
+  "tag": "span"
+ },
+ "4b8afad4a9": {
+  "cs": "Drobné kompaktní smítko asi 1,2 mm dlouhé v pravé dolní části kresby, u paty pravého stromu těsně nad nápisem ČESKO-SLOVENSKÁ. Je tmavě hnědé a obklopuje ho zřetelný světlý lem — barva se na něm ani v jeho nejbližším okolí neuchytila. Vpravo čtyřnásobné zvětšení (rub nebyl skenován).",
+  "en": "A small compact speck about 1.2 mm long in the lower right part of the design, at the foot of the right-hand tree just above the inscription ČESKO-SLOVENSKÁ. It is dark brown and surrounded by a distinct pale halo — the ink did not take on the object or in its immediate surroundings. On the right a fourfold enlargement (the back was not scanned).",
+  "de": "Ein kleines kompaktes Partikel von etwa 1,2 mm Länge im rechten unteren Teil der Zeichnung, am Fuß des rechten Baumes knapp über der Inschrift ČESKO-SLOVENSKÁ. Es ist dunkelbraun und von einem deutlichen hellen Saum umgeben — die Farbe hat weder auf dem Objekt noch in seiner nächsten Umgebung gehaftet. Rechts eine vierfache Vergrößerung (die Rückseite wurde nicht gescannt).",
+  "fr": "Une petite particule compacte d'environ 1,2 mm de long dans la partie inférieure droite du dessin, au pied de l'arbre de droite juste au-dessus de l'inscription ČESKO-SLOVENSKÁ. Elle est brun foncé et entourée d'un halo clair bien net — l'encre n'a pris ni sur l'objet ni dans son voisinage immédiat. À droite, un agrandissement quadruple (le verso n'a pas été scanné).",
+  "es": "Una pequeña partícula compacta de unos 1,2 mm de largo en la parte inferior derecha del dibujo, al pie del árbol de la derecha, justo encima de la inscripción ČESKO-SLOVENSKÁ. Es de color marrón oscuro y está rodeada de un halo claro bien visible: la tinta no se fijó ni sobre el objeto ni en su entorno inmediato. A la derecha, una ampliación cuádruple (el reverso no se escaneó).",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "9eb469cca6": {
+  "cs": "Kus 4 — Drobné kompaktní smítko asi 1,2 mm dlouhé v pravé dolní části kresby, u paty pravého stromu těsně nad nápisem ČESKO-SLOVENSKÁ. Je tmavě hnědé a obklopuje ho zřetelný světlý lem — barva se na něm ani v jeho nejbližším okolí neuchytila. Vpravo čtyřnásobné zvětšení (rub nebyl skenován).",
+  "en": "Item 4 — A small compact speck about 1.2 mm long in the lower right part of the design, at the foot of the right-hand tree just above the inscription ČESKO-SLOVENSKÁ. It is dark brown and surrounded by a distinct pale halo — the ink did not take on the object or in its immediate surroundings. On the right a fourfold enlargement (the back was not scanned).",
+  "de": "Stück 4 — Ein kleines kompaktes Partikel von etwa 1,2 mm Länge im rechten unteren Teil der Zeichnung, am Fuß des rechten Baumes knapp über der Inschrift ČESKO-SLOVENSKÁ. Es ist dunkelbraun und von einem deutlichen hellen Saum umgeben — die Farbe hat weder auf dem Objekt noch in seiner nächsten Umgebung gehaftet. Rechts eine vierfache Vergrößerung (die Rückseite wurde nicht gescannt).",
+  "fr": "Pièce 4 — Une petite particule compacte d'environ 1,2 mm de long dans la partie inférieure droite du dessin, au pied de l'arbre de droite juste au-dessus de l'inscription ČESKO-SLOVENSKÁ. Elle est brun foncé et entourée d'un halo clair bien net — l'encre n'a pris ni sur l'objet ni dans son voisinage immédiat. À droite, un agrandissement quadruple (le verso n'a pas été scanné).",
+  "es": "Pieza 4 — Una pequeña partícula compacta de unos 1,2 mm de largo en la parte inferior derecha del dibujo, al pie del árbol de la derecha, justo encima de la inscripción ČESKO-SLOVENSKÁ. Es de color marrón oscuro y está rodeada de un halo claro bien visible: la tinta no se fijó ni sobre el objeto ni en su entorno inmediato. A la derecha, una ampliación cuádruple (el reverso no se escaneó).",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "0b65f78c2c": {
+  "cs": "Dřívko v papíru — kus 4",
+  "en": "Wood splinter in the paper — item 4",
+  "de": "Holzsplitter im Papier — Stück 4",
+  "fr": "Éclat de bois dans le papier — pièce 4",
+  "es": "Astilla de madera en el papel — ejemplar 4",
+  "files": [],
+  "tag": "alt"
+ },
+ "8fce31eab1": {
+  "cs": "U každého kusu je vlevo líc a vpravo rub téže známky (u kusu 4 místo rubu zvětšený detail). Kliknutím se ukázka zvětší.",
+  "en": "For each item the face is on the left and the back of the same stamp on the right (for item 4 an enlarged detail instead of the back). Click a specimen to enlarge it.",
+  "de": "Bei jedem Stück steht links die Bildseite und rechts die Rückseite derselben Marke (bei Stück 4 statt der Rückseite ein vergrößertes Detail). Mit einem Klick wird das Beispiel vergrößert.",
+  "fr": "Pour chaque pièce, le recto est à gauche et le verso du même timbre à droite (pour la pièce 4, un détail agrandi à la place du verso). Cliquez sur un exemple pour l’agrandir.",
+  "es": "En cada pieza, a la izquierda está el anverso y a la derecha el reverso del mismo sello (en la pieza 4, un detalle ampliado en lugar del reverso). Al hacer clic, el ejemplo se amplía.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "0540d14153": {
+  "cs": "<strong>15h</strong> — Do kapitoly <a href=\"15h/vyrobni-vady.html#drivko\"><strong>Dřívko a smítko</strong></a> přibyl čtvrtý kus: drobné hnědé smítko asi 1,2 mm dlouhé u paty pravého stromu, s výrazným světlým lemem, kde se barva neuchytila; u tohoto kusu je místo rubu zvětšený detail.",
+  "en": "<strong>15h</strong> — A fourth item has been added to the chapter <a href=\"15h/vyrobni-vady.html#drivko\"><strong>Splinters and specks</strong></a>: a small brown speck about 1.2 mm long at the foot of the right-hand tree, with a distinct pale halo where the ink did not take; for this item an enlarged detail is shown instead of the back.",
+  "de": "<strong>15h</strong> — Das Kapitel <a href=\"15h/vyrobni-vady.html#drivko\"><strong>Holzsplitter und Partikel</strong></a> hat ein viertes Stück bekommen: ein kleines braunes Partikel von etwa 1,2 mm Länge am Fuß des rechten Baumes, mit deutlichem hellem Saum, wo die Farbe nicht gehaftet hat; bei diesem Stück wird statt der Rückseite ein vergrößertes Detail gezeigt.",
+  "fr": "<strong>15h</strong> — Le chapitre <a href=\"15h/vyrobni-vady.html#drivko\"><strong>Éclats et particules</strong></a> compte une quatrième pièce : une petite particule brune d'environ 1,2 mm au pied de l'arbre de droite, avec un halo clair bien net où l'encre n'a pas pris ; pour cette pièce, un détail agrandi remplace le verso.",
+  "es": "<strong>15h</strong> — El capítulo <a href=\"15h/vyrobni-vady.html#drivko\"><strong>Astillas y partículas</strong></a> tiene una cuarta pieza: una pequeña partícula marrón de unos 1,2 mm al pie del árbol de la derecha, con un halo claro bien visible donde la tinta no se fijó; en esta pieza se muestra un detalle ampliado en lugar del reverso.",
   "files": [
    "novinky.html"
   ],
