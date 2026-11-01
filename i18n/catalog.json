@@ -27919,28 +27919,6 @@
   ],
   "tag": "span"
  },
- "11010394fa": {
-  "cs": "Posun nahoru — horní řada perforace prochází rámečkem nad nápisem POSTA, dole zůstal široký okraj a vpravo je vidět rámeček sousední známky; pravý a spodní okraj je ustřižený.",
-  "en": "Shift upwards — the upper row of perforation runs through the frame above the word POSTA, a wide margin remains at the bottom and the frame of the neighbouring stamp shows on the right; the right and bottom edges are cut.",
-  "de": "Verschiebung nach oben — die obere Zähnungsreihe läuft durch den Rahmen über dem Wort POSTA, unten bleibt ein breiter Rand und rechts ist der Rahmen der Nachbarmarke zu sehen; der rechte und der untere Rand sind geschnitten.",
-  "fr": "Décalage vers le haut — la rangée supérieure de la dentelure traverse le cadre au-dessus du mot POSTA, une large marge subsiste en bas et le cadre du timbre voisin apparaît à droite ; les bords droit et inférieur sont coupés.",
-  "es": "Desplazamiento hacia arriba — la fila superior del dentado atraviesa el marco sobre la palabra POSTA, abajo queda un margen ancho y a la derecha se ve el marco del sello vecino; los bordes derecho e inferior están cortados.",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ],
-  "tag": "span"
- },
- "fccecfa31c": {
-  "cs": "Kus 30 — Posun nahoru — horní řada perforace prochází rámečkem nad nápisem POSTA, dole zůstal široký okraj a vpravo je vidět rámeček sousední známky; pravý a spodní okraj je ustřižený.",
-  "en": "Item 30 — Shift upwards — the upper row of perforation runs through the frame above the word POSTA, a wide margin remains at the bottom and the frame of the neighbouring stamp shows on the right; the right and bottom edges are cut.",
-  "de": "Stück 30 — Verschiebung nach oben — die obere Zähnungsreihe läuft durch den Rahmen über dem Wort POSTA, unten bleibt ein breiter Rand und rechts ist der Rahmen der Nachbarmarke zu sehen; der rechte und der untere Rand sind geschnitten.",
-  "fr": "Pièce 30 — Décalage vers le haut — la rangée supérieure de la dentelure traverse le cadre au-dessus du mot POSTA, une large marge subsiste en bas et le cadre du timbre voisin apparaît à droite ; les bords droit et inférieur sont coupés.",
-  "es": "Pieza 30 — Desplazamiento hacia arriba — la fila superior del dentado atraviesa el marco sobre la palabra POSTA, abajo queda un margen ancho y a la derecha se ve el marco del sello vecino; los bordes derecho e inferior están cortados.",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ],
-  "tag": "span"
- },
  "ae332be7d9": {
   "cs": "Posun zoubkování — kus 30",
   "en": "Perforation shift — item 30",
@@ -27961,12 +27939,34 @@
   ],
   "tag": "span"
  },
- "330aa01d40": {
-  "cs": "<strong>15h</strong> — Do kapitoly <a href=\"15h/vyrobni-vady.html#drivko\"><strong>Dřívko a smítko</strong></a> přibyl čtvrtý kus: drobné hnědé smítko asi 1,2 mm dlouhé u paty pravého stromu, s výrazným světlým lemem, kde se barva neuchytila; z rubu se ukazuje jako podstatně větší tříska s vláknitou strukturou. Do galerie <a href=\"15h/vyrobni-vady.html#posun\"><strong>Posun zoubkování</strong></a> přibyl kus 30 — posun nahoru, kde horní řada perforace prochází rámečkem nad nápisem POSTA.",
-  "en": "<strong>15h</strong> — A fourth item has been added to the chapter <a href=\"15h/vyrobni-vady.html#drivko\"><strong>Splinters and specks</strong></a>: a small brown speck about 1.2 mm long at the foot of the right-hand tree, with a distinct pale halo where the ink did not take; from the back it turns out to be a considerably larger splinter with a fibrous structure. Item 30 has been added to the <a href=\"15h/vyrobni-vady.html#posun\"><strong>Perforation shifts</strong></a> gallery — an upward shift where the upper row of perforation runs through the frame above the word POSTA.",
-  "de": "<strong>15h</strong> — Das Kapitel <a href=\"15h/vyrobni-vady.html#drivko\"><strong>Holzsplitter und Partikel</strong></a> hat ein viertes Stück bekommen: ein kleines braunes Partikel von etwa 1,2 mm Länge am Fuß des rechten Baumes, mit deutlichem hellem Saum, wo die Farbe nicht gehaftet hat; von der Rückseite erweist es sich als deutlich größerer Span mit Faserstruktur. Die Galerie <a href=\"15h/vyrobni-vady.html#posun\"><strong>Zähnungsverschiebung</strong></a> hat Stück 30 bekommen — eine Verschiebung nach oben, bei der die obere Zähnungsreihe durch den Rahmen über dem Wort POSTA läuft.",
-  "fr": "<strong>15h</strong> — Le chapitre <a href=\"15h/vyrobni-vady.html#drivko\"><strong>Éclats et particules</strong></a> compte une quatrième pièce : une petite particule brune d'environ 1,2 mm au pied de l'arbre de droite, avec un halo clair bien net où l'encre n'a pas pris ; au verso, elle se révèle être un éclat nettement plus grand à structure fibreuse. La galerie <a href=\"15h/vyrobni-vady.html#posun\"><strong>Décalage de la dentelure</strong></a> s'enrichit de la pièce 30 — un décalage vers le haut où la rangée supérieure de la dentelure traverse le cadre au-dessus du mot POSTA.",
-  "es": "<strong>15h</strong> — El capítulo <a href=\"15h/vyrobni-vady.html#drivko\"><strong>Astillas y partículas</strong></a> tiene una cuarta pieza: una pequeña partícula marrón de unos 1,2 mm al pie del árbol de la derecha, con un halo claro bien visible donde la tinta no se fijó; por el reverso resulta ser una astilla bastante mayor, de estructura fibrosa. La galería <a href=\"15h/vyrobni-vady.html#posun\"><strong>Desplazamiento del dentado</strong></a> incorpora la pieza 30: un desplazamiento hacia arriba en el que la fila superior del dentado atraviesa el marco sobre la palabra POSTA.",
+ "30e9dbf0cb": {
+  "cs": "Posun doleva — levá řada perforace prochází rámečkem kresby, vpravo zůstal široký okraj, na němž je vidět kus sousední známky.",
+  "en": "Shift to the left — the left-hand row of perforation runs through the frame of the design, while a wide margin remains on the right with part of the neighbouring stamp visible on it.",
+  "de": "Verschiebung nach links — die linke Zähnungsreihe läuft durch den Rahmen der Zeichnung, rechts bleibt ein breiter Rand, auf dem ein Stück der Nachbarmarke zu sehen ist.",
+  "fr": "Décalage vers la gauche — la rangée gauche de la dentelure traverse le cadre du dessin, tandis qu'une large marge subsiste à droite, sur laquelle on voit une partie du timbre voisin.",
+  "es": "Desplazamiento hacia la izquierda — la fila izquierda del dentado atraviesa el marco del dibujo, mientras que a la derecha queda un margen ancho en el que se ve parte del sello vecino.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "86d0e68682": {
+  "cs": "Kus 30 — Posun doleva — levá řada perforace prochází rámečkem kresby, vpravo zůstal široký okraj, na němž je vidět kus sousední známky.",
+  "en": "Item 30 — Shift to the left — the left-hand row of perforation runs through the frame of the design, while a wide margin remains on the right with part of the neighbouring stamp visible on it.",
+  "de": "Stück 30 — Verschiebung nach links — die linke Zähnungsreihe läuft durch den Rahmen der Zeichnung, rechts bleibt ein breiter Rand, auf dem ein Stück der Nachbarmarke zu sehen ist.",
+  "fr": "Pièce 30 — Décalage vers la gauche — la rangée gauche de la dentelure traverse le cadre du dessin, tandis qu'une large marge subsiste à droite, sur laquelle on voit une partie du timbre voisin.",
+  "es": "Pieza 30 — Desplazamiento hacia la izquierda — la fila izquierda del dentado atraviesa el marco del dibujo, mientras que a la derecha queda un margen ancho en el que se ve parte del sello vecino.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "f276ef941a": {
+  "cs": "<strong>15h</strong> — Do kapitoly <a href=\"15h/vyrobni-vady.html#drivko\"><strong>Dřívko a smítko</strong></a> přibyl čtvrtý kus: drobné hnědé smítko asi 1,2 mm dlouhé u paty pravého stromu, s výrazným světlým lemem, kde se barva neuchytila; z rubu se ukazuje jako podstatně větší tříska s vláknitou strukturou. Do galerie <a href=\"15h/vyrobni-vady.html#posun\"><strong>Posun zoubkování</strong></a> přibyl kus 30 — posun doleva, kde levá řada perforace prochází rámečkem a vpravo je na širokém okraji vidět kus sousední známky.",
+  "en": "<strong>15h</strong> — A fourth item has been added to the chapter <a href=\"15h/vyrobni-vady.html#drivko\"><strong>Splinters and specks</strong></a>: a small brown speck about 1.2 mm long at the foot of the right-hand tree, with a distinct pale halo where the ink did not take; from the back it turns out to be a considerably larger splinter with a fibrous structure. Item 30 has been added to the <a href=\"15h/vyrobni-vady.html#posun\"><strong>Perforation shifts</strong></a> gallery — a shift to the left where the left-hand row of perforation runs through the frame and part of the neighbouring stamp shows on the wide right-hand margin.",
+  "de": "<strong>15h</strong> — Das Kapitel <a href=\"15h/vyrobni-vady.html#drivko\"><strong>Holzsplitter und Partikel</strong></a> hat ein viertes Stück bekommen: ein kleines braunes Partikel von etwa 1,2 mm Länge am Fuß des rechten Baumes, mit deutlichem hellem Saum, wo die Farbe nicht gehaftet hat; von der Rückseite erweist es sich als deutlich größerer Span mit Faserstruktur. Die Galerie <a href=\"15h/vyrobni-vady.html#posun\"><strong>Zähnungsverschiebung</strong></a> hat Stück 30 bekommen — eine Verschiebung nach links, bei der die linke Zähnungsreihe durch den Rahmen läuft und auf dem breiten rechten Rand ein Stück der Nachbarmarke zu sehen ist.",
+  "fr": "<strong>15h</strong> — Le chapitre <a href=\"15h/vyrobni-vady.html#drivko\"><strong>Éclats et particules</strong></a> compte une quatrième pièce : une petite particule brune d'environ 1,2 mm au pied de l'arbre de droite, avec un halo clair bien net où l'encre n'a pas pris ; au verso, elle se révèle être un éclat nettement plus grand à structure fibreuse. La galerie <a href=\"15h/vyrobni-vady.html#posun\"><strong>Décalage de la dentelure</strong></a> s'enrichit de la pièce 30 — un décalage vers la gauche où la rangée gauche de la dentelure traverse le cadre et où une partie du timbre voisin apparaît sur la large marge de droite.",
+  "es": "<strong>15h</strong> — El capítulo <a href=\"15h/vyrobni-vady.html#drivko\"><strong>Astillas y partículas</strong></a> tiene una cuarta pieza: una pequeña partícula marrón de unos 1,2 mm al pie del árbol de la derecha, con un halo claro bien visible donde la tinta no se fijó; por el reverso resulta ser una astilla bastante mayor, de estructura fibrosa. La galería <a href=\"15h/vyrobni-vady.html#posun\"><strong>Desplazamiento del dentado</strong></a> incorpora la pieza 30: un desplazamiento hacia la izquierda en el que la fila izquierda del dentado atraviesa el marco y en el ancho margen derecho se ve parte del sello vecino.",
   "files": [
    "novinky.html"
   ],
