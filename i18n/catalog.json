@@ -28138,5 +28138,16 @@
    "novinky.html"
   ],
   "tag": "span"
+ },
+ "6e403567ad": {
+  "cs": "Poslední aktualizace 22. 9. 2016; jazykové verze listů (EN, DE, FR, ES) 1. 11. 2026",
+  "en": "Last updated 22 Sep 2016; translated versions of the pages (EN, DE, FR, ES) 1 Nov 2026",
+  "de": "Letzte Aktualisierung 22. 9. 2016; übersetzte Fassungen der Blätter (EN, DE, FR, ES) 1. 11. 2026",
+  "fr": "Dernière mise à jour 22/09/2016 ; versions traduites des feuilles (EN, DE, FR, ES) 01/11/2026",
+  "es": "Última actualización 22/9/2016; versiones traducidas de las hojas (EN, DE, FR, ES) 1/11/2026",
+  "files": [
+   "ke-stazeni.html"
+  ],
+  "tag": "span"
  }
 }

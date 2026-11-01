@@ -208,6 +208,12 @@ def build_page(page,lang,cat):
     s=src
     if page=='15h/komparator.html': s=komparator_js(s,lang,cat)
     if page=='15h/mapa.html':       s=mapa_js(s,page,lang)
+    # jazykove verze PDF: assets/downloads/<name>.pdf -> <name>-<lang>.pdf, pokud existuje
+    if lang!='cs':
+        def pdfl(m):
+            cand='%s-%s.pdf'%(m.group(1),lang)
+            return 'href="%s"'%cand if os.path.exists(os.path.join(ROOT,cand)) else m.group(0)
+        s=re.sub(r'href="(assets/downloads/[^"]+?)\.pdf"',pdfl,s)
     s=swap_pairs(s,lang,cat,where)
     # titulek
     def t(m):
