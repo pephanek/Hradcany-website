@@ -35,6 +35,7 @@ COL = {  # feminine adjective forms (barva znamky), order: longest first at use
  'černohnědá': ('black-brown', 'schwarzbraun', 'brun noirâtre', 'marrón negruzco'),
  'světle šedá': ('light grey', 'hellgrau', 'gris clair', 'gris claro'),
  'černošedá': ('black-grey', 'schwarzgrau', 'gris noirâtre', 'gris negruzco'),
+ 'červenohnědá': ('red-brown', 'rotbraun', 'brun rougeâtre', 'marrón rojizo'),
  'červenofialová': ('red-violet', 'rotviolett', 'violet rougeâtre', 'violeta rojizo'),
  'karmínová': ('carmine', 'karmin', 'carmin', 'carmín'),
  'rumělková': ('vermilion', 'zinnober', 'vermillon', 'bermellón'),
