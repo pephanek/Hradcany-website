@@ -28315,5 +28315,104 @@
    "novinky.html"
   ],
   "tag": "span"
+ },
+ "6185ec21e3": {
+  "cs": "(ZP 29/V, 3 kusy)",
+  "de": "(Feld 29/V, 3 Stück)",
+  "en": "(field 29/V, 3 copies)",
+  "es": "(posición 29/V, 3 ejemplares)",
+  "files": [
+   "15h/posta.html"
+  ],
+  "fr": "(position 29/V, 3 exemplaires)",
+  "tag": "span"
+ },
+ "cc26336bea": {
+  "cs": "(trojblok, TD V)",
+  "de": "(Dreierblock, Platte V)",
+  "en": "(block of three, plate V)",
+  "es": "(bloque de tres, plancha V)",
+  "files": [
+   "15h/posta.html"
+  ],
+  "fr": "(bloc de trois, planche V)",
+  "tag": "span"
+ },
+ "c940604d18": {
+  "cs": "(ústřižek průvodky, TD V)",
+  "de": "(Paketkartenabschnitt, Platte V)",
+  "en": "(parcel-card cutting, plate V)",
+  "es": "(fragmento de boletín de expedición, plancha V)",
+  "files": [
+   "15h/posta.html"
+  ],
+  "fr": "(fragment de bulletin d’expédition, planche V)",
+  "tag": "span"
+ },
+ "0d188a9929": {
+  "cs": "(ZP 49/V, druhý kus)",
+  "de": "(Feld 49/V, zweites Stück)",
+  "en": "(field 49/V, second copy)",
+  "es": "(posición 49/V, segundo ejemplar)",
+  "files": [
+   "15h/posta.html"
+  ],
+  "fr": "(position 49/V, deuxième exemplaire)",
+  "tag": "span"
+ },
+ "924fac60c8": {
+  "cs": "(ZP 64/VI a 85/VI)",
+  "de": "(Felder 64/VI und 85/VI)",
+  "en": "(fields 64/VI and 85/VI)",
+  "es": "(posiciones 64/VI y 85/VI)",
+  "files": [
+   "15h/posta.html"
+  ],
+  "fr": "(positions 64/VI et 85/VI)",
+  "tag": "span"
+ },
+ "e914d3fab9": {
+  "cs": "(TD V)",
+  "de": "(Platte V)",
+  "en": "(plate V)",
+  "es": "(plancha V)",
+  "files": [
+   "15h/posta.html"
+  ],
+  "fr": "(planche V)",
+  "tag": "span"
+ },
+ "a2822179c2": {
+  "cs": "(TD VI, 2 kusy)",
+  "de": "(Platte VI, 2 Stück)",
+  "en": "(plate VI, 2 copies)",
+  "es": "(plancha VI, 2 ejemplares)",
+  "files": [
+   "15h/posta.html"
+  ],
+  "fr": "(planche VI, 2 exemplaires)",
+  "tag": "span"
+ },
+ "d29989e0d1": {
+  "cs": "(svislá třípáska ZP 80+90+100/VI)",
+  "de": "(senkrechter Dreierstreifen, Felder 80+90+100/VI)",
+  "en": "(vertical strip of three, fields 80+90+100/VI)",
+  "es": "(tira vertical de tres, posiciones 80+90+100/VI)",
+  "files": [
+   "15h/posta.html"
+  ],
+  "fr": "(bande verticale de trois, positions 80+90+100/VI)",
+  "tag": "span"
+ },
+ "cb375e5cf1": {
+  "cs": "(TD VI, maďarské razítko CSETNEK)",
+  "de": "(Platte VI, ungarischer Stempel CSETNEK)",
+  "en": "(plate VI, Hungarian cancel CSETNEK)",
+  "es": "(plancha VI, matasellos húngaro CSETNEK)",
+  "files": [
+   "15h/posta.html"
+  ],
+  "fr": "(planche VI, oblitération hongroise CSETNEK)",
+  "tag": "span"
  }
 }
