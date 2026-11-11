@@ -56,6 +56,8 @@ function odpoved(data, status, origin) {
 /** Malá písmena, bez diakritiky a interpunkce — pro porovnávání. */
 const norm = (s) => (s || '').normalize('NFD').replace(/\p{M}/gu, '')
   .toLowerCase().replace(/[^a-z0-9]+/g, '');
+// bez diakritiky a malými písmeny, ale s mezerami (pro slovní filtry)
+const plain = (s) => (s || '').normalize('NFD').replace(/\p{M}/gu, '').toLowerCase();
 
 /* ------------------------------------------- krátkodobá paměť (bez KV)
  * Cache API drží jen pomocné značky s krátkou platností. Do repozitáře
@@ -104,8 +106,14 @@ const OTAZKY = [
 ];
 
 /* ------------------------------------------------- antispam: obsah zprávy */
-const BLOKOVANA = /\b(casino|viagra|cialis|porn|escort|payday|loan|crypto|bitcoin|forex|backlink|betting|kamagra|replica\s*watch|xxx|sex\s*cam)\b/i;
+const BLOKOVANA = /\b(casino|viagra|cialis|porn|escort|payday|loan|loans|lender|crypto|bitcoin|forex|backlink|betting|kamagra|replica\s*watch|xxx|sex\s*cam|whatsapp|telegram)\b/i;
 const ODKAZ = /(https?:\/\/|www\.|\b[a-z0-9-]{2,}\.(com|net|org|ru|cn|xyz|top|info|biz|online|site|shop|club|link|store|icu)\b)/i;
+// finanční spam ve všech jazycích webu (kořeny slov, bez diakritiky – text se před testem normalizuje)
+const FINANCNI = /(pujck|pujcit|uver|kredit|credit|pret\b|prets\b|prestamo|darlehen|loan|lend|financovani|financement|finanzierung|financiaci|investic|invest|zisk|profit|vydelek|vydelat|earn money|gagner de l|geld verdien|ganar dinero|peer.to.peer|p2p|urokov|interest rate|taux d|zinssatz|tasa de inter|rychle penize|penize ihned|quick cash|fast money|hotovost|cash)/i;
+// e-mail i rozstrkaný mezerami ("jmeno @ gmail .com"), telefon s 9+ číslicemi, domény freemailů
+const EMAIL = /[a-z0-9._%+-]+\s*(@|\(at\)|\[at\]|\sat\s)\s*[a-z0-9-]+\s*(\.|\(dot\)|\[dot\]|\sdot\s)\s*[a-z]{2,}/i;
+const FREEMAIL = /\b(gmail|yahoo|hotmail|outlook|seznam|centrum|protonmail|email\.cz|icloud)\b/i;
+const TELEFON = /(?:\+?\d[\s().-]*){9,}/;
 
 function podilCiziAbecedy(t) {
   const pismena = (t.match(/\p{L}/gu) || []).length;
@@ -116,115 +124,22 @@ function podilCiziAbecedy(t) {
 
 function zkontrolujObsah(jmeno, text) {
   const j = (jmeno || '').trim(), t = (text || '').trim();
+  const nt = plain(t), nj = plain(j);
   if (j.length < 2 || j.length > 40) return 'jmeno';
   if (t.length < 10 || t.length > 1500) return 'delka';
   if (ODKAZ.test(t) || ODKAZ.test(j)) return 'odkaz';
-  if (BLOKOVANA.test(t) || BLOKOVANA.test(j)) return 'blokovano';
+  if (BLOKOVANA.test(nt) || BLOKOVANA.test(nj)) return 'blokovano';
+  if (EMAIL.test(t) || FREEMAIL.test(nt) || /@/.test(t)) return 'kontakt';
+  if (TELEFON.test(t)) return 'kontakt';
+  // dvě různá finanční slova ve zprávě = nabídka půjček/investic, ne vzkaz sběratele
+  const fin = new Set((nt.match(new RegExp(FINANCNI.source, 'gi')) || []).map(x => x.toLowerCase()));
+  if (fin.size >= 2) return 'blokovano';
   if (podilCiziAbecedy(t) > 0.3) return 'pismo';
   if (/(.)\1{9,}/.test(t)) return 'opakovani';
   const slova = t.split(/\s+/);
   if (slova.length > 6 && new Set(slova.map(norm)).size / slova.length < 0.35) return 'opakovani';
   if (/[<>]|&#|javascript:/i.test(t)) return 'znacky';
   return null;
-}
-
-async function turnstileOk(env, token, ip) {
-  if (!env.TURNSTILE) return true;
-  if (!token) return false;
-  const r = await fetch('https://challenges.cloudflare.com/turnstile/v0/siteverify', {
-    method: 'POST', headers: { 'content-type': 'application/json' },
-    body: JSON.stringify({ secret: env.TURNSTILE, response: token, remoteip: ip }),
-  });
-  return !!(await r.json().catch(() => ({}))).success;
-}
-
-/* ==================================================== GitHub jako úložiště */
-const GH = 'https://api.github.com';
-
-function ghHlavicky(env) {
-  return {
-    authorization: 'Bearer ' + env.GH_TOKEN,
-    accept: 'application/vnd.github+json',
-    'user-agent': 'hradcany-vratny',
-    'content-type': 'application/json',
-  };
-}
-
-async function ghNacti(env, cesta) {
-  const u = `${GH}/repos/${env.GH_REPO}/contents/${cesta}?ref=${env.GH_VETEV || 'main'}`;
-  const r = await fetch(u, { headers: ghHlavicky(env) });
-  if (r.status === 404) return { data: null, sha: null };
-  if (!r.ok) throw new Error('github-cteni-' + r.status);
-  const j = await r.json();
-  const text = new TextDecoder().decode(
-    Uint8Array.from(atob(j.content.replace(/\n/g, '')), c => c.charCodeAt(0)));
-  return { data: JSON.parse(text), sha: j.sha };
-}
-
-async function ghZapis(env, cesta, data, sha, zprava) {
-  const obsah = JSON.stringify(data, null, 1);
-  const bytes = new TextEncoder().encode(obsah);
-  const b64 = btoa(String.fromCharCode(...bytes));
-  const r = await fetch(`${GH}/repos/${env.GH_REPO}/contents/${cesta}`, {
-    method: 'PUT',
-    headers: ghHlavicky(env),
-    body: JSON.stringify({
-      message: zprava,
-      content: b64,
-      sha: sha || undefined,
-      branch: env.GH_VETEV || 'main',
-    }),
-  });
-  if (r.status === 409 || r.status === 422) return false;   // mezitím se změnil
-  if (!r.ok) throw new Error('github-zapis-' + r.status + ' ' + (await r.text()).slice(0, 120));
-  return true;
-}
-
-/** Načti → uprav → zapiš, s opakováním při souběžné změně. */
-async function uprav(env, cesta, vychozi, zprava, upravFn) {
-  for (let pokus = 0; pokus < 4; pokus++) {
-    const { data, sha } = await ghNacti(env, cesta);
-    const stav = data || vychozi;
-    const vysledek = upravFn(stav);
-    if (vysledek && vysledek.chyba) return vysledek;
-    if (await ghZapis(env, cesta, stav, sha, zprava)) return vysledek || { ok: true };
-    await new Promise(r => setTimeout(r, 150 * (pokus + 1)));
-  }
-  return { chyba: 'soubeh' };
-}
-
-/* ================================================================ router */
-export default {
-  async fetch(req, env) {
-    const url = new URL(req.url);
-    const povolene = (env.POVOLENY_WEB || VYCHOZI_ORIGINY.join(',')).split(',').map(s => s.trim());
-    const zdroj = req.headers.get('origin') || '';
-    const origin = povolene.includes(zdroj) ? zdroj : povolene[0];
-
-    if (req.method === 'OPTIONS') return odpoved({}, 204, origin);
-    if (zdroj && !povolene.includes(zdroj)) return odpoved({ chyba: 'origin' }, 403, origin);
-
-    const cesta = url.pathname.replace(/^\/+|\/+$/g, '').replace(/^api\//, '');
-    try {
-      if (cesta === 'formular') return await formular(env, origin);
-      if (cesta === 'kniha')    return await kniha(req, env, origin);
-      if (cesta === 'anketa')   return await anketa(req, env, origin);
-      return odpoved({ chyba: 'neznama-cesta' }, 404, origin);
-    } catch (e) {
-      return odpoved({ chyba: 'server', detail: String((e && e.message) || e) }, 500, origin);
-    }
-  },
-};
-
-/* -------- GET /formular: podepsaný token + náhodná znalostní otázka ----- */
-async function formular(env, origin) {
-  const o = OTAZKY[Math.floor(Math.random() * OTAZKY.length)];
-  const telo = `${Date.now()}.${o.id}`;
-  return odpoved({
-    token: `${telo}.${await hmac(env.TAJNY_KLIC, telo)}`,
-    otazka: o.q,
-    turnstile: !!env.TURNSTILE,
-  }, 200, origin);
 }
 
 /* -------------------------------- POST /kniha: nový zápis do knihy ------ */
