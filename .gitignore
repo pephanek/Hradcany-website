@@ -26,3 +26,7 @@ publikuj.log.old
 _to_delete/
 *.tar.gz
 *.zip
+
+# klíče Cloudflare Turnstile – nikdy do repa
+Coudflare - widget keys/
+Cloudflare - widget keys/
