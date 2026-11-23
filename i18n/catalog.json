@@ -27928,17 +27928,6 @@
   "files": [],
   "tag": "alt"
  },
- "b7076386d0": {
-  "cs": "Perforace se do archu proděrovala až po tisku, samostatným pracovním krokem a na jiném stroji. Poloha děrovací mřížky vůči vytištěné kresbě proto nikdy nebyla pevně dána a u hradčanské emise se od ideálu odchyluje neobvykle často. Ukázky níže pocházejí z jedné sbírky — 30 kusů, celkem 31 známek — a pokrývají celou škálu od sotva znatelně nestejných okrajů až po kusy, na nichž zoubkování prochází kresbou a na okraji zůstal proužek sousední známky.",
-  "en": "Perforation was punched into the sheet only after printing, as a separate operation on a different machine. The position of the perforating grid relative to the printed design was therefore never fixed, and on the Hradčany issue it departs from the ideal unusually often. The specimens below come from a single collection — 30 items, 31 stamps in all — and cover the whole range, from barely noticeable unequal margins to copies where the perforation runs through the design and a strip of the neighbouring stamp remains at the edge.",
-  "de": "Die Zähnung wurde erst nach dem Druck in den Bogen gelocht, in einem eigenen Arbeitsschritt und auf einer anderen Maschine. Die Lage des Lochrasters gegenüber der gedruckten Zeichnung war deshalb nie fest vorgegeben und weicht bei der Hradschin-Ausgabe ungewöhnlich oft vom Ideal ab. Die Beispiele unten stammen aus einer einzigen Sammlung — 30 Stücke, insgesamt 31 Marken — und decken die ganze Bandbreite ab, von kaum merklich ungleichen Rändern bis zu Stücken, bei denen die Zähnung durch die Zeichnung läuft und am Rand ein Streifen der Nachbarmarke stehen blieb.",
-  "fr": "La perforation n’était percée dans la feuille qu’après l’impression, lors d’une opération distincte et sur une autre machine. La position de la grille de perforation par rapport au dessin imprimé n’a donc jamais été fixe et, dans l’émission Hradčany, elle s’écarte de l’idéal exceptionnellement souvent. Les exemples ci-dessous proviennent d’une seule collection — 30 pièces, 31 timbres au total — et couvrent toute l’échelle, depuis des marges à peine inégales jusqu’à des pièces où la dentelure traverse le dessin et où une bande du timbre voisin subsiste en marge.",
-  "es": "El dentado se perforaba en el pliego solo después de la impresión, en un paso de trabajo independiente y en otra máquina. La posición de la rejilla de perforación respecto al dibujo impreso nunca estuvo, por tanto, fijada, y en la emisión Hradčany se aparta del ideal con una frecuencia inusual. Los ejemplos siguientes proceden de una misma colección — 30 piezas, 31 sellos en total — y cubren toda la escala, desde márgenes apenas perceptiblemente desiguales hasta ejemplares en los que el dentado atraviesa el dibujo y en el margen queda una tira del sello vecino.",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ],
-  "tag": "span"
- },
  "30e9dbf0cb": {
   "cs": "Posun doleva — levá řada perforace prochází rámečkem kresby, vpravo zůstal široký okraj, na němž je vidět kus sousední známky.",
   "en": "Shift to the left — the left-hand row of perforation runs through the frame of the design, while a wide margin remains on the right with part of the neighbouring stamp visible on it.",
@@ -28490,5 +28479,49 @@
   "en": "The detailed statistical analysis of the 15h is based on the author’s records: <strong>23,772 attributed stamps</strong>, of which <strong>8,936 carry a legibly dated cancellation</strong> (as of 23 November 2026). The source is the “Stats 15h” and “Usage Stats 15h” sheets of the record workbook.",
   "es": "El análisis estadístico detallado del 15h se basa en los registros propios: <strong>23 772 sellos atribuidos</strong>, de los cuales <strong>8 936 con matasellos legiblemente fechado</strong> (a 23 de noviembre de 2026). La fuente son las hojas «Stats 15h» y «Usage Stats 15h» del libro de registros.",
   "fr": "L’analyse statistique détaillée du 15h repose sur les relevés de l’auteur : <strong>23 772 timbres attribués</strong>, dont <strong>8 936 avec une oblitération lisiblement datée</strong> (état au 23 novembre 2026). La source est constituée des feuilles « Stats 15h » et « Usage Stats 15h » du classeur de relevés."
+ },
+ "d2f8694ab6": {
+  "cs": "Posun dolů o celý pás — dolní řada perforace jde těsně pod nápisem ČESKO-SLOVENSKÁ a odřízla hodnotový pás; ten je naopak celý vidět v horním okraji jako spodek sousední známky z vyšší řady. Nepoužitá, zoubkování A.",
+  "de": "Verschiebung um ein ganzes Band nach unten — die untere Zähnungsreihe verläuft knapp unter der Inschrift ČESKO-SLOVENSKÁ und hat das Wertband abgeschnitten; dieses erscheint dafür vollständig im oberen Rand als unterer Teil der Nachbarmarke aus der Reihe darüber. Ungebraucht, Zähnung A.",
+  "en": "Shift downwards by a whole band — the bottom row of perforation runs just below the inscription ČESKO-SLOVENSKÁ and has cut off the value band, which instead appears complete in the top margin as the lower part of the neighbouring stamp from the row above. Unused, perforation A.",
+  "es": "Desplazamiento hacia abajo de una banda entera — la fila inferior del dentado pasa justo debajo de la inscripción ČESKO-SLOVENSKÁ y ha cortado la banda del valor; ésta aparece en cambio completa en el margen superior como parte inferior del sello vecino de la fila de arriba. Nuevo, dentado A.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Décalage vers le bas d’une bande entière — la rangée inférieure de dentelure passe juste sous l’inscription ČESKO-SLOVENSKÁ et a coupé le bandeau de valeur ; celui-ci apparaît en revanche entier dans la marge supérieure, comme partie basse du timbre voisin de la rangée du dessus. Neuf, dentelure A.",
+  "tag": "span"
+ },
+ "745c2b4211": {
+  "cs": "Kus 31 — Posun dolů o celý pás — dolní řada perforace jde těsně pod nápisem ČESKO-SLOVENSKÁ a odřízla hodnotový pás; ten je naopak celý vidět v horním okraji jako spodek sousední známky z vyšší řady. Nepoužitá, zoubkování A.",
+  "de": "Stück 31 — Verschiebung um ein ganzes Band nach unten — die untere Zähnungsreihe verläuft knapp unter der Inschrift ČESKO-SLOVENSKÁ und hat das Wertband abgeschnitten; dieses erscheint dafür vollständig im oberen Rand als unterer Teil der Nachbarmarke aus der Reihe darüber. Ungebraucht, Zähnung A.",
+  "en": "Item 31 — Shift downwards by a whole band — the bottom row of perforation runs just below the inscription ČESKO-SLOVENSKÁ and has cut off the value band, which instead appears complete in the top margin as the lower part of the neighbouring stamp from the row above. Unused, perforation A.",
+  "es": "Pieza 31 — Desplazamiento hacia abajo de una banda entera — la fila inferior del dentado pasa justo debajo de la inscripción ČESKO-SLOVENSKÁ y ha cortado la banda del valor; ésta aparece en cambio completa en el margen superior como parte inferior del sello vecino de la fila de arriba. Nuevo, dentado A.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "fr": "Pièce 31 — Décalage vers le bas d’une bande entière — la rangée inférieure de dentelure passe juste sous l’inscription ČESKO-SLOVENSKÁ et a coupé le bandeau de valeur ; celui-ci apparaît en revanche entier dans la marge supérieure, comme partie basse du timbre voisin de la rangée du dessus. Neuf, dentelure A.",
+  "tag": "cap"
+ },
+ "e64fa7fdd3": {
+  "cs": "Perforace se do archu proděrovala až po tisku, samostatným pracovním krokem a na jiném stroji. Poloha děrovací mřížky vůči vytištěné kresbě proto nikdy nebyla pevně dána a u hradčanské emise se od ideálu odchyluje neobvykle často. Ukázky níže pocházejí z jedné sbírky — 31 kusů, celkem 32 známek — a pokrývají celou škálu od sotva znatelně nestejných okrajů až po kusy, na nichž zoubkování prochází kresbou a na okraji zůstal proužek sousední známky.",
+  "en": "Perforation was punched into the sheet only after printing, as a separate operation on a different machine. The position of the perforating grid relative to the printed design was therefore never fixed, and on the Hradčany issue it departs from the ideal unusually often. The specimens below come from a single collection — 31 items, 32 stamps in all — and cover the whole range, from barely noticeable unequal margins to copies where the perforation runs through the design and a strip of the neighbouring stamp remains at the edge.",
+  "de": "Die Zähnung wurde erst nach dem Druck in den Bogen gelocht, in einem eigenen Arbeitsschritt und auf einer anderen Maschine. Die Lage des Lochrasters gegenüber der gedruckten Zeichnung war deshalb nie fest vorgegeben und weicht bei der Hradschin-Ausgabe ungewöhnlich oft vom Ideal ab. Die Beispiele unten stammen aus einer einzigen Sammlung — 31 Stücke, insgesamt 32 Marken — und decken die ganze Bandbreite ab, von kaum merklich ungleichen Rändern bis zu Stücken, bei denen die Zähnung durch die Zeichnung läuft und am Rand ein Streifen der Nachbarmarke stehen blieb.",
+  "fr": "La perforation n’était percée dans la feuille qu’après l’impression, lors d’une opération distincte et sur une autre machine. La position de la grille de perforation par rapport au dessin imprimé n’a donc jamais été fixe et, dans l’émission Hradčany, elle s’écarte de l’idéal exceptionnellement souvent. Les exemples ci-dessous proviennent d’une seule collection — 31 pièces, 32 timbres au total — et couvrent toute l’échelle, depuis des marges à peine inégales jusqu’à des pièces où la dentelure traverse le dessin et où une bande du timbre voisin subsiste en marge.",
+  "es": "El dentado se perforaba en el pliego solo después de la impresión, en un paso de trabajo independiente y en otra máquina. La posición de la rejilla de perforación respecto al dibujo impreso nunca estuvo, por tanto, fijada, y en la emisión Hradčany se aparta del ideal con una frecuencia inusual. Los ejemplos siguientes proceden de una misma colección — 31 piezas, 32 sellos en total — y cubren toda la escala, desde márgenes apenas perceptiblemente desiguales hasta ejemplares en los que el dentado atraviesa el dibujo y en el margen queda una tira del sello vecino.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "c308792411": {
+  "cs": "<strong>15h</strong> — Do galerie <a href=\"15h/vyrobni-vady.html#posun\">posunutého zoubkování</a> přibyl kus 31: nepoužitá známka se zoubkováním A posunutým o celý hodnotový pás, takže v horním okraji je spodek sousední známky. Ve vrstvě desky VII na <a href=\"15h/mapa.html\">mapě razítek</a> je nově Lázně Bohdaneč (nezoubkovaná na pohlednici do Prahy); dvojí záznam ústřižku z Jindřichova ve Slezsku (19. IX. 1919) z aukčních archivů byl sloučen, kus je nyní ve sbírce.",
+  "en": "<strong>15h</strong> — Item 31 joins the <a href=\"15h/vyrobni-vady.html#posun\">shifted perforation</a> gallery: an unused stamp with perforation A shifted by a whole value band, so the top margin carries the lower part of the neighbouring stamp. The plate VII layer of the <a href=\"15h/mapa.html\">cancellation map</a> gains Lázně Bohdaneč (imperforate, on a postcard to Prague); the double record of the Jindřichov ve Slezsku cutting (19 Sep 1919) from the auction archives has been merged, the piece is now in the collection.",
+  "de": "<strong>15h</strong> — In die Galerie der <a href=\"15h/vyrobni-vady.html#posun\">verschobenen Zähnung</a> kam Stück 31: eine ungebrauchte Marke mit um ein ganzes Wertband verschobener Zähnung A, sodass der obere Rand den unteren Teil der Nachbarmarke trägt. Die Ebene der Platte VII auf der <a href=\"15h/mapa.html\">Stempelkarte</a> erhält neu Lázně Bohdaneč (ungezähnt, auf einer Postkarte nach Prag); der doppelte Eintrag des Briefstücks aus Jindřichov ve Slezsku (19. IX. 1919) aus den Auktionsarchiven wurde zusammengeführt, das Stück ist nun in der Sammlung.",
+  "fr": "<strong>15h</strong> — La galerie de la <a href=\"15h/vyrobni-vady.html#posun\">dentelure décalée</a> s’enrichit de la pièce 31 : un timbre neuf à dentelure A décalée d’un bandeau de valeur entier, la marge supérieure portant ainsi le bas du timbre voisin. La couche de la planche VII de la <a href=\"15h/mapa.html\">carte des oblitérations</a> gagne Lázně Bohdaneč (non dentelé, sur carte postale pour Prague) ; la double entrée du fragment de Jindřichov ve Slezsku (19 IX 1919) issue des archives de ventes a été fusionnée, la pièce est désormais dans la collection.",
+  "es": "<strong>15h</strong> — A la galería del <a href=\"15h/vyrobni-vady.html#posun\">dentado desplazado</a> se suma la pieza 31: un sello nuevo con dentado A desplazado una banda de valor entera, de modo que el margen superior lleva la parte inferior del sello vecino. La capa de la plancha VII del <a href=\"15h/mapa.html\">mapa de matasellos</a> incorpora Lázně Bohdaneč (sin dentar, en tarjeta postal a Praga); el doble registro del fragmento de Jindřichov ve Slezsku (19 IX 1919) procedente de los archivos de subastas se ha fusionado, la pieza está ya en la colección.",
+  "files": [
+   "novinky.html"
+  ],
+  "tag": "span"
  }
 }
