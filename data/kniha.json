@@ -1,13 +1,21 @@
 {
-  "verze": 1,
-  "zaznamy": [
-    {
-      "jmeno": "josef chudoba",
-      "mesto": "Liberec",
-      "text": "Moc pěkně udělané stránky, studnice nových informací. Zvláště pěkně udělaná 15 hal hodnota. Gratuluju",
-      "ts": "2026-11-03T09:09:20.122Z",
-      "lang": "cs",
-      "id": "zmw0guwfi"
-    }
-  ]
+ "verze": 1,
+ "zaznamy": [
+  {
+   "jmeno": "Josef Halada",
+   "mesto": "Most",
+   "text": "Úžasné stránky.Základ ze studnice znalostí.Po změně designu ještě o stupeň lepší.Děkuji za ně.",
+   "ts": "2026-11-24T17:12:33.534Z",
+   "lang": "cs",
+   "id": "zmwuyd7w5"
+  },
+  {
+   "jmeno": "josef chudoba",
+   "mesto": "Liberec",
+   "text": "Moc pěkně udělané stránky, studnice nových informací. Zvláště pěkně udělaná 15 hal hodnota. Gratuluju",
+   "ts": "2026-11-03T09:09:20.122Z",
+   "lang": "cs",
+   "id": "zmw0guwfi"
+  }
+ ]
 }
