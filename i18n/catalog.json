@@ -28502,17 +28502,6 @@
   "fr": "Pièce 31 — Décalage vers le bas d’une bande entière — la rangée inférieure de dentelure passe juste sous l’inscription ČESKO-SLOVENSKÁ et a coupé le bandeau de valeur ; celui-ci apparaît en revanche entier dans la marge supérieure, comme partie basse du timbre voisin de la rangée du dessus. Neuf, dentelure A.",
   "tag": "cap"
  },
- "e64fa7fdd3": {
-  "cs": "Perforace se do archu proděrovala až po tisku, samostatným pracovním krokem a na jiném stroji. Poloha děrovací mřížky vůči vytištěné kresbě proto nikdy nebyla pevně dána a u hradčanské emise se od ideálu odchyluje neobvykle často. Ukázky níže pocházejí z jedné sbírky — 31 kusů, celkem 32 známek — a pokrývají celou škálu od sotva znatelně nestejných okrajů až po kusy, na nichž zoubkování prochází kresbou a na okraji zůstal proužek sousední známky.",
-  "en": "Perforation was punched into the sheet only after printing, as a separate operation on a different machine. The position of the perforating grid relative to the printed design was therefore never fixed, and on the Hradčany issue it departs from the ideal unusually often. The specimens below come from a single collection — 31 items, 32 stamps in all — and cover the whole range, from barely noticeable unequal margins to copies where the perforation runs through the design and a strip of the neighbouring stamp remains at the edge.",
-  "de": "Die Zähnung wurde erst nach dem Druck in den Bogen gelocht, in einem eigenen Arbeitsschritt und auf einer anderen Maschine. Die Lage des Lochrasters gegenüber der gedruckten Zeichnung war deshalb nie fest vorgegeben und weicht bei der Hradschin-Ausgabe ungewöhnlich oft vom Ideal ab. Die Beispiele unten stammen aus einer einzigen Sammlung — 31 Stücke, insgesamt 32 Marken — und decken die ganze Bandbreite ab, von kaum merklich ungleichen Rändern bis zu Stücken, bei denen die Zähnung durch die Zeichnung läuft und am Rand ein Streifen der Nachbarmarke stehen blieb.",
-  "fr": "La perforation n’était percée dans la feuille qu’après l’impression, lors d’une opération distincte et sur une autre machine. La position de la grille de perforation par rapport au dessin imprimé n’a donc jamais été fixe et, dans l’émission Hradčany, elle s’écarte de l’idéal exceptionnellement souvent. Les exemples ci-dessous proviennent d’une seule collection — 31 pièces, 32 timbres au total — et couvrent toute l’échelle, depuis des marges à peine inégales jusqu’à des pièces où la dentelure traverse le dessin et où une bande du timbre voisin subsiste en marge.",
-  "es": "El dentado se perforaba en el pliego solo después de la impresión, en un paso de trabajo independiente y en otra máquina. La posición de la rejilla de perforación respecto al dibujo impreso nunca estuvo, por tanto, fijada, y en la emisión Hradčany se aparta del ideal con una frecuencia inusual. Los ejemplos siguientes proceden de una misma colección — 31 piezas, 32 sellos en total — y cubren toda la escala, desde márgenes apenas perceptiblemente desiguales hasta ejemplares en los que el dentado atraviesa el dibujo y en el margen queda una tira del sello vecino.",
-  "files": [
-   "15h/vyrobni-vady.html"
-  ],
-  "tag": "span"
- },
  "c308792411": {
   "cs": "<strong>15h</strong> — Do galerie <a href=\"15h/vyrobni-vady.html#posun\">posunutého zoubkování</a> přibyl kus 31: nepoužitá známka se zoubkováním A posunutým o celý hodnotový pás, takže v horním okraji je spodek sousední známky. Ve vrstvě desky VII na <a href=\"15h/mapa.html\">mapě razítek</a> je nově Lázně Bohdaneč (nezoubkovaná na pohlednici do Prahy); dvojí záznam ústřižku z Jindřichova ve Slezsku (19. IX. 1919) z aukčních archivů byl sloučen, kus je nyní ve sbírce.",
   "en": "<strong>15h</strong> — Item 31 joins the <a href=\"15h/vyrobni-vady.html#posun\">shifted perforation</a> gallery: an unused stamp with perforation A shifted by a whole value band, so the top margin carries the lower part of the neighbouring stamp. The plate VII layer of the <a href=\"15h/mapa.html\">cancellation map</a> gains Lázně Bohdaneč (imperforate, on a postcard to Prague); the double record of the Jindřichov ve Slezsku cutting (19 Sep 1919) from the auction archives has been merged, the piece is now in the collection.",
@@ -28792,6 +28781,55 @@
   "de": "Stück 18 — Zähnung A (13¾ : 13½), Feld 7/II. Zugelaufener Abdruck — die Schraffur des Himmels und die Struktur des Hangs sind zu Flächen verschmolzen, die Girlanden in den oberen Ecken und die Spiralen in den Seitenstreifen sind zu Flecken zusammengelaufen.",
   "fr": "Pièce 18 — Dentelure A (13¾ : 13½), case 7/II. Impression empâtée — les hachures du ciel et la texture du versant se sont fondues en aplats, les guirlandes des coins supérieurs et les spirales des bandes latérales se sont confondues en taches.",
   "es": "Ejemplar 18 — Dentado A (13¾ : 13½), campo 7/II. Impresión empastada — el rayado del cielo y la textura de la ladera se han fundido en superficies planas, las guirnaldas de las esquinas superiores y las espirales de las bandas laterales se han confundido en manchas.",
+  "files": [],
+  "tag": "cap"
+ },
+ "43dc5256d4": {
+  "cs": "Podrobný statistický rozbor hodnoty 15h vychází z vlastní evidence: <strong>24 224 určených známek</strong>, z toho <strong>9 143 s čitelně datovaným razítkem</strong> (stav 28. 11. 2026). Zdrojem jsou listy „Stats 15h“ a „Usage Stats 15h“ evidenčního sešitu.",
+  "de": "Die ausführliche statistische Auswertung der 15h beruht auf der eigenen Erfassung: <strong>24 224 bestimmte Marken</strong>, davon <strong>9 143 mit lesbar datiertem Stempel</strong> (Stand 28. 11. 2026). Quelle sind die Blätter „Stats 15h“ und „Usage Stats 15h“ der Erfassungsdatei.",
+  "en": "The detailed statistical analysis of the 15h is based on the author’s records: <strong>24,224 attributed stamps</strong>, of which <strong>9,143 carry a legibly dated cancellation</strong> (as of 28 November 2026). The source is the “Stats 15h” and “Usage Stats 15h” sheets of the record workbook.",
+  "es": "El análisis estadístico detallado del 15h se basa en los registros propios: <strong>24 224 sellos atribuidos</strong>, de los cuales <strong>9 143 con matasellos legiblemente fechado</strong> (a 28 de noviembre de 2026). La fuente son las hojas «Stats 15h» y «Usage Stats 15h» del libro de registros.",
+  "fr": "L’analyse statistique détaillée du 15h repose sur les relevés de l’auteur : <strong>24 224 timbres attribués</strong>, dont <strong>9 143 avec une oblitération lisiblement datée</strong> (état au 28 novembre 2026). La source est constituée des feuilles « Stats 15h » et « Usage Stats 15h » du classeur de relevés."
+ },
+ "7492dc99cf": {
+  "cs": "Z 9 143 čitelně datovaných razítek; u každé skupiny je uvedeno nejstarší spolehlivě přečtené datum. Na deskách I–II se všechna raná zoubkování objevují během několika týdnů léta 1919 — řádkové D koncem června, hřebenové A a řádkové E ve druhé polovině července, C v polovině srpna a F v září; B přichází na desky I–II až na přelomu roku a od února 1920 nastupují desky 3–7.",
+  "de": "Von 9.143 lesbar datierten Stempeln; für jede Gruppe ist das früheste sicher gelesene Datum angegeben. Auf den Platten I–II erscheinen alle frühen Zähnungen innerhalb weniger Wochen im Sommer 1919 — die Linienzähnung D Ende Juni, die Kammzähnung A und die Linienzähnung E in der zweiten Julihälfte, C Mitte August und F im September; B kommt auf die Platten I–II erst zum Jahreswechsel, und ab Februar 1920 übernehmen die Platten 3–7.",
+  "en": "From 9,143 legibly dated cancellations; for each group the earliest reliably read date is given. On plates I–II all the early perforations appear within a few weeks of the summer of 1919 — line perforation D at the end of June, comb perforation A and line perforation E in the second half of July, C in mid-August and F in September; B reaches plates I–II only at the turn of the year, and from February 1920 plates 3–7 take over.",
+  "es": "De 9.143 matasellos legiblemente fechados; para cada grupo se indica la fecha más antigua leída con seguridad. En las planchas I–II todos los dentados tempranos aparecen en unas pocas semanas del verano de 1919 — el dentado lineal D a finales de junio, el dentado de peine A y el lineal E en la segunda mitad de julio, C a mediados de agosto y F en septiembre; B llega a las planchas I–II solo en el cambio de año, y desde febrero de 1920 toman el relevo las planchas 3–7.",
+  "files": [
+   "15h/zoubkovani.html"
+  ],
+  "fr": "Sur 9 143 oblitérations lisiblement datées ; pour chaque groupe est indiquée la date la plus ancienne lue avec certitude. Sur les planches I–II, toutes les dentelures précoces apparaissent en quelques semaines de l’été 1919 — la dentelure en ligne D fin juin, la dentelure en peigne A et la dentelure en ligne E dans la seconde moitié de juillet, C mi-août et F en septembre ; B n’atteint les planches I–II qu’au tournant de l’année, et à partir de février 1920 les planches 3–7 prennent le relais.",
+  "tag": "span"
+ },
+ "a2d9789526": {
+  "cs": "Perforace se do archu proděrovala až po tisku, samostatným pracovním krokem a na jiném stroji. Poloha děrovací mřížky vůči vytištěné kresbě proto nikdy nebyla pevně dána a u hradčanské emise se od ideálu odchyluje neobvykle často. Ukázky níže pocházejí z jedné sbírky — 32 kusů, celkem 33 známek — a pokrývají celou škálu od sotva znatelně nestejných okrajů až po kusy, na nichž zoubkování prochází kresbou a na okraji zůstal proužek sousední známky.",
+  "en": "Perforation was punched into the sheet only after printing, as a separate operation on a different machine. The position of the perforating grid relative to the printed design was therefore never fixed, and on the Hradčany issue it departs from the ideal unusually often. The specimens below come from a single collection — 32 items, 33 stamps in all — and cover the whole range, from barely noticeable unequal margins to copies where the perforation runs through the design and a strip of the neighbouring stamp remains at the edge.",
+  "de": "Die Zähnung wurde erst nach dem Druck in den Bogen gelocht, in einem eigenen Arbeitsschritt und auf einer anderen Maschine. Die Lage des Lochrasters gegenüber der gedruckten Zeichnung war deshalb nie fest vorgegeben und weicht bei der Hradschin-Ausgabe ungewöhnlich oft vom Ideal ab. Die Beispiele unten stammen aus einer einzigen Sammlung — 32 Stücke, insgesamt 33 Marken — und decken die ganze Bandbreite ab, von kaum merklich ungleichen Rändern bis zu Stücken, bei denen die Zähnung durch die Zeichnung läuft und am Rand ein Streifen der Nachbarmarke stehen blieb.",
+  "fr": "La perforation n’était percée dans la feuille qu’après l’impression, lors d’une opération distincte et sur une autre machine. La position de la grille de perforation par rapport au dessin imprimé n’a donc jamais été fixe et, dans l’émission Hradčany, elle s’écarte de l’idéal exceptionnellement souvent. Les exemples ci-dessous proviennent d’une seule collection — 32 pièces, 33 timbres au total — et couvrent toute l’échelle, depuis des marges à peine inégales jusqu’à des pièces où la dentelure traverse le dessin et où une bande du timbre voisin subsiste en marge.",
+  "es": "El dentado se perforaba en el pliego solo después de la impresión, en un paso de trabajo independiente y en otra máquina. La posición de la rejilla de perforación respecto al dibujo impreso nunca estuvo, por tanto, fijada, y en la emisión Hradčany se aparta del ideal con una frecuencia inusual. Los ejemplos siguientes proceden de una misma colección — 32 piezas, 33 sellos en total — y cubren toda la escala, desde márgenes apenas perceptiblemente desiguales hasta ejemplares en los que el dentado atraviesa el dibujo y en el margen queda una tira del sello vecino.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "07de6252d7": {
+  "cs": "Posun vlevo nahoru — levá i horní řada perforace běží těsně po rámu kresby, zatímco vpravo a dole zůstal široký okraj. Zoubkování A, pole 85/I.",
+  "en": "Shift to the upper left — the left and top rows of perforation run right along the frame of the design, while a wide margin remains on the right and at the bottom. Perforation A, field 85/I.",
+  "de": "Verschiebung nach links oben — die linke und die obere Zähnungsreihe laufen dicht am Rahmen der Zeichnung, während rechts und unten ein breiter Rand geblieben ist. Zähnung A, Feld 85/I.",
+  "fr": "Décalage vers le haut à gauche — les rangées de dentelure gauche et supérieure longent le cadre du dessin, tandis qu’une large marge subsiste à droite et en bas. Dentelure A, case 85/I.",
+  "es": "Desplazamiento hacia arriba a la izquierda — las filas de dentado izquierda y superior corren pegadas al marco del dibujo, mientras que a la derecha y abajo queda un margen ancho. Dentado A, campo 85/I.",
+  "files": [
+   "15h/vyrobni-vady.html"
+  ],
+  "tag": "span"
+ },
+ "0bde7f578d": {
+  "cs": "Kus 32 — Posun vlevo nahoru — levá i horní řada perforace běží těsně po rámu kresby, zatímco vpravo a dole zůstal široký okraj. Zoubkování A, pole 85/I.",
+  "en": "Item 32 — Shift to the upper left — the left and top rows of perforation run right along the frame of the design, while a wide margin remains on the right and at the bottom. Perforation A, field 85/I.",
+  "de": "Stück 32 — Verschiebung nach links oben — die linke und die obere Zähnungsreihe laufen dicht am Rahmen der Zeichnung, während rechts und unten ein breiter Rand geblieben ist. Zähnung A, Feld 85/I.",
+  "fr": "Pièce 32 — Décalage vers le haut à gauche — les rangées de dentelure gauche et supérieure longent le cadre du dessin, tandis qu’une large marge subsiste à droite et en bas. Dentelure A, case 85/I.",
+  "es": "Ejemplar 32 — Desplazamiento hacia arriba a la izquierda — las filas de dentado izquierda y superior corren pegadas al marco del dibujo, mientras que a la derecha y abajo queda un margen ancho. Dentado A, campo 85/I.",
   "files": [],
   "tag": "cap"
  }
